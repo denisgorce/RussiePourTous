@@ -4,12 +4,20 @@
     "lesson_id": 2,
     "module_icon": "🛢️",
     "lesson_icon": "🏭",
-    "estimated_minutes": 12,
+    "estimated_minutes": 13,
     "difficulty": "intermédiaire",
     "sources": [
       {
         "label": "Encyclopædia Universalis — Russie",
-        "url": "https://www.universalis.fr/"
+        "url": "https://www.universalis.fr/encyclopedie/russie/"
+      },
+      {
+        "label": "France Diplomatie — Russie",
+        "url": "https://www.diplomatie.gouv.fr/fr/dossiers-pays/russie/"
+      },
+      {
+        "label": "Le Monde — Économie russe",
+        "url": "https://www.lemonde.fr/russie/"
       }
     ]
   },
@@ -17,139 +25,139 @@
     "module_title": "L'Économie Russe",
     "lesson_title": "L'Industrie et le Complexe militaro-industriel",
     "lesson_subtitle": "Aérospatiale, armement, nucléaire",
-    "intro": "Cette leçon explore l'industrie et le complexe militaro-industriel dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "Derrière le cliché du «pays du pétrole», la Russie est aussi une puissance industrielle et militaire d'une sophistication souvent méconnue en Occident. Ses industries de défense, son programme spatial, ses capacités nucléaires civiles et militaires placent la Russie dans un club très restreint d'États technologiquement avancés — malgré des décennies de sous-investissement relatif dans l'économie civile.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de l'industrie et le complexe militaro-industriel",
-        "body": "La thématique de l'industrie et le complexe militaro-industriel s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "L'héritage industriel soviétique",
+        "body": "L'Union soviétique a construit l'une des économies industrielles les plus puissantes du XXe siècle — en se concentrant massivement sur l'industrie lourde et la défense, au détriment des biens de consommation. Les «plans quinquennaux» staliniens ont transformé une Russie agricole en une superpuissance industrielle en moins de deux décennies, au prix d'un coût humain considérable.\n\nCet héritage industriel soviétique comprend des réalisations remarquables : le premier satellite artificiel (Spoutnik, 1957), le premier homme dans l'espace (Gagarine, 1961), les premières centrales nucléaires civiles, les premiers véhicules amphibies tout-terrain, les plus grands avions cargo du monde (Antonov An-225). Ces succès ont forgé une fierté industrielle et scientifique profondément ancrée dans l'identité russe.\n\nDepuis 1991, l'industrie civile soviétique s'est largement effondrée — les usines de tracteurs, de téléviseurs, d'appareils ménagers n'ont pas survécu à la concurrence internationale. Mais le complexe militaro-industriel, lui, a résisté et s'est adapté."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "La géographie industrielle russe",
+        "body": "L'industrie russe est concentrée dans des zones géographiques précises, héritées de la planification soviétique. L'**Oural industriel** (Iekaterinbourg, Tcheliabinsk, Magnitogorsk) reste le principal centre métallurgique — acier, cuivre, titane, aluminium. Ces villes grises et ouvrières, souvent méconnues des voyageurs, sont l'ossature économique de la Russie profonde.\n\n**Moscou et sa région** concentrent les industries de haute technologie, de défense et d'aérospatiale. La ville de **Joukovski** (banlieue de Moscou), siège du TsAGI (Institut central d'aérohydrodynamique), est le centre de l'industrie aéronautique russe — où sont développés les avions de combat Soukhoï et MiG, les hélicoptères Mil et Kamov.\n\n**Saint-Pétersbourg** est le centre de la construction navale militaire — sous-marins nucléaires, brise-glaces atomiques, destroyers. La ville abrite le chantier naval Admiralty Shipyard et Sevmash (à Severodvinsk, en Arctique), qui construit les sous-marins nucléaires de la flotte du Nord."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de l'industrie et le complexe militaro-industriel est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "Rostec — l'État armurierr",
+        "body": "**Rostec** (Ростех — Rostekh) est le conglomérat d'État qui regroupe la majorité des industries de défense russes. Fondé en 2007 par Sergueï Tchémézov (un proche de Poutine depuis leurs années communes à Dresde au KGB), Rostec emploie plus de **500 000 personnes** dans 800 entreprises.\n\nSon portefeuille couvre des domaines extraordinairement variés : les hélicoptères (Vertolety Rossii), les armes légères (Kalachnikov — le célèbre AK-47 est fabriqué ici), l'électronique de défense (Ruselectronics), les moteurs d'avion (UEC), les radars (Almaz-Antey — concepteur du système S-400). Rostec exporte dans plus de 100 pays.\n\nRostec illustre la fusion entre l'État, la politique étrangère et l'industrie dans le système russe. La vente d'armements est à la fois une source de revenus et un instrument diplomatique — la Russie est le deuxième exportateur mondial d'armes après les États-Unis."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de l'industrie et le complexe militaro-industriel, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "L'industrie nucléaire — Rosatom, atout mondial",
+        "body": "Si la Russie occupe une position industrielle unique dans le monde, c'est peut-être le domaine nucléaire qui est le plus remarquable. **Rosatom** (Росатом) est l'agence d'État qui contrôle l'ensemble du cycle nucléaire russe — de l'extraction de l'uranium à la gestion des déchets, en passant par la construction de réacteurs.\n\nRosatom construit actuellement des réacteurs nucléaires dans **une vingtaine de pays** — Inde, Chine, Égypte, Turquie, Finlande (projet suspendu), Bangladesh, Iran, Biélorussie. Il détient environ **70% du marché mondial des enrichissements d'uranium** — ce qui signifie que même des pays en conflit avec la Russie dépendent de son industrie nucléaire.\n\nLe réacteur VVER-1200 russe est considéré comme l'un des plus sûrs au monde. La Russie est aussi le seul pays au monde à exploiter des **centrales nucléaires flottantes** (la Akademik Lomonosov en Arctique) et à avoir des projets avancés de réacteurs de 4e génération à sel fondu. Cette avance nucléaire est une des rares industries civiles russes compétitives à l'échelle mondiale."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre l'industrie et le complexe militaro-industriel. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "La culture de l'ingénieur russe",
+        "body": "La Russie a une tradition d'excellence scientifique et technique remarquable. Les grandes universités techniques — le MIPT (Institut de physique et technologie de Moscou, surnommé le «phystech»), le MEPhI (Université nucléaire), Bauman MSTU (université technique de Moscou) — forment des ingénieurs d'un niveau parmi les meilleurs au monde.\n\nCette culture de l'ingénieur est profondément ancrée dans l'identité intellectuelle russe. Les **olympiades de mathématiques** et de physique russes (depuis l'époque soviétique) sont des institutions nationales — les champions sont des célébrités dans leurs villes. La Russie continue de produire des mathématiciens et physiciens de rang mondial : la Médaille Fields (l'équivalent mathématique du Nobel) a été attribuée à plusieurs Russes, dont Grigori Perelman (qui l'a refusée).\n\nCette excellence technique coexiste avec une faiblesse en **design industriel et en expérience utilisateur** — domaines où l'URSS n'a jamais excellé. Le célèbre exemple : les fusées russes Soyouz, fiables et peu chères mais d'une ergonomie intérieure spartiate, comparées aux capsules américaines. Cette dualité «excellence du fond, négligence de la forme» caractérise beaucoup de productions industrielles russes."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à l'industrie et le complexe militaro-industriel à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Manger à l'ombre des usines — la cuisine industrielle russe",
+        "body": "Les grandes villes industrielles de l'Oural et de Sibérie ont développé une cuisine populaire robuste et nourrissante, adaptée aux travailleurs faisant des journées épuisantes dans le froid. La **stolovaya** (столовая — cantine soviétique) reste l'institution gastronomique centrale des milieux industriels.\n\nLa stolovaya propose des repas à prix très bas (150-300 roubles, soit 1,5-3€) : un plateau avec soupe, plat principal (boulettes de viande *kotlety* + purée de pommes de terre, ou *goulach* + kasha), salade, compote. Ce format, directement hérité des cantines soviétiques, nourrit encore des millions de travailleurs russes chaque midi.\n\nLes villes mono-industrielles (**monogoroda**, моногорода) — villes construites autour d'une seule usine soviétique — ont leurs traditions culinaires propres. Magnitogorsk (acier), Norilsk (nickel), Severodvinsk (sous-marins) ont des cultures locales forgées par l'isolement, les conditions extrêmes et la solidarité ouvrière. Dans ces villes, la *bania* ouvrière collective est encore plus centrale que dans les grandes métropoles."
       }
     ],
     "conseil_ami": {
-      "title": "Le Conseil du Voyageur",
+      "title": "Le Conseil du Voyageur 🤝",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder l'industrie et le complexe militaro-industriel avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Si vous rencontrez des ingénieurs ou scientifiques russes**, montrez votre respect pour leur tradition d'excellence. La fierté technique est très forte — mentionner Gagarine, Sputnik, les mathématiques russes ou Perelman ouvrira immédiatement la conversation.\n\n**Sur les armes et l'armement** : sujet délicat depuis 2022. Les ingénieurs de défense travaillent sur des projets qui ont des implications géopolitiques directes. Évitez les questions trop directes sur leurs activités professionnelles spécifiques.\n\n**Un fait surprenant à partager** : Rosatom construit des réacteurs nucléaires en Finlande, en Turquie, en Inde et en Egypte — y compris pour des pays membres de l'OTAN (la Turquie). La géopolitique du nucléaire civil est bien plus complexe que les alliances politiques."
     },
     "glossary": [
       {
-        "term": "L'Industrie et le Complexe militaro-industriel",
-        "definition": "Concept central de cette leçon — l'industrie et le complexe militaro-industriel dans le contexte de la Russie contemporaine."
+        "term": "Rostec (Ростех)",
+        "definition": "Conglomérat d'État russe regroupant 800 entreprises de défense, 500 000 employés. Fondé par Tchémézov, proche de Poutine."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Rosatom (Росатом)",
+        "definition": "Agence d'État nucléaire russe. Contrôle 70% du marché mondial d'enrichissement d'uranium. Construit des réacteurs dans 20+ pays."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Complexe militaro-industriel (ВПК)",
+        "definition": "Ensemble des industries liées à la production d'armements et de matériel militaire. Héritage soviétique maintenu et développé."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Soukhoï / MiG (Су/МиГ)",
+        "definition": "Constructeurs d'avions de combat russes. Le Soukhoï Su-35 et le Su-57 (5e génération) sont parmi les avions de chasse les plus avancés au monde."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "S-400 (С-400)",
+        "definition": "Système de défense anti-aérienne russe, considéré comme le plus avancé au monde. Exporté vers la Turquie, la Chine, l'Inde — source de tensions géopolitiques."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "MIPT / Phystech (МФТИ)",
+        "definition": "Institut de Physique et Technologie de Moscou — l'une des meilleures universités scientifiques du monde, surnommée 'phystech'."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Stolovaya (Столовая)",
+        "definition": "Cantine soviétique — institution gastronomique des milieux industriels russes. Repas complet pour 150-300 roubles."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Monogoroda (Моногорода)",
+        "definition": "Villes mono-industrielles — construites autour d'une seule usine soviétique. Très vulnérables aux crises économiques."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'L'Industrie et le Complexe militaro-industriel'. Quel est le salaire médian en Russie ?",
+        "question": "La Russie est le combien ième exportateur mondial d'armements ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
-        ],
-        "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
-      },
-      {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
-        "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Quatrième, derrière USA, France, Chine",
+          "Deuxième, après les États-Unis",
+          "Premier, devant les États-Unis",
+          "Cinquième, derrière l'Allemagne"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
+        "explanation": "La Russie est le deuxième exportateur mondial d'armements, après les États-Unis. Elle vend à plus de 60 pays — notamment l'Inde, la Chine, l'Algérie et de nombreux pays africains."
       },
       {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
+        "question": "Quel est l'atout unique de Rosatom sur le marché nucléaire mondial ?",
         "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
+          "Sa technologie la moins chère",
+          "Le contrôle d'environ 70% du marché mondial d'enrichissement d'uranium",
+          "L'exportation de déchets nucléaires",
+          "La fabrication des seules bombes nucléaires du monde"
         ],
         "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
+        "explanation": "Rosatom contrôle environ 70% du marché mondial d'enrichissement d'uranium — ce qui signifie que même des pays en conflit avec la Russie dépendent de son industrie nucléaire."
       },
       {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
+        "question": "Comment s'appelle le conglomérat d'État russe des industries de défense ?",
         "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
+          "Rosneft",
+          "Rostec",
+          "Rosatom",
+          "Roscosmos"
         ],
         "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "Rostec (Ростех) est le conglomérat d'État regroupant ~800 entreprises de défense et 500 000 employés, fondé en 2007. À ne pas confondre avec Rosatom (nucléaire) ou Roscosmos (espace)."
+      },
+      {
+        "question": "Quelle faiblesse structurelle affecte l'industrie russe malgré son excellence technique ?",
+        "options": [
+          "L'absence de main-d'œuvre qualifiée",
+          "La faiblesse en design industriel et expérience utilisateur — excellente ingénierie mais forme négligée",
+          "La trop grande dépendance aux importations de matières premières",
+          "L'impossibilité d'exporter à l'international"
+        ],
+        "answer": 1,
+        "explanation": "L'industrie russe excelle dans l'ingénierie de fond (fusées fiables, armes précises, réacteurs sûrs) mais néglige le design et l'expérience utilisateur — héritage d'une culture soviétique qui valorisait la performance sur l'esthétique."
+      },
+      {
+        "question": "Quel mathématicien russe a refusé la Médaille Fields (équivalent mathématique du Nobel) ?",
+        "options": [
+          "Mikhail Lomonosov",
+          "Grigori Perelman",
+          "Andrei Kolmogorov",
+          "Vladimir Arnold"
+        ],
+        "answer": 1,
+        "explanation": "Grigori Perelman a refusé la Médaille Fields en 2006 — et plus tard le Prix du Millénaire d'un million de dollars — pour avoir prouvé la conjecture de Poincaré. Son refus, motivé par des principes éthiques, est devenu légendaire."
       }
     ]
   },
@@ -157,139 +165,139 @@
     "module_title": "Российская экономика",
     "lesson_title": "Промышленность и военно-промышленный комплекс",
     "lesson_subtitle": "Аэрокосмос, вооружение, ядерная отрасль",
-    "intro": "Этот урок посвящён теме «Промышленность и военно-промышленный комплекс» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "За клише «нефтяной страны» Россия — ещё и промышленная и военная держава, чья изощрённость нередко недооценивается на Западе. Оборонные отрасли, космическая программа, гражданские и военные ядерные возможности ставят Россию в очень узкий клуб технологически продвинутых государств — несмотря на десятилетия относительного недоинвестирования в гражданскую экономику.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Промышленность и военно-промышленный комплекс»",
-        "body": "Тема «Промышленность и военно-промышленный комплекс» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Советское индустриальное наследие",
+        "body": "Советский Союз построил одну из мощнейших промышленных экономик XX века — сосредоточившись на тяжёлой промышленности и обороне в ущерб потребительским товарам. Сталинские пятилетки превратили аграрную Россию в промышленную сверхдержаву менее чем за два десятилетия, ценой огромных человеческих потерь.\n\nЭто советское наследие включает замечательные достижения: первый искусственный спутник (Спутник, 1957), первый человек в космосе (Гагарин, 1961), первые гражданские атомные электростанции, первые амфибийные вездеходы, крупнейшие в мире грузовые самолёты (Ан-225). Эти успехи выковали глубоко укоренённую промышленную и научную гордость в российской идентичности.\n\nС 1991 года советская гражданская промышленность во многом рухнула — заводы тракторов, телевизоров, бытовой техники не выдержали международной конкуренции. Но военно-промышленный комплекс устоял и приспособился."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Промышленная география России",
+        "body": "Российская промышленность сосредоточена в конкретных географических зонах, унаследованных от советского планирования. **Промышленный Урал** (Екатеринбург, Челябинск, Магнитогорск) остаётся главным металлургическим центром — сталь, медь, титан, алюминий.\n\n**Москва и область** концентрируют высокотехнологичные, оборонные и аэрокосмические отрасли. Жуковский (Подмосковье) — центр российской авиастроительной промышленности, где разрабатываются истребители Су и МиГ, вертолёты Миль и Камов.\n\n**Санкт-Петербург** — центр военного судостроения: атомные подводные лодки, атомные ледоколы, эсминцы. Здесь расположены «Адмиралтейские верфи» и «Севмаш» в Северодвинске, строящий подводные лодки Северного флота."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Промышленность и военно-промышленный комплекс» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Ростех — государственный оружейник",
+        "body": "**Ростех** — государственный конгломерат, объединяющий большинство российских оборонных отраслей. Основан в 2007 году Сергеем Чемезовым (соратником Путина со времён совместной работы в Дрездене в КГБ), Ростех насчитывает более **500 000 сотрудников** в 800 предприятиях.\n\nЕго портфель охватывает поразительно разнообразные области: вертолёты («Вертолёты России»), стрелковое оружие («Калашников» — знаменитый АК-47), оборонная электроника («Росэлектроника»), авиационные двигатели (ОДК), радары («Алмаз-Антей» — создатель С-400). Ростех экспортирует в более чем 100 стран.\n\nРостех иллюстрирует слияние государства, внешней политики и промышленности в российской системе. Торговля оружием одновременно источник доходов и дипломатический инструмент — Россия занимает второе место в мире по экспорту вооружений после США."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Промышленность и военно-промышленный комплекс» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Атомная промышленность — Росатом, мировой козырь",
+        "body": "Если Россия и занимает уникальную промышленную позицию в мире, то именно в ядерной сфере это наиболее примечательно. **Росатом** — госкорпорация, контролирующая весь российский ядерный цикл: от добычи урана до обращения с отходами и строительства реакторов.\n\nРосатом строит ядерные реакторы примерно в **20 странах** — Индии, Китае, Египте, Турции, Финляндии (проект приостановлен), Бангладеш, Иране, Белоруссии. Ему принадлежит около **70% мирового рынка обогащения урана** — это значит, что даже страны в конфликте с Россией зависят от её ядерной промышленности.\n\nРоссийский реактор ВВЭР-1200 считается одним из самых безопасных в мире. Россия — единственная в мире страна, эксплуатирующая **плавучие атомные электростанции** («Академик Ломоносов» в Арктике) и имеющая продвинутые проекты реакторов 4-го поколения. Это ядерное лидерство — одна из немногих гражданских отраслей России, конкурентоспособных в мировом масштабе."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Промышленность и военно-промышленный комплекс». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Культура русского инженера",
+        "body": "Россия обладает замечательной традицией научно-технического превосходства. Ведущие технические университеты — МФТИ («физтех»), МИФИ (ядерный университет), МГТУ им. Баумана — готовят инженеров мирового уровня.\n\nЭта инженерная культура глубоко укоренена в российской интеллектуальной идентичности. **Олимпиады по математике** и физике — национальные институты с советских времён: чемпионы — знаменитости в своих городах. Россия продолжает производить математиков и физиков мирового уровня: Медаль Филдса присуждалась нескольким россиянам, в том числе Григорию Перельману (отказавшемуся от неё).\n\nЭто техническое превосходство сочетается со слабостью в **промышленном дизайне и пользовательском опыте** — областях, где СССР никогда не блистал. Показательный пример: российские ракеты «Союз» — надёжные и дешёвые, но с аскетичной внутренней эргономикой по сравнению с американскими капсулами. Эта двойственность «превосходство содержания, пренебрежение формой» характерна для многих российских промышленных продуктов."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Промышленность и военно-промышленный комплекс» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Еда в тени заводов — российская промышленная кухня",
+        "body": "Крупные промышленные города Урала и Сибири выработали плотную народную кухню, приспособленную к рабочим, проводящим изнурительные смены на морозе. **Столовая** — по-прежнему центральный гастрономический институт промышленной среды.\n\nСтоловая предлагает блюда по очень низким ценам (150–300 руб.): поднос с супом, вторым (котлеты с картофельным пюре или гуляш с кашей), салатом и компотом. Этот формат, прямо унаследованный от советских столовых, кормит миллионы российских рабочих каждый полдень.\n\nГорода с единственным градообразующим предприятием (**моногорода**) — Магнитогорск (сталь), Норильск (никель), Северодвинск (подводные лодки) — имеют свои местные традиции, выкованные изоляцией, экстремальными условиями и рабочей солидарностью."
       }
     ],
     "conseil_ami": {
-      "title": "Совет путешественника",
+      "title": "Совет путешественника 🤝",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Промышленность и военно-промышленный комплекс» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Если встречаете российских инженеров или учёных** — проявляйте уважение к их традиции превосходства. Техническая гордость очень велика: упоминание Гагарина, Спутника, русской математики или Перельмана немедленно откроет разговор.\n\n**Об оружии и вооружениях**: деликатная тема с 2022 года. Инженеры оборонки работают над проектами с прямыми геополитическими последствиями. Избегайте слишком прямых вопросов об их конкретной профессиональной деятельности.\n\n**Удивительный факт для разговора**: Росатом строит ядерные реакторы в Финляндии, Турции, Индии и Египте — в том числе для членов НАТО (Турция). Геополитика мирного атома куда сложнее политических союзов."
     },
     "glossary": [
       {
-        "term": "Промышленность и военно-промышленный комплекс",
-        "definition": "Центральное понятие этого урока — промышленность и военно-промышленный комплекс в контексте современной России."
+        "term": "Ростех",
+        "definition": "Российский государственный конгломерат из 800 оборонных предприятий, 500 000 сотрудников. Основан Чемезовым, соратником Путина."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Росатом",
+        "definition": "Российская государственная атомная корпорация. Контролирует 70% мирового рынка обогащения урана. Строит реакторы в 20+ странах."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Военно-промышленный комплекс (ВПК)",
+        "definition": "Совокупность отраслей производства вооружений и военной техники. Советское наследие, сохранённое и развитое."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Сухой / МиГ",
+        "definition": "Российские производители боевых самолётов. Су-35 и Су-57 (5-го поколения) — одни из наиболее современных истребителей в мире."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "С-400",
+        "definition": "Российская зенитно-ракетная система, признанная одной из самых современных в мире. Экспортируется в Турцию, Китай, Индию — источник геополитических трений."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "МФТИ (Физтех)",
+        "definition": "Московский физико-технический институт — один из лучших научных университетов мира, прозванный «физтехом»."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Столовая",
+        "definition": "Советская столовая — гастрономический институт российской промышленной среды. Полный обед за 150–300 рублей."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Моногорода",
+        "definition": "Моногорода — города с единственным градообразующим предприятием. Очень уязвимы в экономических кризисах."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Промышленность и военно-промышленный комплекс». Какова медианная зарплата в России?",
+        "question": "Какое место занимает Россия среди мировых экспортёров вооружений?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
-        ],
-        "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
-      },
-      {
-        "question": "Сколько часовых поясов занимает Россия?",
-        "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Четвёртое, после США, Франции, Китая",
+          "Второе, после США",
+          "Первое, впереди США",
+          "Пятое, после Германии"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
+        "explanation": "Россия — второй в мире экспортёр вооружений после США. Поставляет в более чем 60 стран — прежде всего в Индию, Китай, Алжир и многие африканские государства."
       },
       {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
+        "question": "В чём уникальный козырь Росатома на мировом ядерном рынке?",
         "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
+          "Самые дешёвые технологии",
+          "Контроль около 70% мирового рынка обогащения урана",
+          "Экспорт ядерных отходов",
+          "Производство единственных в мире ядерных бомб"
         ],
         "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
+        "explanation": "Росатом контролирует около 70% мирового рынка обогащения урана — это значит, что даже страны в конфликте с Россией зависят от её ядерной промышленности."
       },
       {
-        "question": "Какой главный разлом структурирует современное российское общество?",
+        "question": "Как называется российский государственный конгломерат оборонной промышленности?",
         "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
+          "Роснефть",
+          "Ростех",
+          "Росатом",
+          "Роскосмос"
         ],
         "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "Ростех — государственный конгломерат ~800 оборонных предприятий и 500 000 сотрудников, основан в 2007 году. Не путать с Росатомом (ядерная отрасль) или Роскосмосом (космос)."
+      },
+      {
+        "question": "Какой структурный недостаток присущ российской промышленности, несмотря на техническое превосходство?",
+        "options": [
+          "Нехватка квалифицированной рабочей силы",
+          "Слабость промышленного дизайна и пользовательского опыта — отличная инженерия, но пренебрежение формой",
+          "Чрезмерная зависимость от импорта сырья",
+          "Невозможность международного экспорта"
+        ],
+        "answer": 1,
+        "explanation": "Российская промышленность превосходит в глубинной инженерии (надёжные ракеты, точное оружие, безопасные реакторы), но пренебрегает дизайном — наследие советской культуры, ценившей производительность выше эстетики."
+      },
+      {
+        "question": "Какой российский математик отказался от Медали Филдса (математического аналога Нобелевской премии)?",
+        "options": [
+          "Михаил Ломоносов",
+          "Григорий Перельман",
+          "Андрей Колмогоров",
+          "Владимир Арнольд"
+        ],
+        "answer": 1,
+        "explanation": "Григорий Перельман отказался от Медали Филдса в 2006 году — и позже от Премии тысячелетия в миллион долларов — за доказательство гипотезы Пуанкаре. Его отказ, продиктованный этическими принципами, стал легендарным."
       }
     ]
   }

@@ -4,12 +4,20 @@
     "lesson_id": 3,
     "module_icon": "🏠",
     "lesson_icon": "💼",
-    "estimated_minutes": 12,
+    "estimated_minutes": 13,
     "difficulty": "intermédiaire",
     "sources": [
       {
         "label": "Encyclopædia Universalis — Russie",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "OECD — Labour market Russia",
+        "url": "https://www.oecd.org/"
+      },
+      {
+        "label": "Levada Center — Sondages travail",
+        "url": "https://www.levada.ru/en/"
       }
     ]
   },
@@ -17,139 +25,139 @@
     "module_title": "La Vie Quotidienne",
     "lesson_title": "Travailler en Russie",
     "lesson_subtitle": "Salaires, hiérarchie, mentalité professionnelle",
-    "intro": "Cette leçon explore travailler en russie dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "Le monde professionnel russe déroute souvent les étrangers. Les codes de la hiérarchie, les réunions sans décision visible, le rapport au temps et aux délais, la distinction radicale entre façade officielle et réalité informelle — tout cela forme un système cohérent, hérité à la fois de la culture soviétique et d'adaptations post-soviétiques. Comprendre ces codes est indispensable pour quiconque travaille avec des partenaires russes.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de travailler en russie",
-        "body": "La thématique de travailler en russie s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "L'héritage du travail soviétique",
+        "body": "Le rapport russe au travail est profondément marqué par **l'expérience soviétique**. Dans le système soviétique, l'emploi est garanti à tous — mais la motivation est collectivement faible. L'expression populaire «**Ils font semblant de nous payer, on fait semblant de travailler**» (*oni delayut vid chto platiat, my delayem vid chto rabotaem*) résume cyniquement cette réalité.\n\nLe système soviétique valorise l'**appartenance à l'organisation** plutôt que la performance individuelle. Partir avant la fin de la journée de travail, même si le travail est terminé, est mal vu. Paraître occupé est aussi important qu'être efficace. Cette culture du «présentéisme» est encore très présente dans les administrations et grandes entreprises russes.\n\nEn revanche, l'héritage soviétique a produit une culture de l'**ingéniosité sous contrainte** — *smetka* (сметка) ou *briazgatsya* (брать­ся) : trouver des solutions créatives avec peu de moyens. Les Russes sont réputés pour leur capacité à résoudre des problèmes complexes avec des ressources minimales — une compétence reconnue dans les secteurs technologiques et scientifiques."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "La hiérarchie dans les entreprises russes",
+        "body": "La hiérarchie dans les entreprises russes est forte et structurante. Le **chef** (*nachalnik*, начальник — ou *boss*, босс dans le secteur privé moderne) détient une autorité quasi-absolue dans son périmètre. Ses décisions ne se discutent pas en public — même si ses subordonnés sont en désaccord, ils le lui diront en tête à tête, jamais devant les autres.\n\nCette hiérarchie se manifeste dans les réunions (*soveshchaniye*, совещание). Les réunions russes servent souvent à **informer** et à **valider** des décisions déjà prises — pas à débattre collectivement. Les participants parlent beaucoup moins que dans une réunion française ; le chef parle le plus. Prendre la parole avant votre tour hiérarchique peut être perçu comme de l'arrogance.\n\nLe concept de **«vertical'» managériale** (вертикаль управления — verticale de gestion) est très présent dans les grandes entreprises. Les canaux d'information remontent et descendent strictement par la hiérarchie — court-circuiter un niveau, même pour gagner du temps, est malvenu."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de travailler en russie est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "Salaires et conditions de travail",
+        "body": "Le marché du travail russe est très segmenté. À **Moscou**, les salaires des cadres qualifiés dans la finance, la tech, le conseil ou le droit atteignent **200 000 à 500 000 roubles/mois** — des niveaux comparables aux villes européennes secondaires. Mais la **médiane nationale** reste autour de **55 000 roubles** (~600€).\n\nLa **durée légale du travail** est de 40 heures par semaine (8h/jour, 5 jours). Le droit russe prévoit **28 jours de congés payés** par an — légèrement supérieur à la France (25 jours minimum). En pratique, la culture du «**toujours disponible**» dans les secteurs privés modernes (tech, finance, conseil) tend à dépasser largement ces normes.\n\nLe **travail informel** (*nelegalnaya zanyatost'*, незаконная занятость) est significatif en Russie — environ **15-20% des emplois** selon les estimations. Être payé «en noir» pour éviter les charges sociales est une pratique courante dans les petites entreprises et l'artisanat. Le système de protection sociale (retraite, assurance maladie) dépend des cotisations déclarées — le travail informel est donc un pari risqué pour les employés."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de travailler en russie, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "L'informel professionnel — blat et réseaux",
+        "body": "Comme dans la vie sociale, le **blat** (réseau informel de relations) joue un rôle majeur dans la vie professionnelle russe. Une bonne partie des opportunités d'emploi, des contrats commerciaux et des promotions se décident via des contacts personnels plutôt que par des processus formels.\n\nL'expression **«У нас всё решается по знакомству»** (*u nas vsio reshayetsya po znakomstvu* — chez nous, tout se règle par les relations) décrit cette réalité. Les **«kryshas»** (*krysha*, крыша — littéralement «toit», protection) désignent les protections informelles que certaines entreprises obtiennent en entretenant des relations avec des figures d'autorité — fonctionnaires, policiers, hommes politiques locaux.\n\nPour un partenaire étranger travaillant avec des Russes, comprendre ce système informel est crucial. La présentation par un intermédiaire de confiance vaut plus que le meilleur CV. Les repas d'affaires (*delovoy obyed*, деловой обед) — souvent longs, avec de l'alcool et des conversations personnelles — sont une étape indispensable avant tout accord commercial sérieux."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre travailler en russie. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "La nouvelle génération au travail",
+        "body": "Le marché du travail russe est en train de se transformer sous l'influence d'une nouvelle génération de professionnels. Les **millennials russes** (nés 1985-2000) ont grandi dans une économie de marché, ont souvent étudié ou voyagé à l'étranger, et apportent des codes de travail proches des standards internationaux — horizontalité, feedback, autonomie.\n\nLe secteur **tech et startup** moscovite des années 2010 a développé une culture de travail modernisée : open spaces, agilité, management par objectifs plutôt que par présence. Des entreprises comme **Yandex, Avito** (équivalent du Bon Coin), **Wildberries** (e-commerce) ont attiré les meilleurs talents avec des salaires et des conditions comparables aux grandes entreprises occidentales.\n\nDepuis 2022, une large partie de cette génération a quitté la Russie — vers Géorgie, Arménie, Serbie, Portugal. Ce brain drain des 30-40 ans les plus qualifiés et les plus mobiles est l'un des défis les plus graves du marché du travail russe. Les chefs d'entreprise parlent ouvertement de pénuries de talents dans certains secteurs."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à travailler en russie à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Manger au travail — la culture du déjeuner russe",
+        "body": "Le déjeuner (*obed*, обед) est le repas principal de la journée pour beaucoup de Russes — et un moment social important. La **pause déjeuner** est en général d'**une heure**, souvent de 13h à 14h. Dans les entreprises avec une stolovaya (cantine), le déjeuner collectif renforce la cohésion d'équipe.\n\nLa culture du **«déjeuner de travail»** (*delovoy obed*, деловой обед) est bien établie dans le secteur privé. Ces repas dans un restaurant se déroulent en général en 1h30-2h, avec une vraie entrée, un plat principal et souvent un dessert. Contrairement à la France où le déjeuner d'affaires peut inclure du vin, en Russie il est de plus en plus courant de ne pas boire d'alcool à midi — surtout dans les secteurs internationaux.\n\nLe **«perekoussit'»** (перекусить — grignoter) désigne les petites prises alimentaires entre les repas — des *baranki* (petits pains en anneau durs), des *souchki*, des biscuits ou des chocolats posés sur le bureau. Offrir des chocolats ou des gâteaux à toute l'équipe lors de son anniversaire est une tradition très ancrée dans les bureaux russes — c'est à l'anniversaire d'offrir, pas à recevoir."
       }
     ],
     "conseil_ami": {
-      "title": "Le Conseil du Voyageur",
+      "title": "Le Conseil du Voyageur 🤝",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder travailler en russie avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Dans un contexte professionnel avec des Russes**, investissez dans la relation personnelle avant de parler affaires. Un premier rendez-vous pour «se connaître» — sans agenda précis — est souvent plus productif qu'une réunion de travail structurée.\n\n**En réunion**, attendez votre tour de parole et respectez la hiérarchie. Si vous avez une position différente de celle du chef, exprimez-la en privé — jamais en public.\n\n**Sur les délais** : les Russes ont une relation au temps différente. «Bientôt» (*skoro*, скоро) peut signifier demain ou dans un mois. Soyez précis sur vos attentes de deadline sans paraître anxieux — la pression sur les délais doit être formulée avec tact."
     },
     "glossary": [
       {
-        "term": "Travailler en Russie",
-        "definition": "Concept central de cette leçon — travailler en russie dans le contexte de la Russie contemporaine."
+        "term": "Nachalnik (Начальник)",
+        "definition": "Chef, supérieur hiérarchique. Autorité quasi-absolue dans son périmètre. Ne se contredit pas publiquement."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Smetka (Сметка)",
+        "definition": "Ingéniosité sous contrainte — capacité à résoudre des problèmes complexes avec peu de moyens. Héritage soviétique valorisé."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Soveshchaniye (Совещание)",
+        "definition": "Réunion de travail russe. Sert souvent à informer et valider, pas à débattre. Le chef parle le plus, les décisions sont souvent déjà prises."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Krysha (Крыша)",
+        "definition": "Littéralement 'toit' — protection informelle obtenue en entretenant des relations avec des figures d'autorité. Système de patronage informel."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Delovoy obed (Деловой обед)",
+        "definition": "Déjeuner d'affaires — étape indispensable avant tout accord commercial. 1h30-2h, avec vraie nourriture et conversations personnelles."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Travail informel (Серая зарплата)",
+        "definition": "Salaire 'au noir' payé sans cotisations sociales. Environ 15-20% des emplois russes. Risqué pour les droits à la retraite."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Congés payés russes",
+        "definition": "28 jours légaux/an — légèrement plus qu'en France (25 jours). La 'culture du présentéisme' peut limiter leur prise réelle."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Perekousit' (Перекусить)",
+        "definition": "Grignoter entre les repas. Offrir des chocolats à toute l'équipe le jour de son anniversaire est une tradition des bureaux russes."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Travailler en Russie'. Quel est le salaire médian en Russie ?",
+        "question": "Quel adage soviétique résume le rapport au travail sous l'URSS ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "'Chacun selon ses capacités, à chacun selon ses besoins'",
+          "'Ils font semblant de nous payer, on fait semblant de travailler'",
+          "'L'union fait la force du collectif'",
+          "'Le travail, c'est la liberté'"
+        ],
+        "answer": 1,
+        "explanation": "'Ils font semblant de nous payer, on fait semblant de travailler' est un adage populaire soviétique qui décrit cyniquement le faible lien entre effort et rémunération dans l'économie planifiée."
+      },
+      {
+        "question": "Comment fonctionnent généralement les réunions dans les entreprises russes ?",
+        "options": [
+          "En débat collectif ouvert avec votes",
+          "Pour informer et valider des décisions déjà prises — le chef parle le plus",
+          "En cercle horizontal où tous ont un poids égal",
+          "Par vote majoritaire des participants"
+        ],
+        "answer": 1,
+        "explanation": "Les réunions russes servent souvent à informer et valider des décisions déjà prises par le chef. Le débat collectif y est moins courant. Prendre la parole avant votre tour hiérarchique peut être perçu comme de l'arrogance."
+      },
+      {
+        "question": "Qu'est-ce que la 'krysha' dans le monde professionnel russe ?",
+        "options": [
+          "Un logiciel de gestion de projet",
+          "Une protection informelle obtenue via des relations avec des figures d'autorité",
+          "Un syndicat professionnel",
+          "Un type de contrat de travail temporaire"
+        ],
+        "answer": 1,
+        "explanation": "La 'krysha' (toit) désigne la protection informelle que certaines entreprises obtiennent en entretenant des relations avec des fonctionnaires, policiers ou politiques locaux — un système de patronage informel."
+      },
+      {
+        "question": "Combien de jours de congés payés le droit russe prévoit-il par an ?",
+        "options": [
+          "21 jours",
+          "25 jours (comme en France)",
+          "28 jours",
+          "35 jours"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "Le droit russe prévoit 28 jours de congés payés par an — légèrement supérieur au minimum français de 25 jours. En pratique, la prise effective peut être limitée par la culture du présentéisme."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Quelle tradition est attendue d'un employé russe le jour de son anniversaire au bureau ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Recevoir des cadeaux de ses collègues",
+          "Offrir des gâteaux ou chocolats à toute l'équipe",
+          "Prendre une demi-journée de congé",
+          "Organiser un déjeuner d'équipe dans un restaurant"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
-      },
-      {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
-        "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
-        ],
-        "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
-      },
-      {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
-        "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
-        ],
-        "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "En Russie, c'est l'anniversaire qui offre — pas qui reçoit. Apporter des gâteaux ou des chocolats pour toute l'équipe le jour de son anniversaire est une tradition bien ancrée dans les bureaux russes."
       }
     ]
   },
@@ -157,139 +165,139 @@
     "module_title": "Повседневная жизнь",
     "lesson_title": "Работа в России",
     "lesson_subtitle": "Зарплаты, иерархия, профессиональный менталитет",
-    "intro": "Этот урок посвящён теме «Работа в России» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Российский профессиональный мир нередко сбивает иностранцев с толку. Коды иерархии, совещания без видимых решений, отношение ко времени и срокам, радикальное различие между официальным фасадом и неформальной реальностью — всё это образует связную систему, унаследованную как от советской культуры, так и от постсоветских адаптаций. Понять эти коды необходимо каждому, кто работает с российскими партнёрами.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Работа в России»",
-        "body": "Тема «Работа в России» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Наследие советского труда",
+        "body": "Российское отношение к труду глубоко отмечено **советским опытом**. В советской системе занятость гарантирована всем — но коллективная мотивация низкая. Народное выражение «Они делают вид, что платят — мы делаем вид, что работаем» цинично резюмирует эту реальность.\n\nСоветская система ценила **принадлежность к организации**, а не индивидуальную производительность. Уйти до конца рабочего дня, даже если работа выполнена, считалось недопустимым. Казаться занятым так же важно, как быть эффективным. Эта культура «присутственности» по-прежнему очень ощутима в российских администрациях и крупных компаниях.\n\nВместе с тем советское наследие породило культуру **изобретательности в условиях ограничений** — сметка: находить творческие решения при минимальных ресурсах. Россияне известны способностью решать сложные проблемы с ограниченными ресурсами — компетенция, признанная в технологических и научных секторах."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Иерархия в российских компаниях",
+        "body": "Иерархия в российских компаниях сильна и структурообразующа. **Начальник** обладает квазиабсолютной властью в своей сфере. Его решения не обсуждаются публично — даже если подчинённые не согласны, они скажут об этом наедине, но никогда при других.\n\nЭта иерархия проявляется на **совещаниях**. Российские совещания нередко служат для **информирования** и **утверждения** уже принятых решений — а не для коллективного обсуждения. Участники говорят значительно меньше, чем на французском совещании; начальник говорит больше всех. Взять слово раньше своей иерархической очереди может быть воспринято как высокомерие.\n\nКонцепция управленческой **«вертикали»** очень присутствует в крупных компаниях. Информационные потоки строго восходят и нисходят по иерархии — обойти уровень, даже ради экономии времени, неуместно."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Работа в России» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Зарплаты и условия труда",
+        "body": "Российский рынок труда сильно сегментирован. В **Москве** зарплаты квалифицированных специалистов в финансах, технологиях, консалтинге или праве достигают **200 000–500 000 рублей/месяц** — уровней, сопоставимых с второстепенными европейскими городами. Но **национальная медиана** остаётся около **55 000 рублей** (~600€).\n\n**Законная рабочая неделя** — 40 часов (8 часов в день, 5 дней). Российское право предусматривает **28 дней оплачиваемого отпуска** в год — чуть больше, чем во Франции (25 дней). На практике культура «**всегда доступен**» в современных частных секторах (технологии, финансы, консалтинг) нередко значительно превышает эти нормы.\n\n**Неформальная занятость** (*незаконная занятость*) значима в России — около **15–20% занятых** по оценкам. Получать зарплату «в конверте» для ухода от соцвзносов — распространённая практика в малом бизнесе и ремесленничестве. Система социальной защиты (пенсия, медицинское страхование) зависит от задекларированных взносов — так что неформальная занятость рискованна для работников."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Работа в России» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Профессиональная неформальность — блат и связи",
+        "body": "Как и в социальной жизни, **блат** (неформальная сеть связей) играет ключевую роль в российской профессиональной жизни. Значительная часть возможностей трудоустройства, коммерческих контрактов и продвижений по службе решается через личные контакты, а не формальные процедуры.\n\nВыражение «У нас всё решается по знакомству» описывает эту реальность. **«Крыши»** (*крыша* — буквально «крыша», защита) обозначают неформальное покровительство, которое некоторые компании обеспечивают, поддерживая отношения с властными фигурами — чиновниками, полицейскими, местными политиками.\n\nДля иностранного партнёра, работающего с россиянами, понимание этой неформальной системы критично. Представление через надёжного посредника ценнее лучшего резюме. **Деловые обеды** — нередко долгие, с алкоголем и личными разговорами — обязательный этап перед любым серьёзным деловым соглашением."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Работа в России». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Новое поколение на работе",
+        "body": "Российский рынок труда трансформируется под влиянием нового поколения профессионалов. **Российские миллениалы** (рождённые в 1985–2000) выросли в рыночной экономике, нередко учились или путешествовали за рубежом и привносят рабочие коды, близкие к международным стандартам: горизонтальность, обратная связь, автономия.\n\nМосковский **технологический и стартап-сектор** 2010-х выработал обновлённую рабочую культуру: открытые пространства, гибкость, управление по целям вместо присутствия. Такие компании, как **Яндекс, Авито** (российский аналог Leboncoin), **Wildberries** (e-commerce), привлекали лучшие таланты с зарплатами и условиями, сопоставимыми с крупными западными компаниями.\n\nС 2022 года значительная часть этого поколения покинула Россию — в Грузию, Армению, Сербию, Португалию. «Утечка мозгов» наиболее квалифицированных и мобильных людей 30–40 лет — один из серьёзнейших вызовов российского рынка труда."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Работа в России» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Еда на работе — культура российского обеда",
+        "body": "**Обед** — главный приём пищи дня для многих россиян и важный социальный момент. **Обеденный перерыв** как правило **один час**, обычно с 13:00 до 14:00. В компаниях со столовой совместный обед укрепляет сплочённость команды.\n\nКультура **делового обеда** хорошо укоренилась в частном секторе. Такие обеды в ресторане обычно длятся 1,5–2 часа с настоящей закуской, основным блюдом и нередко десертом. В отличие от Франции, где деловой обед может включать вино, в России всё более распространено не пить алкоголь в обед — особенно в международных секторах.\n\n**«Перекусить»** — маленькие перекусы между приёмами пищи: баранки, сушки, печенье или конфеты на рабочем столе. Угощать всю команду шоколадом или пирожными в свой день рождения — устойчивая традиция в российских офисах: в день рождения принято угощать, а не принимать угощения."
       }
     ],
     "conseil_ami": {
-      "title": "Совет путешественника",
+      "title": "Совет путешественника 🤝",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Работа в России» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**В профессиональном контексте с россиянами** — инвестируйте в личные отношения прежде, чем говорить о делах. Первая встреча «познакомиться» — без конкретной повестки — нередко продуктивнее, чем структурированное рабочее совещание.\n\n**На совещании** дожидайтесь своей очереди и уважайте иерархию. Если ваша позиция расходится с позицией начальника — выскажите её наедине, никогда публично.\n\n**О сроках**: у россиян иное отношение ко времени. «Скоро» может означать завтра или через месяц. Будьте точны в своих ожиданиях по дедлайну, не производя впечатления тревожности — давление по срокам следует формулировать тактично."
     },
     "glossary": [
       {
-        "term": "Работа в России",
-        "definition": "Центральное понятие этого урока — работа в россии в контексте современной России."
+        "term": "Начальник",
+        "definition": "Начальник, иерархический руководитель. Квазиабсолютная власть в своей сфере. Публично не оспаривается."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Сметка",
+        "definition": "Изобретательность в условиях ограничений — способность решать сложные задачи при минимальных ресурсах. Ценимое советское наследие."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Совещание",
+        "definition": "Российское деловое совещание. Нередко служит для информирования и утверждения, а не для дискуссии. Начальник говорит больше всех; решения часто уже приняты."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Крыша",
+        "definition": "Буквально «крыша» — неформальное покровительство, обеспечиваемое поддержанием отношений с властными фигурами. Система неформального патронажа."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Деловой обед",
+        "definition": "Деловой обед — обязательный этап перед любым коммерческим соглашением. 1,5–2 часа с настоящей едой и личными разговорами."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Серая зарплата",
+        "definition": "Зарплата «в конверте» без соцвзносов. Около 15–20% занятых в России. Рискованно для пенсионных прав."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Оплачиваемый отпуск",
+        "definition": "28 дней по закону/год — чуть больше, чем во Франции (25 дней). Культура «присутственности» может ограничивать их фактическое использование."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Перекусить",
+        "definition": "Перекусить между приёмами пищи. Угощать всю команду в свой день рождения — устойчивая традиция российских офисов."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Работа в России». Какова медианная зарплата в России?",
+        "question": "Какая советская поговорка резюмирует отношение к труду в СССР?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "«Каждому по способностям, каждому по потребностям»",
+          "«Они делают вид, что платят, мы делаем вид, что работаем»",
+          "«Единство создаёт силу коллектива»",
+          "«Труд — это свобода»"
+        ],
+        "answer": 1,
+        "explanation": "«Они делают вид, что платят, мы делаем вид, что работаем» — народная советская поговорка, цинично описывающая слабую связь между усилием и вознаграждением в плановой экономике."
+      },
+      {
+        "question": "Как обычно проходят совещания в российских компаниях?",
+        "options": [
+          "В открытой коллективной дискуссии с голосованием",
+          "Для информирования и утверждения уже принятых решений — начальник говорит больше всех",
+          "В горизонтальном кругу, где у всех равный вес",
+          "Путём голосования большинства участников"
+        ],
+        "answer": 1,
+        "explanation": "Российские совещания нередко служат для информирования и утверждения уже принятых руководителем решений. Коллективная дискуссия менее распространена. Взять слово раньше своей иерархической очереди может восприниматься как высокомерие."
+      },
+      {
+        "question": "Что такое «крыша» в российском профессиональном мире?",
+        "options": [
+          "Программное обеспечение для управления проектами",
+          "Неформальное покровительство через связи с властными фигурами",
+          "Профессиональный профсоюз",
+          "Вид временного трудового договора"
+        ],
+        "answer": 1,
+        "explanation": "«Крыша» (буквально «крыша») — неформальное покровительство, которое некоторые компании обеспечивают через отношения с чиновниками, полицейскими или местными политиками. Система неформального патронажа."
+      },
+      {
+        "question": "Сколько дней оплачиваемого отпуска предусматривает российское трудовое право в год?",
+        "options": [
+          "21 день",
+          "25 дней (как во Франции)",
+          "28 дней",
+          "35 дней"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "Российское трудовое право предусматривает 28 дней оплачиваемого отпуска в год — чуть больше французского минимума в 25 дней. На практике фактическое использование может ограничиваться культурой присутственности."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Какая традиция принята в российском офисе в день рождения сотрудника?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Получать подарки от коллег",
+          "Угощать всю команду пирожными или конфетами",
+          "Взять полдня отгула",
+          "Организовывать командный обед в ресторане"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
-      },
-      {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
-        "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
-        ],
-        "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
-      },
-      {
-        "question": "Какой главный разлом структурирует современное российское общество?",
-        "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
-        ],
-        "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "В России в день рождения угощают, а не получают угощения. Принести пирожные или конфеты для всей команды в свой день рождения — устойчивая традиция российских офисов."
       }
     ]
   }

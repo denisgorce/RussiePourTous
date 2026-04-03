@@ -4,12 +4,20 @@
     "lesson_id": 2,
     "module_icon": "🏠",
     "lesson_icon": "🚇",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "estimated_minutes": 13,
+    "difficulty": "débutant",
     "sources": [
       {
         "label": "Encyclopædia Universalis — Russie",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "Moskva.ru — Métro de Moscou",
+        "url": "https://www.mos.ru/"
+      },
+      {
+        "label": "Routard — Russie pratique",
+        "url": "https://www.routard.com/guide/russie/"
       }
     ]
   },
@@ -17,139 +25,139 @@
     "module_title": "La Vie Quotidienne",
     "lesson_title": "Le Métro de Moscou — un palais souterrain",
     "lesson_subtitle": "Transport, architecture et vie urbaine",
-    "intro": "Cette leçon explore le métro de moscou — un palais souterrain dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "Le métro de Moscou n'est pas simplement un moyen de transport — c'est l'un des réseaux les plus fréquentés, les plus beaux et les plus efficaces du monde. Inauguré en 1935 sous Staline comme vitrine du socialisme triomphant, il a été conçu comme un «palais pour le peuple» : des stations décorées de mosaïques, de lustres en bronze, de sculptures et de fresques qui transforment chaque trajet en visite muséale. Avec 9 millions de voyages par jour, il reste la colonne vertébrale de Moscou.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de le métro de moscou — un palais souterrain",
-        "body": "La thématique de le métro de moscou — un palais souterrain s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "Histoire — du palais souterrain à la mégapole",
+        "body": "Le projet du métro de Moscou est lancé en **1931**, alors que la ville croît à une vitesse folle avec l'industrialisation soviétique. Le premier tronçon est inauguré le **15 mai 1935** — 13 stations, ligne rouge entre Sokolniki et Park Kultury. C'est un événement national retransmis à la radio.\n\nStaline impose une vision grandiose : les stations ne doivent pas être des tunnels utilitaires mais des «palais pour le peuple» — la preuve que le socialisme peut créer plus beau que les capitales bourgeoises. Des architectes de talent comme Alexeï Douchkine et Nikolaï Ladovsky conçoivent des stations d'une beauté formelle époustouflante. Les matériaux utilisés — marbre, granit, bronze, verre coloré — viennent de toutes les républiques soviétiques.\n\nPendant le siège de Moscou en 1941-1942, les stations les plus profondes servent d'abris anti-aériens. Staline tient certaines de ses réunions stratégiques à la station **Mayakovskaya** — la plus belle station du monde selon beaucoup d'architectes, primée à l'Exposition universelle de New York en 1939."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Géographie — la carte du réseau",
+        "body": "Le métro de Moscou comprend aujourd'hui **15 lignes** et **260 stations** pour **450 km** de voies — le troisième réseau mondial après Londres et New York par sa longueur. Son organisation reflète la structure concentrique de Moscou : des lignes radiales partant du centre (la ligne rouge vers le nord, la verte vers le sud, la bleue vers l'ouest) et deux lignes circulaires — la **Ligne Circulaire** (Кольцевая, brun) inaugurée en 1950 et la nouvelle **Grande Ligne Circulaire** (2023) qui a doublé la capacité du réseau.\n\nLes stations les plus touristiques et les plus belles se concentrent dans le centre historique : **Komsomolskaïa** (mosaïques de Korin représentant les grandes batailles russes), **Ploshchad Revoliutsii** (bronzes réalistes de soldats et ouvriers), **Novoslobodskaya** (vitraux), **Kievskaya** (fresques ukrainiennes), **Elektrozavodskaya** (bas-reliefs).\n\nDepuis les années 2010, de nouvelles lignes ont été construites vers la périphérie — le **MCD** (Московские центральные диаметры, diamètres centraux) intègre les lignes de banlieue au réseau urbain. Moscou est aujourd'hui la ville européenne où le réseau de transport en commun est le plus étendu et le plus fréquenté."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de le métro de moscou — un palais souterrain est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "La vie dans le métro — microcosme social",
+        "body": "Le métro de Moscou est un microcosme de la société russe. Ses **9 millions de voyages quotidiens** en font l'un des métros les plus fréquentés du monde — le RER parisien en transporte environ 3 millions. Dans les heures de pointe (8h-9h30, 17h30-19h30), la promiscuité est totale.\n\nLes codes de comportement dans le métro moscovite sont stricts et socialement surveillés. Les **escalators** montants sont toujours à droite — si vous vous arrêtez à gauche, vous bloquez le passage et les regards désapprobateurs seront immédiats. On ne parle pas fort, on ne mange pas, on n'écoute pas de musique sans écouteurs.\n\nLa **cession de place** est une norme forte : céder sa place à une personne âgée, enceinte ou handicapée est attendu de tous — y compris des jeunes hommes pour toutes les femmes avec de jeunes enfants. Ne pas céder sa place dans ce contexte est une faute sociale visible. Cette règle de civilité est d'autant plus remarquable qu'elle contraste avec la «froideur» du comportement public russe décrite dans le module 4."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de le métro de moscou — un palais souterrain, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "Tarifs, carte Troïka et pratique",
+        "body": "Le métro de Moscou est à la fois un des plus beaux et un des **moins chers** du monde. Un trajet simple coûte **57 roubles** (moins de 1€) — quel que soit la distance parcourue. Avec la **carte Troïka** (Тройка — rechargeable, vendue à l'aéroport et dans les stations), le tarif descend à **47 roubles** par voyage. Pour un touriste, c'est le moyen de transport idéal.\n\nLe réseau fonctionne de **5h30 à 1h00 du matin** — un délai court qui peut poser problème lors de soirées tardives. Le taxi (Yandex.Go) est l'alternative nocturne. Les trains arrivent toutes les **1 à 3 minutes** en heures de pointe — un standard que les réseaux parisiens peinent à atteindre.\n\nLes **applications** Yandex.Metro et Google Maps permettent de planifier son itinéraire avec précision. Les annonces dans le métro se font en **russe et en anglais** depuis 2018 — une amélioration significative pour les touristes. Les panneaux de direction sont en cyrillique et en translittération latine."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre le métro de moscou — un palais souterrain. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "Le métro dans la culture et la littérature russes",
+        "body": "Le métro de Moscou a engendré sa propre mythologie culturelle. Le roman **Metro 2033** de Dmitri Glukhovsky (2002, d'abord publié gratuitement en ligne) imagine la survie d'une civilisation souterraine dans les tunnels du métro après une apocalypse nucléaire. Ce roman de science-fiction post-apocalyptique, adapté en jeux vidéo (Metro 2033, Metro Last Light, Metro Exodus), est devenu un phénomène culturel mondial — traduit en 37 langues.\n\nLe métro est aussi un espace artistique. La **station Mayakovskaya** a accueilli en 1941 une lecture de poésie par Pasternak, Kharms et d'autres poètes pendant la défense de Moscou — dans une station transformée en abri anti-aérien. Cette image du poème récité sous les bombes est devenue symbolique de la résistance culturelle russe.\n\nChaque station du métro soviétique raconte une histoire politique et artistique : **Ploshchad Revoliutsii** (Place de la Révolution) célèbre les héros du socialisme avec 76 bronzes grandeur nature ; **Komsomolskaïa** honore les victoires militaires russes ; **Novokuznetskaya** présente des mosaïques de soldats de la Seconde Guerre mondiale."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à le métro de moscou — un palais souterrain à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Le repas dans le métro — codes et snacks urbains",
+        "body": "Manger dans le métro est interdit et très mal vu — une des règles les plus strictement respectées. La **propreté des stations** est remarquable : des équipes de nettoyage travaillent en continu. Cracher, jeter des déchets ou manger dans les wagons peut valoir une amende et une désapprobation sociale immédiate.\n\nLes **kiosques** et **distributeurs automatiques** en surface et dans les halls des stations proposent une large gamme de snacks urbains russes : **samsa** (chaussons feuilletés à la viande, d'origine asiatique — très populaires), **pirozhki** cuits à la vapeur ou frits, **blinchiki** (crêpes roulées avec diverses garnitures), sandwichs et **hot dogs** (сосиска в тесте — saucisse en pâte, très courants dans la rue moscovite).\n\nLa **culture du café à emporter** (кофе с собой — *kofe s soboy*) s'est développée rapidement à Moscou dans les années 2010-2020. Des centaines de mini-coffee shops occupent les entrées des stations et les couloirs des passages souterrains. Boire un café americano en marchant est désormais aussi moscovite que le métro lui-même."
       }
     ],
     "conseil_ami": {
-      "title": "Le Conseil du Voyageur",
+      "title": "Le Conseil du Voyageur 🤝",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder le métro de moscou — un palais souterrain avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Faites le 'Grand Tour des stations'** avant de visiter les musées. Consacrez 2 heures à faire le tour des plus belles stations : Komsomolskaïa, Ploshchad Revoliutsii, Mayakovskaya, Novoslobodskaya, Kievskaya. C'est gratuit (une seule entrée suffit), magnifique et plus révélateur sur l'âme soviétique que beaucoup de musées.\n\n**Achetez la carte Troïka dès l'aéroport** (Sheremetyevo, Domodedovo ou Vnukovo) — disponible aux guichets. Rechargez-la avec 500-1000 roubles pour couvrir plusieurs jours.\n\n**Aux heures de pointe**, préparez-vous à une promiscuité totale. Serrez votre sac, restez calme, laissez les gens sortir avant d'entrer. La cohue est intense mais bien organisée — ne luttez pas contre le flux."
     },
     "glossary": [
       {
-        "term": "Le Métro de Moscou — un palais souterrain",
-        "definition": "Concept central de cette leçon — le métro de moscou — un palais souterrain dans le contexte de la Russie contemporaine."
+        "term": "Métro de Moscou (Московское метро)",
+        "definition": "Réseau inauguré en 1935. 15 lignes, 260 stations, 450 km. 9 millions de voyages/jour. Conçu comme 'palais pour le peuple'."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Carte Troïka (Тройка)",
+        "definition": "Carte de transport rechargeable du réseau moscovite. Valable métro, bus, tramway. 47 roubles par trajet. Essentielle pour tout visiteur."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Koltsevaïa (Кольцевая)",
+        "definition": "Ligne circulaire brune du métro de Moscou, inaugurée en 1950. Relie les 9 grandes gares ferroviaires de Moscou."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Mayakovskaya (Маяковская)",
+        "definition": "Station Art Déco soviétique, primée à l'Exposition universelle de New York 1939. Utilisée par Staline comme salle de réunion en 1941."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Metro 2033",
+        "definition": "Roman post-apocalyptique de Dmitri Glukhovsky (2002). Imagine la survie souterraine après une guerre nucléaire. Adapté en jeux vidéo mondiauxs."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Ploshchad Revoliutsii",
+        "definition": "Station du métro de Moscou célèbre pour ses 76 sculptures en bronze grandeur nature de soldats, ouvriers et kolkhoziens soviétiques."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Samsa (Самса)",
+        "definition": "Chausson feuilleté à la viande d'origine asiatique centrale. Très populaire dans les kiosques des stations de métro moscovites."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Kofe s soboy (Кофе с собой)",
+        "definition": "Café à emporter — phénomène urbain moscovite des années 2010-20. Des centaines de mini-coffee shops occupent les entrées de métro."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Le Métro de Moscou — un palais souterrain'. Quel est le salaire médian en Russie ?",
+        "question": "En quelle année a été inauguré le premier tronçon du métro de Moscou ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "1917",
+          "1935",
+          "1950",
+          "1961"
+        ],
+        "answer": 1,
+        "explanation": "Le premier tronçon du métro de Moscou a été inauguré le 15 mai 1935 — 13 stations entre Sokolniki et Park Kultury. C'est un événement national célébré comme la victoire du socialisme."
+      },
+      {
+        "question": "Combien le métro de Moscou transporte-t-il de voyageurs par jour ?",
+        "options": [
+          "2 millions",
+          "5 millions",
+          "9 millions",
+          "15 millions"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "Le métro de Moscou transporte environ 9 millions de voyageurs par jour — ce qui en fait l'un des réseaux les plus fréquentés du monde, devant le métro parisien (4 millions/jour)."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Quel roman de SF russe imagine la survie dans les tunnels du métro après une apocalypse ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Le Maître et Marguerite de Boulgakov",
+          "Metro 2033 de Glukhovsky",
+          "1984 en version russe",
+          "Le Monde englouti de Ballard"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
+        "explanation": "Metro 2033 de Dmitri Glukhovsky (2002) est un roman post-apocalyptique qui imagine la survie d'une civilisation dans les tunnels du métro de Moscou. Adapté en jeux vidéo, il est traduit en 37 langues."
       },
       {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
+        "question": "Quel est le code de comportement sur les escalators du métro moscovite ?",
         "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
+          "On reste à gauche, on marche à droite",
+          "On reste à droite si on s'arrête, la gauche est réservée à la marche",
+          "Il n'y a pas de règle établie",
+          "On marche des deux côtés en montée, on s'arrête en descente"
         ],
         "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
+        "explanation": "Sur les escalators du métro moscovite, la règle est claire : droite pour s'arrêter, gauche pour marcher. S'arrêter à gauche bloque le passage et provoque une désapprobation sociale immédiate."
       },
       {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
+        "question": "Combien coûte un trajet en métro de Moscou avec la carte Troïka ?",
         "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
+          "20 roubles",
+          "47 roubles",
+          "100 roubles",
+          "Gratuit pour les touristes"
         ],
         "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "Avec la carte Troïka rechargeable, un trajet de métro coûte 47 roubles (moins de 1€) — quel que soit la distance. Sans carte Troïka, le prix est de 57 roubles. C'est un des métros les moins chers au monde."
       }
     ]
   },
@@ -157,139 +165,139 @@
     "module_title": "Повседневная жизнь",
     "lesson_title": "Московское метро — подземный дворец",
     "lesson_subtitle": "Транспорт, архитектура и городская жизнь",
-    "intro": "Этот урок посвящён теме «Московское метро — подземный дворец» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Московское метро — не просто вид транспорта. Это одна из самых загруженных, красивых и эффективных сетей в мире. Открытое в 1935 году при Сталине как витрина торжествующего социализма, оно задумывалось как «дворец для народа»: станции, украшенные мозаиками, бронзовыми люстрами, скульптурами и фресками, превращающими каждую поездку в музейное посещение. При 9 миллионах поездок в день оно остаётся позвоночником Москвы.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Московское метро — подземный дворец»",
-        "body": "Тема «Московское метро — подземный дворец» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "История — от подземного дворца к мегаполису",
+        "body": "Проект московского метро запускается в **1931 году**, когда город стремительно растёт вместе с советской индустриализацией. Первый участок открывается **15 мая 1935 года** — 13 станций, красная линия от Сокольников до Парка культуры. Это общенациональное событие, транслируемое по радио.\n\nСталин навязывает грандиозное видение: станции должны быть не утилитарными туннелями, а «дворцами для народа» — доказательством, что социализм может создавать красивее буржуазных столиц. Талантливые архитекторы, как Алексей Душкин и Николай Ладовский, проектируют станции ослепительной формальной красоты. Использованные материалы — мрамор, гранит, бронза, цветное стекло — из всех советских республик.\n\nВо время осады Москвы 1941–1942 годов самые глубокие станции служат бомбоубежищами. Сталин проводит ряд стратегических совещаний на станции **«Маяковская»** — красивейшей станции мира по мнению многих архитекторов, удостоенной премии на Всемирной выставке в Нью-Йорке 1939 года."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "География — карта сети",
+        "body": "Московское метро насчитывает сегодня **15 линий** и **260 станций** при **450 км** путей — третья в мире сеть после Лондона и Нью-Йорка. Его организация отражает концентрическую структуру Москвы: радиальные линии из центра и две кольцевые — **Кольцевая линия** (коричневая, открыта в 1950 году) и новая **Большая кольцевая** (2023), удвоившая пропускную способность сети.\n\nСамые туристические и красивые станции сосредоточены в историческом центре: **Комсомольская** (мозаики Корина с великими русскими битвами), **Площадь Революции** (реалистичные бронзы солдат и рабочих), **Новослободская** (витражи), **Киевская** (украинские фрески), **Электрозаводская** (барельефы).\n\nС 2010-х строятся новые линии на периферию. **МЦД** (Московские центральные диаметры) интегрируют пригородные линии в городскую сеть. Москва — европейский город с наиболее разветвлённым и загруженным общественным транспортом."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Московское метро — подземный дворец» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Жизнь в метро — социальный микрокосм",
+        "body": "Московское метро — микрокосм российского общества. **9 миллионов ежедневных поездок** делают его одним из самых загруженных метро мира — парижское RER перевозит около 3 миллионов. В часы пик (8:00–9:30, 17:30–19:30) теснота полная.\n\nПоведенческие коды в московском метро строги и социально контролируемы. На **эскалаторах** правый ряд для стоящих, левый для идущих — если остановитесь слева, мгновенно получите неодобрительные взгляды. В метро не говорят громко, не едят, не слушают музыку без наушников.\n\n**Уступать место** — жёсткая норма: уступить место пожилому, беременному или инвалиду ожидается от всех — в том числе от молодых мужчин всем женщинам с маленькими детьми. Не уступить место в этом контексте — заметный социальный проступок. Это правило вежливости тем более примечательно, что контрастирует с «холодностью» публичного поведения русских, описанной в модуле 4."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Московское метро — подземный дворец» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Тарифы, карта «Тройка» и практика",
+        "body": "Московское метро — одновременно одно из красивейших и одно из **самых дешёвых** в мире. Разовая поездка стоит **57 рублей** (менее 1 евро) — независимо от расстояния. С картой **«Тройка»** (пополняемой, продаётся в аэропортах и на станциях) — **47 рублей** за поездку. Для туриста — идеальный транспорт.\n\nСеть работает с **5:30 до 1:00 ночи** — интервал, способный создать проблемы при поздних вечерах. Такси (Яндекс.Go) — ночная альтернатива. Поезда в часы пик приходят каждые **1–3 минуты** — стандарт, которого парижские сети едва достигают.\n\n**Приложения** Яндекс.Метро и Google Maps позволяют точно планировать маршруты. Объявления в метро с 2018 года — **на русском и английском**. Указатели на кириллице и в латинской транслитерации."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Московское метро — подземный дворец». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Метро в русской культуре и литературе",
+        "body": "Московское метро породило собственную культурную мифологию. Роман **«Метро 2033»** Дмитрия Глуховского (2002, изначально опубликованный бесплатно в интернете) рисует выживание подземной цивилизации в тоннелях метро после ядерного апокалипсиса. Этот постапокалиптический научно-фантастический роман, адаптированный в видеоигры (Metro 2033, Metro Last Light, Metro Exodus), стал мировым культурным феноменом — переведён на 37 языков.\n\nМетро — и художественное пространство. На **станции «Маяковская»** в 1941 году состоялось поэтическое чтение Пастернака, Хармса и других поэтов во время обороны Москвы — в станции, превращённой в бомбоубежище. Этот образ стихов под бомбами стал символом русского культурного сопротивления.\n\nКаждая советская станция рассказывает политическую и художественную историю: **«Площадь Революции»** чествует героев социализма 76 бронзовыми скульптурами в натуральную величину; **«Комсомольская»** прославляет русские военные победы; **«Новокузнецкая»** представляет мозаики солдат Второй мировой."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Московское метро — подземный дворец» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Еда в метро — коды и городские перекусы",
+        "body": "Есть в метро запрещено и крайне осуждается — одно из самых строго соблюдаемых правил. **Чистота станций** поразительна: уборочные бригады работают непрерывно. Плевать, бросать мусор или есть в вагонах грозит штрафом и немедленным общественным осуждением.\n\n**Киоски** и **автоматы** на поверхности и в вестибюлях станций предлагают широкий ассортимент городских перекусов: **самса** (слоёные пирожки с мясом, среднеазиатского происхождения — очень популярны), паровые или жареные **пирожки**, **блинчики** (с различными начинками), сэндвичи и **сосиски в тесте** (очень распространены на московских улицах).\n\nКультура **кофе с собой** бурно развивалась в Москве в 2010–2020-е. Сотни мини-кофеен занимают входы на станции и переходы. Пить американо на ходу стало столь же московским, как само метро."
       }
     ],
     "conseil_ami": {
-      "title": "Совет путешественника",
+      "title": "Совет путешественника 🤝",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Московское метро — подземный дворец» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Сделайте «большой тур по станциям»** прежде, чем идти в музеи. Посвятите 2 часа объезду красивейших станций: Комсомольская, Площадь Революции, Маяковская, Новослободская, Киевская. Это бесплатно (хватит одного входа), великолепно и красноречивее о советской душе, чем многие музеи.\n\n**Купите карту «Тройка» прямо в аэропорту** (Шереметьево, Домодедово или Внуково) — продаётся в кассах. Пополните на 500–1000 рублей на несколько дней.\n\n**В часы пик** готовьтесь к полной тесноте. Держите сумку крепко, сохраняйте спокойствие, дайте выйти пассажирам перед входом. Толпа интенсивная, но хорошо организованная — не борьтесь с потоком."
     },
     "glossary": [
       {
-        "term": "Московское метро — подземный дворец",
-        "definition": "Центральное понятие этого урока — московское метро — подземный дворец в контексте современной России."
+        "term": "Московское метро",
+        "definition": "Сеть, открытая в 1935 году. 15 линий, 260 станций, 450 км. 9 миллионов поездок в день. Задумано как «дворец для народа»."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Карта «Тройка»",
+        "definition": "Пополняемая транспортная карта московской сети. Действует в метро, автобусе, трамвае. 47 рублей за поездку. Незаменима для каждого гостя."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Кольцевая",
+        "definition": "Коричневая кольцевая линия московского метро, открытая в 1950 году. Соединяет 9 крупных железнодорожных вокзалов Москвы."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Маяковская",
+        "definition": "Советская станция в стиле ар-деко, удостоенная премии на Всемирной выставке в Нью-Йорке 1939 года. Использовалась Сталиным как зал совещаний в 1941-м."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Метро 2033",
+        "definition": "Постапокалиптический роман Дмитрия Глуховского (2002). Рисует подземное выживание после ядерной войны. Адаптирован во всемирно известные видеоигры."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Площадь Революции",
+        "definition": "Станция московского метро, знаменитая 76 бронзовыми скульптурами в натуральную величину: солдаты, рабочие и колхозники."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Самса",
+        "definition": "Слоёный пирожок с мясом среднеазиатского происхождения. Очень популярен в киосках у станций московского метро."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Кофе с собой",
+        "definition": "Кофе навынос — московский городской феномен 2010–2020-х. Сотни мини-кофеен у входов в метро."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Московское метро — подземный дворец». Какова медианная зарплата в России?",
+        "question": "В каком году открылся первый участок московского метро?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "1917",
+          "1935",
+          "1950",
+          "1961"
+        ],
+        "answer": 1,
+        "explanation": "Первый участок московского метро открылся 15 мая 1935 года — 13 станций от Сокольников до Парка культуры. Общенациональное событие, отпразднованное как победа социализма."
+      },
+      {
+        "question": "Сколько пассажиров в день перевозит московское метро?",
+        "options": [
+          "2 миллиона",
+          "5 миллионов",
+          "9 миллионов",
+          "15 миллионов"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "Московское метро перевозит около 9 миллионов пассажиров в день — один из самых загруженных метрополитенов мира, значительно опережая парижский (4 миллиона/день)."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Какой российский фантастический роман рисует выживание в тоннелях метро после апокалипсиса?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "«Мастер и Маргарита» Булгакова",
+          "«Метро 2033» Глуховского",
+          "«1984» в русской версии",
+          "«Потопленный мир» Балларда"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
+        "explanation": "«Метро 2033» Дмитрия Глуховского (2002) — постапокалиптический роман о выживании цивилизации в тоннелях московского метро. Адаптирован в видеоигры, переведён на 37 языков."
       },
       {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
+        "question": "Каково правило поведения на эскалаторах московского метро?",
         "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
+          "Стоят слева, идут справа",
+          "Стоят справа, левый ряд для идущих",
+          "Никакого установленного правила",
+          "Идут с обеих сторон вверх, стоят вниз"
         ],
         "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
+        "explanation": "На эскалаторах московского метро правило чёткое: справа стоят, слева идут. Остановиться слева — заблокировать проход и немедленно получить общественное осуждение."
       },
       {
-        "question": "Какой главный разлом структурирует современное российское общество?",
+        "question": "Сколько стоит поездка в московском метро с картой «Тройка»?",
         "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
+          "20 рублей",
+          "47 рублей",
+          "100 рублей",
+          "Бесплатно для туристов"
         ],
         "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "С пополняемой картой «Тройка» поездка в метро стоит 47 рублей (менее 1 евро) — независимо от расстояния. Без «Тройки» — 57 рублей. Одно из самых дешёвых метро в мире."
       }
     ]
   }

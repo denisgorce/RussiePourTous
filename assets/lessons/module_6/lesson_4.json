@@ -4,12 +4,20 @@
     "lesson_id": 4,
     "module_icon": "🏠",
     "lesson_icon": "🎒",
-    "estimated_minutes": 12,
+    "estimated_minutes": 13,
     "difficulty": "intermédiaire",
     "sources": [
       {
         "label": "Encyclopædia Universalis — Russie",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "Ministère de l'Éducation russe",
+        "url": "https://edu.gov.ru/"
+      },
+      {
+        "label": "OCDE — Education at a Glance Russia",
+        "url": "https://www.oecd.org/"
       }
     ]
   },
@@ -17,139 +25,139 @@
     "module_title": "La Vie Quotidienne",
     "lesson_title": "École, Université et Éducation",
     "lesson_subtitle": "Le système éducatif russe",
-    "intro": "Cette leçon explore école, université et éducation dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "L'éducation est l'une des grandes fiertés russes — et l'une des héritages soviétiques les plus solides. La Russie a l'un des taux d'alphabétisation et de scolarisation les plus élevés au monde, une tradition d'excellence en mathématiques et sciences, et des universités qui ont formé des générations de chercheurs de rang mondial. Comprendre le système éducatif russe, c'est comprendre comment les Russes pensent l'intelligence, la compétition et la transmission du savoir.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de école, université et éducation",
-        "body": "La thématique de école, université et éducation s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "L'héritage scolaire soviétique — force et faiblesses",
+        "body": "Le système éducatif soviétique était l'un des plus ambitieux du monde : scolarisation universelle dès 7 ans, gratuité totale de la maternelle à l'université, fort accent sur les sciences exactes, les mathématiques, la physique et la chimie. En 1970, l'URSS avait le plus grand nombre d'ingénieurs et de scientifiques diplômés du monde.\n\nLes **forces** de cet héritage persistent : les Russes ont une culture mathématique remarquable, les olympiades de mathématiques et de physique russes sont parmi les plus compétitives du monde, et les méthodes de résolution de problèmes apprises dans les écoles russes sont reconnues comme particulièrement efficaces.\n\nLes **faiblesses** aussi sont héritées : une **pédagogie très transmissive** (le professeur sait, l'élève écoute et mémorise), peu de place pour la pensée critique, la créativité ou le questionnement de l'autorité ; une **évaluation par notes strictes** (système de 1 à 5 — le 5 étant la meilleure note, le 1 très rare et humiliant) ; et une tendance à l'encyclopédisme — savoir beaucoup de choses plutôt que savoir réfléchir de façon autonome."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Le système scolaire — de la maternelle au lycée",
+        "body": "L'école russe commence à **6-7 ans** (certains enfants vont au **jardin d'enfants** (*sadik*, садик) dès 1-2 ans) et se divise en trois niveaux : **école primaire** (*nachalnaya shkola*, 1e-4e classe, 6-10 ans) ; **collège** (*osnovnaya shkola*, 5e-9e classe, 10-15 ans) avec examen de fin de collège (**OGE**) ; **lycée** (*starshaya shkola*, 10e-11e classe, 15-17 ans) avec examen de fin de lycée (**EGE** — Единый государственный экзамен, Examen d'État Unifié).\n\nL'**EGE** (Единый государственный экзамен, prononcé *YeGE*) est l'équivalent russe du baccalauréat — et l'une des institutions les plus discutées de la société russe. Introduit en 2001 pour uniformiser et objectiver l'accès à l'université, il est aussi critiqué pour sa tendance à réduire l'éducation à du bachotage. Les résultats à l'EGE déterminent directement l'accès aux universités, avec un système de points qui rappelle Parcoursup.\n\nLes **écoles spécialisées** (mathématiques, langues, arts) sont très valorisées. Une place dans un lycée scientifique réputé à Moscou (notamment ceux associés au MIPT ou à l'Université d'État MGU) est l'objet d'une compétition féroce."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de école, université et éducation est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "L'université russe — entre tradition et modernisation",
+        "body": "La **MGU** (Московский государственный университет — Université d'État de Moscou) est la plus grande et la plus prestigieuse université russe, fondée en 1755 par Lomonosov. Classée parmi les 100 meilleures universités mondiales, elle accueille 40 000 étudiants dans son bâtiment stalinien de 240 m de haut — l'une des sept «Tours de Moscou».\n\nLe système universitaire russe souffre d'un écart croissant entre les **élites** (MGU, MIPT, MEPhI, SPbGU, HSE) — qui produisent des diplômés de très haut niveau et maintiennent des standards internationaux — et la masse des universités régionales, dont la qualité est très variable et les diplômes peu reconnus à l'international.\n\nL'**HSE** (Haute École d'Économie — ВШЭ, Высшая школа экономики) est un cas à part : fondée en 1992 par des économistes libéraux avec un appui initial de la Banque mondiale, elle est devenue la meilleure université de sciences sociales russe, avec des méthodes pédagogiques proches des standards occidentaux (discussion, travaux de groupe, évaluation par compétences). Depuis 2022, plusieurs de ses professeurs ont quitté la Russie."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de école, université et éducation, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "Les mathématiques — la religion nationale",
+        "body": "Les mathématiques occupent en Russie une place culturelle unique — bien au-delà d'une simple matière scolaire. La tradition remonte aux grandes figures soviétiques : **Kolmogorov** (théorie des probabilités), **Pontryagin** (théorie du contrôle optimal), **Gelfand** (algèbre), **Kantorovich** (prix Nobel d'économie pour ses travaux de recherche opérationnelle). Ces noms sont ceux de héros nationaux scientifiques.\n\nLes **olympiades de mathématiques** (олимпиады по математике) sont une institution nationale depuis 1934. Les élèves brillants y consacrent des années de préparation intense. Remporter la médaille d'or à l'Olympiade internationale de mathématiques est l'équivalent d'une victoire sportive nationale. Les professeurs de mathématiques (*uchitel' matematiki*) jouissent d'un prestige particulier dans la société.\n\nCette culture mathématique a des effets durables. Des études montrent que les élèves formés dans le système russe (ou dans les nombreux pays influencés par la pédagogie soviétique) obtiennent de meilleurs résultats en résolution de problèmes complexes que leurs pairs formés dans les systèmes anglo-saxons ou français. C'est un avantage compétitif qui se mesure dans les recrutements tech et scientifiques internationaux."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre école, université et éducation. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "Les grandes figures de la science russe",
+        "body": "La Russie a produit un nombre remarquable de scientifiques de premier rang. En physique : **Lomonossov** (XIIIe siècle — fondateur de la science moderne russe), **Mendeleïev** (tableau périodique des éléments, 1869), **Pavlov** (réflexes conditionnés, prix Nobel 1904), **Kapitza** (physique des basses températures, Nobel 1978), **Landau** (physique théorique, Nobel 1962), **Tamm** et **Tcherenkov** (effet Tcherenkov, Nobel 1958).\n\nEn mathématiques, outre Kolmogorov et Perelman déjà cités, **Poincaré** (non — russe) ; **Chebyshev** (théorie des approximations), **Lyapunov** (stabilité des systèmes dynamiques). En chimie, **Semionov** (mécanismes des réactions chimiques, Nobel 1956). La liste est impressionnante.\n\nCes figures ne sont pas des abstractions pour les Russes — Mendeleïev est sur les billets de banque, Lomonossov donne son nom à l'université de Moscou, Gagarine est dans chaque école. La science et la recherche sont associées à la fierté nationale d'une façon que peu de pays peuvent égaler."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à école, université et éducation à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "La culture de l'apprentissage à la maison",
+        "body": "L'éducation russe ne se limite pas à l'école. La culture du **«samodeyatelnost'»** (самодеятельность — l'activité autonome, le faire soi-même) pousse les familles russes à compléter l'éducation scolaire à la maison. Les parents russes — notamment les mères — sont très investis dans l'accompagnement des devoirs et dans les activités parascolaires.\n\nLes **cercles et sections** (*kroujki*, кружки) sont une institution soviétique toujours vivante : musique, échecs, danse, sports, mathématiques — les enfants russes ont en général un emploi du temps parascolaire dense dès l'âge de 6-7 ans. L'idée que l'enfant doit apprendre plusieurs compétences «sérieuses» en parallèle de l'école est culturellement forte.\n\nLes **lectures à voix haute** (*chtenie vslukh*, чтение вслух) en famille sont une tradition : les parents lisent à leurs enfants des classiques russes (Pouchkine, Tchekhov, Tolstoï) avant de dormir. Cette immersion culturelle précoce explique en partie le niveau de culture littéraire élevé que les Russes maintiennent à l'âge adulte."
       }
     ],
     "conseil_ami": {
-      "title": "Le Conseil du Voyageur",
+      "title": "Le Conseil du Voyageur 🤝",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder école, université et éducation avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Si vous rencontrez un Russe cultivé**, la référence aux mathématiques et à la science est un terrain commun fertile. Montrer que vous connaissez Mendeleïev, Lomonossov ou même Perelman (refus de la Médaille Fields) provoque toujours une réaction chaleureuse.\n\n**Sur l'éducation des enfants** : en Russie, les parents investissent énormément dans les activités extrascolaires des enfants. Demander à votre interlocuteur quels kroujki suivent ses enfants est une question qui révèle beaucoup de la valeur accordée à l'éducation — et ouvre souvent des conversations profondes.\n\n**Pour les professionnels** : beaucoup de Russes en France ont fait des études scientifiques de haut niveau. Reconnaître explicitement la qualité de leur formation («je sais que les universités scientifiques russes sont excellentes») est un geste d'appréciation sincère qui compte."
     },
     "glossary": [
       {
-        "term": "École, Université et Éducation",
-        "definition": "Concept central de cette leçon — école, université et éducation dans le contexte de la Russie contemporaine."
+        "term": "EGE (ЕГЭ)",
+        "definition": "Единый государственный экзамен — baccalauréat russe. Détermine l'accès aux universités. Introduit en 2001, très discuté."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "MGU (МГУ)",
+        "definition": "Université d'État de Moscou — fondée en 1755 par Lomonossov. Plus grande et plus prestigieuse université russe, bâtiment stalinien de 240m."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Olympiades de mathématiques",
+        "definition": "Institution nationale depuis 1934. Médaille d'or internationale = victoire nationale. Les vainqueurs sont des célébrités."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Kroujki (Кружки)",
+        "definition": "Cercles parascolaires — musique, échecs, danse, sport, maths. Institution soviétique toujours vivante. Les enfants russes ont un agenda dense."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Sadik (Садик)",
+        "definition": "Jardin d'enfants (crèche + maternelle). Les enfants peuvent y aller dès 1-2 ans. Gratuit dans le secteur public."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "HSE (ВШЭ)",
+        "definition": "Высшая школа экономики — fondée en 1992. Meilleure université russe en sciences sociales. Méthodes proches des standards occidentaux."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Mendeleïev (Менделеев)",
+        "definition": "Chimiste russe (1834-1907), auteur du tableau périodique des éléments (1869). Héros scientifique national, figure sur les billets de banque."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Samodeyatelnost' (Самодеятельность)",
+        "definition": "Activité autonome, initiative personnelle. Culture du 'faire soi-même' qui pousse les familles à compléter l'éducation scolaire."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'École, Université et Éducation'. Quel est le salaire médian en Russie ?",
+        "question": "Quel est l'équivalent russe du baccalauréat ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
-        ],
-        "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
-      },
-      {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
-        "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Le VUZ",
+          "L'EGE (Единый государственный экзамен)",
+          "Le GIA",
+          "Le diplôme de lycée"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
+        "explanation": "L'EGE (Examen d'État Unifié, prononcé YeGE) est l'équivalent russe du baccalauréat. Introduit en 2001, il détermine directement l'accès aux universités via un système de points."
       },
       {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
+        "question": "Quelle matière occupe une place culturelle unique en Russie — véritable 'religion nationale' ?",
         "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
+          "La littérature russe",
+          "Les mathématiques",
+          "L'histoire",
+          "Les sciences naturelles"
         ],
         "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
+        "explanation": "Les mathématiques ont une place culturelle unique en Russie — les olympiades nationales et internationales sont des événements majeurs, les grands mathématiciens sont des héros nationaux."
       },
       {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
+        "question": "Qui a fondé l'Université d'État de Moscou (MGU) en 1755 ?",
         "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
+          "Pierre le Grand",
+          "Lomonossov",
+          "Catherine II",
+          "Lénine"
         ],
         "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "Mikhail Lomonossov a fondé l'Université d'État de Moscou en 1755 — raison pour laquelle elle porte son nom. Lomonossov est le père de la science russe moderne."
+      },
+      {
+        "question": "Comment s'appelle le système de notation russe à l'école ?",
+        "options": [
+          "De A à F (comme aux États-Unis)",
+          "De 1 à 5 (5 = meilleure note)",
+          "De 0 à 20 (comme en France)",
+          "De 1 à 10"
+        ],
+        "answer": 1,
+        "explanation": "Le système de notation russe va de 1 à 5 — le 5 est la meilleure note (l'équivalent de 20/20), le 1 est très rare et humiliant. Le 2 est l'équivalent du 'insuffisant'."
+      },
+      {
+        "question": "Quelle tradition familiale russe contribue à la haute culture littéraire des adultes ?",
+        "options": [
+          "Les sorties hebdomadaires au théâtre",
+          "Les lectures à voix haute de classiques russes avant le coucher",
+          "Les abonnements aux bibliothèques municipales",
+          "Les voyages culturels dans les villes historiques"
+        ],
+        "answer": 1,
+        "explanation": "La lecture à voix haute (chtenie vslukh) de classiques russes (Pouchkine, Tchekhov, Tolstoï) avant de dormir est une tradition familiale russe. Cette immersion précoce explique le niveau élevé de culture littéraire maintenu à l'âge adulte."
       }
     ]
   },
@@ -157,139 +165,139 @@
     "module_title": "Повседневная жизнь",
     "lesson_title": "Школа, университет и образование",
     "lesson_subtitle": "Российская система образования",
-    "intro": "Этот урок посвящён теме «Школа, университет и образование» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Образование — одна из главных российских гордостей и одно из самых крепких советских наследий. Россия — один из мировых лидеров по уровню грамотности и охвату образованием, имеет традицию превосходства в математике и естественных науках, а её университеты подготовили поколения исследователей мирового уровня. Понять российскую систему образования — значит понять, как россияне осмысляют интеллект, конкуренцию и передачу знаний.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Школа, университет и образование»",
-        "body": "Тема «Школа, университет и образование» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Советское образовательное наследие — сильные стороны и слабости",
+        "body": "Советская образовательная система была одной из наиболее амбициозных в мире: всеобщее обучение с 7 лет, полная бесплатность от детского сада до университета, сильный акцент на точных науках, математике, физике и химии. К 1970 году в СССР было больше всего дипломированных инженеров и учёных в мире.\n\n**Сильные стороны** этого наследия сохраняются: у россиян замечательная математическая культура, олимпиады по математике и физике — одни из самых конкурентных в мире, а методы решения задач, усвоенные в российских школах, признаются особенно эффективными.\n\n**Слабости** тоже унаследованы: **очень трансмиссивная педагогика** (учитель знает, ученик слушает и запоминает), мало места критическому мышлению, творчеству или оспариванию авторитетов; **строгое оценивание** (система от 1 до 5 — 5 лучшая оценка, 1 редкая и унизительная); склонность к энциклопедизму — знать много вещей, нежели уметь мыслить самостоятельно."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Система образования — от детсада до старшей школы",
+        "body": "Российская школа начинается в **6–7 лет** (часть детей ходит в **садик** с 1–2 лет) и делится на три ступени: **начальная школа** (1–4 класс, 6–10 лет); **основная школа** (5–9 класс, 10–15 лет) с итоговым экзаменом (**ОГЭ**); **старшая школа** (10–11 класс, 15–17 лет) с выпускным экзаменом (**ЕГЭ** — Единый государственный экзамен).\n\n**ЕГЭ** — российский аналог экзамена на степень бакалавра и одна из наиболее обсуждаемых институций российского общества. Введённый в 2001 году для унификации и объективизации доступа в университеты, он критикуется и за склонность сводить образование к натаскиванию. Результаты ЕГЭ напрямую определяют поступление в вузы по системе баллов.\n\n**Специализированные школы** (математические, языковые, художественные) высоко ценятся. Место в престижном московском лицее (особенно связанном с МФТИ или МГУ) — предмет жёсткой конкуренции."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Школа, университет и образование» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Российский университет — между традицией и модернизацией",
+        "body": "**МГУ** (Московский государственный университет) — крупнейший и наиболее престижный российский университет, основанный в 1755 году Ломоносовым. Входит в топ-100 мировых университетов, принимает 40 000 студентов в сталинском здании 240 м высотой.\n\nРоссийская университетская система страдает от растущего разрыва между **элитными** (МГУ, МФТИ, МИФИ, СПбГУ, ВШЭ) — выпускающими специалистов высочайшего уровня с международными стандартами — и массой региональных вузов с очень неравномерным качеством.\n\n**ВШЭ** (Высшая школа экономики) — особый случай: основана в 1992 году либеральными экономистами при поддержке Всемирного банка, стала лучшим российским университетом общественных наук с педагогическими методами, близкими к западным стандартам. С 2022 года ряд её профессоров покинул Россию."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Школа, университет и образование» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Математика — национальная религия",
+        "body": "Математика занимает в России уникальное культурное место — далеко выходящее за рамки простого школьного предмета. Традиция восходит к великим советским фигурам: **Колмогоров** (теория вероятностей), **Понтрягин** (теория оптимального управления), **Гельфанд** (алгебра), **Канторович** (Нобелевская премия по экономике). Это имена национальных научных героев.\n\n**Математические олимпиады** — национальный институт с 1934 года. Блестящие ученики посвящают им годы интенсивной подготовки. Золотая медаль Международной математической олимпиады равна спортивной победе национального масштаба.\n\nЭта математическая культура имеет долгосрочные последствия. Исследования показывают, что ученики, прошедшие российскую систему, показывают лучшие результаты в решении сложных задач, чем их сверстники из англосаксонских или французских систем. Это конкурентное преимущество, измеримое в международных технологических и научных рекрутингах."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Школа, университет и образование». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Великие фигуры российской науки",
+        "body": "Россия дала выдающееся число учёных первого ряда. В физике: **Ломоносов** (основатель современной российской науки), **Менделеев** (периодическая таблица элементов, 1869), **Павлов** (условные рефлексы, Нобелевская премия 1904), **Капица** (физика низких температур, 1978), **Ландау** (теоретическая физика, 1962), **Тамм** и **Черенков** (1958).\n\nВ математике, помимо уже упомянутых Колмогорова и Перельмана: **Чебышёв** (теория приближений), **Ляпунов** (устойчивость динамических систем). В химии — **Семёнов** (механизмы химических реакций, Нобелевская премия 1956).\n\nЭти фигуры — не абстракции для россиян: Менделеев изображён на банкнотах, Ломоносов дал имя московскому университету, Гагарин — в каждой школе. Наука и исследования ассоциируются с национальной гордостью так, как мало где ещё."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Школа, университет и образование» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Культура домашнего обучения",
+        "body": "Российское образование не ограничивается школой. Культура **самодеятельности** побуждает российские семьи дополнять школьное образование дома. Российские родители — особенно мамы — очень вовлечены в помощь с домашними заданиями и во внеклассные занятия.\n\n**Кружки** — живая советская институция: музыка, шахматы, танцы, спорт, математика — у российских детей, как правило, плотное внеклассное расписание с 6–7 лет. Культурная установка на то, что ребёнок должен параллельно со школой осваивать несколько «серьёзных» навыков, очень сильна.\n\n**Чтение вслух** в семье — традиция: родители читают детям классику (Пушкин, Чехов, Толстой) перед сном. Это раннее культурное погружение отчасти объясняет высокий уровень литературной культуры, который россияне сохраняют во взрослом возрасте."
       }
     ],
     "conseil_ami": {
-      "title": "Совет путешественника",
+      "title": "Совет путешественника 🤝",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Школа, университет и образование» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Если встречаете образованного россиянина**, математика и наука — плодотворная общая почва. Знание Менделеева, Ломоносова или даже Перельмана (отказ от Медали Филдса) всегда вызывает тёплую реакцию.\n\n**Об образовании детей**: в России родители вкладывают огромно в внеклассные занятия. Спросить собеседника, в какие кружки ходят его дети, — вопрос, много открывающий о ценностях образования, и нередко запускающий глубокие беседы.\n\n**Для профессионалов**: многие россияне во Франции получили высшее научное образование. Прямо признать качество их подготовки («Знаю, что российские научные университеты превосходны») — искренний жест признания, который ценится."
     },
     "glossary": [
       {
-        "term": "Школа, университет и образование",
-        "definition": "Центральное понятие этого урока — школа, университет и образование в контексте современной России."
+        "term": "ЕГЭ (Единый государственный экзамен)",
+        "definition": "Выпускной экзамен, определяющий доступ в университеты. Введён в 2001 году, предмет широкой дискуссии."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "МГУ",
+        "definition": "Московский государственный университет, основан в 1755 году Ломоносовым. Крупнейший и наиболее престижный российский университет."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Олимпиады по математике",
+        "definition": "Национальный институт с 1934 года. Золотая медаль на международной олимпиаде = национальная победа. Победители — знаменитости."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Кружки",
+        "definition": "Внеклассные кружки — музыка, шахматы, танцы, спорт, математика. Живая советская институция. У российских детей насыщенное расписание."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Садик",
+        "definition": "Детский сад (ясли + детский сад). Дети могут ходить с 1–2 лет. Бесплатный в государственном секторе."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "ВШЭ (Высшая школа экономики)",
+        "definition": "Основана в 1992 году. Лучший российский университет общественных наук. Методы близки к западным стандартам."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Менделеев",
+        "definition": "Русский химист (1834–1907), автор периодической таблицы элементов (1869). Национальный научный герой, изображён на банкнотах."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Самодеятельность",
+        "definition": "Самодеятельность — культура «делать самому», побуждающая семьи дополнять школьное образование."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Школа, университет и образование». Какова медианная зарплата в России?",
+        "question": "Что является российским аналогом французского бакалавриата?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
-        ],
-        "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
-      },
-      {
-        "question": "Сколько часовых поясов занимает Россия?",
-        "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "ВУЗ",
+          "ЕГЭ (Единый государственный экзамен)",
+          "ГИА",
+          "Диплом о среднем образовании"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
+        "explanation": "ЕГЭ (Единый государственный экзамен) — российский аналог экзамена на степень бакалавра. Введён в 2001 году, напрямую определяет поступление в вузы по системе баллов."
       },
       {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
+        "question": "Какой предмет занимает в России уникальное культурное место — настоящую «национальную религию»?",
         "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
+          "Русская литература",
+          "Математика",
+          "История",
+          "Естественные науки"
         ],
         "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
+        "explanation": "Математика занимает в России уникальное культурное место — национальные и международные олимпиады крупные события, великие математики — национальные герои."
       },
       {
-        "question": "Какой главный разлом структурирует современное российское общество?",
+        "question": "Кто основал МГУ в 1755 году?",
         "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
+          "Пётр Великий",
+          "Ломоносов",
+          "Екатерина II",
+          "Ленин"
         ],
         "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "Михаил Ломоносов основал Московский государственный университет в 1755 году — отсюда его имя. Ломоносов — отец современной российской науки."
+      },
+      {
+        "question": "Какова система оценок в российской школе?",
+        "options": [
+          "От A до F (как в США)",
+          "От 1 до 5 (5 = наивысшая оценка)",
+          "От 0 до 20 (как во Франции)",
+          "От 1 до 10"
+        ],
+        "answer": 1,
+        "explanation": "Российская система оценок — от 1 до 5: 5 — наивысшая (аналог 20/20), 1 — очень редкая и унизительная. 2 — аналог «неудовлетворительно»."
+      },
+      {
+        "question": "Какая семейная традиция способствует высокой литературной культуре взрослых россиян?",
+        "options": [
+          "Еженедельные выходы в театр",
+          "Чтение вслух классики (Пушкин, Чехов, Толстой) перед сном",
+          "Абонементы в муниципальные библиотеки",
+          "Культурные поездки в исторические города"
+        ],
+        "answer": 1,
+        "explanation": "Чтение вслух российской классики (Пушкин, Чехов, Толстой) перед сном — семейная традиция. Это раннее погружение объясняет высокий уровень литературной культуры, сохраняемый во взрослом возрасте."
       }
     ]
   }

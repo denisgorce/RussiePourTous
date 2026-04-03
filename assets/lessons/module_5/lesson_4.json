@@ -4,12 +4,16 @@
     "lesson_id": 4,
     "module_icon": "🛢️",
     "lesson_icon": "🌾",
-    "estimated_minutes": 12,
+    "estimated_minutes": 13,
     "difficulty": "intermédiaire",
     "sources": [
       {
         "label": "Encyclopædia Universalis — Russie",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "Le Monde — Économie russe",
+        "url": "https://www.lemonde.fr/russie/"
       }
     ]
   },
@@ -17,139 +21,139 @@
     "module_title": "L'Économie Russe",
     "lesson_title": "L'Agriculture — le grenier du monde",
     "lesson_subtitle": "Blé, tournesol et souveraineté alimentaire",
-    "intro": "Cette leçon explore l'agriculture — le grenier du monde dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "La Russie est depuis quelques années le premier exportateur mondial de blé. Cette montée en puissance agricole, souvent ignorée dans les représentations occidentales de la Russie, est l'une des grandes transformations économiques du pays depuis 2000. D'une agriculture soviétique inefficace et déficitaire, la Russie est passée à une puissance agricole qui nourrit une large partie de la planète.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de l'agriculture — le grenier du monde",
-        "body": "La thématique de l'agriculture — le grenier du monde s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "De la famine soviétique au premier exportateur mondial",
+        "body": "L'agriculture soviétique a été un échec retentissant. La collectivisation forcée des années 1930 (destruction des koulaks — paysans propriétaires, regroupement forcé en kolkhozes) a anéanti les incitations à la production. L'URSS importait massivement du blé des États-Unis et du Canada jusqu'en 1991 — une humiliation que Khrouchtchev tentait de cacher. La famine de 1932-33 (Holodomor en Ukraine) a tué entre 5 et 7 millions de personnes.\n\nDepuis 2000, la transformation est spectaculaire. La privatisation des terres agricoles, l'arrivée d'investissements privés, la modernisation du matériel (tracteurs GPS, semences hybrides) et des conditions climatiques favorables (le réchauffement climatique allonge la saison de culture en Sibérie méridionale) ont permis un doublement puis un triplement de la production.\n\nEn **2016**, la Russie devient le premier exportateur mondial de blé, devant les États-Unis et l'Union européenne. En **2022**, ses exportations de céréales représentent environ 20% du commerce mondial de blé. Cette position donne à la Russie un levier géopolitique considérable sur les pays importateurs — notamment en Afrique du Nord et au Moyen-Orient."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "La géographie agricole — le chernozem et la steppe",
+        "body": "L'agriculture russe bénéficie d'un atout géographique exceptionnel : le **tchernozem** (*tchernozem*, чернозём — littéralement «terre noire»), l'un des sols les plus fertiles du monde. Cette bande de terre noire s'étend sur 1 million de km² du sud de la Russie à l'Ukraine — un trésor géologique formé sur des millions d'années par la décomposition des steppes herbeuses.\n\nLes principales zones agricoles russes sont le **Kouban** (Krasnodar) — surnommé «le grenier de la Russie», avec des terres comparables au Midwest américain ; la **région de Stavropol** dans le Caucase du Nord ; et les étendues de la **Sibérie méridionale** dont la production augmente chaque décennie avec le réchauffement.\n\nLa **Volga** joue le rôle de l'artère d'irrigation principale — ses affluents alimentent les cultures de riz, coton et tournesol dans la région d'Astrakhan. Le réseau de canaux soviétique, partiellement abandonné après 1991, est en cours de réhabilitation."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de l'agriculture — le grenier du monde est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "L'agriculture comme arme géopolitique",
+        "body": "La crise alimentaire de 2022 a révélé au monde à quel point la dépendance au blé russe et ukrainien était structurelle. La Russie et l'Ukraine produisaient ensemble près de **30% du blé mondial** — et les perturbations d'exportation provoquées par la guerre ont fait flamber les prix et menacé la sécurité alimentaire de dizaines de pays.\n\nLa Russie a utilisé ce levier consciemment. L'accord sur les céréales de la mer Noire (juillet 2022), négocié sous l'égide de l'ONU avec la Turquie comme médiateur, avait permis la reprise des exportations ukrainiennes. Mais la Russie l'a unilatéralement suspendu en juillet 2023, exercant une pression sur les marchés mondiaux.\n\nLes pays les plus vulnérables sont en Afrique subsaharienne, en Égypte (plus grand importateur mondial de blé) et au Liban. La dépendance alimentaire africaine envers la Russie et l'Ukraine a aussi complexifié les réactions diplomatiques de l'Union Africaine face à la guerre — nombreux pays africains refusent de voter les résolutions condamnant la Russie à l'ONU."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de l'agriculture — le grenier du monde, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "Les grandes cultures — blé, tournesol, betterave",
+        "body": "La Russie est un acteur dominant sur plusieurs marchés agricoles mondiaux. Le **blé** : 1er exportateur mondial. Le **tournesol** : 1er producteur et exportateur mondial de graines de tournesol et d'huile de tournesol (avec l'Ukraine). La **betterave sucrière** : important producteur européen. L'**orge** : 2e exportateur mondial. Le **pois** : parmi les premiers exportateurs.\n\nCette puissance agricole est relativement récente et repose sur plusieurs facteurs : les vastes superficies disponibles (la Russie a 120 millions d'hectares de terres arables — le quatrième stock mondial), l'amélioration des semences et des intrants, et l'agro-industrie qui a remplacé les kolkhozes défaillants.\n\nLes **grandes exploitations agricoles** (*agrokholdingi*, агрохолдинги) — des sociétés anonymes de plusieurs centaines de milliers d'hectares, équipées de matériel de pointe — ont largement remplacé les petites fermes familiales. Ce modèle d'agriculture industrielle à grande échelle est très différent de l'agriculture française qui valorise les exploitations familiales."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre l'agriculture — le grenier du monde. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "La datcha comme agriculture vivrière persistante",
+        "body": "Malgré la montée en puissance de l'agro-industrie, l'agriculture vivrière des datchas reste significative. On estime que les potagers de datchas et jardin ouvriers produisent encore **40% des légumes** et **80% des pommes de terre** consommés par les ménages russes.\n\nCette agriculture de subsistance est profondément liée à la psychologie russe du «Plan B» — avoir son propre potager est une assurance contre les crises économiques, les ruptures d'approvisionnement ou les sanctions. La mémoire des années 1990, quand les datchas ont littéralement nourri des familles, est encore vive.\n\nLe **marché des semences** est un enjeu de souveraineté. Depuis 2022, la Russie cherche à réduire sa dépendance aux semences hybrides importées (notamment Bayer-Monsanto et Syngenta). Un programme d'urgence a été lancé pour développer des semences nationales — mais le retard technologique est réel et difficile à combler rapidement."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à l'agriculture — le grenier du monde à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Manger russe — le grain dans chaque assiette",
+        "body": "Le blé et les céréales sont omniprésents dans la cuisine russe — bien plus qu'en France. Le **pain noir de seigle** (*rzhanoy khleb*), la **kasha** (bouillie de sarrasin, d'orge ou d'épeautre), les **pirozhki** (chaussons à la viande ou au chou) et les **blinis** (crêpes de sarrasin) sont tous issus des céréales et des céréales pseudo-complètes que l'agriculture russe produit en abondance.\n\nLe **sarrasin** (гречка, *grechka*) est peut-être le grain le plus emblématique de la cuisine russe — ni blé ni riz, mais une graine pseudo-céréalière d'origine asiatique domestiquée depuis des millénaires en Russie. La grechka est à la Russie ce que le riz est au Japon — plat central, aliment de confort, réserve d'urgence. En 2020, quand le COVID-19 a frappé, les Russes ont massivement fait des réserves de... grechka.\n\nL'**huile de tournesol** est l'huile de cuisine universelle en Russie — utilisée pour tout, du sauté à la vinaigrette. Son prix bas (la Russie est premier producteur mondial) en fait un aliment de base accessible à tous les niveaux de revenus."
       }
     ],
     "conseil_ami": {
-      "title": "Le Conseil du Voyageur",
+      "title": "Le Conseil du Voyageur 🤝",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder l'agriculture — le grenier du monde avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Si vous discutez d'agriculture avec des Russes**, mentionnez votre connaissance du tchernozem — la fierté pour ce sol exceptionnel est réelle. La Russie agricole est un sujet positif et consensuel, loin des tensions politiques.\n\n**Un bon sujet de conversation** : comparer la gastronomie paysanne russe et française. Les deux cultures partagent une profonde valorisation des produits locaux, du terroir, de la saisonnalité — même si les produits sont très différents.\n\n**Sur la souveraineté alimentaire** : les Français comprennent parfaitement cette notion (débats sur les OGM, les semences paysannes, la PAC). Les Russes partagent cette sensibilité — c'est un terrain commun inattendu."
     },
     "glossary": [
       {
-        "term": "L'Agriculture — le grenier du monde",
-        "definition": "Concept central de cette leçon — l'agriculture — le grenier du monde dans le contexte de la Russie contemporaine."
+        "term": "Tchernozem (Чернозём)",
+        "definition": "Terre noire — sol extrêmement fertile couvrant 1 million de km² entre le sud de la Russie et l'Ukraine. Un des atouts agricoles les plus précieux au monde."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Koulak (Кулак)",
+        "definition": "Paysan propriétaire dans la Russie tsariste. Éliminé physiquement ou déporté lors de la collectivisation forcée stalinienne des années 1930."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Agrokholdingi (Агрохолдинги)",
+        "definition": "Grandes exploitations agricoles industrielles russes — sociétés anonymes de centaines de milliers d'hectares. Ont remplacé les kolkhozes défaillants."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Grechka (Гречка)",
+        "definition": "Sarrasin — grain emblématique de la cuisine russe, aliment de confort et réserve d'urgence. La Russie est l'un des premiers producteurs mondiaux."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Accord céréales mer Noire",
+        "definition": "Accord ONU-Russie-Ukraine-Turquie (juillet 2022) permettant les exportations céréalières ukrainiennes. Suspendu par la Russie en juillet 2023."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Holodomor (Голодомор)",
+        "definition": "Famine artificielle ukrainienne de 1932-33, causée par la collectivisation forcée. 5 à 7 millions de morts. Reconnue comme génocide par de nombreux pays."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Kouban (Кубань)",
+        "definition": "Région agricole du sud de la Russie (Krasnodar) — 'grenier de la Russie'. Terres parmi les plus fertiles au monde grâce au tchernozem."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Rzhanoy khleb (Ржаной хлеб)",
+        "definition": "Pain noir de seigle — aliment de base de la cuisine russe depuis des millénaires. Dense, légèrement acide, très nourrissant."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'L'Agriculture — le grenier du monde'. Quel est le salaire médian en Russie ?",
+        "question": "Quel rang la Russie occupe-t-elle dans les exportations mondiales de blé ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "Troisième, derrière USA et UE",
+          "Deuxième, derrière les États-Unis",
+          "Premier exportateur mondial",
+          "Cinquième, derrière Canada, Australie, USA, UE"
+        ],
+        "answer": 0,
+        "explanation": "Depuis 2016, la Russie est le premier exportateur mondial de blé, devançant les États-Unis, l'Union européenne et le Canada. Ses exportations représentent environ 20% du commerce mondial."
+      },
+      {
+        "question": "Qu'est-ce que le tchernozem ?",
+        "options": [
+          "Un type de charbon russe",
+          "Un sol extrêmement fertile (terre noire) couvrant le sud de la Russie et l'Ukraine",
+          "Un fertilisant chimique soviétique",
+          "Une variété de blé russe résistante au froid"
+        ],
+        "answer": 1,
+        "explanation": "Le tchernozem (terre noire) est l'un des sols les plus fertiles au monde, formé sur des millions d'années par la décomposition des steppes. Il s'étend sur 1 million de km² entre le sud de la Russie et l'Ukraine."
+      },
+      {
+        "question": "Quel grain est l'équivalent russe du riz japonais — aliment central et réserve d'urgence ?",
+        "options": [
+          "Le blé",
+          "L'orge",
+          "Le sarrasin (grechka)",
+          "Le seigle"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "La grechka (sarrasin) est le grain le plus emblématique de la cuisine russe — aliment de confort omniprésent et réserve d'urgence. Lors du COVID-19 en 2020, les Russes ont massivement stocké de la grechka."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Comment la Russie a-t-elle utilisé son blé comme levier géopolitique en 2023 ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "En interdisant toutes ses exportations",
+          "En suspendant l'accord céréales mer Noire qui permettait les exportations ukrainiennes",
+          "En abaissant ses prix pour concurrencer les États-Unis",
+          "En créant un cartel avec d'autres pays producteurs"
+        ],
+        "answer": 1,
+        "explanation": "En juillet 2023, la Russie a suspendu l'accord céréales mer Noire (ONU-Russie-Ukraine-Turquie) qui permettait les exportations ukrainiennes, menaçant la sécurité alimentaire de dizaines de pays importateurs."
+      },
+      {
+        "question": "Quelle proportion des légumes russes est encore produite par les potagers de datchas ?",
+        "options": [
+          "5%",
+          "15%",
+          "40%",
+          "70%"
         ],
         "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
-        ],
-        "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
-      },
-      {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
-        "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
-        ],
-        "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
-      },
-      {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
-        "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
-        ],
-        "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "Les potagers de datchas produisent encore environ 40% des légumes et 80% des pommes de terre consommés par les ménages russes — une agriculture vivrière persistante liée à la mémoire des crises."
       }
     ]
   },
@@ -157,139 +161,139 @@
     "module_title": "Российская экономика",
     "lesson_title": "Сельское хозяйство — мировая житница",
     "lesson_subtitle": "Пшеница, подсолнух и продовольственная безопасность",
-    "intro": "Этот урок посвящён теме «Сельское хозяйство — мировая житница» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Россия в последние годы стала крупнейшим в мире экспортёром пшеницы. Этот сельскохозяйственный подъём, нередко игнорируемый в западных представлениях о России, — одна из главных экономических трансформаций страны с 2000 года. От неэффективного и дефицитного советского сельского хозяйства — к аграрной державе, кормящей значительную часть планеты.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Сельское хозяйство — мировая житница»",
-        "body": "Тема «Сельское хозяйство — мировая житница» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "От советского голода до крупнейшего мирового экспортёра",
+        "body": "Советское сельское хозяйство было оглушительным провалом. Принудительная коллективизация 1930-х — уничтожение кулаков, насильственное объединение в колхозы — уничтожила стимулы к производству. СССР масштабно импортировал пшеницу из США и Канады вплоть до 1991 года. Голод 1932–1933 годов (Голодомор на Украине) унёс от 5 до 7 миллионов жизней.\n\nС 2000 года преобразование разительное. Приватизация сельскохозяйственных земель, приток частных инвестиций, модернизация техники (GPS-тракторы, гибридные семена) и благоприятные климатические условия (потепление удлиняет вегетационный период в Южной Сибири) позволили удвоить и утроить производство.\n\nВ **2016 году** Россия стала крупнейшим в мире экспортёром пшеницы — обогнав США и Евросоюз. В **2022 году** её зерновой экспорт составлял около 20% мировой торговли пшеницей. Это даёт России значительный геополитический рычаг влияния на страны-импортёры — особенно в Северной Африке и на Ближнем Востоке."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Сельскохозяйственная география — чернозём и степь",
+        "body": "Российское сельское хозяйство располагает исключительным географическим козырем: **чернозёмом** — одной из плодороднейших почв мира. Эта полоса чёрной земли протянулась на 1 миллион км² от юга России до Украины — геологическое сокровище, сформированное за миллионы лет разложения степных трав.\n\nГлавные сельскохозяйственные зоны России — **Кубань** (Краснодар), прозванная «житницей России», с землями, сопоставимыми со Средним Западом США; **Ставропольский край** на Северном Кавказе; и просторы **Южной Сибири**, чьё производство растёт с каждым десятилетием по мере потепления.\n\n**Волга** — главная ирригационная артерия: её притоки питают посевы риса, хлопчатника и подсолнечника в районе Астрахани."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Сельское хозяйство — мировая житница» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Сельское хозяйство как геополитическое оружие",
+        "body": "Продовольственный кризис 2022 года показал миру, насколько структурной была зависимость от российской и украинской пшеницы. Россия и Украина вместе производили около **30% мировой пшеницы** — экспортные потрясения, вызванные войной, взвинтили цены и угрожали продовольственной безопасности десятков стран.\n\nРоссия сознательно использовала этот рычаг. Зерновая сделка по Чёрному морю (июль 2022), заключённая при посредничестве ООН и Турции, позволила возобновить украинский экспорт. Но Россия в одностороннем порядке приостановила её в июле 2023 года, оказывая давление на мировые рынки.\n\nНаиболее уязвимы страны Африки к югу от Сахары, Египет (крупнейший в мире импортёр пшеницы) и Ливан. Африканская продовольственная зависимость от России и Украины осложнила дипломатические реакции Африканского союза на войну."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Сельское хозяйство — мировая житница» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Основные культуры — пшеница, подсолнечник, свёкла",
+        "body": "Россия — ключевой игрок на нескольких мировых аграрных рынках. **Пшеница**: 1-е место в мире по экспорту. **Подсолнечник**: 1-е место в мире по производству и экспорту семян и масла (совместно с Украиной). **Сахарная свёкла**: важный европейский производитель. **Ячмень**: 2-е место в мире по экспорту. **Горох**: в числе ведущих экспортёров.\n\nЭта аграрная мощь относительно недавняя и опирается на несколько факторов: огромные доступные площади (120 миллионов гектаров пашни — четвёртый запас в мире), улучшение семян и средств производства, и агроиндустрия, сменившая проблемные колхозы.\n\n**Агрохолдинги** — акционерные общества на несколько сотен тысяч гектаров, оснащённые передовой техникой — в значительной мере заменили небольшие семейные хозяйства."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Сельское хозяйство — мировая житница». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Дача как сохраняющееся натуральное хозяйство",
+        "body": "Несмотря на подъём агроиндустрии, натуральное огородничество на дачах остаётся значимым. По оценкам, дачные огороды и садовые участки производят около **40% потребляемых овощей** и **80% картофеля** в российских домохозяйствах.\n\nЭто натуральное хозяйство глубоко связано с психологией российского «запасного плана» — иметь свой огород это страховка от экономических кризисов, перебоев в снабжении или санкций. Память о 1990-х, когда дачи буквально кормили семьи, ещё жива.\n\n**Рынок семян** — вопрос суверенитета. С 2022 года Россия стремится снизить зависимость от импортных гибридных семян (Bayer-Monsanto, Syngenta). Запущена экстренная программа отечественной селекции — но технологическое отставание реально и трудно восполнимо быстро."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Сельское хозяйство — мировая житница» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Есть по-русски — злак в каждой тарелке",
+        "body": "Пшеница и злаки присутствуют в русской кухне повсеместно — куда больше, чем во Франции. **Ржаной хлеб**, **каша** (гречневая, перловая, ячневая), **пирожки** (с мясом или капустой) и **блины** (гречневые) — всё это из злаков и псевдозлаков, которые российское сельское хозяйство производит в изобилии.\n\n**Гречка** — пожалуй, самый знаковый злак русской кухни. Ни пшеница, ни рис, а псевдозлаковая культура азиатского происхождения, возделываемая в России тысячелетиями. Гречка для России — что рис для Японии: центральное блюдо, еда-утешение, аварийный запас. В 2020 году, когда пришёл COVID-19, россияне массово закупали... гречку.\n\n**Подсолнечное масло** — универсальное кулинарное масло в России, используемое для всего: от жарки до заправки. Доступная цена (Россия — крупнейший в мире производитель) делает его базовым продуктом для всех уровней дохода."
       }
     ],
     "conseil_ami": {
-      "title": "Совет путешественника",
+      "title": "Совет путешественника 🤝",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Сельское хозяйство — мировая житница» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Обсуждая сельское хозяйство с россиянами**, упомяните своё знакомство с чернозёмом — гордость за эту исключительную почву искренняя. Российское сельское хозяйство — позитивная и консенсусная тема, далёкая от политических противоречий.\n\n**Хорошая тема для разговора**: сравнить русскую и французскую крестьянскую гастрономию. Обе культуры высоко ценят местные продукты, сезонность — пусть и разные.\n\n**О продовольственном суверенитете**: французы прекрасно понимают это понятие (дискуссии о ГМО, фермерских семенах, ЕСП). Россияне разделяют эту чувствительность — неожиданная общая почва."
     },
     "glossary": [
       {
-        "term": "Сельское хозяйство — мировая житница",
-        "definition": "Центральное понятие этого урока — сельское хозяйство — мировая житница в контексте современной России."
+        "term": "Чернозём",
+        "definition": "Чёрная земля — исключительно плодородная почва площадью 1 млн км² между югом России и Украиной. Один из ценнейших аграрных ресурсов мира."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Кулак",
+        "definition": "Зажиточный крестьянин-собственник в царской России. Физически уничтожен или депортирован в ходе сталинской принудительной коллективизации 1930-х."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Агрохолдинги",
+        "definition": "Крупные российские агропромышленные предприятия — акционерные общества на сотни тысяч гектаров. Сменили проблемные колхозы."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Гречка",
+        "definition": "Гречневая крупа — знаковый злак русской кухни, еда-утешение и аварийный запас. Россия — один из крупнейших мировых производителей."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Зерновая сделка по Чёрному морю",
+        "definition": "Соглашение ООН–Россия–Украина–Турция (июль 2022), разрешившее украинский зерновой экспорт. Приостановлено Россией в июле 2023."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Голодомор",
+        "definition": "Искусственный украинский голод 1932–33 годов, вызванный принудительной коллективизацией. 5–7 миллионов жертв. Признан геноцидом многими странами."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Кубань",
+        "definition": "Сельскохозяйственный регион на юге России (Краснодар) — «житница России». Земли с чернозёмом — одни из плодороднейших в мире."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Ржаной хлеб",
+        "definition": "Ржаной хлеб — базовый продукт русской кухни на протяжении тысячелетий. Плотный, слегка кисловатый, очень питательный."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Сельское хозяйство — мировая житница». Какова медианная зарплата в России?",
+        "question": "Какое место занимает Россия в мировом экспорте пшеницы?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "Третье, после США и ЕС",
+          "Второе, после США",
+          "Первый мировой экспортёр",
+          "Пятое, после Канады, Австралии, США, ЕС"
+        ],
+        "answer": 0,
+        "explanation": "С 2016 года Россия — крупнейший в мире экспортёр пшеницы, опередив США, ЕС и Канаду. Её экспорт составляет около 20% мировой торговли."
+      },
+      {
+        "question": "Что такое чернозём?",
+        "options": [
+          "Вид российского угля",
+          "Исключительно плодородная почва (чёрная земля), покрывающая юг России и Украину",
+          "Советское химическое удобрение",
+          "Морозостойкий сорт российской пшеницы"
+        ],
+        "answer": 1,
+        "explanation": "Чернозём — одна из плодороднейших почв в мире, формировавшаяся миллионы лет из разложившихся степных трав. Занимает 1 млн км² между югом России и Украиной."
+      },
+      {
+        "question": "Какой злак является для русской кухни тем, чем рис для японской — центральным блюдом и аварийным запасом?",
+        "options": [
+          "Пшеница",
+          "Ячмень",
+          "Гречка",
+          "Рожь"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "Гречка — самый знаковый злак русской кухни: повсеместная еда-утешение и аварийный запас. Во время COVID-19 в 2020 году россияне массово закупали гречку."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Как Россия использовала пшеницу в качестве геополитического рычага в 2023 году?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Запретив весь экспорт",
+          "Приостановив зерновую сделку по Чёрному морю, разрешавшую украинский экспорт",
+          "Снизив цены для конкуренции с США",
+          "Создав картель с другими странами-производителями"
+        ],
+        "answer": 1,
+        "explanation": "В июле 2023 года Россия приостановила зерновую сделку по Чёрному морю (ООН–Россия–Украина–Турция), угрожая продовольственной безопасности десятков стран-импортёров."
+      },
+      {
+        "question": "Какую долю российских овощей по-прежнему производят дачные огороды?",
+        "options": [
+          "5%",
+          "15%",
+          "40%",
+          "70%"
         ],
         "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
-        ],
-        "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
-      },
-      {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
-        "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
-        ],
-        "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
-      },
-      {
-        "question": "Какой главный разлом структурирует современное российское общество?",
-        "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
-        ],
-        "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "Дачные огороды по-прежнему производят около 40% потребляемых овощей и 80% картофеля в российских домохозяйствах — сохраняющееся натуральное хозяйство, связанное с памятью о кризисах."
       }
     ]
   }

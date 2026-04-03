@@ -4,12 +4,20 @@
     "lesson_id": 1,
     "module_icon": "🏠",
     "lesson_icon": "🏢",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "estimated_minutes": 13,
+    "difficulty": "débutant",
     "sources": [
       {
         "label": "Encyclopædia Universalis — Russie",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "France Diplomatie — Russie",
+        "url": "https://www.diplomatie.gouv.fr/fr/dossiers-pays/russie/"
+      },
+      {
+        "label": "Routard — Russie pratique",
+        "url": "https://www.routard.com/guide/russie/"
       }
     ]
   },
@@ -17,139 +25,139 @@
     "module_title": "La Vie Quotidienne",
     "lesson_title": "Le Logement russe",
     "lesson_subtitle": "Appartements soviétiques et vie en communauté",
-    "intro": "Cette leçon explore le logement russe dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "Le logement est le miroir le plus fidèle de la société russe. Les immeubles en béton soviétiques qui couvrent les banlieues de toutes les grandes villes russes ne sont pas seulement de l'architecture — ils sont le produit d'une philosophie sociale, d'une période historique et d'un rapport à l'espace collectif radicalement différent du modèle français. Comprendre comment les Russes vivent chez eux, c'est comprendre une grande part de leur psychologie quotidienne.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de le logement russe",
-        "body": "La thématique de le logement russe s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "L'histoire du logement soviétique — les Khrouchtchevki",
+        "body": "Le défi du logement soviétique est colossal. En 1917, la Russie est un pays majoritairement rural ; en 1960, des dizaines de millions de paysans ont migré vers les villes industrielles. Les construire un logement décent rapidement est une urgence politique.\n\nLa réponse de **Khrouchtchev** (années 1955-1965) est radicale : construction à la chaîne de petits immeubles en béton préfabriqué de 4 à 5 étages, sans ascenseur, avec des appartements miniatures (25-45 m²) mais dotant chaque famille d'un logement indépendant pour la première fois. Ces immeubles sont surnommés **khrouchtchevki** (хрущёвки) — du nom du dirigeant — ou familièrement *khrouchtchoby* (хрущёбы, mot-valise entre «Khrouchtchev» et *trouchtchoby* = taudis).\n\nMalgré leur confort minimaliste, les khrouchtchevki représentent une révolution sociale réelle : des millions de familles quittent les **kommunalki** (коммуналки — appartements communautaires où plusieurs familles partageaient cuisine et sanitaires) pour un logement privé. Cette privacy retrouvée est vécue comme un progrès immense."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "La géographie du logement russe — centre vs périphérie",
+        "body": "La valeur du logement russe suit une logique concentrique parfaitement lisible dans les villes. À **Moscou**, l'appartement dans le **Garden Ring** (Садовое кольцо) vaut 5 à 10 fois plus qu'un appartement identique dans une tour de la **MKAD** (périphérique). Cette logique s'explique : le centre concentre les meilleures infrastructures, les meilleurs restaurants, les musées, les espaces verts, les lignes de métro.\n\nLes **arrondissements moscovites** ont des identités très marquées : le **Kitaï-gorod** et **Arbat** = quartiers historiques et touristiques ; **Taganka** et **Zamoskvorechye** = ancien quartier marchand, maintenant branché ; **Khamovniki** = résidentiel et huppé ; **Chabad** (Sabadino) = banlieue ouvrière soviétique.\n\nEn province, la situation est radicalement différente : dans de nombreuses villes de 100 000 à 500 000 habitants, les appartements se vendent 20 à 50 fois moins cher qu'à Moscou. Ces villes souffrent de l'exode massif vers les métropoles — phénomène qui s'accélère chaque décennie et vide progressivement la Russie profonde."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de le logement russe est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "Le rapport à la propriété — héritage soviétique",
+        "body": "La relation des Russes à la propriété immobilière est complexe et marquée par l'histoire. Sous l'URSS, les logements appartiennent à l'État — on les «occupe» en échange d'un loyer symbolique, mais on ne les possède pas. La **loi de privatisation de 1991** permet à tous les occupants de devenir propriétaires de leur logement gratuitement — une redistribution massive de la richesse immobilière.\n\nAujourd'hui, la Russie a l'un des **taux de propriété immobilière les plus élevés au monde** — environ **89%** des logements appartiennent à leurs occupants (contre 57% en France). Ce taux élevé est en partie un héritage de la privatisation gratuite de 1991, et en partie une préférence culturelle profonde : posséder son logement est une sécurité psychologique fondamentale dans un pays habitué aux crises économiques.\n\nLa **copropriété** (товарищество собственников жилья — TSJ) est une institution encore fragile en Russie : la gestion collective des immeubles est souvent conflictuelle. Les charges de copropriété (*komounalka* — коммуналка, désormais dans le sens de charges communes) incluent chauffage, eau, ascenseur, entretien — souvent gérés par des sociétés de services municipales peu réactives."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de le logement russe, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "Vivre dans un appartement russe — codes pratiques",
+        "body": "L'appartement russe ordinaire a ses propres codes spatiaux. L'**entrée** (*prikhozhaya*, прихожая) est un espace de décompression essentiel — on enlève ses chaussures systématiquement en entrant. Laisser ses chaussures est une règle d'or : le parquet russe est traité avec soin, et apporter la saleté de la rue est une impolitesse grave. On vous proposera des **pantoufles** (*tapochki*, тапочки) — acceptez-les.\n\nLa **cuisine** (*kukhnia*, кухня) est, comme évoqué dans le module 4, l'espace de conversation le plus intime. Les appartements soviétiques ont de petites cuisines (6-9 m²) qui concentrent souvent table, chaises et longues conversations nocturnes. Les appartements contemporains ont des cuisines ouvertes sur le salon — un changement culturel récent.\n\nLe **balcon** (*balkon*, балкон) est précieux : dans les petits appartements, il sert de débarras supplémentaire, de cave à vins improvisée (l'hiver sibérien est le meilleur congélateur du monde), de jardin miniature en été et parfois d'espace fumeurs. Un Russe sans balcon est souvent malheureux."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre le logement russe. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "L'architecture soviétique comme patrimoine culturel",
+        "body": "Un regard de plus en plus nombreux reconsidère l'architecture soviétique, longtemps méprisée, comme un patrimoine culturel précieux. Les **«staliniennes»** (*stalinskiye doma*, сталинские дома) — immeubles en pierre de 6 à 12 étages construits dans les années 1930-1950 avec leurs ornements néoclassiques, leurs hauts plafonds et leurs vastes entrées — sont devenus les logements les plus prisés des grandes villes russes.\n\nLes **tours de Moscou** (*vysotki*, высотки — «les hautes») — les sept gratte-ciels staliniens construits entre 1947 et 1957 à Moscou, dont l'Université d'État MSU et l'Hôtel Ukraïna — sont des icônes architecturales uniques, mélange de gothique américain et de baroque soviétique.\n\nLe mouvement du **«constructivisme soviétique»** (années 1920-1930) — Le Corbusier a été directement influencé par les constructivistes russes Melnikov, Ginzburg et Leonidov — est de plus en plus reconnu comme une contribution majeure à l'architecture moderne mondiale. Des bâtiments constructivistes à Moscou et Saint-Pétersbourg font l'objet de classements patrimoniaux et attirent des visiteurs du monde entier."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à le logement russe à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Accueillir chez soi — les codes de l'hospitalité domestique",
+        "body": "Être invité chez un Russe est une expérience particulière qui demande quelques codes. L'appartement sera probablement **petit par rapport aux standards français** — ne montrez aucune surprise ou inconfort. La qualité de l'accueil n'est pas liée à la taille du logement.\n\nOn vous proposera de vous **asseoir à la table de la cuisine ou du salon** immédiatement. Refuser de vous asseoir et de manger est difficile — si vous n'avez pas faim, dites «juste un peu, merci» (*nemnogo, spasibo* — немного, спасибо). La table sera abondamment garnie — sortir les meilleures choses pour l'invité est une règle d'or.\n\nQuand vous partez, attendez-vous à une longue séquence d'au revoir : les Russes raccompagnent souvent leurs invités jusqu'à l'ascenseur, puis dans le hall, puis parfois jusqu'à la porte de l'immeuble. Cette ritualisation du départ est une marque de respect — ne soyez pas pressé de partir."
       }
     ],
     "conseil_ami": {
-      "title": "Le Conseil du Voyageur",
+      "title": "Le Conseil du Voyageur 🤝",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder le logement russe avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Si vous êtes invité dans un appartement russe**, ôtez toujours vos chaussures sans attendre qu'on vous le demande — cela montrera immédiatement que vous connaissez les codes. C'est un geste simple mais très apprécié.\n\n**Ne commentez pas la taille de l'appartement**. Les appartements russes sont souvent petits par rapport aux standards français, mais leur propriétaire en est fier. Un commentaire sur l'exiguïté — même positif — sera maladroit.\n\n**Les staliniennes** sont le Saint-Graal du logement moscovite — si votre hôte habite dans une sталинка avec de hauts plafonds et de belles moulures, complimentez-le. C'est le signe d'un standing social réel et d'un attachement à la beauté architecturale."
     },
     "glossary": [
       {
-        "term": "Le Logement russe",
-        "definition": "Concept central de cette leçon — le logement russe dans le contexte de la Russie contemporaine."
+        "term": "Khrouchtchevki (Хрущёвки)",
+        "definition": "Petits immeubles en béton préfabriqué construits sous Khrouchtchev (1955-65). 4-5 étages, sans ascenseur, appartements de 25-45 m²."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Kommunalka (Коммуналка)",
+        "definition": "Appartement communautaire soviétique où plusieurs familles partageaient cuisine et sanitaires. Aujourd'hui désigne aussi les charges de copropriété."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Tapochki (Тапочки)",
+        "definition": "Pantoufles proposées aux invités en entrant dans un appartement russe. Ôter ses chaussures est une règle sociale fondamentale."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Stalinskaïa (Сталинская)",
+        "definition": "Immeuble en pierre des années 1930-50, avec hauts plafonds et ornements néoclassiques. Les logements les plus prisés des grandes villes russes."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Vysotki (Высотки)",
+        "definition": "Sept gratte-ciels staliniens construits à Moscou en 1947-1957. Mélange de gothique américain et de baroque soviétique. Icônes de Moscou."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "TSJ (ТСЖ)",
+        "definition": "Товарищество собственников жилья — copropriété russe. Institution encore fragile, gestion collective souvent conflictuelle."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Constructivisme soviétique",
+        "definition": "Mouvement architectural des années 1920-30 (Melnikov, Ginzburg). A influencé directement Le Corbusier. Patrimoine mondial croissant."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Prikhozhaya (Прихожая)",
+        "definition": "L'entrée de l'appartement — espace de transition essentiel. C'est là qu'on ôte ses chaussures et qu'on reçoit les tapochki."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Le Logement russe'. Quel est le salaire médian en Russie ?",
+        "question": "Comment s'appellent les petits immeubles en béton construits sous Khrouchtchev ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "Les stalinkas",
+          "Les khrouchtchevki",
+          "Les brezhnevki",
+          "Les kommunalki"
+        ],
+        "answer": 1,
+        "explanation": "Les khrouchtchevki sont les petits immeubles préfabriqués de 4-5 étages construits en série sous Khrouchtchev (1955-65). Malgré leur confort minimaliste, ils ont sorti des millions de familles des kommunalki."
+      },
+      {
+        "question": "Quel est le taux de propriété immobilière en Russie ?",
+        "options": [
+          "40%",
+          "57% (comme en France)",
+          "89%",
+          "Quasi 100%"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "La Russie a un taux de propriété d'environ 89% — parmi les plus élevés au monde. Cela s'explique par la privatisation gratuite des logements d'État en 1991 et par la préférence culturelle pour posséder son logement."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Quel code social fondamental s'applique en entrant dans un appartement russe ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Apporter des fleurs à l'hôtesse",
+          "Ôter ses chaussures et accepter des pantoufles (tapochki)",
+          "Se laver les mains immédiatement",
+          "Dire une formule de bienvenue spécifique"
+        ],
+        "answer": 1,
+        "explanation": "Ôter ses chaussures en entrant dans un appartement russe est une règle sociale absolue. L'hôte proposera des tapochki (pantoufles). Ne pas respecter cette règle est une impolitesse grave."
+      },
+      {
+        "question": "Quel architecte français a été directement influencé par les constructivistes russes ?",
+        "options": [
+          "Haussmann",
+          "Le Corbusier",
+          "Gustave Eiffel",
+          "Jean Nouvel"
+        ],
+        "answer": 1,
+        "explanation": "Le Corbusier a été directement influencé par les constructivistes russes Melnikov, Ginzburg et Leonidov dans les années 1920-30. Le constructivisme soviétique est une contribution majeure à l'architecture moderne mondiale."
+      },
+      {
+        "question": "Quelle partie de l'appartement russe est traditionnellement l'espace de conversation le plus intime ?",
+        "options": [
+          "Le salon",
+          "La chambre à coucher",
+          "La cuisine",
+          "Le balcon"
         ],
         "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
-        ],
-        "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
-      },
-      {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
-        "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
-        ],
-        "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
-      },
-      {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
-        "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
-        ],
-        "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "La cuisine russe est l'espace de conversation le plus intime — phénomène lié en partie aux petits appartements soviétiques et à la culture de la confiance partagée autour d'un repas simple."
       }
     ]
   },
@@ -157,139 +165,139 @@
     "module_title": "Повседневная жизнь",
     "lesson_title": "Жильё в России",
     "lesson_subtitle": "Советские квартиры и коллективный быт",
-    "intro": "Этот урок посвящён теме «Жильё в России» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Жильё — самое точное зеркало российского общества. Советские бетонные дома, покрывающие окраины всех крупных российских городов, — не просто архитектура. Это продукт социальной философии, исторического периода и отношения к коллективному пространству, радикально отличного от французской модели. Понять, как россияне живут дома, — значит понять большую часть их повседневной психологии.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Жильё в России»",
-        "body": "Тема «Жильё в России» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "История советского жилья — хрущёвки",
+        "body": "Жилищная проблема в СССР колоссальна. В 1917 году Россия — преимущественно аграрная страна; к 1960 году десятки миллионов крестьян переселились в промышленные города. Быстро обеспечить их достойным жильём — политическая неотложность.\n\nОтвет **Хрущёва** (1955–1965) радикален: поточное строительство небольших панельных домов 4–5 этажей без лифта с крошечными квартирами (25–45 м²), но дающих каждой семье впервые отдельное жильё. Эти дома прозваны **хрущёвками** — по имени вождя — или фамильярно *хрущёбами* (слово-гибрид «Хрущёв» + *трущобы* = трущобы).\n\nНесмотря на минималистичный комфорт, хрущёвки — подлинная социальная революция: миллионы семей перебираются из **коммуналок** (квартир, где несколько семей делили кухню и санузел) в отдельное жильё. Это обретение приватности воспринималось как огромный прогресс."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "География российского жилья — центр против периферии",
+        "body": "Стоимость российского жилья следует идеально читаемой концентрической логике. В **Москве** квартира в **Садовом кольце** стоит в 5–10 раз дороже идентичной квартиры в башне у **МКАД**. Эта логика объяснима: центр концентрирует лучшую инфраструктуру, лучшие рестораны, музеи, парки, линии метро.\n\n**Московские районы** имеют яркие идентичности: **Китай-город** и **Арбат** — исторические туристические кварталы; **Таганка** и **Замоскворечье** — бывший купеческий квартал, ныне модный; **Хамовники** — респектабельный жилой.\n\nВ провинции ситуация радикально иная: во многих городах от 100 000 до 500 000 жителей квартиры продаются в 20–50 раз дешевле, чем в Москве. Эти города страдают от массового оттока в мегаполисы — явления, ускоряющегося каждое десятилетие."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Жильё в России» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Отношение к собственности — советское наследие",
+        "body": "Отношение россиян к недвижимости сложное и отмеченное историей. В СССР жильё принадлежит государству: его «занимают» за символическую аренду, но не владеют. **Закон о приватизации 1991 года** позволяет всем жильцам стать собственниками бесплатно — масштабное перераспределение жилищного богатства.\n\nСегодня Россия — один из **мировых лидеров по доле собственников жилья**: около **89%** жилья принадлежит жильцам (против 57% во Франции). Этот высокий показатель — отчасти наследие бесплатной приватизации 1991-го, отчасти глубокое культурное предпочтение: иметь собственное жильё — фундаментальная психологическая безопасность в стране, привыкшей к экономическим кризисам.\n\n**ТСЖ** (товарищество собственников жилья) — ещё хрупкий институт: коллективное управление домами нередко конфликтно. Коммунальные платежи включают отопление, воду, лифт, содержание — часто управляемые малоотзывчивыми муниципальными службами."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Жильё в России» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Жизнь в российской квартире — практические коды",
+        "body": "Обычная российская квартира имеет свои пространственные коды. **Прихожая** — обязательное пространство перехода: обувь снимают систематически при входе. Оставить обувь — золотое правило: паркет содержится в порядке, и принести уличную грязь — серьёзная бестактность. Вам предложат **тапочки** — примите их.\n\n**Кухня** — как уже говорилось в модуле 4 — самое интимное пространство разговора. Советские квартиры имеют маленькие кухни (6–9 м²), где нередко сосредоточены стол, стулья и долгие ночные беседы. В современных квартирах кухни открыты на гостиную — недавнее культурное изменение.\n\n**Балкон** ценен: в небольших квартирах он служит дополнительной кладовкой, импровизированным погребом (сибирская зима — лучший в мире морозильник), летним мини-садом и иногда местом для курения. Россиянин без балкона нередко несчастен."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Жильё в России». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Советская архитектура как культурное наследие",
+        "body": "Всё больше взглядов пересматривает советскую архитектуру, долго пренебрегаемую, как ценное культурное наследие. **«Сталинки»** — каменные дома 6–12 этажей 1930–1950-х с неоклассическим декором, высокими потолками и просторными подъездами — стали наиболее ценимым жильём крупных российских городов.\n\n**Московские высотки** — семь сталинских небоскрёбов 1947–1957 годов, в том числе МГУ и гостиница «Украина» — уникальные архитектурные иконы: смесь американской готики и советского барокко.\n\nДвижение **советского конструктивизма** (1920–1930-е) — Ле Корбюзье был непосредственно вдохновлён русскими конструктивистами Мельниковым, Гинзбургом и Леонидовым — всё больше признаётся значимым вкладом в мировую современную архитектуру."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Жильё в России» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Принимать дома — коды домашнего гостеприимства",
+        "body": "Быть приглашённым в гости к россиянину — особый опыт, требующий нескольких кодов. Квартира, вероятно, будет **маленькой по французским меркам** — не проявляйте удивления или дискомфорта. Качество приёма не зависит от размера жилья.\n\nВас сразу же предложат **сесть за кухонный или гостиный стол**. Отказаться сесть и угоститься трудно — если не голодны, скажите «немного, спасибо». Стол будет щедро накрыт: выставить лучшее для гостя — золотое правило.\n\nКогда уходите, ожидайте долгую церемонию прощания: россияне часто провожают гостей до лифта, затем в подъезд, иногда до двери дома. Эта ритуализация прощания — знак уважения: не торопитесь уходить."
       }
     ],
     "conseil_ami": {
-      "title": "Совет путешественника",
+      "title": "Совет путешественника 🤝",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Жильё в России» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Если вас приглашают в российскую квартиру** — снимайте обувь, не дожидаясь просьбы: это немедленно покажет, что вы знаете коды. Простой жест, но очень ценимый.\n\n**Не комментируйте размер квартиры**. Российские квартиры нередко меньше французских, но их хозяин ими гордится. Комментарий о тесноте — даже позитивный — будет неловким.\n\n**Сталинки** — святой Грааль московского жилья. Если хозяин живёт в сталинке с высокими потолками и красивой лепниной — похвалите. Это знак реального социального статуса и любви к архитектурной красоте."
     },
     "glossary": [
       {
-        "term": "Жильё в России",
-        "definition": "Центральное понятие этого урока — жильё в россии в контексте современной России."
+        "term": "Хрущёвки",
+        "definition": "Небольшие панельные дома, построенные при Хрущёве (1955–65). 4–5 этажей, без лифта, квартиры 25–45 м²."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Коммуналка",
+        "definition": "Советская коммунальная квартира, где несколько семей делили кухню и санузел. Сегодня также обозначает коммунальные платежи."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Тапочки",
+        "definition": "Тапочки, предлагаемые гостям при входе в российскую квартиру. Снять обувь — фундаментальное социальное правило."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Сталинка",
+        "definition": "Каменный дом 1930–50-х с высокими потолками и неоклассическим декором. Наиболее ценимое жильё в крупных российских городах."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Высотки",
+        "definition": "Семь сталинских небоскрёбов, построенных в Москве в 1947–1957 годах. Смесь американской готики и советского барокко. Иконы Москвы."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "ТСЖ (Товарищество собственников жилья)",
+        "definition": "Российская форма совместного управления многоквартирным домом. Ещё хрупкий институт, коллективное управление нередко конфликтно."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Советский конструктивизм",
+        "definition": "Архитектурное движение 1920–30-х (Мельников, Гинзбург). Непосредственно повлияло на Ле Корбюзье. Растущее мировое наследие."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Прихожая",
+        "definition": "Прихожая квартиры — обязательное переходное пространство. Здесь снимают обувь и получают тапочки."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Жильё в России». Какова медианная зарплата в России?",
+        "question": "Как называются небольшие панельные дома, построенные при Хрущёве?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "Сталинки",
+          "Хрущёвки",
+          "Брежневки",
+          "Коммуналки"
+        ],
+        "answer": 1,
+        "explanation": "Хрущёвки — небольшие сборные дома 4–5 этажей, строившиеся поточно при Хрущёве (1955–65). Несмотря на минималистичный комфорт, они вывели миллионы семей из коммуналок."
+      },
+      {
+        "question": "Какова доля собственников жилья в России?",
+        "options": [
+          "40%",
+          "57% (как во Франции)",
+          "89%",
+          "Почти 100%"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "В России около 89% жилья принадлежит жильцам — один из самых высоких показателей в мире. Это объясняется бесплатной приватизацией государственного жилья в 1991 году и культурным предпочтением иметь собственную квартиру."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Какое фундаментальное социальное правило действует при входе в российскую квартиру?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Принести цветы хозяйке",
+          "Снять обувь и надеть тапочки",
+          "Немедленно вымыть руки",
+          "Произнести особую приветственную формулу"
+        ],
+        "answer": 1,
+        "explanation": "Снять обувь при входе в российскую квартиру — абсолютное социальное правило. Хозяин предложит тапочки. Несоблюдение этого правила — серьёзная бестактность."
+      },
+      {
+        "question": "Какой французский архитектор был непосредственно вдохновлён русскими конструктивистами?",
+        "options": [
+          "Осман",
+          "Ле Корбюзье",
+          "Гюстав Эйфель",
+          "Жан Нувель"
+        ],
+        "answer": 1,
+        "explanation": "Ле Корбюзье был непосредственно вдохновлён русскими конструктивистами Мельниковым, Гинзбургом и Леонидовым в 1920–30-е годы. Советский конструктивизм — значимый вклад в мировую современную архитектуру."
+      },
+      {
+        "question": "Какое пространство российской квартиры традиционно является самым интимным для разговора?",
+        "options": [
+          "Гостиная",
+          "Спальня",
+          "Кухня",
+          "Балкон"
         ],
         "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
-        ],
-        "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
-      },
-      {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
-        "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
-        ],
-        "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
-      },
-      {
-        "question": "Какой главный разлом структурирует современное российское общество?",
-        "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
-        ],
-        "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "Российская кухня — самое интимное пространство для разговора: явление, связанное отчасти с небольшими советскими квартирами и культурой доверия, разделяемого за простой едой."
       }
     ]
   }

@@ -4,12 +4,16 @@
     "lesson_id": 3,
     "module_icon": "🛢️",
     "lesson_icon": "🪙",
-    "estimated_minutes": 12,
+    "estimated_minutes": 13,
     "difficulty": "intermédiaire",
     "sources": [
       {
         "label": "Encyclopædia Universalis — Russie",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "Le Monde — Économie russe",
+        "url": "https://www.lemonde.fr/russie/"
       }
     ]
   },
@@ -17,139 +21,139 @@
     "module_title": "L'Économie Russe",
     "lesson_title": "Le Rouble, les Banques et les Oligarques",
     "lesson_subtitle": "Système financier et grandes fortunes",
-    "intro": "Cette leçon explore le rouble, les banques et les oligarques dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "L'histoire financière de la Russie post-soviétique est l'une des plus spectaculaires et des plus douloureuses de l'économie mondiale moderne. En trente ans, le pays a connu une hyperinflation dévastatrice, la naissance fulminante d'oligarques milliardaires, plusieurs crises monétaires majeures et, depuis 2022, les sanctions financières les plus importantes jamais imposées à une économie de cette taille.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de le rouble, les banques et les oligarques",
-        "body": "La thématique de le rouble, les banques et les oligarques s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "La naissance des oligarques — privatisations et pillage",
+        "body": "La Russie post-soviétique a vécu l'une des plus grandes redistributions de richesses de l'histoire humaine. Entre 1992 et 1998, les grandes entreprises d'État soviétiques — pétrole, gaz, métaux, télécommunications, médias — ont été vendues à des prix dérisoires dans le cadre d'un programme de privatisation chaotique.\n\nLe mécanisme le plus scandaleux est celui des **«prêts contre actions»** (*zalogovye auktsiony*, 1995-1996) : l'État, à court de liquidités, accepte des prêts de banques privées en échangeant des actions d'entreprises d'État comme garantie. Quand l'État ne peut pas rembourser (comme prévu), les banques — dont les propriétaires sont des proches du pouvoir — gardent les actions. C'est ainsi que Khodorkovsky a obtenu Ioukos pour 350 millions de dollars — une entreprise qui valait des dizaines de milliards.\n\nCes privatisations ont créé en quelques années un groupe d'ultra-riches sans équivalent historique : au pic de 1997, les sept premiers oligarques contrôlaient 50% du PIB russe. Cette concentration extrême a nourri le ressentiment populaire et, paradoxalement, légitimé dans l'opinion la politique de Poutine de reprise en main."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Le rouble — une monnaie traumatisée",
+        "body": "L'histoire du rouble depuis 1991 est une succession de crises qui ont traumatisé plusieurs générations de Russes. En **1992**, la libéralisation des prix («thérapie de choc») provoque une **hyperinflation de 2 500%** — en quelques mois, les économies d'une vie entière de millions de Russes s'évaporent. Les retraités qui avaient mis de côté l'équivalent de plusieurs années de salaire se retrouvent avec de quoi acheter quelques paquets de cigarettes.\n\nEn **août 1998**, la crise financière russe : le gouvernement dévalue le rouble, fait défaut sur sa dette publique et gèle les comptes bancaires. Le rouble perd 75% de sa valeur en quelques semaines. Des milliers d'entreprises font faillite. La confiance dans les banques russes, déjà faible, s'effondre complètement — beaucoup de Russes gardent encore leurs économies en dollars ou euros, «sous le matelas» ou dans des coffres-forts domestiques.\n\nEn **2014**, nouveau choc : les sanctions après l'annexion de la Crimée et la chute du prix du pétrole provoquent une dévaluation de 50%. En **2022**, troisième choc : le rouble s'effondre à 150 pour 1 dollar en mars, avant de se redresser artificiellement grâce aux contrôles de capitaux. La mémoire collective de ces crises explique beaucoup des comportements financiers des Russes."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de le rouble, les banques et les oligarques est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "Sberbank et le système bancaire russe",
+        "body": "La **Sberbank** (Сбербанк — littéralement «Caisse d'épargne») est la plus grande banque russe, fondée en 1841, à 52% propriété de l'État. Avec 100 millions de clients, elle est omniprésente dans la vie quotidienne russe — virements de salaires, paiement des factures, retraites. Sa carte de débit verte est dans presque tous les portefeuilles russes.\n\nLe système bancaire russe est dominé par des banques d'État : Sberbank, VTB, Gazprombank, Rosselkhozbank (banque agricole). Ces institutions sont bien gérées techniquement — l'application mobile de Sberbank était régulièrement citée comme l'une des meilleures au monde avant 2022. Mais leur indépendance vis-à-vis du Kremlin est nulle.\n\nDepuis 2022, Sberbank et VTB sont exclues du système SWIFT et sous sanctions sévères. Les transferts d'argent entre la France et la Russie sont devenus quasi-impossibles via les circuits bancaires normaux. Des solutions de contournement existent (crypto-monnaies, transferts via des banques de pays non-sanctionnés comme la Turquie ou les Emirats) mais restent complexes."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de le rouble, les banques et les oligarques, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "Oligarques — qui sont-ils vraiment ?",
+        "body": "Le mot «oligarque» (*oligarkh*, олигарх) est devenu un cliché occidental pour désigner tout Russe très riche. La réalité est plus nuancée. Il faut distinguer au moins trois générations.\n\nLes **oligarques des années 1990** (Ieltsine) : Khodorkovsky (Ioukos), Gousinsky (NTV), Berezovsky (ORT, Sibneft), Friedman (Alfa Bank), Abramovitch (Chelsea FC) — ont acquis leurs fortunes via les privatisations. Certains ont financé des médias indépendants, d'autres ont fui en exil (Berezovsky mort à Londres, Gousinsky à Tel Aviv).\n\nLes **oligarques des années 2000** (Poutine) : nouveaux riches liés directement au système Poutine — Gennady Timchenko, Arkady Rotenberg, les frères Kovalchuk. Ces personnages, moins connus du public occidental, sont souvent des proches personnels de Poutine (ses anciens collègues du KGB de Saint-Pétersbourg).\n\nDepuis 2022, les oligarques ont subi les sanctions occidentales — yachts saisis, propriétés gelées. Plusieurs ont péri dans des «accidents» mystérieux (chutes de fenêtres, malaises soudains). L'expression «fenêtre russe» est devenue une expression macabre dans les médias occidentaux."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre le rouble, les banques et les oligarques. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "La culture du cash et de la méfiance bancaire",
+        "body": "L'histoire traumatique du rouble et du système bancaire russe a laissé une empreinte culturelle durable : **la méfiance envers les banques et la préférence pour le cash**. Cette méfiance n'est pas irrationnelle — elle est le résultat d'expériences collectives réelles où les dépôts bancaires ont été gelés, dévalués ou perdus.\n\nAujourd'hui encore, une partie significative des Russes — notamment les plus âgés — garde une portion de leur épargne en devises étrangères (dollars, euros) sous forme de billets, à la maison. L'expression populaire «держать деньги в чулке» (*derzhat' dengi v tchouike* — garder l'argent dans le bas) décrit cette pratique.\n\nParadoxalement, les jeunes Russes urbains sont parmi les utilisateurs les plus avancés des services bancaires numériques — l'application Sberbank, les paiements sans contact, le porte-monnaie électronique. Cette coexistence entre méfiance ancestrale et adoption numérique est une des nombreuses contradictions fascinantes de la Russie contemporaine."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à le rouble, les banques et les oligarques à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Manger avec l'argent russe — prix et pourboires",
+        "body": "Le système de pourboires en Russie est différent de la France. Laisser un pourboire n'est pas une obligation sociale absolue — en URSS, il n'existait pas — mais la pratique s'est généralisée dans les restaurants des grandes villes depuis les années 2000. La norme est de **10% du montant** pour un bon service, parfois 15% dans les établissements haut de gamme.\n\nLe paiement par **carte bancaire** est très répandu à Moscou et dans les grandes villes — même dans les taxis et chez certains vendeurs de rue. Mais dans les petites villes et les marchés, le cash reste roi. Depuis 2022, les cartes étrangères sont inutilisables — même les cartes «internationales» des banques russes (Visa/Mastercard) ne fonctionnent plus à l'étranger.\n\nUne curiosité : le **service charge** (frais de service) est parfois ajouté automatiquement à l'addition dans les restaurants moscovites. Contrairement à la France où c'est inclus, ce frais est ici supplémentaire. Regardez attentivement votre addition avant de laisser un pourboire supplémentaire."
       }
     ],
     "conseil_ami": {
-      "title": "Le Conseil du Voyageur",
+      "title": "Le Conseil du Voyageur 🤝",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder le rouble, les banques et les oligarques avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Si vous discutez de finances avec des Russes**, n'oubliez pas que pour beaucoup, l'argent est un sujet chargé d'anxiété — lié à des traumatismes collectifs réels. Évitez les comparaisons valorisantes ('en France, notre système est plus stable').\n\n**Sur les oligarques** : les Russes eux-mêmes ont des opinions très diverses — certains les admirent comme des entrepreneurs audacieux, d'autres les voient comme des voleurs légalisés. C'est un sujet de débat réel, pas une opinion uniforme.\n\n**Pratiquement** : si vous voyagez en Russie, emportez des euros ou des dollars en espèces. Vous pourrez les changer facilement dans les bureaux de change (обменник) — souvent meilleur taux qu'à l'aéroport."
     },
     "glossary": [
       {
-        "term": "Le Rouble, les Banques et les Oligarques",
-        "definition": "Concept central de cette leçon — le rouble, les banques et les oligarques dans le contexte de la Russie contemporaine."
+        "term": "Zalotgovye auktsiont",
+        "definition": "Prêts contre actions (1995-96) — mécanisme par lequel les oligarques ont acquis des actifs d'État contre des prêts non remboursés. Scandale fondateur."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Sberbank (Сбербанк)",
+        "definition": "Plus grande banque russe, à 52% étatique. 100 millions de clients. Sa carte verte est dans presque tous les portefeuilles russes."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Rouble (Рубль)",
+        "definition": "Monnaie nationale russe. A connu 3 crises majeures (1992, 1998, 2022). Symbolise la méfiance financière de beaucoup de Russes."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Crise de 1998",
+        "definition": "Défaut souverain et dévaluation de 75% du rouble en août 1998. Destruction massive de l'épargne russe. Tournant psychologique majeur."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Khodorkovsky (Ходорковский)",
+        "definition": "PDG de Ioukos, plus riche homme de Russie en 2003. Emprisonné 10 ans après avoir financé l'opposition. Symbole du destin des oligarques indépendants."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "SWIFT",
+        "definition": "Système international de messagerie financière interbancaire. La Russie en a été exclue en 2022, bloquant ses transactions internationales."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Derzhat' dengi v tchouke",
+        "definition": "'Garder l'argent dans le bas' — expression décrivant la méfiance russe envers les banques et la préférence pour le cash en devises."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "VTB",
+        "definition": "Deuxième banque russe, à majorité étatique. Sous sanctions sévères depuis 2022."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Le Rouble, les Banques et les Oligarques'. Quel est le salaire médian en Russie ?",
+        "question": "Comment les oligarques russes ont-ils principalement acquis leurs fortunes ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "En créant des entreprises technologiques innovantes",
+          "Via les privatisations des années 1990 — achat d'actifs d'État à prix dérisoire",
+          "En héritant des fortunes nobles tsaristes",
+          "Par des investissements dans l'immobilier moscovite"
+        ],
+        "answer": 1,
+        "explanation": "La grande majorité des oligarques russes a acquis ses fortunes via les privatisations des années 1990, notamment via le mécanisme des 'prêts contre actions' qui leur a permis d'obtenir des actifs d'État pour des sommes dérisoires."
+      },
+      {
+        "question": "Quel fut le taux d'inflation en Russie en 1992 lors de la libéralisation des prix ?",
+        "options": [
+          "200%",
+          "800%",
+          "2 500%",
+          "5 000%"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "En 1992, la libéralisation des prix ('thérapie de choc') provoqua une hyperinflation de 2 500% — détruisant les économies accumulées de millions de Russes en quelques mois."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Pourquoi les Russes âgés gardent-ils souvent leurs économies en cash à la maison ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Par tradition culturelle soviétique",
+          "Parce que les crises bancaires répétées (1992, 1998, 2022) ont détruit la confiance dans les banques",
+          "Par peur du vol dans les banques",
+          "Pour éviter de payer des impôts"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
+        "explanation": "La méfiance envers les banques est le résultat d'expériences concrètes : hyperinflation de 1992, défaut de 1998, sanctions de 2022. Garder des dollars ou euros à la maison est une réponse rationnelle à un passé traumatique."
       },
       {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
+        "question": "Quel est le lien entre la Sberbank et l'État russe ?",
         "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
+          "La Sberbank est entièrement privée",
+          "L'État détient 52% de la Sberbank via la Banque centrale russe",
+          "La Sberbank est une filiale de Gazprom",
+          "La Sberbank appartient entièrement aux actionnaires étrangers"
         ],
         "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
+        "explanation": "L'État détient 52% de la Sberbank via la Banque centrale de Russie — la rendant techniquement étrangère à la majorité des banques d'État, mais étroitement liée aux politiques du gouvernement."
       },
       {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
+        "question": "Depuis 2022, comment peut-on transférer de l'argent entre la France et la Russie ?",
         "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
+          "Via Sberbank et VTB — rien n'a changé",
+          "C'est devenu quasi-impossible via les circuits bancaires normaux — solutions de contournement via crypto ou banques de pays tiers",
+          "Via PayPal exclusivement",
+          "Via le seul système SPFS russe (équivalent du SWIFT)"
         ],
         "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "L'exclusion de la Russie du SWIFT et les sanctions contre ses principales banques ont rendu les transferts franco-russes quasi-impossibles via les circuits normaux. Des solutions de contournement existent mais sont complexes."
       }
     ]
   },
@@ -157,139 +161,139 @@
     "module_title": "Российская экономика",
     "lesson_title": "Рубль, банки и олигархи",
     "lesson_subtitle": "Финансовая система и крупные состояния",
-    "intro": "Этот урок посвящён теме «Рубль, банки и олигархи» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Финансовая история постсоветской России — одна из наиболее впечатляющих и болезненных в современной мировой экономике. За тридцать лет страна пережила разрушительную гиперинфляцию, стремительное рождение олигархов-миллиардеров, несколько крупных валютных кризисов и — с 2022 года — самые масштабные санкции, когда-либо применявшиеся к экономике такого размера.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Рубль, банки и олигархи»",
-        "body": "Тема «Рубль, банки и олигархи» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Рождение олигархов — приватизация и разграбление",
+        "body": "Постсоветская Россия пережила одно из крупнейших перераспределений богатства в истории человечества. С 1992 по 1998 год крупные советские госпредприятия — нефть, газ, металлы, телекоммуникации, СМИ — продавались за бесценок в рамках хаотичной приватизации.\n\nНаиболее скандальный механизм — **залоговые аукционы** (1995–1996): государство, испытывая нехватку ликвидности, принимало кредиты от частных банков в обмен на акции госпредприятий в качестве залога. Когда государство не могло вернуть долги (как и предполагалось), банки — владельцы которых были приближены к власти — оставляли акции себе. Именно так Ходорковский получил ЮКОС за 350 миллионов долларов — компанию стоимостью в десятки миллиардов.\n\nЗа несколько лет эти приватизации создали группу сверхбогатых без исторических аналогов: в пиковом 1997 году семь первых олигархов контролировали 50% российского ВВП. Эта крайняя концентрация питала народное негодование и — парадоксально — в общественном мнении легитимизировала политику Путина по восстановлению контроля."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Рубль — травмированная валюта",
+        "body": "История рубля с 1991 года — череда кризисов, травмировавших несколько поколений россиян. В **1992 году** либерализация цен («шоковая терапия») вызывает **гиперинфляцию в 2500%** — за несколько месяцев испаряются сбережения целой жизни миллионов россиян. Пенсионеры, отложившие эквивалент нескольких годовых зарплат, остаются с суммой на несколько пачек сигарет.\n\nВ **августе 1998 года** — финансовый кризис: правительство девальвирует рубль, объявляет дефолт по государственному долгу и замораживает банковские счета. Рубль за несколько недель теряет 75% стоимости. Тысячи предприятий банкротятся. Доверие к российским банкам, и без того слабое, рухнуло окончательно — многие россияне по сей день хранят сбережения в долларах или евро «под матрасом» или в домашних сейфах.\n\nВ **2014 году** — новый удар: санкции после аннексии Крыма и падение нефтяных цен провоцируют девальвацию на 50%. В **2022 году** — третий удар: рубль обваливается до 150 за доллар в марте, затем искусственно восстанавливается благодаря валютным ограничениям."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Рубль, банки и олигархи» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Сбербанк и российская банковская система",
+        "body": "**Сбербанк** — крупнейший российский банк, основанный в 1841 году, на 52% принадлежащий государству. С 100 миллионами клиентов он вездесущ в российской повседневности: зарплатные переводы, оплата счетов, пенсии. Его зелёная дебетовая карта лежит практически в каждом российском кошельке.\n\nРоссийская банковская система доминируется государственными банками: Сбербанк, ВТБ, Газпромбанк, Россельхозбанк. Эти институты технически хорошо управляются — мобильное приложение Сбербанка регулярно называлось одним из лучших в мире до 2022 года. Но их независимость от Кремля нулевая.\n\nС 2022 года Сбербанк и ВТБ отключены от SWIFT и находятся под жёсткими санкциями. Денежные переводы между Францией и Россией через обычные банковские каналы стали почти невозможны. Существуют обходные схемы (криптовалюты, переводы через банки несанкционированных стран — Турции, ОАЭ), но они остаются сложными."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Рубль, банки и олигархи» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Олигархи — кто они на самом деле?",
+        "body": "Слово «олигарх» стало западным клише для обозначения любого очень богатого россиянина. Реальность тоньше. Следует различать как минимум три поколения.\n\n**Олигархи 1990-х** (ельцинские): Ходорковский (ЮКОС), Гусинский (НТВ), Березовский (ОРТ, Сибнефть), Фридман (Альфа-банк), Абрамович (Chelsea FC) — нажили состояния через приватизацию. Некоторые финансировали независимые СМИ, другие бежали в эмиграцию.\n\n**Олигархи 2000-х** (путинские): новые богачи, напрямую связанные с путинской системой — Геннадий Тимченко, Аркадий Ротенберг, братья Ковальчук. Эти менее известные западной публике фигуры нередко личные знакомые Путина (бывшие коллеги по КГБ Санкт-Петербурга).\n\nС 2022 года олигархи оказались под западными санкциями — яхты арестованы, собственность заморожена. Несколько погибли при загадочных «несчастных случаях» (падения из окон, внезапные недомогания). Выражение «окно по-русски» стало мрачным каламбуром в западных СМИ."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Рубль, банки и олигархи». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Культура наличных и банковское недоверие",
+        "body": "Травматичная история рубля и банковской системы оставила долгий культурный след: **недоверие к банкам и предпочтение наличных**. Это недоверие не иррационально — оно результат реального коллективного опыта, где банковские вклады замораживались, обесценивались или исчезали.\n\nИ сегодня значительная часть россиян — особенно старшего возраста — хранит часть сбережений в иностранной валюте (доллары, евро) купюрами дома. Народное выражение «держать деньги в чулке» описывает эту практику.\n\nПарадоксально, молодые городские россияне — одни из самых продвинутых пользователей цифровых банковских услуг: приложение Сбербанка, бесконтактные платежи, электронные кошельки. Сосуществование вековечного недоверия и цифрового освоения — одно из многих захватывающих противоречий современной России."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Рубль, банки и олигархи» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Еда за российские деньги — цены и чаевые",
+        "body": "Система чаевых в России отличается от французской. Оставлять чаевые — не абсолютная социальная обязанность (в СССР их не было), но практика распространилась в ресторанах крупных городов с 2000-х. Норма — **10% суммы** за хорошее обслуживание, иногда 15% в заведениях высокого класса.\n\n**Оплата картой** широко распространена в Москве и крупных городах — даже в такси и у части уличных торговцев. Но в малых городах и на рынках наличные по-прежнему правят. С 2022 года иностранные карты не работают — даже «международные» карты российских банков (Visa/Mastercard) перестали работать за рубежом.\n\nЛюбопытная деталь: **сервисный сбор** порой автоматически добавляется к счёту в московских ресторанах. В отличие от Франции, где он включён, здесь это дополнительная сумма. Внимательно проверяйте счёт, прежде чем оставлять дополнительные чаевые."
       }
     ],
     "conseil_ami": {
-      "title": "Совет путешественника",
+      "title": "Совет путешественника 🤝",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Рубль, банки и олигархи» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Если обсуждаете финансы с россиянами**, помните: для многих деньги — тема, нагруженная тревогой и связанная с реальными коллективными травмами. Избегайте выгодных сравнений («во Франции наша система стабильнее»).\n\n**Об олигархах**: сами россияне имеют очень разные мнения — одни восхищаются ими как смелыми предпринимателями, другие считают законными ворами. Это реальная дискуссия, а не единое мнение.\n\n**Практически**: если едете в Россию — везите наличные евро или доллары. Менять их в обменниках (обменник) легко — курс нередко лучше, чем в аэропорту."
     },
     "glossary": [
       {
-        "term": "Рубль, банки и олигархи",
-        "definition": "Центральное понятие этого урока — рубль, банки и олигархи в контексте современной России."
+        "term": "Залоговые аукционы",
+        "definition": "Залоговые аукционы (1995–96) — механизм, позволивший олигархам получить государственные активы в обмен на невозвращённые кредиты. Основополагающий скандал."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Сбербанк",
+        "definition": "Крупнейший российский банк, на 52% государственный. 100 миллионов клиентов. Зелёная карта — почти в каждом российском кошельке."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Рубль",
+        "definition": "Национальная валюта России. Пережила 3 крупных кризиса (1992, 1998, 2022). Символизирует финансовое недоверие многих россиян."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Кризис 1998 года",
+        "definition": "Суверенный дефолт и девальвация рубля на 75% в августе 1998 года. Массовое уничтожение российских сбережений. Главный психологический перелом."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Ходорковский",
+        "definition": "Глава ЮКОСа, богатейший человек России в 2003 году. Провёл 10 лет в заключении после финансирования оппозиции. Символ судьбы независимых олигархов."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "SWIFT",
+        "definition": "Международная система межбанковских финансовых сообщений. Россия отключена от неё в 2022 году, что заблокировало её международные транзакции."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Держать деньги в чулке",
+        "definition": "«Держать деньги в чулке» — выражение, описывающее российское недоверие к банкам и предпочтение наличной валюты."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "ВТБ",
+        "definition": "Второй российский банк с государственным большинством. Под жёсткими санкциями с 2022 года."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Рубль, банки и олигархи». Какова медианная зарплата в России?",
+        "question": "Как российские олигархи в основном нажили свои состояния?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "Создавая инновационные технологические компании",
+          "Через приватизацию 1990-х — покупка государственных активов за бесценок",
+          "Унаследовав царские дворянские состояния",
+          "Через инвестиции в московскую недвижимость"
+        ],
+        "answer": 1,
+        "explanation": "Большинство российских олигархов нажило состояния через приватизацию 1990-х, особенно через механизм залоговых аукционов, позволивший им получить государственные активы за бесценок."
+      },
+      {
+        "question": "Какова была инфляция в России в 1992 году при либерализации цен?",
+        "options": [
+          "200%",
+          "800%",
+          "2 500%",
+          "5 000%"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "В 1992 году либерализация цен («шоковая терапия») вызвала гиперинфляцию в 2 500% — за несколько месяцев уничтожив накопленные сбережения миллионов россиян."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Почему пожилые россияне часто хранят сбережения наличными дома?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Из советской культурной традиции",
+          "Потому что повторяющиеся банковские кризисы (1992, 1998, 2022) уничтожили доверие к банкам",
+          "Из страха кражи в банках",
+          "Чтобы не платить налоги"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
+        "explanation": "Недоверие к банкам — результат конкретного опыта: гиперинфляция 1992-го, дефолт 1998-го, санкции 2022-го. Держать доллары или евро дома — рациональный ответ на травматичное прошлое."
       },
       {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
+        "question": "Какова связь Сбербанка с российским государством?",
         "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
+          "Сбербанк полностью частный",
+          "Государство владеет 52% Сбербанка через Центральный банк России",
+          "Сбербанк — дочерняя компания Газпрома",
+          "Сбербанк полностью принадлежит иностранным акционерам"
         ],
         "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
+        "explanation": "Государство владеет 52% Сбербанка через Центральный банк России — технически не полностью государственный банк, но тесно связанный с правительственной политикой."
       },
       {
-        "question": "Какой главный разлом структурирует современное российское общество?",
+        "question": "Как с 2022 года можно перевести деньги между Францией и Россией?",
         "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
+          "Через Сбербанк и ВТБ — ничего не изменилось",
+          "Это стало почти невозможным через обычные банковские каналы — обходные схемы через крипто или банки третьих стран",
+          "Исключительно через PayPal",
+          "Только через российский аналог SWIFT — СПФС"
         ],
         "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "Отключение России от SWIFT и санкции против крупнейших банков сделали французско-российские переводы почти невозможными через обычные каналы. Обходные схемы существуют, но сложны."
       }
     ]
   }

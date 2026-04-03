@@ -4,12 +4,20 @@
     "lesson_id": 5,
     "module_icon": "🏠",
     "lesson_icon": "👨‍👩‍👧",
-    "estimated_minutes": 12,
+    "estimated_minutes": 13,
     "difficulty": "intermédiaire",
     "sources": [
       {
         "label": "Encyclopædia Universalis — Russie",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "Levada Center — Famille et démographie",
+        "url": "https://www.levada.ru/en/"
+      },
+      {
+        "label": "Rosstat — Statistiques démographiques",
+        "url": "https://rosstat.gov.ru/"
       }
     ]
   },
@@ -17,139 +25,139 @@
     "module_title": "La Vie Quotidienne",
     "lesson_title": "La Famille et les Femmes en Russie",
     "lesson_subtitle": "Rôles, démographie, évolutions",
-    "intro": "Cette leçon explore la famille et les femmes en russie dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "La famille est la valeur la plus fondamentale de la société russe — et l'une des institutions les plus en tension avec les réalités contemporaines. Démographie en déclin, taux de divorce parmi les plus élevés du monde, rôles de genre profondément codifiés mais évoluant rapidement, place des femmes à la fois exaltée culturellement et souvent limitée professionnellement : la famille russe est un miroir fidèle des contradictions de la Russie d'aujourd'hui.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de la famille et les femmes en russie",
-        "body": "La thématique de la famille et les femmes en russie s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "La famille soviétique — entre idéologie et réalité",
+        "body": "L'idéologie soviétique avait une vision ambiguë de la famille. D'un côté, la théorie marxiste-léniniste voyait la famille nucléaire bourgeoise comme une institution à dépasser — les femmes devaient être libérées par le travail salarié et les enfants élevés collectivement. De l'autre, Staline renverse cette vision dans les années 1930 : la famille devient le «pilier de l'État socialiste», le divorce est rendu difficile, l'avortement interdit (1936-1955).\n\nCette ambivalence a produit un modèle unique : la **femme soviétique** est à la fois ingénieure, médecin ou astronaute (Valentina Terechkova, première femme dans l'espace, 1963) ET responsable du foyer, des enfants et de la cuisine. Elle travaille autant que l'homme ET assume l'essentiel des tâches domestiques — ce qu'on appelle la «**double charge**» (*dvoinaya nagruzka*, двойная нагрузка).\n\nCet héritage persiste. La Russie a un taux de participation des femmes au marché du travail parmi les plus élevés du monde (~70%) — supérieur à la France. Mais les femmes russes se heurtent à un **plafond de verre** dans les postes de direction et de pouvoir politique, et assument encore majoritairement les tâches domestiques."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Démographie — le défi existentiel russe",
+        "body": "La démographie est l'un des défis les plus graves de la Russie contemporaine. La **population russe** est d'environ **144 millions** d'habitants — en légère décroissance depuis les années 1990, aggravée par l'émigration post-2022 (estimée à 500 000 à 1 million de départs). Le **taux de fécondité** est d'environ **1,5 enfant par femme** — très en-dessous du seuil de renouvellement (2,1).\n\nLa **mortalité masculine** est dramatiquement élevée. L'espérance de vie des hommes russes est d'environ **67 ans** — contre 77 ans pour les femmes et 79 ans pour les hommes français. Cet écart homme-femme de 10 ans (contre 5-6 en France) s'explique principalement par la consommation d'alcool, les accidents de la route, les maladies cardiovasculaires et la violence. La Russie est l'un des pays du monde avec le plus fort taux d'alcoolisme masculin.\n\nFace à ce défi, le gouvernement a lancé des politiques natalistes : le **«capital maternel»** (*materinskiy kapital*, материнский капитал) — une prime d'environ 600 000 roubles versée à la naissance du deuxième enfant (et des suivants) — est l'un des programmes sociaux les plus discutés en Russie. Les effets sur la fécondité sont modérés mais réels."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de la famille et les femmes en russie est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "Le mariage et le divorce en Russie",
+        "body": "Le mariage reste une institution valorisée en Russie, mais fragile en pratique. Le **taux de divorce** russe est l'un des plus élevés au monde : environ **60-65% des mariages** se terminent par un divorce, contre environ 45% en France. Cette réalité statistique contraste avec le discours officiel valorisant la famille traditionnelle.\n\nLe **mariage civil** (*grazhdansky brak*, гражданский брак) au sens russe désigne paradoxalement le **concubinage** — deux personnes qui vivent ensemble sans être mariées. «Ils vivent en mariage civil» (*oni zhivut v grazhdanskom brake*) signifie en russe qu'ils ne sont pas officiellement mariés. Cette confusion terminologique est source de malentendus.\n\nLe mariage à l'église orthodoxe (*venchanie*, венчание — cérémonie du couronnement) est distinct du mariage civil — mais de plus en plus de couples choisissent de les combiner. Les cérémonies de mariage russes sont souvent élaborées : le **«registre d'état civil»** (*ZAGS*, ЗАГС) est le lieu du mariage légal, suivi d'une réception (*svadba*, свадьба) qui peut durer jusqu'à 2-3 jours dans les familles traditionnelles."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de la famille et les femmes en russie, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "Les femmes russes — entre idéalisation et réalité",
+        "body": "La femme occupe une place paradoxale dans la culture russe. Culturellement, elle est **idéalisée** : la figure de la «mère russe» (*mat'*, мать) est quasi-sacrée — courageuse, sacrificielle, pilier de la famille. Les femmes russes sont réputées pour leur sophistication (habillées avec soin, maquillées, présentées avec élégance) dans un registre bien différent de la «naturelness» nordique ou française.\n\nMais cette idéalisation coexiste avec des inégalités réelles. Le **salaire moyen des femmes russes** est environ **70-75% de celui des hommes** pour des postes équivalents — un écart comparable à la France (75-80%). Les femmes sont sous-représentées dans les postes politiques (environ 16% de l'Assemblée nationale — la Douma), mais sur-représentées dans la médecine, l'éducation, et... la justice (les juges russes sont à 65% des femmes).\n\nLa **violence domestique** est un problème grave et documenté en Russie. La loi de 2017 qui a partiellement dépénalisé les «coups légers» au sein du foyer a provoqué une indignation internationale. Les organisations de défense des droits des femmes (*feminizm*, феминизм) sont actives mais marginalisées par le discours conservateur dominant."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre la famille et les femmes en russie. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "Les nouvelles familles russes — évolutions contemporaines",
+        "body": "Sous l'influence de l'urbanisation et des générations éduquées, la famille russe évolue profondément. Dans les classes moyennes urbaines de Moscou et Saint-Pétersbourg, les modèles de genre se transforment : les hommes participent plus aux tâches ménagères et à l'éducation des enfants, les femmes revendiquent plus d'autonomie professionnelle.\n\nLe mouvement **#MeToo** russe (*#ЯТоже*, Ya Tozhe — Moi Aussi) s'est développé timidement en 2017-2018, principalement dans les milieux du théâtre, du cinéma et des médias. Des affaires importantes ont été dénoncées mais les suites judiciaires ont été rares — le système judiciaire restant peu réceptif à ces plaintes.\n\nLes **«nouvelles formes familiales»** — familles recomposées, couples sans enfant, cohabitation entre générations — sont de plus en plus courantes dans les grandes villes. La pression sociale pour se marier jeune et avoir des enfants est toujours forte (surtout venant de la famille élargie — la *babouchka* en première ligne), mais la résistance à cette pression est croissante chez les jeunes urbains."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à la famille et les femmes en russie à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "La table en famille — rituels et transmissions",
+        "body": "Le repas familial russe est le principal vecteur de transmission culturelle et de cohésion. Le **dimanche midi** (*voskresny obed*, воскресный обед) est le repas familial par excellence : tous les membres disponibles de la famille élargie se retrouvent chez les grands-parents ou dans la maison familiale. La *babouchka* cuisine depuis le matin.\n\nLes plats dominicaux typiques : une **soupe** (*shchi* — soupe au chou ou *okroshka* — soupe froide à la kvas en été) ; un **plat principal** (*kotlety* avec purée de pommes de terre, ou rôti, ou poisson) ; une **salade** (*vinegret* — salade de betteraves, carottes, pommes de terre et cornichons) ; un **dessert** (*pyrozhki*, tarte aux pommes, ou gâteau *Napoleon* — mille-feuille russe).\n\nLa transmission des recettes familiales est très valorisée. Les cahiers de recettes manuscrits de la grand-mère (*babushkina kniga*, бабушкина книга — le livre de grand-mère) sont souvent des trésors familiaux transmis avec soin. Demander à une femme russe de vous enseigner sa recette de bortsch ou de pelmeni est l'un des gestes d'intégration les plus sincères que vous puissiez faire."
       }
     ],
     "conseil_ami": {
-      "title": "Le Conseil du Voyageur",
+      "title": "Le Conseil du Voyageur 🤝",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder la famille et les femmes en russie avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**La famille est LE sujet d'entrée dans une conversation avec des Russes.** Poser des questions sur leur famille — parents, enfants, grands-parents — est une marque d'intérêt sincère très appréciée. Les Russes parlent volontiers et chaleureusement de leur famille.\n\n**Sur les femmes russes** : évitez les généralisations et les projections culturelles. Les femmes russes sont extraordinairement diverses — de la militante féministe urbaine à la babouchka traditionnelle. Ce qui les unit : une résistance et une force remarquables face aux difficultés de la vie.\n\n**Demandez la recette.** Si une femme russe vous a cuisiné quelque chose de bon, demandez-lui la recette. Cette demande est un des gestes d'appréciation les plus sincères que vous puissiez faire — et souvent le début d'une longue amitié."
     },
     "glossary": [
       {
-        "term": "La Famille et les Femmes en Russie",
-        "definition": "Concept central de cette leçon — la famille et les femmes en russie dans le contexte de la Russie contemporaine."
+        "term": "Double charge (Двойная нагрузка)",
+        "definition": "Phénomène où les femmes russes travaillent autant que les hommes ET assument l'essentiel des tâches domestiques — héritage soviétique."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Capital maternel (Материнский капитал)",
+        "definition": "Prime gouvernementale d'environ 600 000 roubles versée à la naissance du 2e enfant. Principale politique nataliste russe."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Grazhdansky brak (Гражданский брак)",
+        "definition": "En russe : le concubinage (cohabitation sans mariage officiel). Ne pas confondre avec le mariage civil au sens français !"
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "ZAGS (ЗАГС)",
+        "definition": "Registre d'état civil — Загсы — bureau officiel des mariages, naissances et décès en Russie."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Svadba (Свадьба)",
+        "definition": "Mariage / fête de mariage russe. Peut durer 2-3 jours dans les familles traditionnelles. Très élaboré et festif."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Venchanie (Венчание)",
+        "definition": "Mariage religieux orthodoxe — cérémonie du couronnement. Distinct du mariage civil (ZAGS). De plus en plus souvent combinés."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Vinegret (Винегрет)",
+        "definition": "Salade russe de betteraves, carottes, pommes de terre et cornichons marinés. Plat familial dominical classique."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Babushkina kniga (Бабушкина книга)",
+        "definition": "Le livre de recettes manuscrit de la grand-mère — trésor familial transmis entre générations."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'La Famille et les Femmes en Russie'. Quel est le salaire médian en Russie ?",
+        "question": "Quel est le taux de divorce en Russie comparé à la France ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "Plus bas qu'en France (~30%)",
+          "Comparable à la France (~45%)",
+          "Beaucoup plus élevé (~60-65%)",
+          "Inexistant car le divorce est difficile"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "Le taux de divorce russe est l'un des plus élevés au monde — environ 60-65% des mariages se terminent par un divorce, contre environ 45% en France. Ce chiffre contraste avec le discours officiel valorisant la famille traditionnelle."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Qu'est-ce que le 'capital maternel' (materinskiy kapital) en Russie ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Une aide au logement pour les familles nombreuses",
+          "Une prime d'environ 600 000 roubles versée à la naissance du 2e enfant",
+          "Une allocation mensuelle pour les enfants de moins de 3 ans",
+          "Un crédit d'impôt pour les parents qui travaillent"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
+        "explanation": "Le capital maternel est une prime gouvernementale d'environ 600 000 roubles versée à la naissance du 2e enfant (et des suivants). C'est la principale politique nataliste russe, avec des effets modérés mais réels sur la fécondité."
       },
       {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
+        "question": "Que signifie 'grazhdansky brak' (гражданский брак) en russe ?",
         "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
+          "Le mariage civil enregistré à l'état civil",
+          "Le concubinage — deux personnes vivant ensemble sans être mariées",
+          "Un mariage mixte (Russe + étranger)",
+          "Un mariage religieux non reconnu par l'État"
         ],
         "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
+        "explanation": "'Гражданский брак' (mariage civil) désigne paradoxalement le concubinage en russe — deux personnes non mariées légalement. Attention au contresens : l'inverse du sens français !"
       },
       {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
+        "question": "Pourquoi l'espérance de vie des hommes russes (67 ans) est-elle 10 ans inférieure à celle des femmes ?",
         "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
+          "Les hommes travaillent dans des secteurs plus dangereux",
+          "Principalement à cause de la consommation d'alcool, des accidents et des maladies cardiovasculaires",
+          "Les femmes bénéficient d'un meilleur système de santé",
+          "Les hommes partent plus souvent à la guerre"
         ],
         "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "L'écart de 10 ans entre l'espérance de vie des hommes (67 ans) et des femmes (77 ans) s'explique principalement par la consommation d'alcool, les accidents de la route, les maladies cardiovasculaires et la violence — problèmes particulièrement marqués chez les hommes russes."
+      },
+      {
+        "question": "Quelle salade familiale russe mélange betteraves, carottes, pommes de terre et cornichons ?",
+        "options": [
+          "La salade Olivier",
+          "Le vinegret",
+          "La salade César russe",
+          "La salade Stolichny"
+        ],
+        "answer": 1,
+        "explanation": "Le vinegret est la salade familiale russe classique — betteraves, carottes, pommes de terre et cornichons marinés, assaisonnée à l'huile de tournesol. Plat dominical omniprésent dans les familles russes."
       }
     ]
   },
@@ -157,139 +165,139 @@
     "module_title": "Повседневная жизнь",
     "lesson_title": "Семья и женщины в России",
     "lesson_subtitle": "Роли, демография, изменения",
-    "intro": "Этот урок посвящён теме «Семья и женщины в России» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Семья — самая фундаментальная ценность российского общества и один из институтов, переживающих наибольшее напряжение в современной реальности. Снижающаяся демография, один из высочайших в мире показателей разводимости, глубоко кодифицированные, но быстро эволюционирующие гендерные роли, положение женщин — одновременно культурно превозносимых и нередко профессионально ограниченных: российская семья точно отражает противоречия сегодняшней России.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Семья и женщины в России»",
-        "body": "Тема «Семья и женщины в России» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Советская семья — между идеологией и реальностью",
+        "body": "Советская идеология имела двойственный взгляд на семью. С одной стороны, марксистско-ленинская теория видела в буржуазной нуклеарной семье институт, подлежащий преодолению. С другой, Сталин в 1930-е перевернул эту позицию: семья стала «опорой социалистического государства», развод затруднён, аборты запрещены (1936–1955).\n\nЭта двойственность породила уникальную модель: **советская женщина** — одновременно инженер, врач или космонавт (Валентина Терешкова, первая женщина в космосе, 1963) И хозяйка дома, дети и кухня. Она работает наравне с мужчиной И несёт основную нагрузку по домашним делам — так называемая «**двойная нагрузка**».\n\nЭто наследие сохраняется. Россия — один из мировых лидеров по участию женщин в рынке труда (~70%) — выше, чем во Франции. Но российские женщины сталкиваются со **стеклянным потолком** на руководящих и политических должностях и по-прежнему несут большую часть домашних обязанностей."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Демография — экзистенциальный вызов России",
+        "body": "Демография — один из серьёзнейших вызовов современной России. **Население России** составляет около **144 миллионов** человек — в лёгком сокращении с 1990-х, усугублённом эмиграцией после 2022 года (оценочно 500 000–1 миллион отъездов). **Коэффициент рождаемости** — около **1,5 ребёнка на женщину** — значительно ниже порога воспроизводства (2,1).\n\n**Мужская смертность** драматически высока. Ожидаемая продолжительность жизни мужчин — около **67 лет** (против 77 у женщин и 79 у французских мужчин). Этот разрыв мужчины-женщины в 10 лет (против 5–6 во Франции) объясняется прежде всего потреблением алкоголя, ДТП, сердечно-сосудистыми заболеваниями и насилием.\n\nВ ответ на этот вызов правительство запустило пронаталистские программы: **«материнский капитал»** — выплата около 600 000 рублей при рождении второго ребёнка — один из наиболее обсуждаемых российских социальных программ. Эффект на рождаемость умеренный, но реальный."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Семья и женщины в России» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Брак и развод в России",
+        "body": "Брак остаётся ценимым институтом в России, но на практике хрупким. **Коэффициент разводимости** — один из самых высоких в мире: около **60–65% браков** заканчиваются разводом (против ~45% во Франции). Эта статистика контрастирует с официальным дискурсом о традиционной семье.\n\n**«Гражданский брак»** в российском понимании парадоксально обозначает **сожительство** — двух людей, живущих вместе без регистрации. «Они живут в гражданском браке» по-русски означает, что они официально не расписаны. Эта терминологическая путаница порождает недоразумения.\n\nЦерковный брак (*венчание*) отделён от гражданского — но всё больше пар выбирают их сочетание. Российские свадьбы нередко торжественны: **ЗАГС** — место официальной регистрации, за которым следует свадьба (*свадьба*), способная длиться 2–3 дня в традиционных семьях."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Семья и женщины в России» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Российские женщины — между идеализацией и реальностью",
+        "body": "Женщина занимает в русской культуре парадоксальное место. Культурно она **идеализируется**: образ «матери» (*мать*) почти священен — мужественная, жертвенная, опора семьи. Российские женщины известны своей утончённостью (тщательно одетые, ухоженные, элегантные) в регистре, весьма отличном от северной или французской «естественности».\n\nНо эта идеализация сосуществует с реальным неравенством. **Средняя зарплата российских женщин** составляет около **70–75% от мужской** — разрыв, сопоставимый с Францией. Женщины недопредставлены в политических должностях (около 16% в Думе), но перепредставлены в медицине, образовании и... правосудии (65% российских судей — женщины).\n\n**Бытовое насилие** — серьёзная и задокументированная проблема. Закон 2017 года, частично декриминализировавший «лёгкие побои» в семье, вызвал международное возмущение."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Семья и женщины в России». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Новые российские семьи — современная эволюция",
+        "body": "Под влиянием урбанизации и образованных поколений российская семья глубоко меняется. В городском среднем классе Москвы и Санкт-Петербурга гендерные модели трансформируются: мужчины больше участвуют в домашних делах и воспитании детей, женщины отстаивают большую профессиональную автономию.\n\nДвижение **#ЯТоже** (российский аналог #MeToo) робко развивалось в 2017–2018 годах, главным образом в театральной, кинематографической и медийной среде. Важные дела были преданы огласке, но судебные последствия редки.\n\n**«Новые формы семьи»** — смешанные семьи, бездетные пары, межпоколенческие совместные проживания — всё чаще встречаются в крупных городах. Социальное давление с требованием рано жениться и иметь детей по-прежнему сильно (особенно со стороны расширенной семьи — бабушки в первую очередь), но сопротивление ему среди молодых горожан растёт."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Семья и женщины в России» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Семейный стол — ритуалы и передача традиций",
+        "body": "Семейная трапеза в России — главный вектор культурной передачи и сплочённости. **Воскресный обед** (*воскресный обед*) — главный семейный приём пищи: все доступные члены расширенной семьи собираются у бабушки с дедушкой или в семейном доме. Бабушка готовит с утра.\n\nТипичные воскресные блюда: **суп** (щи или окрошка на квасе летом); **второе** (котлеты с картофельным пюре, жаркое или рыба); **салат** (винегрет — свёкла, морковь, картошка и огурцы); **десерт** (пирожки, яблочный пирог или торт «Наполеон» — русский мильфёй).\n\nПередача семейных рецептов высоко ценится. Бабушкины тетради с рукописными рецептами (*бабушкина книга*) — семейные сокровища, бережно передаваемые. Попросить российскую женщину научить вас её рецепту борща или пельменей — один из самых искренних жестов интеграции, которые вы можете сделать."
       }
     ],
     "conseil_ami": {
-      "title": "Совет путешественника",
+      "title": "Совет путешественника 🤝",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Семья и женщины в России» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Семья — ГЛАВНАЯ тема для начала разговора с россиянами.** Задавать вопросы об их семье — родителях, детях, бабушках-дедушках — знак искреннего интереса, очень ценимый. Россияне охотно и тепло говорят о семье.\n\n**О российских женщинах**: избегайте обобщений и культурных проекций. Российские женщины необычайно разнообразны — от городской феминистки до традиционной бабушки. Их объединяет: замечательная стойкость и сила перед лицом жизненных трудностей.\n\n**Попросите рецепт.** Если российская женщина приготовила для вас что-то вкусное — попросите рецепт. Эта просьба — один из самых искренних знаков признательности, которые вы можете сделать, и нередко начало долгой дружбы."
     },
     "glossary": [
       {
-        "term": "Семья и женщины в России",
-        "definition": "Центральное понятие этого урока — семья и женщины в россии в контексте современной России."
+        "term": "Двойная нагрузка",
+        "definition": "Явление, при котором российские женщины работают наравне с мужчинами И несут большую часть домашних обязанностей — советское наследие."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Материнский капитал",
+        "definition": "Государственная выплата около 600 000 рублей при рождении 2-го ребёнка. Главная пронаталистская политика России."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Гражданский брак",
+        "definition": "По-русски — сожительство (совместное проживание без регистрации). Не путать с гражданским браком во французском смысле!"
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "ЗАГС",
+        "definition": "Запись актов гражданского состояния — официальное учреждение для регистрации браков, рождений и смертей в России."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Свадьба",
+        "definition": "Свадьба / свадебный праздник. В традиционных семьях может длиться 2–3 дня. Очень торжественна и праздна."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Венчание",
+        "definition": "Православное церковное венчание. Отличается от гражданской регистрации (ЗАГС). Всё чаще сочетаются."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Винегрет",
+        "definition": "Русский салат из свёклы, моркови, картофеля и маринованных огурцов. Классическое семейное воскресное блюдо."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Бабушкина книга",
+        "definition": "Рукописная тетрадь с бабушкиными рецептами — семейное сокровище, передаваемое между поколениями."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Семья и женщины в России». Какова медианная зарплата в России?",
+        "question": "Каков коэффициент разводимости в России по сравнению с Францией?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "Ниже, чем во Франции (~30%)",
+          "Сопоставим с Францией (~45%)",
+          "Значительно выше (~60–65%)",
+          "Практически отсутствует, так как развод затруднён"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "Коэффициент разводимости в России — один из самых высоких в мире: около 60–65% браков заканчиваются разводом (против ~45% во Франции). Эта цифра контрастирует с официальным дискурсом о традиционной семье."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Что такое «материнский капитал» в России?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Жилищная субсидия для многодетных семей",
+          "Выплата около 600 000 рублей при рождении 2-го ребёнка",
+          "Ежемесячное пособие на детей до 3 лет",
+          "Налоговый вычет для работающих родителей"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
+        "explanation": "Материнский капитал — государственная выплата около 600 000 рублей при рождении второго ребёнка. Главная пронаталистская политика России с умеренным, но реальным эффектом на рождаемость."
       },
       {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
+        "question": "Что означает «гражданский брак» по-русски?",
         "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
+          "Официально зарегистрированный гражданский брак",
+          "Сожительство — двое живут вместе без регистрации",
+          "Смешанный брак (русский + иностранец)",
+          "Церковный брак, не признанный государством"
         ],
         "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
+        "explanation": "«Гражданский брак» парадоксально обозначает по-русски сожительство — двух юридически незарегистрированных людей. Внимание к путанице: прямо противоположно французскому значению!"
       },
       {
-        "question": "Какой главный разлом структурирует современное российское общество?",
+        "question": "Почему ожидаемая продолжительность жизни российских мужчин (67 лет) на 10 лет ниже, чем у женщин?",
         "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
+          "Мужчины работают в более опасных отраслях",
+          "Главным образом из-за потребления алкоголя, несчастных случаев и сердечно-сосудистых заболеваний",
+          "Женщины имеют лучшую систему здравоохранения",
+          "Мужчины чаще воюют"
         ],
         "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "Разрыв в 10 лет между продолжительностью жизни мужчин (67 лет) и женщин (77 лет) объясняется прежде всего потреблением алкоголя, ДТП, сердечно-сосудистыми заболеваниями и насилием — проблемами, особенно острыми среди российских мужчин."
+      },
+      {
+        "question": "Какой русский семейный салат включает свёклу, морковь, картофель и огурцы?",
+        "options": [
+          "Салат оливье",
+          "Винегрет",
+          "Русский салат «Цезарь»",
+          "Салат «Столичный»"
+        ],
+        "answer": 1,
+        "explanation": "Винегрет — классический русский семейный салат: свёкла, морковь, картофель и маринованные огурцы, заправленные подсолнечным маслом. Повсеместно распространённое воскресное блюдо в российских семьях."
       }
     ]
   }

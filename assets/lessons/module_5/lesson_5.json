@@ -4,12 +4,16 @@
     "lesson_id": 5,
     "module_icon": "🛢️",
     "lesson_icon": "💻",
-    "estimated_minutes": 12,
+    "estimated_minutes": 13,
     "difficulty": "intermédiaire",
     "sources": [
       {
         "label": "Encyclopædia Universalis — Russie",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "Le Monde — Numérique russe",
+        "url": "https://www.lemonde.fr/russie/"
       }
     ]
   },
@@ -17,139 +21,139 @@
     "module_title": "L'Économie Russe",
     "lesson_title": "Le Numérique et la Tech russe",
     "lesson_subtitle": "Yandex, VKontakte et l'écosystème russe",
-    "intro": "Cette leçon explore le numérique et la tech russe dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "La Russie a construit l'un des écosystèmes numériques nationaux les plus complets au monde — une alternative quasi-intégrale aux services américains de Google, Facebook, WhatsApp et Amazon. Yandex, VKontakte, Telegram, Mail.ru : ces entreprises russes servent des dizaines de millions d'utilisateurs et révèlent une réalité souvent ignorée en France : la Russie numérique est bien plus sophistiquée que le cliché du pays pétrolier ne le laisse supposer.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de le numérique et la tech russe",
-        "body": "La thématique de le numérique et la tech russe s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "Les origines de l'internet russe — le Runet",
+        "body": "Internet arrive en Russie plus tard qu'en Occident — la première connexion russe date de **1990** (Institut Kurchatov à Moscou). Mais le développement est rapide dans les années 1990-2000, favorisé par le niveau d'éducation élevé de la population et par l'absence d'un monopole téléphonique aussi fort qu'en France ou en Allemagne.\n\nLe terme **«Runet»** (Рунет) désigne l'internet russophone — y compris les sites ukrainiens, biélorusses, kazakhs et des diasporas russes du monde entier. Le Runet a développé très tôt ses propres plateformes, en partie parce que les barrières linguistiques rendaient les services anglophones moins pertinents, en partie parce que la culture russe favorise les développements locaux.\n\nLes **années 2000** sont l'âge d'or des start-ups russes : Yandex, Mail.ru, Rambler, Livejournal (LJ — les premiers blogs russes sont sur la plateforme américaine rachetée et russifiée). Une génération d'ingénieurs brillants, formés dans les meilleures universités soviétiques, construit les fondations de l'internet russe."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Yandex — le Google russe (et plus)",
+        "body": "**Yandex** (Яндекс) est fondé en 1997 par Arkadi Volozh et Ilya Segalovich — deux mathématiciens russes. C'est aujourd'hui l'une des 10 plus grandes entreprises d'internet au monde. Sur le marché russe, Yandex représente environ **60% des recherches web** — devant Google (40%). C'est l'une des rares entreprises non américaines et non chinoises à dominer son marché face à Google.\n\nMais Yandex est bien plus qu'un moteur de recherche. Comme Amazon+Google+Uber en un, Yandex propose : taxi (Yandex.Taxi — très utilisé à Moscou), livraison de repas (Yandex.Eats), musique en streaming (Yandex.Music), e-commerce (Yandex.Market), navigation GPS (Yandex.Maps — souvent considéré comme supérieur à Google Maps pour la Russie), cloud computing, services bancaires.\n\nDepuis 2022, Yandex a connu une situation complexe : son fondateur Volozh a quitté le Conseil d'administration après les sanctions (il n'a pas soutenu l'invasion), et l'entreprise s'est scindée — la partie russe reste à Moscou sous contrôle partiellement étatique, une nouvelle entité internationale a été créée à Amsterdam pour les actifs internationaux."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de le numérique et la tech russe est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "VKontakte, Telegram et les réseaux sociaux russes",
+        "body": "**VKontakte** (ВКонтакте — «En contact», abrégé VK) est le réseau social dominant en Russie, fondé en **2006** par **Pavel Dourov** — un étudiant de Saint-Pétersbourg. Ressemblant initialement à Facebook (dont il s'était inspiré), VK a rapidement développé ses propres fonctionnalités : musique gratuite (qui lui valut des conflits avec les labels), vidéos, groupes, messagerie. Ses **97 millions d'utilisateurs** actifs font de lui le deuxième réseau social d'Europe.\n\nPavel Dourov a quitté la Russie en **2014** après avoir refusé de donner au FSB les données des utilisateurs ukrainiens de VK lors des protestations de Maïdan. Il a depuis fondé **Telegram** — la messagerie la plus sécurisée et la plus populaire du monde politique international. Telegram est utilisé par des journalistes, des politiciens et des militants du monde entier — et par des dizaines de millions de Russes qui accèdent à une information non censurée.\n\nL'histoire de Dourov est symbolique des tensions entre liberté numérique et pouvoir d'État en Russie — et sa trajectoire (entrepreneur brillant contraint à l'exil) résume le dilemme de beaucoup de talents russes."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de le numérique et la tech russe, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "Le marché tech russe après 2022 — ruptures et adaptations",
+        "body": "L'invasion de 2022 a brutalement restructuré l'écosystème tech russe. Des centaines d'entreprises occidentales ont quitté le marché : Apple Pay et Google Pay sont bloqués, les applications iOS et Android ne sont plus mises à jour normalement, Intel et AMD ne livrent plus de processeurs, Microsoft a restreint ses services.\n\nLa fuite des cerveaux est massive : on estime que **100 000 à 200 000 spécialistes IT** ont quitté la Russie en 2022, notamment vers la Géorgie, l'Arménie, la Serbie, les Émirats Arabes Unis et les pays baltes. Ces départs privent l'industrie tech russe d'une partie de ses meilleurs talents.\n\nFace à ces départs, le gouvernement a lancé des mesures de rétention : exemption du service militaire pour les employés IT, accès facilité aux emprunts immobiliers, réductions fiscales. Ces mesures ont partiellement fonctionné mais ne compensent pas totalement les départs. La Russie tente aussi de développer des alternatives aux logiciels occidentaux — système d'exploitation Aurora (basé sur Linux), navigateur Atom, suites bureautiques nationales — mais avec un retard considérable."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre le numérique et la tech russe. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "Le talent mathématique russe dans le numérique mondial",
+        "body": "Les Russes ont joué un rôle considérable dans le développement de l'internet mondial — bien au-delà des entreprises purement russes. Des entrepreneurs et ingénieurs d'origine russe sont à l'origine de nombreuses innovations technologiques mondiales.\n\n**Sergey Brin**, co-fondateur de Google, est né à Moscou. **Jan Koum**, fondateur de WhatsApp (vendu à Facebook pour 19 milliards), est ukrainien russophone. **Pavel Dourov** (Telegram). **Nikolay Durov**, frère de Pavel, est l'architecte technique de Telegram et l'un des meilleurs mathématiciens du monde. **Vitalik Buterin**, créateur d'Ethereum (deuxième crypto-monnaie mondiale), est russo-canadien.\n\nCe phénomène s'explique par la tradition d'excellence mathématique russe — les olympiades soviétiques et la culture de la rigueur intellectuelle ont produit des générations d'ingénieurs dont les compétences sont mondialement reconnues. La Silicon Valley emploie des milliers de personnes d'origine russe et soviétique dans ses postes d'ingénierie les plus avancés."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à le numérique et la tech russe à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Le numérique dans la vie quotidienne russe",
+        "body": "La vie quotidienne russe est extrêmement numérisée dans les grandes villes. L'application de la **Sberbank** permet de payer toutes les factures, acheter des billets de transport, envoyer de l'argent, payer dans les restaurants. **Yandex.Go** (fusion de Yandex.Taxi, Yandex.Drive et Yandex.Delivery) permet de commander un taxi, une voiture partagée ou un livreur depuis le même app.\n\nLes **services publics numériques** (Gosuslugi — Госуслуги) sont très développés : passeports, inscriptions, impôts, amendes, rendez-vous médicaux — tout peut se faire en ligne depuis l'application gouvernementale. Le taux d'utilisation de Gosuslugi (~90 millions d'utilisateurs) est parmi les plus élevés d'Europe.\n\nLes **QR codes** sont ubiquitaires — dans les restaurants (menu), dans les transports (tickets), dans les musées (informations). Le paiement sans contact par NFC est très répandu à Moscou et dans les grandes villes. Paradoxalement, ce pays sous sanctions technologiques maintient une infrastructure numérique urbaine très avancée dans les grandes villes — avec le système de paiement national Mir (МИР) en remplacement de Visa/Mastercard."
       }
     ],
     "conseil_ami": {
-      "title": "Le Conseil du Voyageur",
+      "title": "Le Conseil du Voyageur 🤝",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder le numérique et la tech russe avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Le numérique est un excellent terrain de conversation avec les Russes** — surtout les jeunes professionnels. Montrer que vous connaissez Yandex, Telegram ou l'histoire de Dourov provoque toujours de l'intérêt et parfois de la fierté.\n\n**Sur Telegram** : en Russie, Telegram est utilisé par des millions de personnes pour suivre des chaînes pro-gouvernementales ET des chaînes d'opposition. C'est un espace de liberté relative — y compris pour des canaux très critiques envers le pouvoir. Si un Russe vous partage une chaîne Telegram, c'est souvent un signal de confiance sur ses sources d'information réelles.\n\n**Un sujet fascinant** : demandez à un Russe ce qu'il pense de Pavel Dourov. Les réponses révèlent beaucoup sur la relation entre innovation, liberté et pouvoir d'État en Russie."
     },
     "glossary": [
       {
-        "term": "Le Numérique et la Tech russe",
-        "definition": "Concept central de cette leçon — le numérique et la tech russe dans le contexte de la Russie contemporaine."
+        "term": "Yandex (Яндекс)",
+        "definition": "Moteur de recherche dominant en Russie (60% des requêtes). Fondé en 1997. Aussi taxi, livraison, maps, cloud — l'Amazon+Google russe."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "VKontakte / VK (ВКонтакте)",
+        "definition": "Réseau social dominant en Russie (97M utilisateurs). Fondé en 2006 par Pavel Dourov. 2e réseau social d'Europe."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Telegram",
+        "definition": "Messagerie sécurisée fondée par Pavel Dourov après son exil de Russie. Utilisée par des millions de Russes pour accéder à l'information non censurée."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Pavel Dourov (Павел Дуров)",
+        "definition": "Fondateur de VK puis Telegram. Exilé de Russie en 2014 après avoir refusé de donner les données d'utilisateurs ukrainiens au FSB."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Sergey Brin (Сергей Брин)",
+        "definition": "Co-fondateur de Google, né à Moscou en 1973. Émigré aux États-Unis enfant. Symbole du talent tech russe à l'échelle mondiale."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Gosuslugi (Госуслуги)",
+        "definition": "Portail des services publics numériques russes. ~90 millions d'utilisateurs — l'un des taux d'adoption les plus élevés d'Europe."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Mir (МИР)",
+        "definition": "Système de paiement par carte national russe, développé en réponse aux sanctions de 2014 pour remplacer Visa et Mastercard."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Runet (Рунет)",
+        "definition": "L'internet russophone — ensemble des sites et services en langue russe, incluant la diaspora mondiale. Développé ses propres plateformes très tôt."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Le Numérique et la Tech russe'. Quel est le salaire médian en Russie ?",
+        "question": "Quelle part Yandex représente-t-il dans les recherches web en Russie ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "15%",
+          "35%",
+          "60%",
+          "85%"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "Yandex représente environ 60% des recherches web en Russie — une des rares entreprises non américaines et non chinoises à dominer Google sur son marché domestique."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Pourquoi Pavel Dourov a-t-il quitté la Russie en 2014 ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Pour créer Telegram dans un environnement plus favorable",
+          "Après avoir refusé de donner au FSB les données d'utilisateurs ukrainiens de VK",
+          "Suite à une fraude fiscale",
+          "Pour vendre VK à des investisseurs étrangers"
+        ],
+        "answer": 1,
+        "explanation": "Dourov a quitté la Russie en 2014 après avoir refusé de transmettre au FSB les données des utilisateurs ukrainiens de VKontakte lors des protestations de Maïdan. Cet acte de résistance est devenu fondateur de sa réputation."
+      },
+      {
+        "question": "Quel célèbre co-fondateur de Google est né à Moscou ?",
+        "options": [
+          "Larry Page",
+          "Eric Schmidt",
+          "Sergey Brin",
+          "Sundar Pichai"
         ],
         "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
+        "explanation": "Sergey Brin, co-fondateur de Google avec Larry Page, est né à Moscou en 1973. Émigré aux États-Unis à 6 ans avec sa famille. Il symbolise le talent tech russe qui a façonné le web mondial."
       },
       {
-        "question": "Que désigne le 'blat' dans la société russe ?",
+        "question": "Quel est le portail de services publics numériques russes avec ~90 millions d'utilisateurs ?",
         "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Yandex.Gosuslugi",
+          "Gosuslugi (Госуслуги)",
+          "Sberbank Online",
+          "Kremlin.ru"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
+        "explanation": "Gosuslugi (Services de l'État) est le portail officiel des services publics numériques russes avec environ 90 millions d'utilisateurs — un taux d'adoption parmi les plus élevés d'Europe pour un portail gouvernemental."
       },
       {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
+        "question": "Combien d'ingénieurs IT russes ont quitté la Russie en 2022 selon les estimations ?",
         "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
+          "5 000 à 10 000",
+          "20 000 à 30 000",
+          "100 000 à 200 000",
+          "Plus d'un million"
         ],
-        "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
-      },
-      {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
-        "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
-        ],
-        "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "answer": 2,
+        "explanation": "On estime que 100 000 à 200 000 spécialistes IT russes ont quitté la Russie en 2022, notamment vers la Géorgie, l'Arménie, les Émirats et les pays baltes — un exode de talent significatif."
       }
     ]
   },
@@ -157,139 +161,139 @@
     "module_title": "Российская экономика",
     "lesson_title": "Цифровые технологии и российский ИТ",
     "lesson_subtitle": "Яндекс, ВКонтакте и российская экосистема",
-    "intro": "Этот урок посвящён теме «Цифровые технологии и российский ИТ» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Россия создала один из наиболее полных национальных цифровых экосистемов в мире — практически полноценную альтернативу американским сервисам Google, Facebook, WhatsApp и Amazon. Яндекс, ВКонтакте, Telegram, Mail.ru: эти российские компании обслуживают десятки миллионов пользователей и раскрывают реальность, нередко игнорируемую во Франции — российский цифровой мир куда изощрённее, чем позволяет предположить клише о нефтяной стране.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Цифровые технологии и российский ИТ»",
-        "body": "Тема «Цифровые технологии и российский ИТ» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Истоки российского интернета — Рунет",
+        "body": "Интернет приходит в Россию позже, чем на Запад — первое российское подключение датируется **1990 годом** (Институт Курчатова в Москве). Но развитие в 1990–2000-е идёт быстро, чему способствует высокий образовательный уровень населения.\n\nТермин **«Рунет»** обозначает русскоязычный интернет — включая украинские, белорусские, казахстанские сайты и диаспоры по всему миру. Рунет рано выработал собственные платформы — отчасти потому, что языковые барьеры делали английские сервисы менее релевантными, отчасти из-за культурного тяготения к локальным разработкам.\n\n**2000-е годы** — золотой век российских стартапов: Яндекс, Mail.ru, Рамблер, LiveJournal (ЖЖ — первые русские блоги на американской платформе, выкупленной и русифицированной). Поколение блестящих инженеров, окончивших лучшие советские университеты, закладывало фундамент российского интернета."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Яндекс — российский Google (и больше)",
+        "body": "**Яндекс** основан в 1997 году Аркадием Воложем и Ильёй Сегаловичем — двумя российскими математиками. Сегодня — одна из 10 крупнейших интернет-компаний мира. На российском рынке Яндекс занимает около **60% поисковых запросов** — опережая Google (40%). Одна из немногих неамериканских и некитайских компаний, доминирующих над Google на своём рынке.\n\nНо Яндекс — гораздо больше, чем поисковик. Своего рода Amazon+Google+Uber в одном: такси (Яндекс.Такси), доставка еды (Яндекс.Еда), стриминг музыки (Яндекс.Музыка), электронная коммерция (Яндекс.Маркет), GPS-навигация (Яндекс.Карты — нередко считаются лучше Google Maps для России), облачные вычисления, банковские сервисы.\n\nС 2022 года Яндекс переживает сложную ситуацию: основатель Волож покинул совет директоров после санкций (он не поддержал вторжение), компания разделилась — российская часть осталась в Москве под частично государственным контролем, новое международное подразделение создано в Амстердаме."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Цифровые технологии и российский ИТ» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "ВКонтакте, Telegram и российские социальные сети",
+        "body": "**ВКонтакте** (аббр. VK) — доминирующая социальная сеть в России, основанная в **2006 году** **Павлом Дуровым** — студентом из Санкт-Петербурга. Поначалу напоминавший Facebook (с которого он брал пример), VK быстро развил собственные функции: бесплатную музыку (что навлекло конфликты с лейблами), видео, группы, мессенджер. **97 миллионов** активных пользователей делают его второй по величине соцсетью Европы.\n\nПавел Дуров покинул Россию в **2014 году** после того, как отказался передать ФСБ данные украинских пользователей VK во время протестов Майдана. Впоследствии он основал **Telegram** — самый защищённый и популярный мессенджер в мировой политике. Telegram используют журналисты, политики и активисты по всему миру — и десятки миллионов россиян, получающих нецензурированную информацию.\n\nИстория Дурова символична для противоречий между цифровой свободой и государственной властью в России — его путь (блестящий предприниматель, вынужденный к эмиграции) обобщает дилемму многих российских талантов."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Цифровые технологии и российский ИТ» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Российский технологический рынок после 2022 — разрывы и адаптации",
+        "body": "Вторжение 2022 года резко перестроило российский технологический экосистем. Сотни западных компаний ушли с рынка: Apple Pay и Google Pay заблокированы, iOS- и Android-приложения больше не обновляются нормально, Intel и AMD прекратили поставки процессоров, Microsoft ограничил сервисы.\n\nУтечка мозгов масштабная: по оценкам, **100 000–200 000 ИТ-специалистов** покинули Россию в 2022 году — в Грузию, Армению, Сербию, ОАЭ, страны Балтии. Эти отъезды лишают российскую технологическую отрасль части лучших кадров.\n\nПравительство запустило меры удержания: освобождение от воинской обязанности для ИТ-сотрудников, льготное ипотечное кредитование, налоговые льготы. Меры частично сработали, но полностью не компенсировали отъезды. Россия также пытается разработать альтернативы западному программному обеспечению — ОС «Аврора» (на базе Linux), браузер Atom, отечественные офисные пакеты — но с существенным отставанием."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Цифровые технологии и российский ИТ». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Российский математический талант в мировом цифровом пространстве",
+        "body": "Россияне сыграли значительную роль в развитии мирового интернета — далеко за пределами чисто российских компаний. Предприниматели и инженеры российского происхождения стоят у истоков многих мировых технологических инноваций.\n\n**Сергей Брин**, сооснователь Google, родился в Москве. **Ян Кум**, основатель WhatsApp (проданного Facebook за 19 миллиардов), — русскоязычный украинец. **Павел Дуров** (Telegram). **Николай Дуров**, брат Павла, — технический архитектор Telegram и один из лучших математиков мира. **Виталик Бутерин**, создатель Ethereum (вторая по величине криптовалюта), — русско-канадец.\n\nЭто явление объясняется российской традицией математического превосходства — советские олимпиады и культура интеллектуальной строгости породили поколения инженеров, чьи компетенции признаны во всём мире. Кремниевая долина нанимает тысячи людей российского и советского происхождения на самые продвинутые инженерные позиции."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Цифровые технологии и российский ИТ» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Цифровые технологии в российской повседневности",
+        "body": "Повседневная жизнь в российских крупных городах чрезвычайно цифровизована. Приложение **Сбербанка** позволяет платить по всем счетам, покупать билеты, переводить деньги, оплачивать в ресторанах. **Яндекс.Go** (слияние Яндекс.Такси, Яндекс.Драйв и Яндекс.Лавки) позволяет вызвать такси, каршеринг или курьера из одного приложения.\n\n**Государственные цифровые сервисы** (Госуслуги) очень развиты: паспорта, регистрации, налоги, штрафы, запись к врачу — всё через государственное приложение. Уровень использования Госуслуг (~90 миллионов пользователей) — один из самых высоких в Европе.\n\n**QR-коды** вездесущи — в ресторанах (меню), в транспорте (билеты), в музеях (информация). Бесконтактный NFC-платёж широко распространён в Москве. Парадоксально, эта находящаяся под технологическими санкциями страна сохраняет очень развитую городскую цифровую инфраструктуру — с национальной платёжной системой «Мир» вместо Visa/Mastercard."
       }
     ],
     "conseil_ami": {
-      "title": "Совет путешественника",
+      "title": "Совет путешественника 🤝",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Цифровые технологии и российский ИТ» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Цифровые технологии — отличная почва для разговора с россиянами** — особенно с молодыми профессионалами. Знание Яндекса, Telegram или истории Дурова всегда вызывает интерес и нередко гордость.\n\n**О Telegram**: в России его используют миллионы людей для подписки на проправительственные И оппозиционные каналы. Это пространство относительной свободы — включая каналы, очень критичные к власти. Если россиянин делится с вами Telegram-каналом — это нередко сигнал доверия в отношении его реальных источников информации.\n\n**Захватывающая тема**: спросите россиянина, что он думает о Павле Дурове. Ответы много говорят об отношении к инновациям, свободе и государственной власти в России."
     },
     "glossary": [
       {
-        "term": "Цифровые технологии и российский ИТ",
-        "definition": "Центральное понятие этого урока — цифровые технологии и российский ит в контексте современной России."
+        "term": "Яндекс",
+        "definition": "Доминирующий поисковик в России (60% запросов). Основан в 1997 году. Также такси, доставка, карты, облако — российский Amazon+Google."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "ВКонтакте / VK",
+        "definition": "Доминирующая соцсеть в России (97 млн пользователей). Основана в 2006 году Павлом Дуровым. Вторая соцсеть Европы."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Telegram",
+        "definition": "Защищённый мессенджер, основанный Павлом Дуровым после эмиграции из России. Используется миллионами россиян для нецензурированной информации."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Павел Дуров",
+        "definition": "Основатель VK, затем Telegram. Эмигрировал из России в 2014 году после отказа передать ФСБ данные украинских пользователей."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Сергей Брин",
+        "definition": "Сооснователь Google, родился в Москве в 1973 году. Эмигрировал в США в детстве. Символ российского технологического таланта в мировом масштабе."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Госуслуги",
+        "definition": "Портал российских государственных цифровых услуг. ~90 миллионов пользователей — один из самых высоких уровней охвата в Европе."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Мир",
+        "definition": "Российская национальная карточная платёжная система, разработанная в ответ на санкции 2014 года для замены Visa и Mastercard."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Рунет",
+        "definition": "Русскоязычный интернет — совокупность сайтов и сервисов на русском языке, включая мировую диаспору. Рано выработал собственные платформы."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Цифровые технологии и российский ИТ». Какова медианная зарплата в России?",
+        "question": "Какую долю поисковых запросов в России составляет Яндекс?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "15%",
+          "35%",
+          "60%",
+          "85%"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "Яндекс занимает около 60% поисковых запросов в России — одна из немногих неамериканских и некитайских компаний, доминирующих над Google на своём рынке."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Почему Павел Дуров покинул Россию в 2014 году?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Чтобы создать Telegram в более благоприятной среде",
+          "После отказа передать ФСБ данные украинских пользователей VK",
+          "Из-за налогового мошенничества",
+          "Чтобы продать VK иностранным инвесторам"
+        ],
+        "answer": 1,
+        "explanation": "Дуров покинул Россию в 2014 году после отказа передать ФСБ данные украинских пользователей ВКонтакте во время протестов Майдана. Этот акт сопротивления стал основой его репутации."
+      },
+      {
+        "question": "Какой знаменитый сооснователь Google родился в Москве?",
+        "options": [
+          "Ларри Пейдж",
+          "Эрик Шмидт",
+          "Сергей Брин",
+          "Сундар Пичаи"
         ],
         "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
+        "explanation": "Сергей Брин, сооснователь Google совместно с Ларри Пейджем, родился в Москве в 1973 году. Эмигрировал в США в 6 лет. Символизирует российский технологический талант, сформировавший мировой интернет."
       },
       {
-        "question": "Что означает «блат» в российском обществе?",
+        "question": "Как называется российский портал государственных услуг с ~90 миллионами пользователей?",
         "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Яндекс.Госуслуги",
+          "Госуслуги",
+          "Сбербанк Онлайн",
+          "Kremlin.ru"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
+        "explanation": "Госуслуги — официальный портал российских государственных цифровых услуг с около 90 миллионами пользователей — один из самых высоких показателей охвата в Европе для государственного портала."
       },
       {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
+        "question": "Сколько российских ИТ-специалистов покинули Россию в 2022 году по оценкам?",
         "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
+          "5 000–10 000",
+          "20 000–30 000",
+          "100 000–200 000",
+          "Более миллиона"
         ],
-        "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
-      },
-      {
-        "question": "Какой главный разлом структурирует современное российское общество?",
-        "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
-        ],
-        "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "answer": 2,
+        "explanation": "По оценкам, 100 000–200 000 российских ИТ-специалистов покинули Россию в 2022 году — в Грузию, Армению, ОАЭ и страны Балтии. Значительный исход талантов."
       }
     ]
   }
