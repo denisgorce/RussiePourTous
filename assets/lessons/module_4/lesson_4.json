@@ -1,0 +1,296 @@
+{
+  "meta": {
+    "module_id": 4,
+    "lesson_id": 4,
+    "module_icon": "🌙",
+    "lesson_icon": "🛐",
+    "estimated_minutes": 12,
+    "difficulty": "intermédiaire",
+    "sources": [
+      {
+        "label": "Encyclopædia Universalis — Russie",
+        "url": "https://www.universalis.fr/"
+      }
+    ]
+  },
+  "fr": {
+    "module_title": "L'Âme Russe",
+    "lesson_title": "L'Orthodoxie et la Spiritualité russe",
+    "lesson_subtitle": "Religion, identité, tradition",
+    "intro": "L'Église orthodoxe russe n'est pas simplement une institution religieuse — c'est un pilier de l'identité nationale russe, une source d'esthétique, de rituel et de sens collectif qui imprègne la culture même de ceux qui ne sont pas croyants. Comprendre l'orthodoxie russe est indispensable pour comprendre l'âme russe.",
+    "sections": [
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "La christianisation de la Russie — 988",
+        "body": "En 988, le prince Vladimir de Kiev choisit le christianisme orthodoxe de Byzance pour baptiser son peuple dans le Dniepr. Ce choix religieux fondateur oriente la Russie vers l'Orient chrétien et détermine pour des siècles son esthétique, sa philosophie et son rapport à l'autorité.\n\nL'Église orthodoxe russe se distingue du catholicisme romain par plusieurs points : pas de pape (autorité conciliaire), liturgie en vieux-slave ecclésiastique (puis russe), importance centrale des icônes, primauté du mystère sur la rationalité théologique, et une esthétique du «beau terrible» qui imprègne toute l'art religieux.\n\nSous Pierre le Grand (1721), l'Église est subordonnée à l'État — le tsar remplace le patriarche comme chef effectif. Sous les Soviets, elle est persécutée (fermeture de milliers d'églises, exécution de prêtres). Après 1991, elle renaît spectaculairement — et devient sous Poutine un pilier idéologique du nationalisme conservateur."
+      },
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "Les monastères et les lieux saints",
+        "body": "La Russie est parsemée de monastères orthodoxes qui jouent un rôle de centres culturels, touristiques et spirituels. La «route des villes d'or» (Золотое кольцо — Zolotoe Koltso) au nord-est de Moscou relie Serguiev Possad, Souzdal, Vladimir, Yaroslavl — autant de villes médiévales avec cathédrales à bulbes d'or, monastères et kremlin locaux.\n\nLe **Trinité-Saint-Serge** de Serguiev Possad est le plus important monastère russe — équivalent de Saint-Jacques-de-Compostelle pour la piété russe. Des millions de pèlerins s'y rendent chaque année. La laure de la Trinité-Saint-Serge est aussi un centre d'enseignement théologique majeur.\n\nLes icônes (*ikona*, икона) sont le cœur de l'art religieux orthodoxe — non pas de simples images mais des «fenêtres sur le divin», peintes selon des canons stricts. L'Andreï Roublev (vers 1360-1430) est le plus grand iconographe russe — sa «Trinité» est considérée comme l'une des plus grandes œuvres d'art de l'humanité."
+      },
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "L'Église et l'État — une relation complexe",
+        "body": "La relation entre l'Église orthodoxe et l'État russe a toujours été complexe. Le concept byzantin de «symphonie» — harmonie entre pouvoir spirituel et pouvoir temporel, chacun dans son domaine — a longtemps guidé l'idéal. En pratique, l'Église a souvent été subordonnée à l'État.\n\nSous Poutine, l'Église orthodoxe joue un rôle idéologique croissant. Le patriarche Kirill soutient ouvertement les politiques du Kremlin, notamment la «protection des valeurs traditionnelles» contre le libéralisme occidental. L'Église a bénéficié de la restitution de milliers d'édifices et d'un soutien public massif.\n\nCette implication politique a une contrepartie : une partie des Russes, notamment les jeunes urbains, se détourne de l'Église tout en restant attachés à une spiritualité diffuse. Le terme «pravoslavny atheist» (athée orthodoxe) désigne ces Russes qui se considèrent culturellement orthodoxes sans croire aux dogmes."
+      },
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "Les fêtes orthodoxes dans la vie quotidienne",
+        "body": "Les fêtes orthodoxes structurent encore significativement le calendrier russe. Noël orthodoxe (Рождество, Rozhdestvo) se fête le **7 janvier** — décalage de 13 jours avec Noël catholique lié au calendrier julien encore utilisé par l'Église orthodoxe russe. C'est une fête spirituelle et familiale, plus tranquille que le Nouvel An.\n\nLe **Nouvel An** (Новый год, Novy God) est la fête la plus importante de l'année — héritage soviétique qui a «déplacé» les célébrations de Noël vers le 31 décembre. La nuit du 31 est la soirée la plus festive, avec champagne, sapin (yolka, ёлка), «Père Gel» (Ded Moroz, Дед Мороз) et sa petite-fille Snegurochka (Снегурочка).\n\nPâques (Пасха, Paskha) reste une fête importante même pour les Russes peu pratiquants : la messe de minuit, les œufs colorés (krashenki), le koulich (pain pascal brioché) et le paskha (fromage blanc sucré). La formule de Pâques «**Khristos voskrese !**» (Christ est ressuscité !) / «**Voistinu voskrese !**» (Vraiment ressuscité !) est connue de presque tous les Russes."
+      },
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "L'esthétique orthodoxe — icônes et chant",
+        "body": "L'art orthodoxe russe est d'une beauté et d'une cohérence esthétique remarquables. Les **icônes** ne sont pas des tableaux réalistes — elles utilisent une perspective inversée (les lignes convergent vers le spectateur, pas vers l'horizon) pour signifier que c'est le divin qui regarde le spectateur, et non l'inverse. Les dorures représentent la lumière divine.\n\nLe **chant byzantin** orthodoxe, *a cappella*, avec ses basses profondes et ses harmonies complexes, est une expérience acoustique sans équivalent. Les meilleures chorales orthodoxes (notamment le Choeur de l'Académie de chant de Moscou) produisent un son qui semble venir des profondeurs de la terre.\n\nLes **coupoles à bulbe** (луковичные купола, lukovichnye kupola — coupoles «en oignon») sont la signature architecturale de l'orthodoxie russe. Leur forme n'est pas décorative — elle symbolise une flamme tendue vers le ciel. Les couleurs (or, bleu cobalt, vert) ont des significations symboliques : l'or = la lumière divine ; le bleu = la Vierge ; le vert = la Trinité."
+      },
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "La table du dimanche et la cuisine de carême",
+        "body": "La religion orthodoxe a profondément influencé la cuisine russe à travers les jours de jeûne. L'orthodoxie impose plus de **200 jours de jeûne** par an (pas de viande, pas de produits laitiers) — les mercredis et vendredis de toute l'année, plus le Grand Carême. Cette contrainte a développé une **cuisine de carême** (постная кухня, *postnaya kukhnia*) très élaborée.\n\nLes champignons (грибы, griby), les légumineuses, les céréales, les poissons et les légumes sont les piliers de la cuisine de carême russe. Le **bortsch de carême** (sans viande, avec haricots) et le **poisson au four** sont des classiques.\n\nLe **blini** (блины — crêpes russes) sont le plat emblématique de **Maslenitsa** (Масленица — la Semaine grasse, l'équivalent russe du Mardi Gras), la semaine précédant le Grand Carême. La forme ronde des blini symbolise le soleil revenant après l'hiver. On les mange avec de la crème aigre (smetana), du caviar, du beurre — en grande quantité."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur",
+      "icon": "💡",
+      "content": "**Ne refusez pas l'invitation à une église orthodoxe.** Si des amis russes vous proposent d'assister à une liturgie orthodoxe — même si vous n'êtes pas croyant — acceptez. C'est une expérience esthétique et spirituelle unique : chant polyphonique, encens, lumière des cierges, icônes en or. Pour un Français laïc, c'est souvent une révélation sur la richesse de la tradition orthodoxe.\n\nQuelques codes pratiques : les femmes couvrent leur tête dans une église orthodoxe (fichu fourni à l'entrée) ; les hommes enlèvent leur chapeau. On ne s'assied pas pendant la liturgie (pas de bancs). On peut allumer un cierge et se signer selon la tradition (main droite, de droite à gauche pour les orthodoxes).\n\n**Sur la foi et la politique** : ne confondez pas l'Église institutionnelle (proche du pouvoir sous Poutine) et la spiritualité orthodoxe authentique, qui est une tradition millénaire d'une profondeur remarquable."
+    },
+    "glossary": [
+      {
+        "term": "Ikona (Икона)",
+        "definition": "Icône orthodoxe — 'fenêtre sur le divin', peinte selon des canons stricts avec perspective inversée et symbolisme de la lumière divine."
+      },
+      {
+        "term": "Paskha / Rozhdestvo",
+        "definition": "Pâques / Noël orthodoxes — les deux fêtes les plus importantes. Noël orthodoxe le 7 janvier (calendrier julien)."
+      },
+      {
+        "term": "Ded Moroz (Дед Мороз)",
+        "definition": "Père Gel — équivalent russe du Père Noël, accompagné de sa petite-fille Snegurochka. Figure des fêtes du Nouvel An soviétique."
+      },
+      {
+        "term": "Maslenitsa (Масленица)",
+        "definition": "Semaine grasse russe — équivalent du Mardi Gras, précédant le Grand Carême. Fête des blinis, du soleil revenant."
+      },
+      {
+        "term": "Khristas voskresé !",
+        "definition": "'Christ est ressuscité !' — salutation pascale. Réponse : 'Voistinu voskresé !' (Vraiment ressuscité). Connue de presque tous les Russes."
+      },
+      {
+        "term": "Koulich (Кулич)",
+        "definition": "Pain pascal brioché russe — gâteau cylindrique haute avec glaçage blanc, préparé pour Pâques."
+      },
+      {
+        "term": "Zolotoye Koltso (Золотое кольцо)",
+        "definition": "La route des villes d'or — circuit touristique autour de Moscou passant par Serguiev Possad, Souzdal, Vladimir, Yaroslavl."
+      },
+      {
+        "term": "Postnaya kukhnia",
+        "definition": "Cuisine de carême russe — élaborée par les contraintes des 200+ jours de jeûne orthodoxe."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Quand se fête le Noël orthodoxe russe, et pourquoi ce décalage avec Noël catholique ?",
+        "options": [
+          "25 décembre, comme en France",
+          "7 janvier, car l'Église orthodoxe utilise encore le calendrier julien",
+          "1er janvier, confondu avec le Nouvel An",
+          "24 décembre comme dans les traditions germaniques"
+        ],
+        "answer": 1,
+        "explanation": "Le Noël orthodoxe russe se fête le 7 janvier — l'Église orthodoxe russe utilise encore le calendrier julien, qui accuse un décalage de 13 jours avec le calendrier grégorien."
+      },
+      {
+        "question": "Qu'est-ce que la 'perspective inversée' dans les icônes orthodoxes ?",
+        "options": [
+          "Une technique artistique de Byzance sans signification symbolique",
+          "Les lignes convergent vers le spectateur — c'est le divin qui regarde l'homme, pas l'inverse",
+          "Un défaut technique des peintres médiévaux",
+          "Une représentation réaliste des espaces architecturaux"
+        ],
+        "answer": 1,
+        "explanation": "La perspective inversée des icônes est intentionnelle : les lignes convergent vers le spectateur (et non vers l'horizon) pour signifier que c'est le divin qui regarde l'homme. Ce retournement théologique définit l'esthétique orthodoxe."
+      },
+      {
+        "question": "Qu'est-ce qu'un 'pravoslavny atheist' (athée orthodoxe) en Russie ?",
+        "options": [
+          "Un moine qui a perdu la foi",
+          "Un Russe culturellement orthodoxe mais sans croyance aux dogmes religieux",
+          "Un athée militant anti-religieux",
+          "Un chrétien hésitant entre orthodoxie et catholicisme"
+        ],
+        "answer": 1,
+        "explanation": "Le 'pravoslavny atheist' est un Russe qui se considère culturellement orthodoxe — attaché aux icônes, aux fêtes, à l'esthétique de l'Église — sans croire aux dogmes religieux. Phénomène fréquent notamment chez les jeunes urbains."
+      },
+      {
+        "question": "Quel est le plat emblématique de la Maslenitsa (Semaine grasse russe) ?",
+        "options": [
+          "Le bortsch",
+          "Les blinis (crêpes) — symbole du soleil revenant après l'hiver",
+          "Le koulich (pain pascal)",
+          "Les pelmeni"
+        ],
+        "answer": 1,
+        "explanation": "Les blinis (crêpes rondes) sont le plat emblématique de Maslenitsa, la semaine précédant le Grand Carême. Leur forme ronde symbolise le soleil revenant après l'hiver."
+      },
+      {
+        "question": "Quelle salutation orthodoxe est connue de presque tous les Russes ?",
+        "options": [
+          "Слава Богу (Slava Bogu — Gloire à Dieu)",
+          "Христос воскресе ! / Воистину воскресе ! (Christ est ressuscité ! / Vraiment ressuscité !)",
+          "Господи помилуй (Gospodi pomiluy — Seigneur prends pitié)",
+          "Аминь (Amin' — Amen)"
+        ],
+        "answer": 1,
+        "explanation": "La formule pascale 'Khristos voskrese !' / 'Voistinu voskrese !' est connue de presque tous les Russes, croyants ou non — elle fait partie de l'héritage culturel commun."
+      }
+    ]
+  },
+  "ru": {
+    "module_title": "Русская душа",
+    "lesson_title": "Православие и русская духовность",
+    "lesson_subtitle": "Религия, идентичность, традиция",
+    "intro": "Русская православная церковь — не просто религиозный институт. Это опора российской национальной идентичности, источник эстетики, ритуала и коллективного смысла, пронизывающий культуру даже неверующих. Понять русское православие — значит понять русскую душу.",
+    "sections": [
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "Крещение Руси — 988 год",
+        "body": "В 988 году князь Владимир Киевский выбрал православное христианство Византии, крестив свой народ в Днепре. Этот основополагающий религиозный выбор направил Россию к христианскому Востоку и на века определил её эстетику, философию и отношение к власти.\n\nПравославная церковь отличается от католицизма: нет папы (соборная власть), богослужение на церковнославянском, центральная роль икон, первенство тайны над рациональным богословием.\n\nПри Петре Великом (1721) церковь была подчинена государству. При советской власти — преследовалась. После 1991 года возродилась и стала при Путине идеологической опорой консервативного национализма."
+      },
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "Монастыри и святые места",
+        "body": "Россия усеяна православными монастырями — культурными, туристическими и духовными центрами. «Золотое кольцо» к северо-востоку от Москвы объединяет Сергиев Посад, Суздаль, Владимир, Ярославль — средневековые города с золотыми куполами, монастырями и кремлями.\n\nТроице-Сергиева лавра в Сергиевом Посаде — важнейший монастырь России, аналог Сантьяго-де-Компостела для русского благочестия.\n\nИконы — сердце православного религиозного искусства: не просто картины, а «окна в божественное», написанные по строгим канонам. Андрей Рублёв (ок. 1360–1430) — величайший русский иконописец; его «Троица» считается одним из величайших произведений человечества."
+      },
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Церковь и государство — сложные отношения",
+        "body": "Отношения православной церкви и российского государства всегда были сложными. Византийская концепция «симфонии» — гармония духовной и светской власти, каждой в своей сфере — долго служила идеалом. На практике церковь нередко подчинялась государству.\n\nПри Путине православная церковь играет всё более идеологическую роль. Патриарх Кирилл открыто поддерживает политику Кремля, прежде всего «защиту традиционных ценностей» от западного либерализма.\n\nЭта политическая вовлечённость имеет обратную сторону: часть россиян, особенно молодые горожане, отворачиваются от церкви, сохраняя при этом привязанность к расплывчатой духовности. Понятие «православный атеист» — россиянин, считающий себя культурно православным, не веря в догмы."
+      },
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Православные праздники в повседневной жизни",
+        "body": "Православные праздники по-прежнему существенно структурируют русский календарь. Православное Рождество (Рождество) отмечается **7 января** — разрыв в 13 дней с католическим Рождеством из-за юлианского календаря, которым пользуется РПЦ. Это духовный и семейный праздник, тихий, в отличие от Нового года.\n\n**Новый год** — важнейший праздник года, советское наследие, «перенёсшее» рождественские торжества на 31 декабря. Ночь с 31-го — самый праздничный вечер: шампанское, ёлка, Дед Мороз и Снегурочка.\n\nПасха по-прежнему важна даже для мало практикующих россиян: ночная литургия, крашеные яйца, кулич и пасха. Пасхальная формула «Христос воскресе!» / «Воистину воскресе!» известна почти всем россиянам."
+      },
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Православная эстетика — иконы и пение",
+        "body": "Русское православное искусство отличается замечательной красотой и эстетической последовательностью. **Иконы** — не реалистичные картины: они используют обратную перспективу (линии сходятся к зрителю, а не к горизонту), означая, что на зрителя смотрит Бог, а не наоборот. Золото — символ Божественного света.\n\n**Православное знаменное пение**, *a cappella*, с глубокими басами и сложными гармониями — несравнимый акустический опыт.\n\n**Луковичные купола** — архитектурная подпись русского православия. Их форма не декоративна — символизирует пламя, устремлённое к небу. Цвета несут символический смысл: золото = Божественный свет; синий = Богородица; зелёный = Троица."
+      },
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Воскресный стол и постная кухня",
+        "body": "Православие глубоко повлияло на русскую кухню через постные дни. Православие предписывает более **200 постных дней** в году (без мяса, без молочного) — среды и пятницы круглый год плюс Великий пост. Это ограничение породило изощрённую **постную кухню**.\n\nГрибы, бобовые, крупы, рыба и овощи — основа русской постной кухни. Постный борщ (без мяса, с фасолью) и запечённая рыба — классика.\n\n**Блины** — эмблематическое блюдо **Масленицы**, недели перед Великим постом. Круглая форма блинов символизирует возвращающееся солнце. Едят со сметаной, икрой, маслом — в большом количестве."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Совет путешественника",
+      "icon": "💡",
+      "content": "**Не отказывайтесь от приглашения в православный храм.** Если русские друзья предлагают посетить православную литургию — даже если вы неверующий — соглашайтесь. Это уникальный эстетический и духовный опыт: полифоническое пение, ладан, свет свечей, золото икон.\n\nПрактические коды: женщины покрывают голову в православном храме (косынка есть на входе); мужчины снимают головной убор. Во время литургии не сидят (скамей нет). Можно поставить свечу и перекреститься по традиции (правой рукой, справа налево).\n\n**О вере и политике**: не путайте институциональную церковь (близкую к власти при Путине) и подлинную православную духовность — тысячелетнюю традицию замечательной глубины."
+    },
+    "glossary": [
+      {
+        "term": "Икона",
+        "definition": "Православная икона — «окно в Бога», написанное по строгим канонам с обратной перспективой и символикой Божественного света."
+      },
+      {
+        "term": "Пасха / Рождество",
+        "definition": "Пасха / православное Рождество — два важнейших праздника. Рождество 7 января (юлианский календарь)."
+      },
+      {
+        "term": "Дед Мороз",
+        "definition": "Дед Мороз — русский аналог Санта-Клауса, со внучкой Снегурочкой. Фигура советских новогодних праздников."
+      },
+      {
+        "term": "Масленица",
+        "definition": "Русская Масленица — аналог Марди Гра, предшествующая Великому посту. Праздник блинов и возвращающегося солнца."
+      },
+      {
+        "term": "Христос воскресе!",
+        "definition": "«Христос воскресе!» — пасхальное приветствие. Ответ: «Воистину воскресе!» Известно почти всем россиянам."
+      },
+      {
+        "term": "Кулич",
+        "definition": "Пасхальный хлеб — высокий цилиндрический кекс с белой глазурью, готовится к Пасхе."
+      },
+      {
+        "term": "Золотое кольцо",
+        "definition": "«Золотое кольцо» — туристический маршрут вокруг Москвы через Сергиев Посад, Суздаль, Владимир, Ярославль."
+      },
+      {
+        "term": "Постная кухня",
+        "definition": "Русская постная кухня — изощрённая, сложившаяся под влиянием 200+ православных постных дней."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Когда отмечается православное Рождество и почему этот разрыв с католическим?",
+        "options": [
+          "25 декабря, как во Франции",
+          "7 января, так как РПЦ по-прежнему использует юлианский календарь",
+          "1 января, совмещённое с Новым годом",
+          "24 декабря, как в германских традициях"
+        ],
+        "answer": 1,
+        "explanation": "Православное Рождество отмечается 7 января — РПЦ по-прежнему использует юлианский календарь, опережающий григорианский на 13 дней."
+      },
+      {
+        "question": "Что такое «обратная перспектива» в православных иконах?",
+        "options": [
+          "Художественная техника Византии без символического смысла",
+          "Линии сходятся к зрителю — Бог смотрит на человека, а не наоборот",
+          "Технический недостаток средневековых мастеров",
+          "Реалистичное изображение архитектурных пространств"
+        ],
+        "answer": 1,
+        "explanation": "Обратная перспектива икон намеренна: линии сходятся к зрителю (а не к горизонту), означая, что Бог смотрит на человека. Этот теологический переворот определяет православную эстетику."
+      },
+      {
+        "question": "Кто такой «православный атеист» в России?",
+        "options": [
+          "Монах, утративший веру",
+          "Россиянин, культурно православный, но не верующий в религиозные догмы",
+          "Воинствующий атеист-антирелигиозник",
+          "Христианин, колеблющийся между православием и католицизмом"
+        ],
+        "answer": 1,
+        "explanation": "«Православный атеист» — россиянин, считающий себя культурно православным (привязанный к иконам, праздникам, церковной эстетике), не веруя в догмы. Распространённое явление, особенно среди молодых горожан."
+      },
+      {
+        "question": "Что является символическим блюдом Масленицы?",
+        "options": [
+          "Борщ",
+          "Блины — символ возвращающегося солнца после зимы",
+          "Кулич (пасхальный хлеб)",
+          "Пельмени"
+        ],
+        "answer": 1,
+        "explanation": "Блины (круглые, как солнце) — эмблематическое блюдо Масленицы, недели перед Великим постом. Их круглая форма символизирует возвращение солнца после зимы."
+      },
+      {
+        "question": "Какое православное приветствие знает практически каждый россиянин?",
+        "options": [
+          "Слава Богу",
+          "Христос воскресе! / Воистину воскресе!",
+          "Господи помилуй",
+          "Аминь"
+        ],
+        "answer": 1,
+        "explanation": "Пасхальная формула «Христос воскресе!» / «Воистину воскресе!» знакома практически каждому россиянину, верующему или нет — она часть общего культурного наследия."
+      }
+    ]
+  }
+}

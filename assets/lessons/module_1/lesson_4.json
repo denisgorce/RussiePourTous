@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "module_id": 1,
+    "lesson_id": 4,
+    "module_icon": "🏰",
+    "lesson_icon": "🇷🇺",
+    "estimated_minutes": 13,
+    "difficulty": "intermédiaire",
+    "sources": [
+      {"label": "Le Monde — La Russie des années 90", "url": "https://www.lemonde.fr/russie/"},
+      {"label": "France Diplomatie — Dossier Russie contemporaine", "url": "https://www.diplomatie.gouv.fr/fr/dossiers-pays/russie/"},
+      {"label": "France Culture — Poutine et la Russie", "url": "https://www.franceculture.fr/"},
+      {"label": "Courrier International — Russie", "url": "https://www.courrierinternational.com/tag/russie"}
+    ]
+  },
+  "fr": {
+    "module_title": "Les Racines de la Russie",
+    "lesson_title": "La Russie post-soviétique",
+    "lesson_subtitle": "Des années 90 à l'ère Poutine",
+    "intro": "L'effondrement de l'URSS en 1991 est l'une des transformations géopolitiques les plus rapides de l'histoire moderne. En quelques mois, un empire de 22 millions de km² se désintègre pacifiquement en 15 États indépendants. Pour les Russes, ce moment est vécu comme une humiliation nationale — Gorbatchev a qualifié cet événement de «plus grande catastrophe géopolitique du XXe siècle». Comprendre cette décennie chaotique est indispensable pour saisir pourquoi les Russes ont choisi Poutine, et pourquoi ils continuent, souvent, de le soutenir.",
+    "sections": [
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "1991 — la fin d'un empire",
+        "body": "Le processus de décomposition de l'URSS commence sous **Mikhaïl Gorbatchev** (1985–1991) avec deux politiques révolutionnaires : la **glasnost** (гласность, transparence) — autorisation d'une presse plus libre — et la **perestroïka** (перестройка, restructuration) — réforme économique vers une économie de marché mixte. Ces réformes, destinées à sauver le socialisme, déclenchent des forces que Gorbatchev ne peut plus contrôler.\n\nLes républiques baltes proclament leur indépendance en 1990. En **août 1991**, des conservateurs du Parti communiste tentent un coup d'État pour stopper les réformes — ils échouent en trois jours, face à la résistance populaire symbolisée par **Boris Eltsine** debout sur un char devant le Parlement russe. L'URSS survit encore quelques mois avant sa dissolution officielle le **25 décembre 1991**.\n\nGorbatchev démissionne ce jour-là. Le drapeau soviétique est amené du Kremlin. Pour des millions de Russes — notamment les plus âgés — c'est un effondrement de l'univers connu, de la fierté nationale, des certitudes. **350 millions de personnes** se retrouvent du jour au lendemain citoyens de 15 États différents, parfois séparés de leur famille par de nouvelles frontières."
+      },
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "La nouvelle Russie — un pays diminué",
+        "body": "La Russie post-soviétique hérite de 17,1 millions de km² — toujours le plus grand pays du monde, mais ayant perdu les républiques satellites et une large part de son espace stratégique. Des villes comme **Kiev**, **Tbilissi**, **Almaty** ou **Tachkent** — qui étaient des capitales soviétiques sous contrôle moscovite — deviennent des capitales étrangères.\n\nLa Russie se retrouve aussi privée de ses accès maritimes les plus précieux. La **mer Noire** est désormais bordée par l'Ukraine et la Géorgie — deux États indépendants. La **mer Baltique** est frangée par les pays baltes (qui rejoindront l'OTAN en 2004). L'enclave de **Kaliningrad** (ex-Königsberg, ancienne Prusse orientale) se retrouve isolée de la Russie continentale.\n\nCette réduction géographique et stratégique nourrit un sentiment profond de vulnérabilité. Pour beaucoup de responsables russes, l'élargissement de l'OTAN vers l'est (intégration de la Pologne, des pays baltes, etc.) est perçu non comme une liberté des États concernés, mais comme une menace directe aux frontières russes."
+      },
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "Les années Eltsine — le chaos des années 90",
+        "body": "**Boris Eltsine** (président 1991–1999) incarne à la fois l'espoir démocratique et le chaos de la décennie. La thérapie de choc économique — passage brutal à l'économie de marché — provoque une catastrophe sociale : la production industrielle s'effondre de 40%, l'inflation dépasse **2 500%** en 1992, les salaires des fonctionnaires et retraites ne sont plus versés pendant des mois.\n\nC'est dans ce chaos que naissent les **oligarques** : une poignée d'individus bien connectés rachètent à prix dérisoire les immenses entreprises d'État lors des privatisations (pétrole, gaz, télécommunications, métaux). En quelques années, 7 hommes contrôlent 50% de l'économie russe. Les inégalités explosent.\n\nEltsine lui-même devient un personnage pathétique : alcoolique, imprévisible, apparaissant ivre à des cérémonies officielles. Il bombarde son propre Parlement en **octobre 1993** lors d'une crise constitutionnelle. Il lance une **première guerre en Tchétchénie** (1994–1996) qui tourne au désastre militaire. Le **31 décembre 1999**, il annonce en direct sa démission et présente son successeur : un ancien agent du KGB pratiquement inconnu nommé **Vladimir Poutine**."
+      },
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "La reconstruction poutinienne — un pacte social",
+        "body": "La montée en puissance de **Vladimir Poutine** s'inscrit dans un contexte de remontée des prix du pétrole à partir de 2000. Cette manne pétrolière permet un redressement économique spectaculaire : entre 2000 et 2008, le salaire réel moyen russe est **multiplié par 2,5**, des millions de personnes sortent de la pauvreté, les retraites et salaires sont versés régulièrement.\n\nPoutine passe un **pacte tacite** avec la population russe : stabilité économique et ordre politique en échange d'une acceptation du régime autoritaire et d'une réduction des libertés politiques. Pour une génération qui a vécu le chaos des années 90, ce pacte semble raisonnable.\n\nLa classe moyenne russe émerge réellement dans les années 2000–2010 : voyages à l'étranger, consommation, voitures, smartphones. Moscou devient une métropole mondiale avec une scène gastronomique, culturelle et commerciale de premier rang. Cette prospérité relative, même si inégalement distribuée, reste associée dans beaucoup d'esprits russes à la stabilité politique instaurée par Poutine."
+      },
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "La culture russe contemporaine — liberté et contraintes",
+        "body": "Les années 1990 voient une **explosion créatrice** sans précédent : la presse se libère, les artistes expérimentent, la scène rock (Kino, DDT, Nautilus Pompilius) devient la voix d'une génération désillusionnée mais vivante. La littérature reprend souffle avec des auteurs comme **Victor Pelevine** (*Generation П*, 1999) ou **Tatiana Tolstoïa** — lucides, ironiques, obsédés par la question de l'identité russe dans un monde post-soviétique.\n\nDans les années 2000–2010, sous Poutine, une tension s'installe entre une culture officielle de plus en plus nationaliste (cinémas patriotiques, médias d'État) et une scène indépendante bouillonnante mais sous pression. Le groupe de punk-rock **Pussy Riot** (2012) incarne cette résistance — ses membres arrêtées pour une performance dans une cathédrale orthodoxe font l'objet d'un procès très médiatisé.\n\nLa fuite des cerveaux s'accélère après 2022 : beaucoup d'artistes, réalisateurs, musiciens et intellectuels quittent la Russie. Mais la culture russe reste vivante — à l'intérieur comme en exil."
+      },
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "Le renouveau de la gastronomie russe",
+        "body": "Si la cuisine soviétique était marquée par la pénurie, la **gastronomie russe contemporaine** connaît depuis les années 2000 une renaissance remarquable. Moscou et Saint-Pétersbourg sont devenues de vraies capitales gastronomiques, avec une scène de restauration sophistiquée qui redécouvre et valorise les traditions culinaires russes.\n\nLe mouvement **«Nouvelle cuisine russe»** (новая русская кухня, *novaya russkaya kukhnya*) revisit les ingrédients traditionnels : champignons sauvages, baies de la taïga, poissons de Sibérie, céréales anciennes comme le sarrasin et l'épeautre. Des chefs comme **Vladimir Mukhin** (restaurant White Rabbit à Moscou) ont placé la cuisine russe sur la carte gastronomique mondiale.\n\nPour le voyageur français, quelques codes essentiels : en Russie, **on mange plus tôt qu'en France** (déjeuner 12h–13h, dîner 18h–19h). Les portions sont généreuses. Refuser de manger est perçu comme un affront, surtout chez des particuliers. Et si votre hôte vous propose du **caviar** — rouge (de saumon) ou noir (d'esturgeon) — c'est un honneur : acceptez, et prenez le temps d'apprécier."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur 🤝",
+      "icon": "💡",
+      "content": "**Évitez de comparer les années 90 à une libération.** Pour les Occidentaux, 1991 est une victoire de la démocratie et du marché libre. Pour beaucoup de Russes — notamment les plus de 45 ans — c'est une décennie d'humiliation, de pauvreté soudaine et de chaos. Gorbatchev est perçu très négativement par une large partie de la population (celui qui a 'laissé tomber' l'URSS), tandis qu'Eltsine est associé au désordre et à la honte nationale.\n\nSi vous abordez la politique contemporaine, **ne postulez pas que les Russes veulent ce que vous considériez comme la démocratie libérale**. Beaucoup ont une conception différente de la liberté : liberté économique, mobilité sociale, sécurité physique — plutôt que liberté de presse ou multipartisme. Ce n'est ni naïveté ni servitude — c'est une expérience historique différente.\n\n**Un sujet à aborder avec tact** : la Tchétchénie. Les deux guerres (1994–96 et 1999–2009) ont causé des traumatismes dans les deux camps. Beaucoup de Russes ont perdu des proches dans ces conflits. Ce n'est pas un sujet de légèreté."
+    },
+    "glossary": [
+      {"term": "Glasnost (Гласность)", "definition": "Politique de transparence et de liberté de presse instaurée par Gorbatchev à partir de 1986, qui a accéléré la fin de l'URSS."},
+      {"term": "Perestroïka (Перестройка)", "definition": "Restructuration économique lancée par Gorbatchev dans les années 1980, visant à moderniser le socialisme soviétique."},
+      {"term": "Oligarques", "definition": "Hommes d'affaires russes ayant acquis des fortunes colossales lors des privatisations chaotiques des années 1990."},
+      {"term": "Thérapie de choc", "definition": "Passage brutal à l'économie de marché en Russie (1992), qui a provoqué une inflation galopante et une pauvreté massive."},
+      {"term": "FSB (ФСБ)", "definition": "Service fédéral de sécurité, successeur du KGB. Poutine en était le directeur avant de devenir Premier ministre puis Président."},
+      {"term": "Pacte social poutinien", "definition": "Accord implicite : stabilité économique et ordre en échange d'une acceptation de l'autoritarisme politique."},
+      {"term": "Nouvelle cuisine russe", "definition": "Mouvement gastronomique depuis les années 2000 valorisant les ingrédients traditionnels russes dans une cuisine créative."},
+      {"term": "Vertushka (Вертушка)", "definition": "Téléphone à cadran spécial réservé à la nomenclature soviétique, symbole des privilèges de la classe dirigeante."}
+    ],
+    "quiz": [
+      {
+        "question": "Quelle politique de Gorbatchev a le plus contribué à la fin de l'URSS ?",
+        "options": ["La politique nucléaire", "La glasnost et la perestroïka", "La réforme agraire", "L'alliance avec les États-Unis"],
+        "answer": 1,
+        "explanation": "La glasnost (transparence) et la perestroïka (restructuration) ont libéré des forces que Gorbatchev ne pouvait plus contrôler, précipitant la dissolution de l'URSS."
+      },
+      {
+        "question": "Quel événement dramatique Eltsine a-t-il ordonné en octobre 1993 ?",
+        "options": ["L'invasion de la Tchétchénie", "Le bombardement de son propre Parlement", "L'arrestation des oligarques", "La dissolution du Parti communiste"],
+        "answer": 1,
+        "explanation": "En octobre 1993, lors d'une crise constitutionnelle, Boris Eltsine ordonna aux chars de l'armée de bombarder le Parlement russe (Douma), tuant des centaines de personnes."
+      },
+      {
+        "question": "Quel a été le taux d'inflation en Russie en 1992 lors de la thérapie de choc ?",
+        "options": ["200%", "800%", "2 500%", "5 000%"],
+        "answer": 2,
+        "explanation": "La thérapie de choc provoqua une hyperinflation dépassant 2 500% en 1992, effaçant les économies de toute une génération de Russes."
+      },
+      {
+        "question": "En quelle année Eltsine a-t-il annoncé sa démission et présenté Poutine comme successeur ?",
+        "options": ["31 décembre 1997", "31 décembre 1999", "1er janvier 2000", "31 mars 2000"],
+        "answer": 1,
+        "explanation": "Le 31 décembre 1999, Boris Eltsine annonce en direct télévisé sa démission anticipée et présente Vladimir Poutine, alors Premier ministre, comme son successeur."
+      },
+      {
+        "question": "Sur quoi repose principalement le 'pacte social' de Poutine avec la population russe ?",
+        "options": ["La promesse d'élections libres", "La stabilité économique contre une acceptation du régime autoritaire", "L'entrée dans l'Union Européenne", "La reconstruction de l'URSS"],
+        "answer": 1,
+        "explanation": "Poutine a passé un pacte tacite : stabilité économique (salaires réguliers, croissance) et ordre politique en échange d'une réduction des libertés. Ce pacte est ancré dans le traumatisme des années 90."
+      }
+    ]
+  },
+  "ru": {
+    "module_title": "Корни России",
+    "lesson_title": "Постсоветская Россия",
+    "lesson_subtitle": "От 90-х до эпохи Путина",
+    "intro": "Распад СССР в 1991 году — одно из самых стремительных геополитических преобразований в новейшей истории. За несколько месяцев империя площадью 22 миллиона км² мирно распадается на 15 независимых государств. Для россиян этот момент переживается как национальное унижение — Горбачёв назвал его «крупнейшей геополитической катастрофой XX века». Понять это хаотичное десятилетие необходимо, чтобы осмыслить, почему россияне выбрали Путина и почему многие продолжают его поддерживать.",
+    "sections": [
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "1991 — конец империи",
+        "body": "Процесс распада СССР начинается при **Михаиле Горбачёве** (1985–1991) с двух революционных политик: **гласности** — разрешения более свободной прессы — и **перестройки** — экономической реформы в сторону смешанной рыночной экономики. Эти реформы, призванные спасти социализм, высвобождают силы, которые Горбачёв уже не может сдержать.\n\nПрибалтийские республики провозглашают независимость в 1990 году. В **августе 1991 года** консерваторы КПСС предпринимают попытку переворота — она проваливается за три дня перед народным сопротивлением, олицетворённым **Борисом Ельциным**, стоящим на танке у российского Парламента. СССР существует ещё несколько месяцев до официального роспуска **25 декабря 1991 года**.\n\nВ этот день Горбачёв уходит в отставку. Советский флаг снимают с Кремля. Для миллионов россиян — особенно старшего поколения — это крушение привычного мира, национальной гордости, устоявших убеждений. **350 миллионов человек** за одну ночь становятся гражданами 15 разных государств."
+      },
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "Новая Россия — страна, потерявшая в масштабе",
+        "body": "Постсоветская Россия получает в наследство 17,1 млн км² — по-прежнему крупнейшая страна мира, но лишившаяся союзных республик и значительной части стратегического пространства. Города как **Киев**, **Тбилиси**, **Алматы** или **Ташкент** — бывшие советские столицы под московским контролем — становятся иностранными столицами.\n\nРоссия также лишается ряда ключевых морских выходов. **Чёрное море** теперь граничит с Украиной и Грузией — двумя независимыми государствами. **Балтийское море** обрамлено прибалтийскими странами (вступившими в НАТО в 2004 году). Эксклав **Калининград** (бывший Кёнигсберг) оказывается отрезанным от континентальной России.\n\nЭто географическое и стратегическое сжатие питает глубокое чувство уязвимости. Для многих российских руководителей расширение НАТО на восток воспринимается не как свобода соответствующих государств, а как прямая угроза у российских границ."
+      },
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Годы Ельцина — хаос 90-х",
+        "body": "**Борис Ельцин** (президент 1991–1999) олицетворяет одновременно демократическую надежду и хаос десятилетия. Шоковая терапия — резкий переход к рыночной экономике — вызывает социальную катастрофу: промышленное производство падает на 40%, инфляция превышает **2500%** в 1992 году, зарплаты бюджетников и пенсии месяцами не выплачиваются.\n\nВ этом хаосе рождаются **олигархи**: горстка хорошо связанных людей скупает по бросовым ценам гигантские госпредприятия в ходе приватизации (нефть, газ, телекоммуникации, металлы). За несколько лет 7 человек контролируют 50% российской экономики.\n\nСам Ельцин превращается в жалкую фигуру: алкоголик, непредсказуемый, появляющийся пьяным на официальных церемониях. В **октябре 1993 года** он расстреливает собственный Парламент во время конституционного кризиса. Начинает **первую чеченскую войну** (1994–1996), обернувшуюся военной катастрофой. **31 декабря 1999 года** объявляет в прямом эфире о своей отставке и представляет преемника: бывшего офицера КГБ, практически никому не известного по имени **Владимир Путин**."
+      },
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Путинское восстановление — общественный договор",
+        "body": "Усиление **Владимира Путина** происходит на фоне роста нефтяных цен с 2000 года. Это нефтяное изобилие позволяет добиться впечатляющего экономического подъёма: с 2000 по 2008 год средняя реальная зарплата в России **вырастает в 2,5 раза**, миллионы людей выходят из бедности, пенсии и зарплаты выплачиваются регулярно.\n\nПутин заключает **молчаливый договор** с российским населением: экономическая стабильность и политический порядок в обмен на принятие авторитарного режима и ограничение политических свобод. Для поколения, пережившего хаос 90-х, этот договор кажется разумным.\n\nРоссийский средний класс по-настоящему формируется в 2000–2010-е годы: поездки за рубеж, потребление, автомобили, смартфоны. Москва превращается в мировой мегаполис с первоклассной гастрономической, культурной и торговой сценой. Эта относительная зажиточность, пусть и неравномерно распределённая, в глазах многих россиян по-прежнему связывается с политической стабильностью, установленной Путиным."
+      },
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Современная российская культура — свобода и ограничения",
+        "body": "1990-е годы отмечены **небывалым творческим взрывом**: пресса освобождается, художники экспериментируют, рок-сцена (Кино, ДДТ, Nautilus Pompilius) становится голосом разочарованного, но живого поколения. Литература обретает дыхание с такими авторами, как **Виктор Пелевин** («Generation П», 1999) или **Татьяна Толстая** — ироничными, беспощадными, одержимыми вопросом русской идентичности в постсоветском мире.\n\nВ 2000–2010-е годы, при Путине, возникает напряжение между всё более националистической официальной культурой (патриотическое кино, государственные СМИ) и бурлящей независимой сценой, находящейся под давлением. Панк-группа **Pussy Riot** (2012) олицетворяет это сопротивление — её участницы, арестованные за перфоманс в православном соборе, оказались в центре громкого процесса.\n\nПосле 2022 года отток мозгов ускоряется: многие художники, режиссёры, музыканты и интеллектуалы покидают Россию. Но российская культура остаётся живой — внутри страны и в эмиграции."
+      },
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Возрождение русской гастрономии",
+        "body": "Если советская кухня была отмечена дефицитом, то **современная российская гастрономия** переживает с 2000-х годов замечательное возрождение. Москва и Санкт-Петербург стали настоящими гастрономическими столицами с изысканной ресторанной сценой, заново открывающей и ценящей русские кулинарные традиции.\n\nДвижение **«Новая русская кухня»** переосмысливает традиционные ингредиенты: лесные грибы, ягоды тайги, сибирская рыба, старинные злаки — гречка и полба. Шеф-повара как **Владимир Мухин** (ресторан White Rabbit в Москве) вывели русскую кухню на мировую гастрономическую карту.\n\nДля французского путешественника несколько важных кодов: в России **едят раньше, чем во Франции** (обед 12–13 ч, ужин 18–19 ч). Порции щедрые. Отказываться от угощения считается обидным, особенно в гостях. И если хозяин предлагает **икру** — красную (лососевую) или чёрную (осетровую) — это честь: принимайте и наслаждайтесь."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Совет путешественника 🤝",
+      "icon": "💡",
+      "content": "**Не сравнивайте 90-е с освобождением.** Для западного человека 1991 год — победа демократии и свободного рынка. Для многих россиян — особенно старше 45 лет — это десятилетие унижения, внезапной нищеты и хаоса. Горбачёв воспринимается весьма негативно большой частью населения (тот, кто «сдал» СССР), а Ельцин ассоциируется с беспорядком и национальным позором.\n\nЕсли речь зашла о современной политике, **не предполагайте, что россияне хотят того, что вы считаете либеральной демократией**. Многие имеют иное понимание свободы: экономическая свобода, социальная мобильность, физическая безопасность — скорее, чем свобода прессы или многопартийность. Это не наивность и не рабство — это иной исторический опыт.\n\n**Тема, требующая деликатности**: Чечня. Обе войны (1994–96 и 1999–2009) нанесли травмы обеим сторонам. Многие россияне потеряли близких в этих конфликтах. Это не тема для лёгкого разговора."
+    },
+    "glossary": [
+      {"term": "Гласность", "definition": "Политика прозрачности и свободы прессы, введённая Горбачёвым с 1986 года и ускорившая конец СССР."},
+      {"term": "Перестройка", "definition": "Экономическая реструктуризация, запущенная Горбачёвым в 1980-х для модернизации советского социализма."},
+      {"term": "Олигархи", "definition": "Российские бизнесмены, нажившие колоссальные состояния в ходе хаотичных приватизаций 1990-х годов."},
+      {"term": "Шоковая терапия", "definition": "Резкий переход России к рыночной экономике (1992), вызвавший гиперинфляцию и массовую нищету."},
+      {"term": "ФСБ", "definition": "Федеральная служба безопасности, преемник КГБ. Путин был её директором до назначения премьером, а затем президентом."},
+      {"term": "Путинский общественный договор", "definition": "Негласное соглашение: экономическая стабильность и порядок в обмен на принятие авторитарного режима."},
+      {"term": "Новая русская кухня", "definition": "Гастрономическое движение с 2000-х, переосмысляющее традиционные русские ингредиенты в творческой кухне."},
+      {"term": "Вертушка", "definition": "Специальный дисковый телефон советской номенклатуры, символ привилегий правящего класса."}
+    ],
+    "quiz": [
+      {
+        "question": "Какая политика Горбачёва больше всего способствовала распаду СССР?",
+        "options": ["Ядерная политика", "Гласность и перестройка", "Аграрная реформа", "Союз с США"],
+        "answer": 1,
+        "explanation": "Гласность (прозрачность) и перестройка (реструктуризация) высвободили силы, которые Горбачёв уже не мог контролировать, ускорив распад СССР."
+      },
+      {
+        "question": "Какое драматическое событие приказал Ельцин в октябре 1993 года?",
+        "options": ["Вторжение в Чечню", "Расстрел собственного Парламента", "Арест олигархов", "Роспуск Коммунистической партии"],
+        "answer": 1,
+        "explanation": "В октябре 1993 года, в ходе конституционного кризиса, Борис Ельцин приказал танкам армии обстрелять российский Парламент (Думу), что унесло сотни жизней."
+      },
+      {
+        "question": "Какой была инфляция в России в 1992 году в ходе шоковой терапии?",
+        "options": ["200%", "800%", "2 500%", "5 000%"],
+        "answer": 2,
+        "explanation": "Шоковая терапия вызвала гиперинфляцию, превысившую 2 500% в 1992 году, уничтожив сбережения целого поколения россиян."
+      },
+      {
+        "question": "В каком году Ельцин объявил об отставке и представил Путина преемником?",
+        "options": ["31 декабря 1997", "31 декабря 1999", "1 января 2000", "31 марта 2000"],
+        "answer": 1,
+        "explanation": "31 декабря 1999 года Борис Ельцин в прямом телеэфире объявил о досрочной отставке и представил Владимира Путина, тогдашнего премьер-министра, своим преемником."
+      },
+      {
+        "question": "На чём в основном держится «общественный договор» Путина с российским населением?",
+        "options": ["Обещание свободных выборов", "Экономическая стабильность в обмен на принятие авторитарного режима", "Вступление в Евросоюз", "Воссоздание СССР"],
+        "answer": 1,
+        "explanation": "Путин заключил негласный договор: экономическая стабильность (регулярные зарплаты, рост) и политический порядок в обмен на ограничение свобод. Этот договор укоренён в травме 90-х."
+      }
+    ]
+  }
+}

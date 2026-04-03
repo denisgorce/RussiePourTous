@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "module_id": 1,
+    "lesson_id": 2,
+    "module_icon": "🏰",
+    "lesson_icon": "⚔️",
+    "estimated_minutes": 14,
+    "difficulty": "intermédiaire",
+    "sources": [
+      {"label": "Encyclopædia Universalis — Russie : histoire médiévale", "url": "https://www.universalis.fr/encyclopedie/russie/"},
+      {"label": "Larousse — Pierre le Grand", "url": "https://www.larousse.fr/encyclopedie/personnage/Pierre_Ier_le_Grand/133017"},
+      {"label": "Le Monde diplomatique — La Russie impériale", "url": "https://www.monde-diplomatique.fr/"},
+      {"label": "BnF — Les Romanov", "url": "https://www.bnf.fr/fr/agenda/les-romanov"}
+    ]
+  },
+  "fr": {
+    "module_title": "Les Racines de la Russie",
+    "lesson_title": "Des Varègues aux Tsars",
+    "lesson_subtitle": "Les origines et la Russie impériale",
+    "intro": "Comment un groupuscule de guerriers vikings débarqués sur les rives du Dniepr est-il devenu l'un des empires les plus vastes de l'histoire humaine ? Du IXe au XXe siècle, la Russie a traversé des invasions mongoles dévastatrices, une modernisation forcée à marche accélérée et trois siècles de domination Romanov. Pour comprendre la Russie d'aujourd'hui, il faut impérativement connaître cette trajectoire.",
+    "sections": [
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "La Rus' de Kiev — aux origines d'un peuple",
+        "body": "Tout commence avec les **Varègues** — des marchands-guerriers vikings qui, au IXe siècle, remontent les fleuves d'Europe de l'Est (Volga, Dniepr) pour commercer avec Byzance et Baghdad. Vers **862**, le chef varègue **Riourik** s'installe à Novgorod, fondant la première entité politique cohérente de la région. Son successeur **Oleg** déplace la capitale à **Kiev** en 882, créant la «Rus' de Kiev» — berceau de trois nations modernes : Russie, Ukraine et Biélorussie.\n\nLe tournant religieux arrive en **988** : le prince **Vladimir Ier** se convertit au christianisme orthodoxe de Byzance et baptise son peuple dans le Dniepr. Ce choix religieux est décisif — il lie la Russie à l'Orient chrétien plutôt qu'à l'Occident latin, et l'Église orthodoxe deviendra pendant des siècles le pilier de l'identité nationale.\n\nEn **1240**, le désastre : les hordes mongoles de **Batu Khan** (petit-fils de Gengis Khan) rasent Kiev. Pendant deux siècles, les principautés russes paient tribut à la **Horde d'Or**. Cet épisode laisse des traces profondes dans la psychologie russe : la hantise de l'invasion extérieure, le rapport ambigu à l'Asie, et une méfiance viscérale envers les voisins — des réflexes que l'on retrouve encore dans la géopolitique contemporaine."
+      },
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "Moscou — du village à la capitale d'un empire",
+        "body": "**Moscou** apparaît dans les chroniques en **1147** — une bourgade fortifiée parmi d'autres. Mais sa position centrale sur les voies fluviales et terrestres lui confère un avantage stratégique. Progressivement, la principauté de **Moscovie** absorbe ses voisines : Vladimir, Novgorod, Tver, Riazan. Cette «collecte des terres russes» est autant diplomatique que militaire.\n\n**Ivan III dit «le Grand»** (1462–1505) est le premier à se proclamer «Tsar de toutes les Russies» et à utiliser le terme de «Russie» (вся Русь). Il épouse une nièce du dernier empereur byzantin et adopte l'aigle bicéphale — symbole de Byzance — qui figure encore aujourd'hui sur les armoiries russes. Moscou se proclame **«Troisième Rome»** : après Rome et Constantinople, le nouveau centre de la chrétienté orthodoxe.\n\nLe territoire s'étend considérablement sous **Ivan IV dit «le Terrible»** (1547–1584) : conquête du khanat de Kazan (1552), du khanat d'Astrakhan (1556), début de la colonisation de la Sibérie. L'expansion russe vers l'est commence ici — elle ne s'arrêtera pratiquement plus jusqu'au Pacifique."
+      },
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "Pierre le Grand — la révolution par le haut",
+        "body": "**Pierre Ier dit «le Grand»** (1682–1725) est peut-être le personnage le plus marquant de l'histoire russe. Tsar dès 10 ans, géant physique (2,04 m), d'une énergie et d'une cruauté sans bornes, il entreprend une modernisation radicale de la Russie en s'inspirant de l'Europe occidentale — qu'il a lui-même visitée incognito.\n\nSes réformes sont brutales et systématiques : **obligation du rasage de la barbe** pour les nobles (signe de modernisation — les barbes orthodoxes étant symboles de piété traditionnelle), adoption du calendrier julien, création d'une marine et d'une armée permanente, réforme de l'administration, ouverture des premières écoles laïques, fondation de l'Académie des sciences.\n\nSon œuvre la plus spectaculaire : la construction de **Saint-Pétersbourg** (1703) sur des marécages baltiques, au prix de dizaines de milliers de vies d'ouvriers. La nouvelle capitale, conçue par des architectes européens, est délibérément tournée vers l'Europe — «la fenêtre sur l'Occident». Cette tension entre **occidentalisation et identité russe** — slavophiles contre occidentalistes — traverse toute l'histoire intellectuelle russe jusqu'à aujourd'hui.\n\n**Catherine II dite «la Grande»** (1762–1796), Allemande de naissance, poursuit cette œuvre et transforme la Russie en grande puissance européenne : annexion de la Crimée (1783), partages de la Pologne, expansion vers la mer Noire. Philosophe des Lumières en correspondance avec Voltaire et Diderot, elle ne renonce pas pour autant à l'autocratie."
+      },
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "Le servage — la plaie de la Russie impériale",
+        "body": "La grande tragédie sociale de la Russie impériale est le **servage** (крепостное право, *krepostnoye pravo*). Contrairement à l'Occident qui l'abolit progressivement au Moyen Âge, la Russie le renforce aux XVIe–XVIIe siècles : les paysans sont littéralement attachés à la terre, donc à leur maître. Au XVIIIe siècle, on peut acheter, vendre, échanger des serfs comme du bétail.\n\nLe **Tsar Alexandre II** l'abolit enfin en **1861** — paradoxalement deux ans avant que Lincoln abolisse l'esclavage aux États-Unis. Mais l'émancipation est partielle : les paysans libérés doivent racheter leur liberté sur plusieurs décennies via des «paiements de rachat» (*vykupnye platezhi*). Cette libération incomplète nourrit un ressentiment qui explosera en 1917.\n\nL'économie impériale reste fondamentalement agricole. La Russie est le grenier à blé de l'Europe, mais ses paysans vivent dans une pauvreté extrême. Cette fracture entre une élite russifiée/occidentalisée et une immense masse paysanne parlant des dialectes locaux, vénérant des icônes, vivant selon les saisons — cette fracture est le terreau des révolutions à venir."
+      },
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "L'âge d'or de la culture russe",
+        "body": "Le XIXe siècle est l'**âge d'or de la culture russe**. Dans un empire qui censure la presse et exile ses opposants, la littérature devient le seul espace de liberté : **Pouchkine** (1799–1837), considéré comme le «Soleil de la poésie russe», crée la langue littéraire moderne. Son roman en vers *Eugène Onéguine* reste la référence absolue. Mort en duel à 37 ans, il est encore aujourd'hui une figure quasi-sacrée.\n\n**Gogol**, **Tourgueniev**, **Dostoïevski**, **Tolstoï**, **Tchekhov** — tous les grands noms du roman mondial viennent de cette époque et de ce pays. Ce n'est pas un hasard : dans une société privée de débat politique, toutes les questions — sociales, morales, philosophiques — se posent dans la fiction. La littérature russe est une littérature de l'âme et du questionnement existentiel.\n\nEn musique, **Glinka** pose les fondements de la musique classique russe nationale. Le groupe des **«Cinq»** (Balakirev, Cui, Moussorgski, Rimski-Korsakov, Borodine) crée un style musical ancré dans les traditions folkloriques russes — en réaction consciente à la domination de la musique allemande et italienne. Puis arrive **Tchaïkovski**, qui synthétise génie russe et formes européennes : ses ballets (Lac des Cygnes, La Belle au Bois dormant, Casse-Noisette) restent parmi les œuvres les plus jouées au monde."
+      },
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "La table tsariste et la cuisine populaire",
+        "body": "La cuisine russe impériale est le produit d'une double culture : une **cuisine paysanne** robuste et nourrissante (soupes, céréales, champignons, choux, betteraves), et une **cuisine aristocratique** fortement influencée par la France au XVIIIe–XIXe siècle.\n\nC'est de cette période que date l'influence française sur la gastronomie russe : les grandes maisons nobles emploient des cuisiniers français, et certains plats «russes» emblématiques sont en réalité des créations franco-russes. Le fameux **«Bœuf Stroganov»** — lamelles de bœuf en sauce crème — est attribué à la famille Stroganov mais adapté par des cuisiniers français. La **«Salade Olivier»** (ancêtre du salade russe) fut créée par le chef français Lucien Olivier au restaurant l'Hermitage de Moscou dans les années 1860.\n\nLa **tradition du samovar** (самовар, littéralement «qui se chauffe lui-même») date de cette période : cet appareil à chauffer l'eau pour le thé, d'abord artisanat de Toula, devient le symbole de la convivialité russe. Autour du samovar, on discute des heures, on mange des **souchki** (petits pains en anneau) et des confiseries. Cette culture du thé prise à la maison contraste avec la culture du café en terrasse à la française — un premier code social à intégrer."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur 🤝",
+      "icon": "💡",
+      "content": "**Connaître Pouchkine, c'est la clé.** Pour un Russe, Pouchkine est ce que Molière et Victor Hugo réunis sont pour un Français — mais en plus sacré encore. Citer une phrase de Pouchkine ou montrer que vous connaissez *Eugène Onéguine* provoquera une réaction de surprise et de plaisir sincères. C'est un pont culturel immédiat.\n\nDe même, si vous êtes invité à parler d'histoire, évitez de réduire la période tsariste à «despotisme et misère». Pour beaucoup de Russes, l'empire des Romanov représente un âge de grandeur culturelle et de puissance — la nostalgie impériale est réelle, même chez des gens par ailleurs très modernes.\n\n**À retenir** : les Russes ont une mémoire historique longue et douloureuse. Les invasions répétées (Mongols, Polonais, Napoléon, Hitler) ont forgé un sentiment profond d'encerclement et de résilience. Ne jamais minimiser ce que la Russie a subi historiquement — c'est le meilleur moyen de fermer une conversation."
+    },
+    "glossary": [
+      {"term": "Varègues", "definition": "Vikings scandinaves qui s'aventurèrent vers l'Est aux IXe–Xe siècles, fondant les premières principautés russes."},
+      {"term": "Rus' de Kiev", "definition": "Premier État médiéval slave (IXe–XIIIe siècle), berceau des nations russe, ukrainienne et biélorusse."},
+      {"term": "Horde d'Or", "definition": "Khanat mongol qui domina les principautés russes de 1240 à 1480 environ, percevant un lourd tribut."},
+      {"term": "Servage (Крепостное право)", "definition": "Système d'asservissement des paysans russes à la terre et à leur maître, aboli en 1861 par Alexandre II."},
+      {"term": "Troisième Rome", "definition": "Concept théologique affirmant que Moscou hérite du rôle de Rome puis de Constantinople comme centre de la chrétienté."},
+      {"term": "Samovar (Самовар)", "definition": "Appareil traditionnel russe pour chauffer l'eau du thé. Symbole de convivialité et de la culture du foyer."},
+      {"term": "Slavophiles vs Occidentalistes", "definition": "Grand débat intellectuel russe du XIXe siècle : défenseurs d'une voie russe originale contre partisans de l'adoption du modèle occidental."},
+      {"term": "Romanov", "definition": "Dynastie impériale russe de 1613 à 1917. Le dernier Romanov, Nicolas II, fut exécuté avec sa famille en 1918."}
+    ],
+    "quiz": [
+      {
+        "question": "En quelle année le prince Vladimir baptise-t-il la Rus' dans la foi orthodoxe ?",
+        "options": ["862", "988", "1147", "1240"],
+        "answer": 1,
+        "explanation": "En 988, le prince Vladimir Ier choisit le christianisme orthodoxe de Byzance pour son peuple — un choix fondateur qui lie durablement la Russie à l'Orient chrétien."
+      },
+      {
+        "question": "Qu'est-ce que la Horde d'Or ?",
+        "options": ["La garde personnelle des tsars", "L'empire mongol qui a dominé la Russie pendant deux siècles", "La trésorerie impériale des Romanov", "La garde du Kremlin de Moscou"],
+        "answer": 1,
+        "explanation": "La Horde d'Or est le khanat mongol fondé par Batu Khan qui pilla Kiev en 1240 et domina les principautés russes pendant environ deux siècles."
+      },
+      {
+        "question": "Quelle est la réforme la plus symbolique de Pierre le Grand envers ses nobles ?",
+        "options": ["L'obligation de parler français à la cour", "L'obligation de raser leur barbe", "L'interdiction de porter des fourrures", "L'obligation d'envoyer leurs fils en Europe"],
+        "answer": 1,
+        "explanation": "Pierre le Grand imposa aux nobles russes de raser leur barbe — symbole de la rupture avec la tradition orthodoxe et de l'alignement sur les modes européennes."
+      },
+      {
+        "question": "Quand Alexandre II abolit-il le servage en Russie ?",
+        "options": ["1825", "1848", "1861", "1905"],
+        "answer": 2,
+        "explanation": "Le servage fut aboli en 1861, mais de façon incomplète : les paysans durent payer des 'paiements de rachat' pendant des décennies, nourrissant un profond ressentiment."
+      },
+      {
+        "question": "Quel célèbre plat 'russe' a en réalité été créé par un chef français à Moscou ?",
+        "options": ["Le bortsch", "Les pelmeni", "La salade Olivier", "Le koulibiac"],
+        "answer": 2,
+        "explanation": "La salade Olivier (ancêtre de la salade russe) fut inventée par le chef français Lucien Olivier au restaurant l'Hermitage de Moscou dans les années 1860."
+      }
+    ]
+  },
+  "ru": {
+    "module_title": "Корни России",
+    "lesson_title": "От варягов до царей",
+    "lesson_subtitle": "Истоки и имперская Россия",
+    "intro": "Как небольшая группа викингов, высадившихся на берегах Днепра, превратилась в одну из величайших империй в истории человечества? С IX по XX век Россия пережила опустошительные монгольские нашествия, форсированную модернизацию и три века господства Романовых. Чтобы понять сегодняшнюю Россию, необходимо знать этот путь.",
+    "sections": [
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "Киевская Русь — у истоков народа",
+        "body": "Всё начинается с **варягов** — скандинавских воинов-торговцев, которые в IX веке поднимались по рекам Восточной Европы (Волга, Днепр), торгуя с Византией и Багдадом. Около **862 года** варяжский вождь **Рюрик** обосновался в Новгороде, создав первое устойчивое политическое образование в регионе. Его преемник **Олег** перенёс столицу в **Киев** в 882 году, основав «Киевскую Русь» — колыбель трёх современных народов: русского, украинского и белорусского.\n\nРелигиозный поворот происходит в **988 году**: князь **Владимир I** принимает православное христианство из Византии и крестит свой народ в Днепре. Этот религиозный выбор оказался судьбоносным — он связал Россию с христианским Востоком, а не с латинским Западом.\n\nВ **1240 году** — катастрофа: монгольские орды **Батухана** (внука Чингисхана) разрушили Киев. Около двух веков русские княжества платили дань **Золотой Орде**. Этот эпизод оставил глубокий след в русской психологии: страх внешнего вторжения и недоверие к соседям."
+      },
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "Москва — от деревни до столицы империи",
+        "body": "**Москва** впервые упоминается в летописях в **1147 году** — как одна из многих укреплённых слобод. Но её центральное расположение на речных и сухопутных путях давало стратегическое преимущество. Постепенно Московское княжество поглощало соседей: Владимир, Новгород, Тверь, Рязань.\n\n**Иван III Великий** (1462–1505) первым провозгласил себя «Государем всея Руси» и принял термин «Россия». Он женился на племяннице последнего византийского императора и принял двуглавого орла — символ Византии — который и сегодня красуется на российском гербе. Москва объявила себя **«Третьим Римом»**: после Рима и Константинополя — новым центром православного христианства.\n\nТерритория значительно расширилась при **Иване IV Грозном** (1547–1584): завоевание Казанского ханства (1552), Астраханского ханства (1556), начало освоения Сибири. Русская экспансия на восток началась здесь — и практически не останавливалась вплоть до Тихого океана."
+      },
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Пётр Великий — революция сверху",
+        "body": "**Пётр I Великий** (1682–1725) — пожалуй, самая значимая фигура российской истории. Царь с 10 лет, физический гигант ростом 2,04 м, неукротимой энергии и беспощадной жестокости, он предпринял радикальную модернизацию России по западноевропейскому образцу — который сам посетил инкогнито.\n\nЕго реформы были жёсткими и последовательными: **обязательное бритьё бород** для дворян (знак модернизации), принятие юлианского календаря, создание флота и постоянной армии, реформа управления, открытие первых светских школ, учреждение Академии наук.\n\nЕго главный шедевр: строительство **Санкт-Петербурга** (1703) на болотах Балтики ценой десятков тысяч жизней. Новая столица, спроектированная европейскими архитекторами, намеренно обращена к Европе — «окно на Запад». Это противоречие между **вестернизацией и русской идентичностью** проходит через всю интеллектуальную историю России.\n\n**Екатерина II Великая** (1762–1796), немка по происхождению, продолжила этот путь и превратила Россию в великую европейскую державу: аннексия Крыма (1783), разделы Польши, выход к Чёрному морю."
+      },
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Крепостное право — незаживающая рана",
+        "body": "Главной социальной трагедией имперской России было **крепостное право**. В отличие от Запада, где оно постепенно отмирало в Средние века, Россия в XVI–XVII веках его усиливала: крестьяне буквально прикреплялись к земле, а значит — к своему господину. В XVIII веке крепостных можно было покупать, продавать и обменивать как скот.\n\n**Царь Александр II** отменил его наконец в **1861 году** — парадоксально, на два года раньше отмены рабства в США Линкольном. Но освобождение было неполным: освобождённые крестьяне должны были выкупать свободу в течение десятилетий через «выкупные платежи». Это неполное освобождение питало горькое недовольство, которое взорвётся в 1917 году.\n\nИмперская экономика оставалась в основе своей аграрной. Россия — житница Европы, но её крестьяне живут в крайней нищете. Этот разрыв между вестернизированной элитой и огромной крестьянской массой стал почвой для грядущих революций."
+      },
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Золотой век русской культуры",
+        "body": "XIX век — **золотой век русской культуры**. В империи, где цензура подавляет прессу, а оппозиционеров ссылают, литература становится единственным пространством свободы: **Пушкин** (1799–1837), «Солнце русской поэзии», создаёт современный литературный язык. Его роман в стихах *Евгений Онегин* — абсолютный эталон. Погибший на дуэли в 37 лет, он и сегодня — почти священная фигура.\n\n**Гоголь**, **Тургенев**, **Достоевский**, **Толстой**, **Чехов** — все великие имена мирового романа родом из этой эпохи и этой страны. Не случайно: в обществе, лишённом политической дискуссии, все вопросы — социальные, нравственные, философские — ставятся в художественной литературе.\n\nВ музыке **Глинка** заложил основы русской национальной классики. Группа **«Могучая кучка»** (Балакирев, Кюи, Мусоргский, Римский-Корсаков, Бородин) создаёт музыкальный стиль, укоренённый в русских народных традициях. Затем приходит **Чайковский**: его балеты (Лебединое озеро, Спящая красавица, Щелкунчик) — одни из самых исполняемых произведений в мире."
+      },
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Царский стол и народная кухня",
+        "body": "Русская имперская кухня — продукт двух культур: **крестьянской** — сытной и основательной (супы, крупы, грибы, капуста, свёкла) — и **аристократической**, сильно испытавшей французское влияние в XVIII–XIX веках.\n\nИменно к этому периоду относится французское влияние на русскую гастрономию: знатные дома нанимали французских поваров. Знаменитый **«Бефстроганов»** — тонкие полоски говядины в сливочном соусе — приписывается семье Строгановых, но готовился французскими поварами. **«Салат Оливье»** был создан французским шеф-поваром Люсьеном Оливье в московском ресторане «Эрмитаж» в 1860-х годах.\n\n**Традиция самовара** (самовар — «сам варит») восходит к этому времени: этот прибор для нагрева воды для чая, сначала тульское ремесло, стал символом русского гостеприимства. Вокруг самовара часами беседуют, угощаются **сушками** (сухими бубликами) и сладостями."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Совет путешественника 🤝",
+      "icon": "💡",
+      "content": "**Знать Пушкина — ключ к сердцам.** Для русского человека Пушкин — это Мольер и Виктор Гюго вместе взятые, но ещё более почитаемые. Процитировать строфу из «Евгения Онегина» или показать знакомство с его поэзией вызовет искреннее удивление и радость. Это мгновенный культурный мост.\n\nЕщё совет: если разговор зашёл об истории, избегайте сводить царский период к «деспотизму и нищете». Для многих россиян Романовская империя — эпоха культурного величия и мощи. Ностальгия по империи реальна даже у весьма современных людей.\n\n**Помните**: у русских долгая и болезненная историческая память. Многократные вторжения (монголы, поляки, Наполеон, Гитлер) сформировали глубокое чувство окружённости и стойкости. Никогда не преуменьшайте того, что Россия исторически пережила — это верный способ закрыть разговор."
+    },
+    "glossary": [
+      {"term": "Варяги", "definition": "Скандинавские викинги, двигавшиеся на восток в IX–X веках и основавшие первые русские княжества."},
+      {"term": "Киевская Русь", "definition": "Первое средневековое славянское государство (IX–XIII вв.), колыбель русского, украинского и белорусского народов."},
+      {"term": "Золотая Орда", "definition": "Монгольское ханство, господствовавшее над русскими княжествами с 1240 по около 1480 года, собиравшее тяжкую дань."},
+      {"term": "Крепостное право", "definition": "Система закрепощения русских крестьян к земле и господину, отменённая в 1861 году Александром II."},
+      {"term": "Третий Рим", "definition": "Богословская концепция, утверждающая, что Москва наследует роль Рима, а затем Константинополя как центра православного христианства."},
+      {"term": "Самовар", "definition": "Традиционный русский прибор для нагрева воды для чая. Символ гостеприимства и домашнего уюта."},
+      {"term": "Славянофилы vs западники", "definition": "Великая интеллектуальная дискуссия XIX века: защитники самобытного русского пути против сторонников западной модели."},
+      {"term": "Романовы", "definition": "Императорская династия России с 1613 по 1917 год. Последний Романов Николай II расстрелян с семьёй в 1918 году."}
+    ],
+    "quiz": [
+      {
+        "question": "В каком году князь Владимир крестил Русь в православной вере?",
+        "options": ["862", "988", "1147", "1240"],
+        "answer": 1,
+        "explanation": "В 988 году князь Владимир I выбрал православное христианство Византии для своего народа — основополагающий выбор, надолго связавший Россию с христианским Востоком."
+      },
+      {
+        "question": "Что такое Золотая Орда?",
+        "options": ["Личная гвардия царей", "Монгольская империя, господствовавшая над Россией два века", "Императорская казна Романовых", "Стража Московского Кремля"],
+        "answer": 1,
+        "explanation": "Золотая Орда — монгольское ханство Батухана, разгромившее Киев в 1240 году и господствовавшее над русскими княжествами около двух веков."
+      },
+      {
+        "question": "Какая реформа Петра Великого была наиболее символичной для дворян?",
+        "options": ["Обязательное говорить по-французски при дворе", "Обязательное бритьё бороды", "Запрет на ношение мехов", "Обязательная отправка сыновей в Европу"],
+        "answer": 1,
+        "explanation": "Пётр Великий обязал русских дворян брить бороду — символ разрыва с православной традицией и ориентации на европейскую моду."
+      },
+      {
+        "question": "Когда Александр II отменил крепостное право в России?",
+        "options": ["1825", "1848", "1861", "1905"],
+        "answer": 2,
+        "explanation": "Крепостное право было отменено в 1861 году, но неполностью: крестьяне должны были платить «выкупные платежи» десятилетиями, что питало глубокое недовольство."
+      },
+      {
+        "question": "Какое знаменитое «русское» блюдо на самом деле создал французский повар в Москве?",
+        "options": ["Борщ", "Пельмени", "Салат оливье", "Кулебяка"],
+        "answer": 2,
+        "explanation": "Салат оливье (прообраз русского салата) был изобретён французским поваром Люсьеном Оливье в московском ресторане «Эрмитаж» в 1860-х годах."
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "module_id": 3,
+    "lesson_id": 1,
+    "module_icon": "🏛️",
+    "lesson_icon": "📜",
+    "estimated_minutes": 14,
+    "difficulty": "intermédiaire",
+    "sources": [
+      {"label": "Constitution de la Fédération de Russie (texte officiel)", "url": "http://www.constitution.ru/"},
+      {"label": "Encyclopædia Universalis — Régime politique russe", "url": "https://www.universalis.fr/encyclopedie/russie/"},
+      {"label": "IFRI — La verticale du pouvoir", "url": "https://www.ifri.org/fr/russie"},
+      {"label": "Le Grand Continent — Système présidentiel russe", "url": "https://legrandcontinent.eu/fr/tag/russie/"}
+    ]
+  },
+  "fr": {
+    "module_title": "L'État Russe",
+    "lesson_title": "La Constitution et le Système présidentiel",
+    "lesson_subtitle": "La verticale du pouvoir",
+    "intro": "La Russie est officiellement une démocratie constitutionnelle avec séparation des pouvoirs, élections régulières et libertés fondamentales garanties. En pratique, le pouvoir est concentré dans les mains du Président à un degré qui n'a pas d'équivalent dans les autres grandes démocraties. Comprendre ce paradoxe — entre institutions formellement démocratiques et réalité autoritaire — est la clé pour saisir la politique russe contemporaine. Ce n'est pas une question de cynisme, mais de compréhension d'un système qui a sa propre logique.",
+    "sections": [
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "La Constitution de 1993 — née dans le chaos",
+        "body": "La Constitution actuelle de la Russie est née dans un moment de crise extrême. En **octobre 1993**, après que le Président Eltsine a bombardé son propre Parlement pour mettre fin à une crise constitutionnelle, la Russie se retrouve sans cadre institutionnel clair. Eltsine fait rédiger à marche forcée une nouvelle Constitution, approuvée par référendum le **12 décembre 1993** — dans des conditions que beaucoup observateurs ont contestées.\n\nCette Constitution crée un **régime présidentiel fort** : le Président est élu directement au suffrage universel pour un mandat de 4 ans (porté à 6 ans en 2008), nomme le Premier ministre, peut dissoudre la Douma, émet des décrets ayant force de loi, est le chef des armées et dirige la politique étrangère. Le Premier ministre est responsable devant le Parlement, mais dans les faits, depuis 2000, cette responsabilité reste formelle.\n\nEn **2020**, un référendum constitutionnel approuve une série d'amendements, dont le plus important : la clause dite «**remise à zéro**» (*обнуление, obnulenye*) qui repart à zéro le décompte des mandats de Poutine, lui permettant théoriquement de rester au pouvoir jusqu'en **2036**. Les autres amendements intègrent des valeurs conservatrices (définition du mariage comme union homme-femme, références à Dieu, statut prioritaire de la langue russe)."
+      },
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "L'architecture du pouvoir dans l'espace",
+        "body": "Le pouvoir russe est organisé autour d'un **double centre géographique** : le **Kremlin** (résidence présidentielle, siège du pouvoir exécutif) et la **Maison Blanche** (Белый Дом — siège du gouvernement, avenue Krasnopresnenskaya à Moscou). Ces deux pôles sont les équivalents russes de l'Élysée et de Matignon — mais avec une hiérarchie encore plus marquée au profit du premier.\n\nLe **Parlement** (Федеральное Собрание) est divisé en deux chambres : la **Douma d'État** (Государственная Дума, chambre basse, 450 sièges) qui siège sur la rue Okhotny Ryad à Moscou, et le **Conseil de la Fédération** (Совет Федерации, chambre haute, 170 membres) représentant les 85 sujets fédéraux.\n\nMais le vrai pouvoir se concentre dans une institution moins visible : le **Conseil de sécurité** (Совет Безопасности), organe consultatif présidé par Poutine qui réunit les principaux responsables de la sécurité, de la défense et des services de renseignement. Ses réunions — souvent diffusées à la télévision — sont l'image la plus symbolique de la «verticale» : les ministres rapportent, le Président tranche."
+      },
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "La 'verticale du pouvoir' — fonctionnement réel",
+        "body": "L'expression «**verticale du pouvoir**» (вертикаль власти, *vertikal vlasti*) est la métaphore centrale du système Poutine. Elle désigne une chaîne de commandement descendante, du Président vers les gouverneurs régionaux, vers les maires, vers les directeurs d'entreprises publiques — dans laquelle la loyauté et l'obéissance remontent vers le sommet.\n\nConcrètement : les **gouverneurs régionaux** étaient élus directement jusqu'en 2004. Après les attentats de Beslan, Poutine supprime l'élection directe et impose leur nomination par le Président. Réintroduite partiellement en 2012, l'élection reste très encadrée — les candidats non approuvés par le Kremlin sont évincés via des procédures légales ou des pressions.\n\nLe système repose sur plusieurs piliers informels. Le **siloviki** (силовики, «hommes de force») — hauts fonctionnaires issus des services de sécurité (FSB, SVR, GRU) ou de l'armée — occupent une part croissante des postes clés dans l'administration, les entreprises publiques et les régions. Le **favoritisme** (clientélisme d'État) permet de distribuer ressources et contrats aux loyaux. Et la **menace judiciaire** — arrestations d'oligarques ou de politiciens devenus trop indépendants — garantit l'obéissance des autres (affaire Khodorkovsky en est l'exemple le plus connu)."
+      },
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "L'État comme acteur économique dominant",
+        "body": "L'économie russe est officiellement une économie de marché — mais l'**État en est l'acteur dominant**. Les principales entreprises des secteurs stratégiques sont soit détenues directement par l'État (**Gazprom, Rosneft, Rostec, Sberbank**), soit dirigées par des hommes de confiance du Kremlin.\n\n**Gazprom** (Газпром) est l'entreprise emblématique de ce capitalisme d'État : producteur de gaz le plus riche du monde, il est à 51% détenu par l'État, son patron est nommé par le Kremlin, et ses revenus servent autant la politique étrangère russe (diplomatie énergétique) que les profits commerciaux. De même, **Rostec** (Ростех) est le conglomérat d'armement et de technologies contrôlé par l'État, qui emploie plus de 500 000 personnes.\n\nPour l'entrepreneur russe ordinaire, naviguer dans cet environnement suppose une habileté particulière : il faut des **contacts** (*svyazi*), une capacité à négocier avec les administrations locales, et une prudence absolue à ne pas empiéter sur les intérêts des acteurs liés au pouvoir. Le système crée une forme de «coexistence» entre initiative privée et tutelle étatique qui déroute souvent les partenaires occidentaux."
+      },
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "L'image du Tsar — continuité symbolique",
+        "body": "Un des aspects les plus fascinants du système russe est la **continuité symbolique** entre l'image du tsar, du secrétaire général soviétique et du Président actuel. La culture russe valorise profondément la figure du «dirigeant fort» — pas par servitude, mais par une tradition séculaire qui associe autorité forte et protection de la nation.\n\nLa communication politique de Poutine est parfaitement calibrée : les images de lui **pratiquant le judo**, **pilotant un avion**, **nageant en eau froide**, **tenant un ours** sont des mises en scène délibérées de la virilité et de la force. Ces images circulent massivement sur les médias d'État et construisent une image de chef indestructible. Comparé aux images de faiblesse d'Eltsine des années 90, ce contraste est saisissant pour de nombreux Russes.\n\nLe réalisateur **Andreï Zviaguintsev** (*Léviathan*, 2014) a produit la critique artistique la plus acerbe de cette fusion entre État, Église orthodoxe et pouvoir local dans la Russie contemporaine. Le film a remporté le César du meilleur film étranger — mais a été mal reçu par les autorités russes, illustrant la tension permanente entre création artistique indépendante et pouvoir politique."
+      },
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "La culture politique à table — ce qu'on peut dire et ce qu'on évite",
+        "body": "La politique est un sujet de conversation délicat en Russie — beaucoup plus qu'en France. Ce n'est pas par manque d'opinions : les Russes ont des opinions politiques très tranchées. C'est plutôt une question de **prudence sociale** et de contexte.\n\nEn **contexte privé** (dîner chez des amis, discussions entre proches), les critiques du pouvoir sont fréquentes et peuvent être très vives — particulièrement dans les milieux urbains et éduqués. Les Russes savent très bien distinguer ce qu'ils peuvent dire en famille et ce qui serait imprudent en public ou avec des inconnus.\n\nPour un Français invité à un repas russe : évitez d'**initier** les sujets politiques. Si vos hôtes abordent la politique eux-mêmes, vous pouvez écouter et poser des questions avec curiosité, mais évitez les jugements catégoriques (du type «Poutine est un dictateur» — même si certains de vos hôtes pensent la même chose). La **nuance** et la **question ouverte** sont toujours préférables. Un bon pivot si la conversation devient tendue : parler de l'histoire ancienne (Pierre le Grand, les tsars) — là, tout le monde aime débattre."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur 🤝",
+      "icon": "💡",
+      "content": "**Ne simplifiez pas la politique russe à 'dictature vs démocratie'.** C'est réducteur et cela ferme immédiatement les conversations avec les Russes. La réalité est plus nuancée : la Russie a des institutions formellement démocratiques, des élections régulières (même si leur équité est contestée), une société civile qui existe même si elle est sous pression. Le terme que beaucoup de politologues utilisent est «**démocratie illibérale**» ou «**autoritarisme compétitif**» — des systèmes où les élections existent mais où les règles du jeu avantagent massivement le pouvoir sortant.\n\nSi vous avez des discussions politiques avec des Russes, la question la plus féconde n'est pas «êtes-vous pour ou contre Poutine ?» mais «**qu'est-ce que vous souhaitez pour la Russie dans 20 ans ?**». Cette question ouvre des conversations profondes sur les valeurs, les priorités, la vision du pays — et contourne les clivages immédiats.\n\nUn fait qui surprend souvent les Français : **la Constitution russe de 1993 garantit plus de libertés formelles que certaines constitutions d'États membres de l'UE**. Le problème n'est pas dans le texte — c'est dans l'application sélective et l'indépendance inexistante de la justice."
+    },
+    "glossary": [
+      {"term": "Verticale du pouvoir (Вертикаль власти)", "definition": "Métaphore centrale du système Poutine : chaîne de commandement descendante reliant le Président aux gouverneurs, maires et directeurs d'entreprises publiques."},
+      {"term": "Siloviki (Силовики)", "definition": "Terme russe désignant les hauts fonctionnaires issus des services de sécurité (FSB, armée, GRU) qui occupent des postes clés dans l'administration."},
+      {"term": "Douma d'État (Государственная Дума)", "definition": "Chambre basse du Parlement russe, 450 membres élus pour 5 ans. Adopte les lois fédérales, mais subordonnée à l'exécutif."},
+      {"term": "Conseil de la Fédération", "definition": "Chambre haute du Parlement russe, 170 membres représentant les 85 sujets fédéraux. Ratifie les traités et autorise le recours à la force armée."},
+      {"term": "Remise à zéro (Обнуление)", "definition": "Amendement constitutionnel de 2020 qui remet à zéro le compteur des mandats de Poutine, lui permettant de se représenter jusqu'en 2036."},
+      {"term": "Gazprom (Газпром)", "definition": "Groupe gazier russe à 51% public, premier producteur mondial de gaz naturel. Instrument de politique étrangère autant qu'entreprise commerciale."},
+      {"term": "Conseil de sécurité (Совет Безопасности)", "definition": "Organe consultatif présidentiel réunissant les responsables de la sécurité, défense et renseignement. Centre réel de décision stratégique."},
+      {"term": "Démocratie illibérale", "definition": "Terme de politologie désignant un régime avec des élections formelles mais sans contre-pouvoirs effectifs ni respect des libertés civiles fondamentales."}
+    ],
+    "quiz": [
+      {
+        "question": "En quelle année la Constitution actuelle de la Russie a-t-elle été adoptée ?",
+        "options": ["1991", "1993", "1996", "2000"],
+        "answer": 1,
+        "explanation": "La Constitution russe a été adoptée par référendum le 12 décembre 1993, après que le Président Eltsine a bombardé le Parlement en octobre 1993 lors d'une crise constitutionnelle."
+      },
+      {
+        "question": "Que désigne la 'verticale du pouvoir' dans le système russe ?",
+        "options": ["La hiérarchie de l'Église orthodoxe", "La chaîne de commandement descendante du Président vers les gouverneurs et maires", "Le système de promotion dans l'armée russe", "La structure du FSB"],
+        "answer": 1,
+        "explanation": "La 'verticale du pouvoir' est la métaphore centrale du système Poutine : une chaîne de commandement et de loyauté reliant le Président à tous les échelons du pouvoir local."
+      },
+      {
+        "question": "Quel amendement constitutionnel de 2020 a permis à Poutine de rester potentiellement au pouvoir jusqu'en 2036 ?",
+        "options": ["La modification de la durée des mandats à 8 ans", "La clause de 'remise à zéro' (obnulenye)", "La suppression de la limite au nombre de mandats", "L'extension des pouvoirs du FSB"],
+        "answer": 1,
+        "explanation": "L'amendement de 'remise à zéro' (obnulenye) remet à zéro le décompte des mandats de Poutine, comme si ses précédents mandats n'avaient pas existé, lui permettant deux nouveaux mandats de 6 ans chacun."
+      },
+      {
+        "question": "Qui sont les 'siloviki' dans le système politique russe ?",
+        "options": ["Les oligarques liés au Kremlin", "Les hauts fonctionnaires issus des services de sécurité et de l'armée", "Les gouverneurs régionaux nommés par Poutine", "Les membres du Conseil de sécurité"],
+        "answer": 1,
+        "explanation": "Les siloviki (de 'sila', force) désignent les personnalités issues des services de sécurité (FSB, armée, GRU) qui occupent des postes clés dans l'administration et les entreprises d'État russes."
+      },
+      {
+        "question": "Quelle est la meilleure façon d'aborder la politique russe en conversation avec des Russes ?",
+        "options": ["Défendre ouvertement la démocratie libérale occidentale", "Éviter tout sujet politique", "Poser des questions ouvertes sur les valeurs et l'avenir du pays", "Critiquer le gouvernement pour montrer sa liberté de pensée"],
+        "answer": 2,
+        "explanation": "Les questions ouvertes sur les valeurs et l'avenir permettent des conversations profondes et contournent les clivages immédiats. Les jugements catégoriques sur le gouvernement ferment les conversations et peuvent mettre vos hôtes dans une position délicate."
+      }
+    ]
+  },
+  "ru": {
+    "module_title": "Российское государство",
+    "lesson_title": "Конституция и президентская система",
+    "lesson_subtitle": "Вертикаль власти",
+    "intro": "Официально Россия — конституционная демократия с разделением властей, регулярными выборами и гарантированными основными свободами. На практике власть сосредоточена в руках Президента в степени, не имеющей аналогов в других крупных демократиях. Понять этот парадокс — между формально демократическими институтами и авторитарной реальностью — значит уловить ключ к современной российской политике. Это не цинизм, а понимание системы, обладающей собственной логикой.",
+    "sections": [
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "Конституция 1993 года — рождённая в хаосе",
+        "body": "Действующая Конституция России родилась в момент острейшего кризиса. В **октябре 1993 года**, после того как президент Ельцин расстрелял собственный парламент для выхода из конституционного кризиса, Россия осталась без чёткой институциональной базы. Ельцин в ускоренном режиме продиктовал новую Конституцию, одобренную на референдуме **12 декабря 1993 года** — в условиях, оспаривавшихся многими наблюдателями.\n\nКонституция создаёт **сильную президентскую систему**: Президент избирается прямым всенародным голосованием на 4-летний срок (в 2008 году продлён до 6 лет), назначает премьер-министра, может распустить Думу, издаёт указы, имеющие силу закона, является Верховным главнокомандующим и определяет внешнюю политику.\n\nВ **2020 году** конституционный референдум одобрил ряд поправок, важнейшая из которых — так называемое «**обнуление**» президентских сроков Путина, позволяющее ему теоретически оставаться у власти до **2036 года**."
+      },
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "Архитектура власти в пространстве",
+        "body": "Российская власть организована вокруг **двух географических центров**: **Кремль** (президентская резиденция, место исполнительной власти) и **Белый дом** (Дом правительства на Краснопресненской набережной в Москве). Это российские аналоги Élysée и Matignon, но с ещё более выраженной иерархией в пользу первого.\n\n**Парламент** (Федеральное Собрание) делится на две палаты: **Государственная Дума** (нижняя палата, 450 депутатов) на Охотном Ряду и **Совет Федерации** (верхняя палата, 170 членов), представляющий 85 субъектов федерации.\n\nНо реальная власть сосредоточена в менее заметном органе — **Совете Безопасности**, совещательном органе под председательством Путина, объединяющем руководителей силовых структур, обороны и разведки. Его заседания, нередко транслируемые по телевидению, — наиболее символичный образ «вертикали»: министры докладывают, Президент решает."
+      },
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "«Вертикаль власти» — реальная механика",
+        "body": "Выражение «**вертикаль власти**» — центральная метафора системы Путина. Она обозначает нисходящую цепочку командования от Президента к губернаторам регионов, к мэрам, к директорам госпредприятий — в которой лояльность и послушание восходят к вершине.\n\nКонкретно: **региональные губернаторы** избирались прямым голосованием до 2004 года. После трагедии в Беслане Путин упразднил прямые выборы и ввёл назначения президентом. Частично возобновлённые в 2012 году, выборы по-прежнему строго регламентированы — неугодные Кремлю кандидаты отстраняются через правовые процедуры или давление.\n\nСистема держится на нескольких неформальных опорах. **Силовики** — высокопоставленные чиновники из спецслужб (ФСБ, СВР, ГРУ) или армии — занимают растущую долю ключевых постов в администрации, госпредприятиях и регионах. **Патронаж** (государственный клиентелизм) позволяет распределять ресурсы и контракты лояльным. А **юридическая угроза** — аресты ставших слишком самостоятельными олигархов или политиков — гарантирует послушание остальных (наиболее показателен пример Ходорковского)."
+      },
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Государство как доминирующий экономический игрок",
+        "body": "Российская экономика официально является рыночной — но **государство выступает в ней доминирующим игроком**. Крупнейшие предприятия стратегических отраслей либо принадлежат государству напрямую (**Газпром, Роснефть, Ростех, Сбербанк**), либо управляются людьми, которым доверяет Кремль.\n\n**Газпром** — флагман этого государственного капитализма: богатейший в мире производитель газа, на 51% принадлежащий государству, с кремлёвским назначенцем во главе. Его доходы служат российской внешней политике (энергетическая дипломатия) не менее, чем коммерческой прибыли. Аналогично **Ростех** — государственный конгломерат вооружений и технологий с более чем 500 000 сотрудников.\n\nДля рядового российского предпринимателя работа в этой среде требует особого искусства: нужны **связи** (*svyazi*), умение договариваться с местными администрациями и неукоснительная осторожность — не задеть интересы структур, связанных с властью."
+      },
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Образ царя — символическая преемственность",
+        "body": "Один из самых захватывающих аспектов российской системы — **символическая преемственность** между образом царя, генерального секретаря советской эпохи и нынешнего Президента. Российская культура глубоко ценит фигуру «сильного лидера» — не из покорности, но в силу вековой традиции, отождествляющей твёрдую власть с защитой нации.\n\nПолитические коммуникации Путина безупречно выверены: снимки, где он **занимается дзюдо**, **пилотирует самолёт**, **плавает в ледяной воде**, **держит медведя** — это тщательно срежиссированные демонстрации мужественности и силы. В сравнении с образами слабости ельцинских 90-х этот контраст разителен для многих россиян.\n\nРежиссёр **Андрей Звягинцев** («Левиафан», 2014) создал наиболее острую художественную критику слияния государства, православной церкви и местной власти в современной России. Фильм получил «Сезар» лучшему иностранному фильму — но был прохладно встречен российскими властями, что иллюстрирует постоянное противоречие между независимым творчеством и политической властью."
+      },
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Политическая культура за столом — что говорят и чего избегают",
+        "body": "Политика — деликатная тема для разговора в России, куда более острая, чем во Франции. Дело не в отсутствии мнений: россияне имеют очень чёткие политические взгляды. Скорее это вопрос **социальной осторожности** и контекста.\n\nВ **приватном кругу** (ужин у друзей, разговоры с близкими) критика власти звучит часто и может быть весьма жёсткой — особенно в городской образованной среде. Россияне прекрасно различают, что можно сказать в семье, и то, что было бы неосторожно произнести публично или при незнакомых.\n\nДля француза, приглашённого на русский ужин: избегайте **первым** поднимать политические темы. Если хозяева сами заговорят о политике, можно слушать и задавать вопросы с любопытством, но воздержитесь от категоричных суждений (типа «Путин — диктатор» — пусть некоторые хозяева и думают то же самое). **Нюанс** и **открытый вопрос** всегда предпочтительнее. Хороший уход от напряжённой темы — древняя история (Пётр Великий, цари): здесь дискутировать любят все."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Совет путешественника 🤝",
+      "icon": "💡",
+      "content": "**Не упрощайте российскую политику до схемы «диктатура против демократии»**. Это поверхностно и немедленно закрывает разговор с россиянами. Реальность тоньше: в России есть формально демократические институты, регулярные выборы (пусть их честность и оспаривается), гражданское общество — пусть и находящееся под давлением. Политологи чаще пользуются терминами «**нелиберальная демократия**» или «**конкурентный авторитаризм**» — системы, где выборы есть, но правила игры грубо благоприятствуют действующей власти.\n\nЕсли у вас заходит политический разговор с россиянами, самый плодотворный вопрос — не «вы за или против Путина?», а «**чего вы хотите для России через 20 лет?**». Он открывает глубокие беседы о ценностях, приоритетах, видении страны — и обходит сиюминутные разломы.\n\nФакт, нередко удивляющий французов: **Конституция России 1993 года гарантирует больше формальных свобод, чем конституции ряда государств — членов ЕС**. Проблема не в тексте — а в избирательном правоприменении и отсутствии независимости судебной системы."
+    },
+    "glossary": [
+      {"term": "Вертикаль власти", "definition": "Центральная метафора системы Путина: нисходящая цепочка командования от Президента к губернаторам, мэрам и директорам госпредприятий."},
+      {"term": "Силовики", "definition": "Высокопоставленные чиновники из силовых структур (ФСБ, армия, ГРУ), занимающие ключевые посты в администрации."},
+      {"term": "Государственная Дума", "definition": "Нижняя палата российского Парламента, 450 депутатов, избираемых на 5 лет. Принимает федеральные законы, подчинена исполнительной власти."},
+      {"term": "Совет Федерации", "definition": "Верхняя палата российского Парламента, 170 членов, представляющих 85 субъектов федерации. Ратифицирует договоры и санкционирует применение вооружённых сил."},
+      {"term": "Обнуление", "definition": "Конституционная поправка 2020 года, обнуляющая президентские сроки Путина и позволяющая ему баллотироваться до 2036 года."},
+      {"term": "Газпром", "definition": "Российский газовый концерн, на 51% государственный, богатейший в мире производитель природного газа. Инструмент внешней политики не менее, чем коммерческое предприятие."},
+      {"term": "Совет Безопасности", "definition": "Президентский совещательный орган, объединяющий руководителей силовых структур, обороны и разведки. Реальный центр стратегических решений."},
+      {"term": "Нелиберальная демократия", "definition": "Политологический термин для режима с формальными выборами, но без эффективных противовесов и без соблюдения основных гражданских свобод."}
+    ],
+    "quiz": [
+      {
+        "question": "В каком году была принята действующая Конституция России?",
+        "options": ["1991", "1993", "1996", "2000"],
+        "answer": 1,
+        "explanation": "Российская Конституция принята на референдуме 12 декабря 1993 года — после того как в октябре 1993 года президент Ельцин расстрелял парламент в ходе конституционного кризиса."
+      },
+      {
+        "question": "Что обозначает «вертикаль власти» в российской системе?",
+        "options": ["Иерархия православной церкви", "Нисходящая цепочка командования от Президента к губернаторам и мэрам", "Система продвижения по службе в армии", "Структура ФСБ"],
+        "answer": 1,
+        "explanation": "«Вертикаль власти» — центральная метафора системы Путина: цепочка командования и лояльности, связывающая Президента со всеми уровнями местной власти."
+      },
+      {
+        "question": "Какая конституционная поправка 2020 года позволила Путину потенциально оставаться у власти до 2036 года?",
+        "options": ["Увеличение срока полномочий до 8 лет", "Поправка об «обнулении» сроков", "Отмена ограничения числа сроков", "Расширение полномочий ФСБ"],
+        "answer": 1,
+        "explanation": "Поправка об «обнулении» обнуляет президентские сроки Путина, как будто предыдущих сроков не было, позволяя ему баллотироваться на два новых шестилетних срока."
+      },
+      {
+        "question": "Кто такие «силовики» в российской политической системе?",
+        "options": ["Олигархи, связанные с Кремлём", "Высокопоставленные чиновники из силовых структур и армии", "Региональные губернаторы, назначенные Путиным", "Члены Совета Безопасности"],
+        "answer": 1,
+        "explanation": "Силовики (от «сила») — лица из силовых структур (ФСБ, армия, ГРУ), занимающие ключевые посты в администрации и государственных предприятиях России."
+      },
+      {
+        "question": "Как лучше всего обсуждать российскую политику в разговоре с россиянами?",
+        "options": ["Открыто отстаивать западную либеральную демократию", "Избегать любых политических тем", "Задавать открытые вопросы о ценностях и будущем страны", "Критиковать правительство, чтобы показать свободу мысли"],
+        "answer": 2,
+        "explanation": "Открытые вопросы о ценностях и будущем открывают глубокие беседы и обходят сиюминутные разломы. Категоричные суждения о власти закрывают разговор и могут поставить хозяев в неловкое положение."
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+name: russie_pour_tous
+description: Application bilingue FR/RU d'acculturation pour francophones souhaitant comprendre la Russie.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  provider: ^6.1.2
+  shared_preferences: ^2.2.3
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.10+1
+  lottie: ^3.1.2
+  percent_indicator: ^4.2.3
+  shimmer: ^3.0.0
+  collection: ^1.18.0
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/lang/fr.json
+    - assets/lang/ru.json
+    - assets/lessons/module_1/lesson_1.json
+    - assets/lessons/module_1/lesson_2.json
+    - assets/lessons/module_1/lesson_3.json
+    - assets/lessons/module_1/lesson_4.json
+    - assets/lessons/module_1/lesson_5.json
+    - assets/lessons/module_2/lesson_1.json
+    - assets/lessons/module_2/lesson_2.json
+    - assets/lessons/module_2/lesson_3.json
+    - assets/lessons/module_2/lesson_4.json
+    - assets/lessons/module_2/lesson_5.json
+    - assets/lessons/module_3/lesson_1.json
+    - assets/lessons/module_3/lesson_2.json
+    - assets/lessons/module_3/lesson_3.json
+    - assets/lessons/module_3/lesson_4.json
+    - assets/lessons/module_3/lesson_5.json
+    - assets/lessons/module_4/lesson_1.json
+    - assets/lessons/module_4/lesson_2.json
+    - assets/lessons/module_4/lesson_3.json
+    - assets/lessons/module_4/lesson_4.json
+    - assets/lessons/module_4/lesson_5.json
+    - assets/lessons/module_5/lesson_1.json
+    - assets/lessons/module_5/lesson_2.json
+    - assets/lessons/module_5/lesson_3.json
+    - assets/lessons/module_5/lesson_4.json
+    - assets/lessons/module_5/lesson_5.json
+    - assets/lessons/module_6/lesson_1.json
+    - assets/lessons/module_6/lesson_2.json
+    - assets/lessons/module_6/lesson_3.json
+    - assets/lessons/module_6/lesson_4.json
+    - assets/lessons/module_6/lesson_5.json
+    - assets/lessons/module_7/lesson_1.json
+    - assets/lessons/module_7/lesson_2.json
+    - assets/lessons/module_7/lesson_3.json
+    - assets/lessons/module_7/lesson_4.json
+    - assets/lessons/module_7/lesson_5.json
+    - assets/lessons/module_8/lesson_1.json
+    - assets/lessons/module_8/lesson_2.json
+    - assets/lessons/module_8/lesson_3.json
+    - assets/lessons/module_8/lesson_4.json
+    - assets/lessons/module_8/lesson_5.json
+    - assets/lessons/module_9/lesson_1.json
+    - assets/lessons/module_9/lesson_2.json
+    - assets/lessons/module_9/lesson_3.json
+    - assets/lessons/module_9/lesson_4.json
+    - assets/lessons/module_9/lesson_5.json
+    - assets/lessons/module_10/lesson_1.json
+    - assets/lessons/module_10/lesson_2.json
+    - assets/lessons/module_10/lesson_3.json
+    - assets/lessons/module_10/lesson_4.json
+    - assets/lessons/module_10/lesson_5.json

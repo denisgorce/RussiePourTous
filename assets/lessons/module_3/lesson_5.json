@@ -1,0 +1,146 @@
+{
+  "meta": {"module_id": 3, "lesson_id": 5, "module_icon": "🏛️", "lesson_icon": "📰", "estimated_minutes": 12, "difficulty": "intermédiaire",
+    "sources": [
+      {"label": "RSF — Russie, classement liberté de la presse", "url": "https://rsf.org/fr/russie"},
+      {"label": "Meduza — Média russe indépendant en exil", "url": "https://meduza.io/en"},
+      {"label": "Levada Center — Opinion sur les médias", "url": "https://www.levada.ru/en/"},
+      {"label": "IFRI — Propagande et médias russes", "url": "https://www.ifri.org/fr/russie"}
+    ]
+  },
+  "fr": {
+    "module_title": "L'État Russe",
+    "lesson_title": "Médias, Censure et Opinion publique",
+    "lesson_subtitle": "L'information en Russie",
+    "intro": "Comment les Russes s'informent-ils ? Quels médias regardent-ils, lisent-ils, écoutent-ils ? Et dans quelle mesure la propagande d'État façonne-t-elle réellement leur vision du monde ? Ces questions sont plus nuancées qu'elles n'y paraissent. Il serait faux de dire que tous les Russes «gobent» la propagande officielle — et tout aussi faux de supposer qu'ils ont accès à une information complète et libre. La réalité de l'espace médiatique russe est un équilibre instable entre contrôle, autocensure, désinformation et résistance.",
+    "sections": [
+      {"theme": "Histoire", "icon": "📜", "title": "Des médias libres aux médias contrôlés — les années 90 à 2022",
+        "body": "Les années 1990 ont été, paradoxalement, l'âge d'or de la liberté de presse en Russie. Des chaînes comme **NTV** (appartenant à l'oligarque Gusinsky) couvraient la guerre en Tchétchénie avec un regard critique inédit, satirisaient le gouvernement avec le programme de marionnettes **Kukly** (les poupées), donnaient la parole à l'opposition. La presse écrite (Kommersant, Novaya Gazeta) et la radio (Ekho Moskvy) offraient une pluralité réelle.\n\nDès 2000–2001, le contrôle se resserre. **NTV** est repris par Gazprom en 2001 après des pressions fiscales contre Gusinsky. **ORT** (chaîne publique) et **RTR** (chaîne d'État) diffusent un discours aligné sur le Kremlin. La satire politique disparaît progressivement des grandes chaînes.\n\nLe processus s'accélère en trois vagues : après les manifestations de **2011-2012** (fermeture d'espaces de liberté en ligne) ; après l'**annexion de la Crimée en 2014** (lois sur les «agents de l'étranger» appliquées aux médias) ; après l'**invasion de 2022** (loi criminalisant la «diffusion de fausses informations» sur l'armée, avec jusqu'à 15 ans de prison — fermeture ou exil de presque tous les médias indépendants restants)."
+      },
+      {"theme": "Géographie", "icon": "🗺️", "title": "L'écosystème médiatique russe contemporain",
+        "body": "En **2024**, l'espace médiatique russe est divisé en plusieurs univers distincts. D'un côté, les **médias d'État** dominent le paysage audiovisuel : **Channel One** (Первый канал), **Rossiya-1**, **NTV** (repris par Gazprom), **Russia Today (RT)** pour l'international. Ces chaînes touchent des dizaines de millions de Russes, notamment les plus âgés et en province.\n\nDe l'autre, un **écosystème numérique plus divers** : **YouTube** reste accessible en Russie (des tentatives de ralentissement ont été faites sans blocage complet) et est massivement utilisé, notamment pour les chaînes d'information indépendantes en exil (**Дождь/Dozhd TV** depuis Amsterdam, **Медуза/Meduza** depuis Riga). **Telegram** est la plateforme la plus utilisée pour l'information politique — avec des canaux pro-Kremlin et des canaux critiques coexistant. **VKontakte** (réseau social russe dominant) est sous contrôle depuis que ses cofondateurs ont quitté le pays.\n\n**Instagram** et **Facebook** sont officiellement bloqués depuis 2022 — mais beaucoup de Russes y accèdent via VPN. **Twitter/X** est techniquement ralenti mais pas bloqué. L'accès à l'information libre existe donc, mais nécessite une démarche active."
+      },
+      {"theme": "Politique & Société", "icon": "⚖️", "title": "La propagande — comment ça marche réellement",
+        "body": "La propagande d'État russe est sophistiquée et ne fonctionne pas par endoctrinement direct. Elle opère via plusieurs mécanismes :\n\n**L'agenda setting** : contrôler ce dont on parle, pas nécessairement ce qu'on en dit. Les médias d'État décident quels sujets existent pour le grand public (la guerre en Ukraine, oui — mais pas les pertes russes ; les sanctions occidentales, oui — comme preuve de l'hostilité de l'Occident).\n\n**Le «firehose of falsehood»** (technique du jet de confusion) : inonder l'espace médiatique de récits contradictoires pour créer la confusion, non pas convaincre d'une vérité unique. Si les spectateurs ne savent plus quoi croire, ils restent passifs.\n\n**L'appel à la nostalgie et à la fierté nationale** : les victoires de la Seconde Guerre mondiale, la puissance soviétique, l'humiliation des années 90 et le redressement sous Poutine — un récit émotionnellement puissant qui n'est pas entièrement mensonger mais sélective.\n\nLa **résistance** prend des formes variées : VPN, médias en exil, réseaux informels, humour politique sur Telegram. Une partie significative de la population urbaine éduquée navigue consciemment entre sources officielles et indépendantes."
+      },
+      {"theme": "Économie & Vie quotidienne", "icon": "🏠", "title": "Vivre sous l'information contrôlée",
+        "body": "Comment cela se vit-il au quotidien ? Un Russe ordinaire consomme de l'information de façon assez pragmatique. La **télévision** reste dominante pour les plus de 50 ans — et c'est là que l'impact de la propagande est le plus fort. Les chaînes d'État sont regardées comme fond sonore, leur récit s'instille progressivement.\n\nPour les **moins de 35 ans urbains**, YouTube, Telegram et les réseaux sociaux sont les sources principales — un écosystème plus divers mais aussi plus chaotique, mêlant information sérieuse et désinformation variée.\n\nLe phénomène le plus révélateur est la **dissonance cognitive** que de nombreux Russes expriment : ils «savent» que les médias officiels ne disent pas tout, mais trouvent plus confortable de ne pas chercher — attitude qu'on pourrait appeler «l'ignorance consentie». Ce n'est pas unique à la Russie — des études sur les médias dans les démocraties montrent des mécanismes similaires.\n\nDepuis **2022**, les lois sur la «désinformation» sur l'armée ont créé une **autocensure généralisée** : même dans les discussions privées ou sur les réseaux, beaucoup de Russes s'imposent des limites par prudence. Le terme «guerre» est officiellement interdit pour désigner l'opération en Ukraine (terme officiel : «opération militaire spéciale»)."
+      },
+      {"theme": "Culture & Arts", "icon": "🎨", "title": "Médias indépendants — la résistance en exil",
+        "body": "Depuis 2022, la plupart des médias indépendants russes ont été contraints à l'exil ou au silence. Mais ils continuent d'exister et d'informer depuis l'étranger — une situation rappelant la presse en exil des opposants tsaristes ou soviétiques.\n\n**Meduza** (Медуза), créée à Riga en 2014, est devenu le principal média d'information indépendant russo-phone, avec des millions de lecteurs. **TV Dojd** (Дождь — Pluie), chaîne libérale fondée en 2010, émet depuis Amsterdam après avoir été bloquée en Russie. **Novaya Gazeta Europe** continue de publier depuis Riga. Ces médias sont financés par des dons de lecteurs et des fondations occidentales.\n\nLe journaliste **Andreï Netchaïev** et les fondateurs de **Meduza** (Galina Timchenko) représentent une tradition de journalisme d'investigation courageux qui a une histoire longue en Russie — de **Politkovskaya** (assassinée en 2006) à **Golunov** (arrêté en 2019, libéré grâce à une mobilisation rare de la presse).\n\nLe **roman graphique** et la **bande dessinée** sont aussi devenus des espaces d'expression politique — des artistes comme **Kosta Kunin** diffusent des BD satiriques sur Telegram qui touchent des millions de personnes, contournant les interdictions de la presse traditionnelle."
+      },
+      {"theme": "Gastronomie & Codes sociaux", "icon": "🍲", "title": "La cuisine de l'information — comment parler des médias avec des Russes",
+        "body": "L'information et les médias sont un terrain miné dans les conversations avec des Russes — surtout depuis 2022. Voici un guide pratique :\n\n**Ce qu'on peut dire** : «Je lis beaucoup d'informations sur la Russie depuis la France, mais j'ai du mal à savoir ce qui est vrai. Comment vous informez-vous ?» Cette ouverture respectueuse invite à la confidence sans imposer de jugement.\n\n**Ce qu'on évite** : «Vous croyez la propagande de Poutine ?» — question condescendante qui déclenche une réaction défensive, même chez des Russes critiques du régime.\n\n**Un terrain sûr** : parler de médias culturels — cinéma, littérature, musique — qui continuent de fonctionner relativement librement. La critique artistique implicite du pouvoir (un film de Zviaguintsev, un texte de Sorokine) est un terrain de conversation moins dangereux que la politique directe.\n\nLe concept russe de **«samizdat»** numérique — partage d'informations via Telegram, canaux chiffrés, captures d'écran virales — est une continuation directe de la tradition soviétique de circulation clandestine de l'information. Cette résilience informative fait partie de la culture russese."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur 🤝",
+      "icon": "💡",
+      "content": "**Pour mieux comprendre comment les Russes pensent** : lisez Meduza ou TV Dojd en version anglaise avant votre voyage. Ces médias russes indépendants vous donneront un aperçu de ce que pensent les Russes critiques du régime — une perspective absente des médias d'État mais aussi souvent de la couverture occidentale.\n\nSur place, **ne demandez jamais à quelqu'un de vous montrer ce qu'il lit sur son téléphone** ou de vous parler de ses sources d'information — c'est une intrusion dans une zone très personnelle et potentiellement risquée pour votre interlocuteur.\n\n**Une réflexion utile** : la Russie n'est pas unique dans le fait que ses médias influencent l'opinion publique. Des études comparatives montrent que dans toutes les démocraties, les gens ont tendance à consommer les médias qui confirment leurs opinions préexistantes. La différence en Russie est structurelle — le contrôle est organisé, pas spontané. Mais l'effet final sur les opinions n'est pas aussi mécanique qu'on pourrait le croire : beaucoup de Russes soutiennent le gouvernement parce qu'ils le souhaitent, pas uniquement parce qu'ils ont été lavés de cerveau."
+    },
+    "glossary": [
+      {"term": "RT (Russia Today)", "definition": "Chaîne d'information internationale russe financée par l'État, diffusée en anglais, espagnol, arabe, français. Instrument de communication extérieure du Kremlin."},
+      {"term": "Meduza (Медуза)", "definition": "Principal média d'information indépendant russophone, basé à Riga depuis 2014. Déclaré 'indésirable' en Russie, il continue d'informer des millions de lecteurs."},
+      {"term": "TV Dojd (Дождь)", "definition": "Chaîne d'information libérale russe fondée en 2010, émet depuis Amsterdam après avoir été bloquée. Surnommée 'la pluie' (dojd en russe)."},
+      {"term": "Agent de l'étranger (Иностранный агент)", "definition": "Statut légal russe appliqué aux organisations et individus recevant des financements étrangers. Oblige à étiqueter toutes publications et a un effet de stigmatisation."},
+      {"term": "Opération militaire spéciale (СВО)", "definition": "Terme officiel russe obligatoire pour désigner l'invasion de l'Ukraine depuis 2022. L'utilisation du mot 'guerre' est punissable de prison."},
+      {"term": "Telegram", "definition": "Application de messagerie fondée par Pavel Dourov. Plateforme d'information politique dominante en Russie — coexistence de canaux pro-Kremlin et critiques."},
+      {"term": "Firehose of falsehood", "definition": "Technique de propagande consistant à inonder l'espace médiatique de récits contradictoires pour créer la confusion plutôt que de convaincre d'une vérité unique."},
+      {"term": "Anna Politkovskaya", "definition": "Journaliste d'investigation russe du Novaya Gazeta, auteure de reportages courageux sur la Tchétchénie. Assassinée le 7 octobre 2006, anniversaire de Poutine."}
+    ],
+    "quiz": [
+      {"question": "Quel terme officiel la Russie impose-t-elle pour désigner son opération en Ukraine depuis 2022 ?",
+        "options": ["La guerre de défense nationale", "L'opération militaire spéciale (СВО)", "L'opération de libération", "L'intervention anti-terroriste"],
+        "answer": 1,
+        "explanation": "Le terme 'opération militaire spéciale' (СВО) est le seul terme légalement autorisé en Russie pour désigner l'invasion de l'Ukraine depuis 2022. L'utilisation du mot 'guerre' est passible de plusieurs années d'emprisonnement."
+      },
+      {"question": "Quelle plateforme est devenue la principale source d'information politique en Russie, coexistant avec des canaux pro-Kremlin et critiques ?",
+        "options": ["VKontakte", "Telegram", "Odnoklassniki", "Yandex Zen"],
+        "answer": 1,
+        "explanation": "Telegram est devenu la plateforme d'information politique dominante en Russie, avec des millions d'abonnés à des canaux très divers — du plus pro-Kremlin au plus critique. Sa résistance aux blocages gouvernementaux en fait un espace unique."
+      },
+      {"question": "Comment fonctionne principalement la propagande d'État russe selon les experts en désinformation ?",
+        "options": ["Par endoctrinement direct d'une vérité unique", "Par le contrôle de l'agenda et la création de confusion via des récits contradictoires", "Par la censure totale de toute information alternative", "Par des techniques subliminales dans les programmes télévisés"],
+        "answer": 1,
+        "explanation": "La propagande russe fonctionne moins par imposition d'une vérité unique que par contrôle de l'agenda (quels sujets existent) et 'firehose of falsehood' — inonder l'espace de récits contradictoires pour créer la passivité par confusion."
+      },
+      {"question": "Depuis quelle ville TV Dojd (Дождь), la chaîne libérale russe, émet-elle après avoir été bloquée en Russie ?",
+        "options": ["Paris", "Berlin", "Amsterdam", "Londres"],
+        "answer": 2,
+        "explanation": "TV Dojd (Pluie) émet depuis Amsterdam depuis son départ forcé de Russie. Avec Meduza à Riga, elle constitue l'un des deux principaux médias d'information indépendants russo-phones en exil."
+      },
+      {"question": "Qui était Anna Politkovskaya et pourquoi son nom est-il important ?",
+        "options": ["Directrice de RT, chaîne internationale russe", "Journaliste d'investigation assassinée en 2006 pour ses reportages sur la Tchétchénie", "Fondatrice de Meduza à Riga", "Opposante politique emprisonnée avec Navalny"],
+        "answer": 1,
+        "explanation": "Anna Politkovskaya était une journaliste d'investigation du Novaya Gazeta, auteure de reportages courageux sur les guerres en Tchétchénie. Elle fut assassinée le 7 octobre 2006 — date anniversaire de Vladimir Poutine."
+      }
+    ]
+  },
+  "ru": {
+    "module_title": "Российское государство",
+    "lesson_title": "СМИ, цензура и общественное мнение",
+    "lesson_subtitle": "Информация в России",
+    "intro": "Как россияне получают информацию? Какие СМИ они смотрят, читают, слушают? И в какой мере государственная пропаганда реально формирует их картину мира? Эти вопросы тоньше, чем кажется. Неверно говорить, что все россияне «проглатывают» официальную пропаганду — и столь же неверно предполагать, что у них есть доступ к полной и свободной информации. Реальность российского медиапространства — это неустойчивое равновесие между контролем, самоцензурой, дезинформацией и сопротивлением.",
+    "sections": [
+      {"theme": "История", "icon": "📜", "title": "От свободных СМИ к контролируемым — 1990-е — 2022-е",
+        "body": "1990-е годы были — как ни парадоксально — золотым веком свободы прессы в России. Каналы вроде **НТВ** (принадлежавшего олигарху Гусинскому) освещали чеченскую войну с беспрецедентной критической оптикой, высмеивали правительство в кукольном шоу **«Куклы»**, предоставляли слово оппозиции. Печатная пресса (Коммерсантъ, Новая газета) и радио (Эхо Москвы) обеспечивали реальный плюрализм.\n\nС 2000–2001 годов контроль ужесточается. **НТВ** после налогового давления на Гусинского переходит под контроль Газпрома в 2001 году. **ОРТ** и **РТР** транслируют нарратив, согласованный с Кремлём. Политическая сатира постепенно исчезает с крупных каналов.\n\nПроцесс ускоряется тремя волнами: после протестов **2011–2012 годов**; после **аннексии Крыма в 2014 году** (законы об «иностранных агентах» применяются к СМИ); после **вторжения 2022 года** (закон, криминализирующий «распространение ложной информации» об армии, до 15 лет лишения свободы — закрытие или эмиграция практически всех оставшихся независимых СМИ)."
+      },
+      {"theme": "География", "icon": "🗺️", "title": "Современная российская медиасреда",
+        "body": "В **2024 году** российское медиапространство разделено на несколько отдельных вселенных. С одной стороны, **государственные СМИ** господствуют в аудиовизуальном пространстве: **Первый канал**, **Россия-1**, **НТВ** (под контролем Газпрома), **Russia Today (RT)** для зарубежной аудитории. Эти каналы охватывают десятки миллионов россиян — прежде всего старшего возраста и провинциальных жителей.\n\nС другой стороны — **более разнообразная цифровая экосистема**: **YouTube** остаётся доступным в России (попытки замедления без полной блокировки) и активно используется, в том числе эмигрировавшими независимыми новостными каналами (**Дождь** из Амстердама, **Медуза** из Риги). **Telegram** — самая используемая платформа для политической информации: проправительственные и критические каналы сосуществуют. **ВКонтакте** под контролем после того, как основатели покинули страну.\n\n**Instagram** и **Facebook** официально заблокированы с 2022 года — но многие россияне заходят туда через VPN. **Twitter/X** технически замедлен, но не заблокирован. Доступ к свободной информации существует — но требует активного усилия."
+      },
+      {"theme": "Политика и общество", "icon": "⚖️", "title": "Пропаганда — как она работает на самом деле",
+        "body": "Российская государственная пропаганда изощрённа и работает не через прямое промывание мозгов. Она действует посредством нескольких механизмов:\n\n**Формирование повестки**: контролировать, о чём говорят, а не только что говорят. Государственные СМИ решают, какие темы существуют для широкой аудитории (война на Украине — да, но не российские потери; западные санкции — да, как доказательство враждебности Запада).\n\n**«Огненный шланг лжи»**: заливать медиапространство противоречивыми нарративами, создавая растерянность, а не убеждая в единственной истине. Если зрители не знают, чему верить, — они пассивны.\n\n**Апелляция к ностальгии и национальной гордости**: победы во Второй мировой, советская мощь, унижение 90-х и подъём при Путине — эмоционально мощный нарратив, не вполне лживый, но избирательный.\n\n**Сопротивление** принимает разные формы: VPN, эмигрировавшие СМИ, неформальные сети, политический юмор в Telegram. Значительная часть городской образованной аудитории сознательно маневрирует между официальными и независимыми источниками."
+      },
+      {"theme": "Экономика и повседневная жизнь", "icon": "🏠", "title": "Жизнь под контролируемой информацией",
+        "body": "Как это переживается в повседневности? Обычный россиянин потребляет информацию довольно прагматично. **Телевидение** остаётся доминирующим для тех, кому за 50, — и именно здесь воздействие пропаганды наиболее сильно. Государственные каналы смотрят фоном, их нарратив постепенно просачивается.\n\nДля **городской молодёжи до 35 лет** YouTube, Telegram и соцсети — основные источники, более разнообразная, но и более хаотичная экосистема, где серьёзная журналистика соседствует с разнообразной дезинформацией.\n\nСамое показательное явление — **когнитивный диссонанс**, который открыто выражают многие россияне: они «знают», что официальные СМИ говорят не всё, но им комфортнее не искать — установка, которую можно назвать «добровольным незнанием». Это не уникальная российская черта: исследования СМИ в демократиях обнаруживают схожие механизмы.\n\nС **2022 года** законы о «дезинформации» об армии вызвали **повсеместную самоцензуру**: даже в частных беседах или в сетях многие россияне из осторожности налагают на себя ограничения. Слово «война» официально запрещено применительно к операции на Украине (официальный термин: «специальная военная операция»)."
+      },
+      {"theme": "Культура и искусство", "icon": "🎨", "title": "Независимые СМИ — сопротивление в изгнании",
+        "body": "С 2022 года большинство российских независимых СМИ вынуждены уйти в эмиграцию или замолчать. Но они продолжают существовать и информировать из-за рубежа — ситуация, напоминающая эмигрантскую прессу царских или советских оппозиционеров.\n\n**Meduza** (Медуза), основанная в Риге в 2014 году, стала главным независимым русскоязычным информационным изданием с миллионами читателей. **TV Дождь**, либеральный канал, основанный в 2010 году, вещает из Амстердама после блокировки в России. **Новая газета Европа** продолжает выходить из Риги. Эти издания существуют на читательские пожертвования и гранты западных фондов.\n\nЖурналистка **Анна Политковская** и основатели **Медузы** (Галина Тимченко) олицетворяют традицию смелой журналистики-расследования с долгой историей в России — от **Политковской** (убита в 2006 году) до **Голунова** (задержан в 2019-м, освобождён благодаря редкой мобилизации прессы).\n\n**Графические романы** и **комиксы** тоже стали пространством политического высказывания — художники вроде **Косты Кунина** распространяют сатирические комиксы в Telegram, охватывая миллионы людей в обход запретов традиционных СМИ."
+      },
+      {"theme": "Гастрономия и социальные коды", "icon": "🍲", "title": "Культура информации — как говорить о СМИ с россиянами",
+        "body": "Тема информации и СМИ — минное поле в разговорах с россиянами, особенно с 2022 года. Практический путеводитель:\n\n**Что можно сказать**: «Я читаю много информации о России из Франции, но мне трудно понять, что правда. Как вы сами получаете информацию?» Такой уважительный подход приглашает к откровенности, не навязывая суждений.\n\n**Чего избегать**: «Вы верите путинской пропаганде?» — снисходительный вопрос, вызывающий защитную реакцию даже у критически настроенных к режиму россиян.\n\n**Безопасная почва**: говорить о культурных СМИ — кино, литературе, музыке, — которые по-прежнему функционируют относительно свободно. Косвенная художественная критика власти (фильм Звягинцева, текст Сорокина) — менее опасное поле для разговора, чем прямая политика.\n\nРоссийская концепция **цифрового «самиздата»** — распространение информации через Telegram, зашифрованные каналы, вирусные скриншоты — прямое продолжение советской традиции подпольного информационного оборота. Эта информационная стойкость — часть русской культуры."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Совет путешественника 🤝",
+      "icon": "💡",
+      "content": "**Чтобы лучше понять, как думают россияне**: перед поездкой почитайте Meduza или TV Дождь в английской версии. Эти независимые российские СМИ дадут представление о взглядах критически настроенных россиян — перспектива, которой нет ни в государственных СМИ, ни нередко в западных.\n\nНа месте **никогда не просите кого-либо показать, что он читает в телефоне** или рассказать об источниках информации — это вторжение в очень личную и потенциально рискованную для собеседника зону.\n\n**Полезная мысль**: Россия не уникальна в том, что её СМИ влияют на общественное мнение. Сравнительные исследования показывают: во всех демократиях люди склонны потреблять СМИ, подтверждающие их уже сложившиеся взгляды. Разница в России — структурная: контроль организован, а не стихиен. Но итоговый эффект на мнения не столь механистичен, как кажется: многие россияне поддерживают правительство потому, что сами этого хотят, а не только потому, что их промыли."
+    },
+    "glossary": [
+      {"term": "RT (Russia Today)", "definition": "Международный государственный российский телеканал, вещающий на английском, испанском, арабском, французском. Инструмент внешних коммуникаций Кремля."},
+      {"term": "Медуза", "definition": "Ведущее независимое русскоязычное информационное издание, базирующееся в Риге с 2014 года. Признано «нежелательным» в России, продолжает информировать миллионы читателей."},
+      {"term": "Дождь (TV Rain)", "definition": "Либеральный российский телеканал, основанный в 2010 году, вещает из Амстердама после блокировки. Прозван «Дождём» (дождь по-русски)."},
+      {"term": "Иностранный агент", "definition": "Российский правовой статус для организаций и физлиц, получающих иностранное финансирование. Обязывает маркировать все публикации и несёт стигматизирующий эффект."},
+      {"term": "Специальная военная операция (СВО)", "definition": "Официальное российское обозначение для вторжения в Украину с 2022 года. Использование слова «война» грозит лишением свободы."},
+      {"term": "Telegram", "definition": "Мессенджер, основанный Павлом Дуровым. Ведущая платформа политической информации в России — сосуществование проправительственных и критических каналов."},
+      {"term": "Огненный шланг лжи", "definition": "Пропагандистская техника, состоящая в заливании медиапространства противоречивыми нарративами для создания растерянности вместо убеждения в единственной истине."},
+      {"term": "Анна Политковская", "definition": "Журналист-расследователь «Новой газеты», автор смелых репортажей о Чечне. Убита 7 октября 2006 года — в день рождения Путина."}
+    ],
+    "quiz": [
+      {"question": "Какой официальный термин Россия обязала использовать для своей операции на Украине с 2022 года?",
+        "options": ["Война национальной обороны", "Специальная военная операция (СВО)", "Освободительная операция", "Антитеррористическая интервенция"],
+        "answer": 1,
+        "explanation": "«Специальная военная операция» (СВО) — единственный юридически разрешённый термин в России для обозначения вторжения в Украину с 2022 года. Использование слова «война» грозит несколькими годами лишения свободы."
+      },
+      {"question": "Какая платформа стала главным источником политической информации в России, объединяя проправительственные и критические каналы?",
+        "options": ["ВКонтакте", "Telegram", "Одноклассники", "Яндекс Дзен"],
+        "answer": 1,
+        "explanation": "Telegram стал ведущей платформой политической информации в России с миллионами подписчиков разнообразных каналов — от наиболее проправительственных до наиболее критических. Устойчивость к правительственным блокировкам делает его уникальным пространством."
+      },
+      {"question": "Как в основном работает российская государственная пропаганда по мнению экспертов в области дезинформации?",
+        "options": ["Посредством прямого навязывания единственной истины", "Через управление повесткой и создание растерянности противоречивыми нарративами", "С помощью тотальной цензуры любой альтернативной информации", "Через сублиминальные техники в телепрограммах"],
+        "answer": 1,
+        "explanation": "Российская пропаганда работает меньше через навязывание единственной истины, чем через управление повесткой (какие темы существуют) и «огненный шланг лжи» — заливание пространства противоречивыми нарративами для создания пассивности через растерянность."
+      },
+      {"question": "Из какого города вещает TV Дождь после блокировки в России?",
+        "options": ["Париж", "Берлин", "Амстердам", "Лондон"],
+        "answer": 2,
+        "explanation": "TV Дождь вещает из Амстердама с момента вынужденного отъезда из России. Вместе с «Медузой» в Риге он образует один из двух ведущих независимых русскоязычных информационных СМИ в эмиграции."
+      },
+      {"question": "Кто такая Анна Политковская и почему её имя важно?",
+        "options": ["Директор RT, международного российского телеканала", "Журналист-расследователь, убитая в 2006 году за репортажи о Чечне", "Основательница Meduza в Риге", "Оппозиционная политик, заключённая вместе с Навальным"],
+        "answer": 1,
+        "explanation": "Анна Политковская — журналист-расследователь «Новой газеты», автор смелых репортажей о чеченских войнах. Убита 7 октября 2006 года — в день рождения Владимира Путина."
+      }
+    ]
+  }
+}

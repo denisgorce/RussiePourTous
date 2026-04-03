@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "module_id": 3,
+    "lesson_id": 2,
+    "module_icon": "🏛️",
+    "lesson_icon": "🗳️",
+    "estimated_minutes": 12,
+    "difficulty": "intermédiaire",
+    "sources": [
+      {"label": "OSCE — Rapports d'observation électorale en Russie", "url": "https://www.osce.org/odihr/elections/russia"},
+      {"label": "Levada Center — Sondages russes", "url": "https://www.levada.ru/en/"},
+      {"label": "IFRI — Partis politiques russes", "url": "https://www.ifri.org/fr/russie"},
+      {"label": "Le Monde — Élections en Russie", "url": "https://www.lemonde.fr/russie/"}
+    ]
+  },
+  "fr": {
+    "module_title": "L'État Russe",
+    "lesson_title": "Élections et Partis en Russie",
+    "lesson_subtitle": "Démocratie et réalité politique",
+    "intro": "La Russie organise des élections présidentielles tous les six ans et des élections législatives tous les cinq ans. Ces élections se tiennent, les bulletins sont comptés, des résultats sont annoncés — et pourtant les observateurs internationaux les jugent systématiquement non conformes aux standards démocratiques. Comment fonctionne ce paradoxe ? Et que pensent réellement les Russes de leurs élections ? Cette leçon démêle la réalité du système électoral russe sans simplification.",
+    "sections": [
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "L'histoire électorale russe depuis 1991",
+        "body": "La Russie post-soviétique a connu plusieurs cycles électoraux d'une nature très différente. Les premières élections présidentielles de **1991** et **1996** se sont tenues dans un environnement pluraliste réel — avec une presse libre, des candidats d'opposition effectifs, et des résultats incertains. L'élection de **1996** notamment, remportée par Eltsine face au communiste Ziouganov au second tour (**53,8% vs 40,3%**), a été marquée par une utilisation massive des médias, de l'argent des oligarques et de ressources d'État — mais le résultat était contesté et l'incertitude réelle.\n\nL'arrivée de **Poutine** en 2000 marque un tournant : élu avec 52,9% dès le premier tour, il est réélu en 2004 avec 71,3% sans véritable opposition. En **2008**, il transfère le pouvoir à **Dmitri Medvedev** (son Premier ministre) pour respecter formellement la limite de deux mandats consécutifs, tout en restant Premier ministre et en reprenant la présidence en **2012**.\n\nLes élections de **2011-2012** sont un moment charnière : des fraudes massives aux élections législatives déclenchent les plus grandes manifestations depuis 1991 — des dizaines de milliers de personnes dans les rues de Moscou («**Bolotnaya**», décembre 2011). La répression qui s'ensuit et les condamnations des manifestants marquent une rupture entre le régime et une partie de la société urbaine éduquée."
+      },
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "La carte électorale russe — centres et périphéries",
+        "body": "La géographie électorale russe révèle des fractures profondes. Les scores les plus élevés pour Poutine et Russie Unie proviennent systématiquement de deux types de régions : les **républiques du Caucase** (Tchétchénie, Ingouchie, Daghestan — où les scores atteignent parfois 90-100%) et les **régions industrielles de Sibérie** dépendantes des entreprises d'État.\n\nÀ l'inverse, les scores d'opposition les plus élevés se concentrent dans les **grandes métropoles** — Moscou, Saint-Pétersbourg, Iekaterinbourg, Novosibirsk. C'est là que vit la classe moyenne éduquée, la plus exposée aux médias indépendants et aux standards occidentaux. Dans les bureaux de vote des quartiers centraux de Moscou, les candidats d'opposition peuvent obtenir 30 à 40% — un écart vertigineux avec les résultats nationaux.\n\nCette fracture **urbain/rural, centre/périphérie** est la principale ligne de clivage de la société russe contemporaine. Elle reflète des différences de revenus, d'éducation, d'accès à l'information — mais aussi des visions profondément différentes de ce que la Russie devrait être."
+      },
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "Les partis et les mécanismes de contrôle électoral",
+        "body": "La Russie dispose officiellement de plusieurs partis politiques. Les principaux acteurs sont : **Russie Unie** (Единая Россия, *Yedinaya Rossiya*) — parti au pouvoir, créé en 2001, contrôle environ 320 des 450 sièges de la Douma. Ironiquement surnommé «la poche à vide» par ses détracteurs, il est essentiellement un appareil au service de l'exécutif plutôt qu'une force politique idéologique.\n\nLes «partis systémiques d'opposition» jouent un rôle de façade démocratique : **LDPR** (nationaliste, fondé par Jirinovsky) ; **KPRF** (Parti communiste) ; **Juste Russie** (sociale-démocrate). Ces partis siègent à la Douma, reçoivent un financement public, ont des représentants médiatiques — mais ne remettent jamais fondamentalement en cause l'autorité présidentielle. On les appelle parfois «**opposition domestique**» (*ручная оппозиция, ruchnaya oppozitsiya* — opposition «à la main, domestiquée»).\n\nLa vraie opposition — **Navalny** (Alexeï Navalny, emprisonné et mort en prison en 2024), **Yabloko** (libéral), **PARNAS** — est systématiquement empêchée de participer aux élections via des refus d'enregistrement, des poursuites judiciaires, ou des pressions sur les structures locales."
+      },
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "Ce que pensent les Russes de leurs élections",
+        "body": "Le **Centre Levada** (Левада-Центр), seul institut de sondages indépendant en Russie, publie régulièrement des enquêtes sur l'opinion publique russe. Ses données, malgré les contraintes auxquelles il opère, permettent de comprendre la réalité des opinions.\n\nLes sondages Levada montrent une réalité complexe. Environ **60 à 70%** des Russes déclarent faire confiance au Président — mais ce chiffre doit être lu avec précaution dans un pays où exprimer une opinion négative sur le pouvoir n'est pas sans risque. Une distinction importante : confiance dans le Président ≠ satisfaction illimitée. Beaucoup de Russes expriment des critiques précises sur la corruption, les services publics, les inégalités — tout en maintenant une confiance de façade dans le chef de l'État.\n\nLa **participation électorale** a tendance à baisser dans les métropoles et à être gonflée dans certaines régions. Des témoignages et vidéos de «**carousels électoraux**» (电нарусели, *karuseli*) — où des électeurs votent plusieurs fois dans différents bureaux — circulent régulièrement. L'administration fiscale et les employeurs du secteur public exercent parfois des pressions pour obtenir des taux de participation élevés. Un phénomène fréquent : le **«vote contre tous»** informel, où des bulletins blancs ou nuls sont déposés comme protestation silencieuse."
+      },
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "La satire politique — une tradition russe",
+        "body": "La satire politique a une tradition séculaire en Russie. Depuis les **bouffons de cour** des tsars jusqu'aux **anecdotes soviétiques** (*anekdoty*), les Russes ont toujours trouvé des formes d'expression obliques pour critiquer le pouvoir sans s'exposer frontalement.\n\nAujourd'hui, **YouTube** et les **réseaux sociaux** ont permis l'émergence de formats satiriques très populaires. Les enquêtes de **Navalny** sur la corruption (notamment la villa de Medvedev, 2017, vue 36 millions de fois) ou du **FBK** (Fonds Anti-Corruption) ont combiné humour, données concrètes et mise en scène spectaculaire pour atteindre un public massif contournant les médias officiels.\n\nLe **théâtre politique** reste vivant malgré les pressions. Des metteurs en scène comme **Kirill Serebrennikov** (réalisateur de *Leto*, poursuivi puis condamné avant de fuir en Europe) ont maintenu une critique politique à travers les arts vivants. La tradition des **KVN** (Клуб Веселых и Находчивых — Club des joyeux et ingénieux), compétitions humoristiques télévisées qui permettaient autrefois des piques politiques, s'est progressivement autocensurée, perdant son mordant satirique."
+      },
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "La cuisine des élections — les jours de vote en Russie",
+        "body": "Les jours de scrutin en Russie ont leurs propres codes sociaux et même... gastronomiques. Une tradition soviétique subsiste dans certains bureaux de vote : la vente de produits alimentaires bon marché — œufs, légumes, conserves — dans les espaces publics adjacents. Ce vestige de l'époque où les jours de vote étaient aussi des jours de marché donne aux opérations électorales une atmosphère de fête de quartier.\n\nLa **vente d'alcool** est interdite les jours de scrutin — une règle prise au sérieux, contrairement à d'autres. Les réunions électorales informelles chez des particuliers sont courantes dans les milieux politisés : on regarde ensemble les résultats à la télévision, on débat, on mange.\n\nL'expression «**голосовать ногами**» (*golosovat' nogami* — voter avec ses pieds) a un sens très concret en Russie : beaucoup de ceux qui rejettent le système n'y participent pas — l'abstention comme acte politique. En 2024, la stratégie dite «**Midi contre Poutine**» (Полдень против Путина), organisée par des proches de Navalny, invitait les électeurs à se rendre aux bureaux de vote exactement à midi en signe de protestation visible — un exemple de la créativité des formes de résistance civile."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur 🤝",
+      "icon": "💡",
+      "content": "**Résistez à la tentation de 'éduquer' des Russes sur la démocratie.** Beaucoup de Russes, y compris ceux qui critiquent leur gouvernement, ont une réaction défensive lorsque des étrangers leur expliquent ce qu'est la vraie démocratie — d'autant plus que les démocraties occidentales ont leurs propres scandales, conflits d'intérêt et défauts.\n\nUne approche plus féconde : poser des questions sur les **sujets qui mobilisent** réellement les Russes (corruption locale, accès aux services publics, inégalités) plutôt que sur les grands principes démocratiques. Ces questions touchent à des expériences concrètes et permettent des conversations sincères.\n\n**Une réalité souvent ignorée** : les sondages du Centre Levada montrent que parmi les valeurs les plus importantes pour les Russes figurent «la stabilité et la sécurité» et «un niveau de vie décent» — bien avant «la liberté de la presse» ou le «multipartisme». Ce n'est pas de la résignation — c'est une hiérarchie de valeurs forgée par l'expérience du chaos des années 90 et d'une histoire marquée par les ruptures violentes."
+    },
+    "glossary": [
+      {"term": "Russie Unie (Единая Россия)", "definition": "Parti au pouvoir depuis 2001, contrôlant la Douma. Surnommé 'la poche à vide' par ses détracteurs — appareil au service de l'exécutif plutôt que force idéologique."},
+      {"term": "Opposition domestique (Ручная оппозиция)", "definition": "Partis systémiques (LDPR, KPRF, Juste Russie) qui siègent à la Douma mais ne remettent pas en cause l'autorité présidentielle — une façade de pluralisme."},
+      {"term": "Centre Levada (Левада-Центр)", "definition": "Seul institut de sondages indépendant en Russie, régulièrement déclaré 'agent de l'étranger' par les autorités. Ses données restent la référence sur l'opinion publique russe."},
+      {"term": "Bolotnaya (Болотная)", "definition": "Place de Moscou qui donna son nom aux manifestations massives de décembre 2011-2012, les plus importantes depuis 1991, contre les fraudes électorales."},
+      {"term": "Karuseli (Карусели)", "definition": "Terme russe pour le vote multiple : des électeurs votent plusieurs fois dans différents bureaux grâce à des bulletins préorganisés. Pratique frauduleuse documentée."},
+      {"term": "Navalny (Навальный)", "definition": "Principal opposant à Poutine, fondateur du Fonds Anti-Corruption. Emprisonné à de multiples reprises, mort en détention en février 2024."},
+      {"term": "KVN (КВН)", "definition": "Club des Joyeux et Ingénieux — format de compétition humoristique télévisée. Autrefois espace de satire politique, progressivement autocensuré."},
+      {"term": "Voter avec ses pieds (Голосовать ногами)", "definition": "Expression russe pour l'abstention comme acte politique — refus de participer à un système jugé illégitime."}
+    ],
+    "quiz": [
+      {
+        "question": "Quelle manifestation massive a eu lieu à Moscou en décembre 2011 et pourquoi ?",
+        "options": ["Contre la guerre en Tchétchénie", "Contre les fraudes aux élections législatives", "Contre la hausse du prix de l'essence", "Pour réclamer la libération de prisonniers politiques"],
+        "answer": 1,
+        "explanation": "Les manifestations de Bolotnaya (décembre 2011) rassemblèrent des dizaines de milliers de personnes à Moscou pour dénoncer les fraudes massives aux élections législatives — les plus grandes manifestations en Russie depuis 1991."
+      },
+      {
+        "question": "Qu'est-ce que l'opposition 'domestique' (ручная оппозиция) en Russie ?",
+        "options": ["Les partis régionaux qui s'opposent à Moscou", "Les partis systémiques qui siègent à la Douma sans remettre en cause l'autorité présidentielle", "Les journalistes d'opposition des médias indépendants", "Les opposants vivant en exil à l'étranger"],
+        "answer": 1,
+        "explanation": "L'opposition 'domestique' ou 'à la main' désigne les partis systémiques (LDPR, KPRF, Juste Russie) qui participent aux élections et siègent à la Douma, mais ne remettent jamais fondamentalement en cause l'autorité du Président."
+      },
+      {
+        "question": "Quel organisme fournit les sondages d'opinion publique les plus indépendants en Russie ?",
+        "options": ["VTsIOM (centre gouvernemental)", "Centre Levada", "RBK (groupe médias)", "FOM (Fonds Opinion Publique gouvernemental)"],
+        "answer": 1,
+        "explanation": "Le Centre Levada est le seul grand institut de sondages indépendant en Russie. Régulièrement déclaré 'agent de l'étranger' par les autorités, ses données restent la référence internationale sur l'opinion publique russe."
+      },
+      {
+        "question": "Que désignent les 'karuseli' (carrousels) dans le contexte électoral russe ?",
+        "options": ["Les défilés officiels des partis pendant les campagnes", "La pratique frauduleuse du vote multiple dans différents bureaux", "Les caravanes électorales en province", "Les meetings populaires dans les stades"],
+        "answer": 1,
+        "explanation": "Les 'karuseli' désignent la pratique frauduleuse où des électeurs organisés votent plusieurs fois dans différents bureaux — une forme documentée de fraude électorale en Russie."
+      },
+      {
+        "question": "Selon les sondages Levada, quelle valeur les Russes placent-ils au-dessus de la liberté de la presse dans leurs priorités ?",
+        "options": ["La liberté de circulation", "La stabilité et la sécurité", "Le droit de propriété", "L'indépendance judiciaire"],
+        "answer": 1,
+        "explanation": "Les sondages montrent que les Russes placent la 'stabilité et la sécurité' ainsi qu'un 'niveau de vie décent' bien au-dessus des libertés civiques formelles — une hiérarchie de valeurs façonnée par l'expérience du chaos des années 90."
+      }
+    ]
+  },
+  "ru": {
+    "module_title": "Российское государство",
+    "lesson_title": "Выборы и партии в России",
+    "lesson_subtitle": "Демократия и политическая реальность",
+    "intro": "Россия проводит президентские выборы каждые шесть лет и парламентские — каждые пять. Выборы проходят, бюллетени считаются, результаты объявляются — и тем не менее международные наблюдатели систематически признают их не соответствующими демократическим стандартам. Как работает этот парадокс? И что россияне реально думают о своих выборах? Этот урок распутывает реальность российской избирательной системы без упрощений.",
+    "sections": [
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "Избирательная история России с 1991 года",
+        "body": "Постсоветская Россия пережила несколько совершенно разных по характеру избирательных циклов. Первые президентские выборы **1991** и **1996** годов прошли в условиях реального плюрализма — со свободной прессой, настоящими оппозиционными кандидатами и непредсказуемым исходом.\n\nПриход **Путина** в 2000 году знаменует перелом: избранный с 52,9% уже в первом туре, переизбранный в 2004-м с 71,3% без реальной оппозиции. В **2008 году** он передаёт власть **Дмитрию Медведеву**, соблюдая формально ограничение двух сроков подряд, оставаясь при этом премьером, а в **2012 году** возвращается на президентский пост.\n\nВыборы **2011–2012 годов** — переломный момент: массовые фальсификации на думских выборах провоцируют крупнейшие протесты с 1991 года — десятки тысяч человек на улицах Москвы («**Болотная**», декабрь 2011). Последовавшие репрессии и осуждения участников обозначили разрыв между режимом и частью городской образованной публики."
+      },
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "Электоральная карта России — центры и периферия",
+        "body": "Электоральная география России обнажает глубокие трещины. Наивысшие показатели поддержки Путина и «Единой России» стабильно дают два типа регионов: **кавказские республики** (Чечня, Ингушетия, Дагестан — где результаты порой достигают 90–100%) и **промышленные регионы Сибири**, зависимые от государственных предприятий.\n\nНапротив, наиболее высокие результаты оппозиции концентрируются в **крупных мегаполисах** — Москве, Санкт-Петербурге, Екатеринбурге, Новосибирске. Здесь живёт образованный средний класс, в наибольшей мере знакомый с независимыми СМИ и западными стандартами. В центральных районах Москвы оппозиционные кандидаты могут набирать 30–40% — головокружительный разрыв с национальными результатами.\n\nЭта трещина **город/провинция, центр/периферия** — главная линия раскола современного российского общества, отражающая разницу в доходах, образовании, доступе к информации — и в глубоко различных представлениях о том, какой должна быть Россия."
+      },
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Партии и механизмы контроля над выборами",
+        "body": "В России официально существует несколько политических партий. Главные игроки: **«Единая Россия»** — правящая партия с 2001 года, контролирует около 320 из 450 мандатов в Думе. Иронично прозванная «партией жуликов и воров» критиками, она является скорее административным аппаратом на службе исполнительной власти, нежели идеологической политической силой.\n\n«Системные» партии оппозиции выполняют функцию демократического фасада: **ЛДПР** (националистическая, основана Жириновским); **КПРФ** (Коммунистическая партия); **«Справедливая Россия»** (социал-демократическая). Они заседают в Думе, получают государственное финансирование, имеют медийных представителей — но никогда принципиально не оспаривают президентский авторитет. Их порой называют «**ручной оппозицией**».\n\nНастоящая оппозиция — **Навальный** (Алексей Навальный, заключённый под стражу и скончавшийся в тюрьме в 2024 году), **«Яблоко»** (либеральное), **ПАРНАС** — систематически лишается возможности участвовать в выборах через отказы в регистрации, уголовные преследования или давление на местные структуры."
+      },
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Что россияне думают о своих выборах",
+        "body": "**Левада-Центр** — единственный независимый социологический институт России — регулярно публикует исследования общественного мнения. Его данные, несмотря на операционные ограничения, позволяют понять реальное состояние общества.\n\nОпросы Левада-Центра рисуют сложную картину. Около **60–70%** россиян заявляют о доверии Президенту — но эту цифру нужно читать осторожно: в стране, где негативно высказываться о власти небезопасно. Важное разграничение: доверие Президенту ≠ безоговорочное удовлетворение. Многие россияне высказывают конкретную критику по поводу коррупции, публичных услуг, неравенства — сохраняя при этом внешнее доверие к главе государства.\n\n**Явка** имеет тенденцию снижаться в мегаполисах и раздуваться в ряде регионов. Свидетельства и видеозаписи «**каруселей**» (когда избиратели голосуют несколько раз в разных участках) регулярно появляются в сети. Налоговые органы и работодатели госсектора порой оказывают давление ради высокой явки. Распространённое явление — неформальное «голосование против всех»: сдача пустых или испорченных бюллетеней как форма молчаливого протеста."
+      },
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Политическая сатира — русская традиция",
+        "body": "Политическая сатира имеет в России вековую традицию. От **шутов при царях** до советских **анекдотов**, россияне всегда находили косвенные формы выражения, позволявшие критиковать власть без прямого столкновения.\n\nСегодня **YouTube** и **социальные сети** дали жизнь чрезвычайно популярным сатирическим форматам. Расследования **Навального** о коррупции (в частности, о даче Медведева, 2017, — 36 миллионов просмотров) или **ФБК** (Фонда борьбы с коррупцией) сочетали юмор, конкретные данные и эффектную подачу, охватывая массовую аудиторию в обход официальных СМИ.\n\n**Политический театр** продолжает жить несмотря на давление. Режиссёры как **Кирилл Серебренников** (создатель «Лета», подвергавшийся преследованиям и бежавший в Европу) поддерживали политическую критику через сценическое искусство. Традиция **КВН** (Клуб Весёлых и Находчивых) — телевизионных юмористических соревнований, некогда допускавших политические шпильки — постепенно самоцензурировалась, утратив сатирическое жало."
+      },
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Кухня выборов — дни голосования в России",
+        "body": "Дни выборов в России имеют собственные социальные и даже... гастрономические коды. В ряде избирательных участков сохраняется советская традиция: продажа дешёвых продуктов питания — яиц, овощей, консервов — в прилегающих общественных пространствах. Этот пережиток эпохи, когда дни голосования были одновременно базарными, придаёт избирательным операциям атмосферу районного праздника.\n\n**Продажа алкоголя** в дни голосования запрещена — правило, которое соблюдается, в отличие от некоторых других. Неформальные политические сборища у частных лиц распространены в политизированной среде: вместе смотрят телевизионные результаты, спорят, едят.\n\nВыражение «**голосовать ногами**» в России предельно конкретно: многие из тех, кто отвергает систему, просто не участвуют — абстенционизм как политический акт. В 2024 году стратегия «**Полдень против Путина**», организованная соратниками Навального, призывала избирателей прийти на участки ровно в полдень как видимый знак протеста — пример изобретательности форм гражданского сопротивления."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Совет путешественника 🤝",
+      "icon": "💡",
+      "content": "**Не поддавайтесь соблазну «просвещать» россиян о демократии.** Многие россияне, включая критиков власти, защитно реагируют, когда иностранцы объясняют им, что такое настоящая демократия, — тем более что западные демократии имеют собственные скандалы, конфликты интересов и изъяны.\n\nБолее плодотворный подход: расспрашивать о темах, реально волнующих россиян (местная коррупция, доступ к публичным услугам, неравенство), а не о высоких демократических принципах. Эти вопросы касаются конкретного опыта и открывают искренние разговоры.\n\n**Реальность, которую часто игнорируют**: опросы Левада-Центра показывают, что среди важнейших для россиян ценностей — «стабильность и безопасность» и «достойный уровень жизни» — значительно выше «свободы прессы» или «многопартийности». Это не покорность — это иерархия ценностей, выкованная опытом хаоса 90-х и историей, отмеченной насильственными переломами."
+    },
+    "glossary": [
+      {"term": "Единая Россия", "definition": "Правящая партия с 2001 года, контролирующая Думу. Прозвана критиками «партией жуликов и воров» — скорее административный аппарат, нежели идеологическая сила."},
+      {"term": "Ручная оппозиция", "definition": "Системные партии (ЛДПР, КПРФ, «Справедливая Россия»), заседающие в Думе, не оспаривающие президентский авторитет — фасад плюрализма."},
+      {"term": "Левада-Центр", "definition": "Единственный крупный независимый социологический институт России, регулярно признаваемый «иностранным агентом» властями. Его данные — международный эталон по российскому общественному мнению."},
+      {"term": "Болотная", "definition": "Московская площадь, давшая имя массовым протестам декабря 2011–2012 годов — крупнейшим с 1991 года — против фальсификации выборов."},
+      {"term": "Карусели", "definition": "Российский термин для многократного голосования: избиратели голосуют несколько раз на разных участках по заранее организованной схеме. Задокументированная практика мошенничества."},
+      {"term": "Навальный", "definition": "Главный оппонент Путина, основатель Фонда борьбы с коррупцией. Многократно заключался под стражу, скончался в заключении в феврале 2024 года."},
+      {"term": "КВН", "definition": "Клуб Весёлых и Находчивых — формат телевизионных юмористических соревнований. Некогда пространство политической сатиры, постепенно самоцензурировалось."},
+      {"term": "Голосовать ногами", "definition": "Российское выражение для абстенционизма как политического акта — отказа участвовать в системе, признанной нелегитимной."}
+    ],
+    "quiz": [
+      {
+        "question": "Какая массовая акция прошла в Москве в декабре 2011 года и почему?",
+        "options": ["Против войны в Чечне", "Против фальсификации думских выборов", "Против роста цен на бензин", "За освобождение политзаключённых"],
+        "answer": 1,
+        "explanation": "Протесты на Болотной (декабрь 2011) собрали десятки тысяч человек в Москве в знак протеста против массовых фальсификаций на думских выборах — крупнейшие в России с 1991 года."
+      },
+      {
+        "question": "Что такое «ручная оппозиция» в России?",
+        "options": ["Региональные партии, противостоящие Москве", "Системные партии, заседающие в Думе и не оспаривающие президентский авторитет", "Журналисты-оппозиционеры в независимых СМИ", "Оппозиционеры в эмиграции"],
+        "answer": 1,
+        "explanation": "«Ручная оппозиция» — системные партии (ЛДПР, КПРФ, «Справедливая Россия»), участвующие в выборах и заседающие в Думе, но принципиально не оспаривающие президентскую власть."
+      },
+      {
+        "question": "Какая организация проводит наиболее независимые социологические исследования в России?",
+        "options": ["ВЦИОМ (правительственный центр)", "Левада-Центр", "РБК (медиагруппа)", "ФОМ (правительственный Фонд общественного мнения)"],
+        "answer": 1,
+        "explanation": "Левада-Центр — единственный крупный независимый социологический институт России. Регулярно признаваемый «иностранным агентом» властями, его данные остаются международным эталоном по российскому общественному мнению."
+      },
+      {
+        "question": "Что означают «карусели» в контексте российских выборов?",
+        "options": ["Официальные партийные шествия в ходе кампании", "Мошенническая практика многократного голосования на разных участках", "Предвыборные поездки по провинции", "Массовые митинги на стадионах"],
+        "answer": 1,
+        "explanation": "«Карусели» — мошенническая практика, при которой организованные избиратели голосуют несколько раз на разных участках; задокументированная форма фальсификации на российских выборах."
+      },
+      {
+        "question": "Какую ценность россияне ставят выше свободы прессы, согласно опросам Левада-Центра?",
+        "options": ["Свободу передвижения", "Стабильность и безопасность", "Право собственности", "Независимость суда"],
+        "answer": 1,
+        "explanation": "Опросы показывают, что россияне ставят «стабильность и безопасность» и «достойный уровень жизни» значительно выше формальных гражданских свобод — иерархия ценностей, выкованная хаосом 90-х и историей насильственных переломов."
+      }
+    ]
+  }
+}

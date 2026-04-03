@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "module_id": 2,
+    "lesson_id": 1,
+    "module_icon": "🗺️",
+    "lesson_icon": "🏙️",
+    "estimated_minutes": 14,
+    "difficulty": "débutant",
+    "sources": [
+      {"label": "Mairie de Moscou — portail officiel", "url": "https://www.mos.ru/"},
+      {"label": "Encyclopædia Universalis — Moscou", "url": "https://www.universalis.fr/encyclopedie/moscou/"},
+      {"label": "Routard — Moscou pratique", "url": "https://www.routard.com/guide/moscou/"},
+      {"label": "Le Monde — Dossier Moscou", "url": "https://www.lemonde.fr/"}
+    ]
+  },
+  "fr": {
+    "module_title": "L'Immensité Russe",
+    "lesson_title": "Moscou, la Troisième Rome",
+    "lesson_subtitle": "La capitale et son âme",
+    "intro": "Moscou est une ville qui défie les catégories. Ni tout à fait européenne, ni tout à fait asiatique, à la fois ultramoderne et obsédée par son histoire, brutale dans son urbanisme et d'une richesse culturelle vertigineuse — Moscou concentre les contradictions de la Russie entière. Avec ses 12 millions d'habitants intra-muros (20 millions dans l'agglomération), c'est la plus grande ville d'Europe. La comprendre, c'est comprendre pourquoi la Russie est ce qu'elle est.",
+    "sections": [
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "De la bourgade médiévale à la mégapole mondiale",
+        "body": "Moscou apparaît dans les chroniques en **1147**, fondée selon la légende par le prince **Youri Dolgorouki** («aux longs bras»). Son nom vient de la rivière Moskva, dont l'étymologie est obscure — probablement d'origine finno-ougrienne, rappelant les peuples qui habitaient ces forêts avant les Slaves.\n\nLa ville grandit lentement, puis absorbe ses rivales pour devenir la capitale de la principauté de Moscovie. Son atout : une position centrale dans le réseau fluvial d'Europe orientale, facilitant le commerce et la communication. Le **Kremlin** (кремль, «citadelle» en russe) est fortifié en pierres blanches au XIVe siècle, puis en briques rouges à la fin du XVe — ces murs de briques rouges que l'on voit encore aujourd'hui.\n\nEn **1712**, Pierre le Grand transfère la capitale à Saint-Pétersbourg — humiliation pour Moscou qui perd son statut mais reste la ville la plus peuplée et la capitale symbolique, le cœur battant de la Russie profonde. La consécration des tsars continue d'avoir lieu à Moscou, pas à Pétersbourg. **Lénine** ramène la capitale à Moscou en **1918**, par crainte d'une attaque allemande — et Moscou retrouve son rang jusqu'à aujourd'hui."
+      },
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "Moscou — une ville de cercles et de radiales",
+        "body": "L'urbanisme de Moscou est organisé en **anneaux concentriques** rayonnant depuis le Kremlin. Le premier anneau est le **Boulevard Ring** (Бульварное кольцо), puis le **Garden Ring** (Садовое кольцо), puis la **ceinture périphérique** (МКАД — Московская кольцевая автодорога). Cette structure en oignon, tracée sur des siècles, détermine encore la vie quotidienne : plus on s'éloigne du centre, plus les loyers baissent, mais plus les transports sont contraignants.\n\nLa ville est traversée par la **rivière Moskva** qui serpente en la découpant en quartiers aux identités distinctes. Sur la rive gauche : le Kremlin, la Place Rouge, le quartier historique d'Arbat. Sur la rive droite : Zamoskvorechye (ancien quartier des marchands), les nouvelles tours de Moscou-City.\n\n**Moscou-City** (Международный деловой центр) est le Manhattan moscovite : une forêt de gratte-ciels construits à partir des années 2000, dont la tour Fédération (374 m), visibles de toute la ville. Ce quartier ultra-moderne contraste spectaculairement avec le vieux Moscou — symbole de l'ambition d'une Russie qui veut peser dans le monde globalisé."
+      },
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "Le Kremlin — cœur du pouvoir russe",
+        "body": "Le **Kremlin** (Московский Кремль) est bien plus qu'un monument : c'est le siège du Président de la Fédération de Russie, l'équivalent de l'Élysée et de Matignon réunis. Ses 27 hectares intra-muros abritent la résidence présidentielle, des cathédrales orthodoxes (dont la cathédrale de l'Assomption où étaient couronnés les tsars), le Grand Palais du Kremlin, les arsenaux — un concentré de mille ans d'histoire du pouvoir russe.\n\nDevant le Kremlin, la **Place Rouge** (Красная площадь, *Krasnaya Ploshchad*) — «rouge» signifiant en vieux russe «beau» et non la couleur. Elle est bordée par la cathédrale **Saint-Basile-le-Bienheureux** (ses coupoles à bulbes colorés, construite par Ivan le Terrible en 1561), le **Mausolée de Lénine** (son corps embaumé est encore visible), le **GUM** (Главный универсальный магазин) — grand magasin tsariste reconverti en galerie de luxe.\n\nMoscou concentre aussi tous les pouvoirs administratifs, judiciaires, médiatiques et financiers de la Russie. Ce **centralisme extrême**, hérité à la fois de l'autocratie tsariste et de l'URSS, est une des caractéristiques les plus marquantes du système russe. Être «bien connecté à Moscou» est encore la principale ressource pour une entreprise ou un individu ambitieux."
+      },
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "Vivre à Moscou — richesses et inégalités",
+        "body": "Moscou concentre environ **20% du PIB russe** pour moins de 10% de la population. Les salaires moscovites sont deux à trois fois supérieurs à la moyenne nationale : un cadre supérieur peut gagner **200 000–400 000 roubles/mois** (environ 2 000–4 000 €), quand la moyenne nationale tourne autour de 55 000 roubles.\n\nLe coût de la vie à Moscou est élevé pour les standards russes, mais beaucoup moins qu'à Paris : un repas correct au restaurant coûte **600–1 200 roubles** (6–12 €), un café **200–400 roubles**, un titre de métro **57 roubles** (moins de 1 €). Un appartement d'une chambre en location dans le Garden Ring coûte **60 000–100 000 roubles/mois** — une fortune pour la plupart des Russes hors de Moscou.\n\nLes **embouteillages** (пробки, *probki*) sont une obsession moscovite. La ville détient régulièrement le titre de ville la plus embouteillée d'Europe. Les Moscovites consacrent en moyenne **deux heures par jour** dans les transports. Le métro, ultra-efficace et fréquenté par 8 millions de personnes par jour, reste la colonne vertébrale de la mobilité urbaine — mais la possession d'une voiture reste un marqueur social."
+      },
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "Moscou — capitale culturelle mondiale",
+        "body": "Moscou est l'une des grandes capitales culturelles mondiales, souvent sous-estimée par les Occidentaux. Elle abrite plus de **100 musées**, dont la **Galerie Tretiakov** (Третьяковская галерея) — la plus grande collection d'art russe au monde, fondée par le marchand Pavel Tretiakov en 1856. Icônes médiévales, peintures de l'école du XIXe siècle (les «Ambulants»), avant-garde russe du début du XXe — un parcours de 1 000 ans de création.\n\nLe **Bolchoï** (Большой театр, «Grand Théâtre») est l'une des plus prestigieuses scènes d'opéra et de ballet au monde. Inauguré en 1825, rénové de fond en comble entre 2005 et 2011 pour 700 millions de dollars, il représente avec ses 2 500 places l'excellence de la tradition artistique russe. Obtenir une place pour le ballet est un défi même pour les Moscovites.\n\nLa scène artistique contemporaine moscovite est bouillonnante : le **Garage Museum of Contemporary Art** (fondé par Roman Abramovitch), les galeries de **Winzavod** (ancienne distillerie reconvertie), le **Centre Multimédias du Kremlin**. Moscou a aussi une scène de **street art** vivante, dans les quartiers de Kuznetsky Most et Strelka. Cette créativité urbaine coexiste avec une surveillance croissante des artistes politiquement engagés."
+      },
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "Manger et se promener à Moscou",
+        "body": "La scène gastronomique moscovite est l'une des plus dynamiques d'Europe. Le **marché Dorogomilovsky** (Дорогомиловский рынок) est l'incontournable : fromages artisanaux, champignons séchés, poissons fumés, miel de la taïga, légumes du Caucase — un concentré de la diversité culinaire russe. Le marché **Danilovsky** est plus branché, avec des stands de street food du monde entier.\n\nLes **rues piétonnes** à ne pas manquer : **Arbat** (Арбат) — la plus ancienne rue piétonne de Moscou, lieu de promenade traditionnel, bordée de librairies, de portraits-minute et de boutiques de souvenirs. **Kamergersky pereoulok** — ruelle pavée du centre, terrasses de cafés, entrée du Théâtre d'Art de Moscou fondé par Stanislavski. **Nikolskaïa** — rue luxueuse reliant la Place Rouge à Loubianka, illuminée en permanence.\n\n**Code essentiel à Moscou** : ne restez jamais les bras ballants dans une conversation avec un Moscovite. Les habitants de la capitale sont réputés pour leur **directness** et leur rythme soutenu — bien plus pressés et moins portés aux bavardages que les habitants de province. Un «да/нет» (da/net — oui/non) sec ne signifie pas d'impolitesse : c'est simplement l'efficacité urbaine moscovite."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur 🤝",
+      "icon": "💡",
+      "content": "**Le métro de Moscou est un musée à lui seul** — avant même de visiter la Galerie Tretiakov ou le Kremlin, prenez 30 minutes pour faire le tour des stations les plus spectaculaires : Komsomolskaya (mosaïques dorées), Mayakovskaya (Art Déco soviétique, primée à l'Exposition universelle de New York 1939), Ploschad Revoliutsii (bronzes de soldats et ouvriers soviétiques). Toutes ces stations furent inaugurées dans les années 1930–1950 comme des «palais du peuple» — et elles le sont vraiment.\n\nPratiquement : achetez une **carte Troïka** (Тройка) rechargeable dès l'aéroport ou la gare. Elle fonctionne sur le métro, le bus et le tramway. Une course de métro coûte 57 roubles — l'un des transports publics les moins chers des grandes capitales mondiales.\n\n**Sécurité** : Moscou est globalement une ville sûre pour un touriste occidental en termes de criminalité ordinaire. Les pickpockets existent mais sont moins présents qu'à Paris ou Rome. Évitez en revanche tout commentaire politique en public — la prudence s'impose depuis 2022."
+    },
+    "glossary": [
+      {"term": "Kremlin (Кремль)", "definition": "Citadelle fortifiée au cœur de Moscou, siège du Président de Russie. Le mot 'kremlin' désigne en russe toute citadelle fortifiée."},
+      {"term": "Place Rouge (Красная площадь)", "definition": "Place centrale de Moscou face au Kremlin. 'Krasnaya' signifiait 'beau' en vieux russe, et non 'rouge'."},
+      {"term": "Garden Ring (Садовое кольцо)", "definition": "Second anneau de boulevards encerclant le centre de Moscou, tracé sur l'emplacement des anciens jardins de la ville."},
+      {"term": "GUM (ГУМ)", "definition": "Grand magasin d'État soviétique face au Kremlin, reconverti en galerie commerciale de luxe. Acronyme de 'Grand Magasin Universel'."},
+      {"term": "Bolchoï (Большой театр)", "definition": "Scène d'opéra et de ballet fondée en 1776. L'un des théâtres les plus prestigieux au monde, situé au centre de Moscou."},
+      {"term": "Galerie Tretiakov", "definition": "Plus grande collection d'art russe au monde (plus de 180 000 œuvres), fondée par Pavel Tretiakov en 1856."},
+      {"term": "Probki (Пробки)", "definition": "Bouchons de circulation, littéralement 'bouchons de bouteille'. Le fléau quotidien des Moscovites."},
+      {"term": "Carte Troïka (Тройка)", "definition": "Carte de transport rechargeable du réseau moscovite (métro, bus, tramway). Essentielle pour tout visiteur."}
+    ],
+    "quiz": [
+      {
+        "question": "En quelle année Moscou est-elle mentionnée pour la première fois dans les chroniques russes ?",
+        "options": ["862", "1147", "1380", "1547"],
+        "answer": 1,
+        "explanation": "Moscou apparaît dans les chroniques en 1147, fondée selon la tradition par le prince Youri Dolgorouki sur les rives de la rivière Moskva."
+      },
+      {
+        "question": "Que signifie réellement le mot 'rouge' dans 'Place Rouge' (Красная площадь) ?",
+        "options": ["La couleur rouge des murs du Kremlin", "La révolution communiste", "'Beau' en vieux russe", "Le sang versé lors des révolutions"],
+        "answer": 2,
+        "explanation": "En vieux russe, 'krasnaya' signifiait 'beau/belle' et non la couleur rouge. La Place Rouge était donc la 'Belle Place' — son nom est bien antérieur à la révolution communiste."
+      },
+      {
+        "question": "Qui a transféré la capitale de Moscou à Saint-Pétersbourg en 1712 ?",
+        "options": ["Ivan le Terrible", "Catherine la Grande", "Pierre le Grand", "Alexandre Ier"],
+        "answer": 2,
+        "explanation": "Pierre le Grand a transféré la capitale à Saint-Pétersbourg en 1712 pour rapprocher la Russie de l'Europe. Lénine la ramènera à Moscou en 1918."
+      },
+      {
+        "question": "Quel pourcentage du PIB russe Moscou concentre-t-elle ?",
+        "options": ["5%", "10%", "20%", "35%"],
+        "answer": 2,
+        "explanation": "Moscou concentre environ 20% du PIB russe pour moins de 10% de la population — un centralisme économique extrême, héritage de l'organisation soviétique."
+      },
+      {
+        "question": "Pour quoi les stations de métro de Moscou construites dans les années 1930-1950 sont-elles célèbres ?",
+        "options": ["Leur rapidité record", "Leur architecture somptueuse de 'palais du peuple'", "Leur profondeur exceptionnelle", "Leur réseau de Wi-Fi gratuit"],
+        "answer": 1,
+        "explanation": "Les stations de métro moscovites des années 1930-50 (Komsomolskaya, Mayakovskaya, etc.) furent conçues comme des 'palais du peuple' avec mosaïques, lustres et fresques — une vitrine du socialisme soviétique."
+      }
+    ]
+  },
+  "ru": {
+    "module_title": "Бескрайняя Россия",
+    "lesson_title": "Москва, третий Рим",
+    "lesson_subtitle": "Столица и её душа",
+    "intro": "Москва — город, не поддающийся классификации. Ни вполне европейская, ни вполне азиатская, ультрасовременная и одержимая своей историей, суровая в урбанизме и головокружительно богатая культурой — Москва концентрирует в себе все противоречия России. С 12 миллионами жителей в черте города (20 миллионов в агломерации) это крупнейший город Европы. Понять Москву — значит понять, почему Россия такова, какова она есть.",
+    "sections": [
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "От средневековой слободы до мегаполиса",
+        "body": "Москва впервые упоминается в летописях в **1147 году**, основанная по преданию князем **Юрием Долгоруким**. Её название происходит от реки Москвы, этимология которой неясна — предположительно финно-угорского происхождения, отсылая к народам, населявшим эти леса до прихода славян.\n\nГород медленно рос, затем поглотил своих соперников и стал столицей Московского княжества. Его преимущество — центральное положение на речной сети Восточной Европы. **Кремль** укреплялся белым камнем в XIV веке, затем красным кирпичом в конце XV-го — те самые краснокирпичные стены, которые стоят по сей день.\n\nВ **1712 году** Пётр Великий перенёс столицу в Санкт-Петербург — унижение для Москвы, потерявшей статус, но остававшейся наиболее населённым городом и символической столицей, сердцем глубинной России. **Ленин** вернул столицу в Москву в **1918 году**, опасаясь немецкого наступления, — и Москва сохраняет этот статус по сей день."
+      },
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "Москва — город колец и радиусов",
+        "body": "Урбанизм Москвы организован **концентрическими кольцами**, расходящимися от Кремля. Первое кольцо — **Бульварное**, затем **Садовое**, затем **МКАД** (Московская кольцевая автодорога). Эта «луковичная» структура, складывавшаяся столетиями, определяет повседневную жизнь: чем дальше от центра, тем ниже аренда, но сложнее добраться.\n\nГород пересекает **река Москва**, делящая его на кварталы с разной идентичностью. На левом берегу: Кремль, Красная площадь, исторический Арбат. На правом: Замоскворечье (бывший купеческий квартал), новые башни Москва-Сити.\n\n**Москва-Сити** (Международный деловой центр) — московский Манхэттен: лес небоскрёбов, выросших с 2000-х, в том числе башня «Федерация» (374 м), видная со всего города. Этот ультрасовременный квартал разительно контрастирует со старой Москвой — символ амбиций России, стремящейся занять место в глобализованном мире."
+      },
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Кремль — сердце российской власти",
+        "body": "**Кремль** — не просто памятник: это резиденция Президента России, нечто вроде французского Élysée и Matignon вместе взятых. На его 27 гектарах — президентская резиденция, православные соборы (в том числе Успенский, где короновали царей), Большой Кремлёвский дворец, арсеналы — тысяча лет истории российской власти.\n\nПеред Кремлём — **Красная площадь** (Krasnaya Ploshchad). Её обрамляют собор **Василия Блаженного** (цветные луковичные купола, построенный Иваном Грозным в 1561 году), **Мавзолей Ленина** (его набальзамированное тело по-прежнему доступно для обозрения) и **ГУМ** — царский универмаг, превращённый в люксовую галерею.\n\nМосква сосредотачивает все административные, судебные, медийные и финансовые полномочия России. Этот **крайний централизм**, унаследованный от царского самодержавия и СССР, — одна из наиболее выраженных черт российской системы."
+      },
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Жизнь в Москве — богатство и неравенство",
+        "body": "Москва концентрирует около **20% российского ВВП** при менее чем 10% населения. Московские зарплаты в 2–3 раза выше средних по стране: менеджер высшего звена получает **200 000–400 000 рублей в месяц**, тогда как средняя по стране — около 55 000 рублей.\n\nСтоимость жизни в Москве высока по российским меркам, но значительно ниже парижской: обед в ресторане — **600–1 200 рублей**, кофе — **200–400 рублей**, жетон метро — **57 рублей**. Однокомнатная квартира в аренду в Садовом кольце стоит **60 000–100 000 рублей в месяц** — состояние для большинства россиян за пределами Москвы.\n\n**Пробки** — настоящая московская одержимость. Москва регулярно занимает первые места по загруженности дорог среди европейских столиц. Москвичи тратят в среднем **два часа в день** на транспорт. Метро — сверхэффективное, ежедневно перевозящее 8 миллионов пассажиров — остаётся хребтом городской мобильности."
+      },
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Москва — мировая культурная столица",
+        "body": "Москва — одна из великих культурных столиц мира, которую западный человек нередко недооценивает. Здесь более **100 музеев**, в том числе **Третьяковская галерея** — крупнейшее собрание русского искусства в мире, основанное купцом Павлом Третьяковым в 1856 году. Средневековые иконы, полотна передвижников XIX века, русский авангард начала XX-го — тысяча лет творчества.\n\n**Большой театр** — одна из самых престижных оперных и балетных сцен мира. Открытый в 1825 году, капитально отреставрированный в 2005–2011 годах за 700 миллионов долларов, он олицетворяет превосходство русской художественной традиции. Достать билет на балет — вызов даже для москвичей.\n\nСовременная московская художественная сцена бурлит: **Музей современного искусства «Гараж»** (основан Романом Абрамовичем), галереи **Winzavod** (бывший завод), стрит-арт в районах Кузнецкого моста и Стрелки."
+      },
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Еда и прогулки по Москве",
+        "body": "Московская гастрономическая сцена — одна из самых динамичных в Европе. **Дорогомиловский рынок** — обязательное место: фермерские сыры, сушёные грибы, копчёная рыба, мёд из тайги, кавказские овощи — срез кулинарного разнообразия России. **Даниловский рынок** — более модный, с уличной едой со всего мира.\n\n**Пешеходные улицы**, которые стоит пройти: **Арбат** — старейшая пешеходная улица Москвы, традиционное место прогулок, букинисты, уличные художники, сувенирные магазины. **Камергерский переулок** — мощёная улочка в центре, кафейные террасы, вход в Московский Художественный театр Станиславского. **Никольская** — роскошная улица от Красной площади до Лубянки, всегда подсвеченная.\n\n**Главный код в Москве**: никогда не стойте без дела в разговоре с москвичом. Жители столицы известны своей **прямотой** и темпом — гораздо более торопливые и менее склонные к болтовне, чем провинциалы. Резкое «да/нет» — не грубость: это московская городская эффективность."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Совет путешественника 🤝",
+      "icon": "💡",
+      "content": "**Московское метро — сам по себе музей**. Прежде чем идти в Третьяковскую галерею или Кремль, потратьте 30 минут на объезд самых впечатляющих станций: Комсомольская (золотые мозаики), Маяковская (советское ар-деко, удостоенное премии на Всемирной выставке в Нью-Йорке 1939 года), Площадь Революции (бронзовые фигуры солдат и рабочих). Эти станции 1930–50-х годов строились как «дворцы для народа» — и в самом деле являются таковыми.\n\nПрактически: купите **карту «Тройка»** (пополняемую) сразу в аэропорту или на вокзале. Она работает в метро, автобусе и трамвае. Одна поездка в метро стоит 57 рублей — один из самых дешёвых городских транспортов среди мировых столиц.\n\n**Безопасность**: Москва в целом безопасна для западного туриста с точки зрения обычной преступности. Карманники есть, но их меньше, чем в Париже или Риме. Однако избегайте любых политических комментариев в общественных местах — с 2022 года осторожность обязательна."
+    },
+    "glossary": [
+      {"term": "Кремль", "definition": "Укреплённая цитадель в центре Москвы, резиденция Президента России. Слово «кремль» означает по-русски любую укреплённую цитадель."},
+      {"term": "Красная площадь", "definition": "Центральная площадь Москвы у стен Кремля. «Красная» в древнерусском значило «красивая», а не цвет."},
+      {"term": "Садовое кольцо", "definition": "Второе кольцо бульваров, опоясывающее центр Москвы, проложённое на месте бывших садов."},
+      {"term": "ГУМ", "definition": "Главный универмаг у Кремля, превращённый в люксовую галерею. Аббревиатура — «Главный универсальный магазин»."},
+      {"term": "Большой театр", "definition": "Оперная и балетная сцена, основанная в 1776 году. Один из самых престижных театров мира в центре Москвы."},
+      {"term": "Третьяковская галерея", "definition": "Крупнейшее в мире собрание русского искусства (более 180 000 произведений), основанное Павлом Третьяковым в 1856 году."},
+      {"term": "Пробки", "definition": "Дорожные заторы, буквально «пробки от бутылок». Ежедневный бич москвичей."},
+      {"term": "Карта «Тройка»", "definition": "Пополняемая транспортная карта московской сети (метро, автобус, трамвай). Незаменима для любого гостя города."}
+    ],
+    "quiz": [
+      {
+        "question": "В каком году Москва впервые упоминается в русских летописях?",
+        "options": ["862", "1147", "1380", "1547"],
+        "answer": 1,
+        "explanation": "Москва впервые упоминается в летописях в 1147 году, основанная по преданию князем Юрием Долгоруким на берегах реки Москвы."
+      },
+      {
+        "question": "Что в действительности означает слово «красная» в «Красной площади»?",
+        "options": ["Цвет стен Кремля", "Коммунистическую революцию", "«Красивая» на древнерусском языке", "Кровь, пролитую в революциях"],
+        "answer": 2,
+        "explanation": "На древнерусском языке «красная» означало «красивая», а не цвет. Красная площадь — «Красивая площадь»; это название значительно старше коммунистической революции."
+      },
+      {
+        "question": "Кто перенёс столицу из Москвы в Санкт-Петербург в 1712 году?",
+        "options": ["Иван Грозный", "Екатерина Великая", "Пётр Великий", "Александр I"],
+        "answer": 2,
+        "explanation": "Пётр Великий перенёс столицу в Санкт-Петербург в 1712 году, чтобы приблизить Россию к Европе. Ленин вернёт её в Москву в 1918 году."
+      },
+      {
+        "question": "Какую долю российского ВВП концентрирует Москва?",
+        "options": ["5%", "10%", "20%", "35%"],
+        "answer": 2,
+        "explanation": "Москва концентрирует около 20% российского ВВП при менее чем 10% населения — крайний экономический централизм, унаследованный от советской организации."
+      },
+      {
+        "question": "Чем прославились станции московского метро, построенные в 1930–1950-х годах?",
+        "options": ["Рекордной скоростью", "Роскошной архитектурой «дворцов для народа»", "Исключительной глубиной залегания", "Бесплатным Wi-Fi"],
+        "answer": 1,
+        "explanation": "Станции московского метро 1930–50-х (Комсомольская, Маяковская и др.) создавались как «дворцы для народа» с мозаиками, люстрами и фресками — витрина советского социализма."
+      }
+    ]
+  }
+}

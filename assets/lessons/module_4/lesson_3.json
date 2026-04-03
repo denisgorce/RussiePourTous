@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "module_id": 4,
+    "lesson_id": 3,
+    "module_icon": "🌙",
+    "lesson_icon": "😐",
+    "estimated_minutes": 12,
+    "difficulty": "intermédiaire",
+    "sources": [
+      {
+        "label": "Encyclopædia Universalis — Russie",
+        "url": "https://www.universalis.fr/encyclopedie/russie/"
+      },
+      {
+        "label": "France Diplomatie",
+        "url": "https://www.diplomatie.gouv.fr/fr/dossiers-pays/russie/"
+      }
+    ]
+  },
+  "fr": {
+    "module_title": "L'Âme Russe",
+    "lesson_title": "Pourquoi les Russes ne sourient pas",
+    "lesson_subtitle": "La politesse russe décryptée",
+    "intro": "C'est l'une des premières choses que remarquent les touristes français en Russie : personne ne sourit dans le métro, les vendeurs semblent brusques. La conclusion hâtive est souvent «les Russes sont froids et désagréables». La réalité est fascinante et beaucoup plus nuancée.",
+    "sections": [
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "La politesse russe — une histoire différente",
+        "body": "Les codes de politesse russes sont aussi rigoureux que les codes français — mais différents dans leur contenu. En France, la politesse passe par le sourire, le «bonjour» chaleureux, la formule «comment allez-vous ?». En Russie, la politesse passe par les actes concrets : tenir la porte, céder sa place, aider sans qu'on vous le demande.\n\nL'histoire explique cette différence. Dans la société russe traditionnelle, la survie collective dépendait de la capacité à se faire confiance dans les actes — pas dans les paroles. Un sourire peut mentir ; aider quelqu'un à décharger ses sacs dans la neige, non.\n\nLes «vous formel» (Vy) et «tu familier» (ty) jouent un rôle fondamental dans la politesse russe. La transition du «vous» au «tu» est un moment social significatif. En France, on peut tutoyer après quelques heures. En Russie, certaines relations professionnelles restent au «vous» pendant des années."
+      },
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "Public vs privé — la double identité russe",
+        "body": "La clé pour comprendre le «Russe qui ne sourit pas» est la distinction radicale entre espace public et espace privé. Dans l'espace public — métro, rue, magasin — le comportement est neutre, fermé, efficace. On ne sourit pas aux inconnus, on ne fait pas la conversation à la caisse.\n\nCe n'est pas de l'impolitesse — c'est la norme sociale. L'espace public est fonctionnel ; les émotions appartiennent à l'espace privé. Un Russe qui sourit à des inconnus dans le métro serait perçu comme bizarre.\n\nDès qu'on franchit le seuil du privé — la maison, le cercle d'amis — la transformation est totale. La même personne «froide» dans le métro peut être d'une chaleur absolue deux heures plus tard autour d'une table."
+      },
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "Le sourire obligatoire — vu par les Russes",
+        "body": "Un des chocs culturels les plus cités par les Russes en Occident est le «faux sourire» (falshivaya ulybka) des cultures anglophones. Pour un Russe, l'employé américain qui sourit systématiquement, le vendeur qui dit «great!» à chaque phrase — tout cela est perçu comme une forme de mensonge social, une performance vide.\n\nLa philosophe Anna Wierzbicka montre que le mot anglais «friendly» n'a pas d'équivalent direct en russe — parce qu'en russe, la chaleur est réservée à des relations vraiment intimes, pas distribuée uniformément à tous.\n\nQuand un Russe vous traite avec une chaleur intense, c'est réel. Ce n'est pas une technique de vente ou une politesse de façade."
+      },
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "La politesse au travail",
+        "body": "Les codes de politesse au travail en Russie sont fortement influencés par le respect hiérarchique. On s'adresse à son supérieur par son prénom + patronyme (imia-otchestvo) — par exemple, «Ivan Nikolaïevitch» — jamais par le prénom seul sans autorisation.\n\nLe «vous formel» (Vy) est maintenu dans la plupart des contextes professionnels. Utiliser le «tu» avec un supérieur sans y être autorisé est une faute grave.\n\nEn réunion, un subordonné ne contredira pas son supérieur directement — même s'il a raison. Il cherchera une formulation indirecte ou parlera en tête à tête. La culture de la «face» — ne pas humilier l'autre publiquement — est partagée avec plusieurs cultures."
+      },
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "L'humour russe — ironie et autodérision",
+        "body": "L'absence de sourire public ne signifie pas l'absence d'humour — bien au contraire. L'humour russe est vif, noir, souvent autoréférentiel, et d'une profondeur ironique.\n\nLe genre de l'anecdote soviétique (anekdot) est l'une des formes d'expression culturelle les plus raffinées. Ces courtes histoires satiriques — souvent sur la stupidité de la bureaucratie ou l'absurdité du communisme — exigeaient de l'intelligence de la part du narrateur et de l'auditoire. Elles circulaient comme une langue secrète entre personnes de confiance.\n\nCet humour est profondément lié à la doushá — il rit de la souffrance et de l'absurdité pour ne pas en être vaincu. C'est une forme de résistance et de santé mentale collective."
+      },
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "Décrypter les signaux non-verbaux russes",
+        "body": "Quelques clés essentielles pour comprendre un Russe au-delà des paroles :\n\nLe silence n'est pas gênant — c'est souvent une marque de confort. Si votre interlocuteur se tait quelques secondes avant de répondre, c'est qu'il réfléchit sérieusement. Remplir immédiatement les silences peut être perçu comme de la superficialité.\n\nLe regard direct est important — regarder son interlocuteur dans les yeux est signe de franchise. Éviter le regard est signe de mensonge ou de lâcheté.\n\nLa nourriture comme langage : proposer à manger ou à boire est une extension de la générosité de l'âme. Refuser systématiquement une proposition peut être perçu comme un rejet de la personne elle-même."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur 🤝",
+      "icon": "💡",
+      "content": [
+        {
+          "term": "Falshivaya ulybka (Фальшивая улыбка)",
+          "definition": "Faux sourire — terme russe pour le sourire de façade, perçu comme insincère. Critique de la culture du sourire obligatoire occidental."
+        },
+        {
+          "term": "Imia-otchestvo (Имя-отчество)",
+          "definition": "Prénom + patronyme — forme d'adresse formelle et respectueuse. Ex. 'Ivan Nikolaïevitch'. S'utilise avec les supérieurs."
+        },
+        {
+          "term": "Vy / Ty (Вы / ты)",
+          "definition": "Vous formel / tu familier — distinction fondamentale de la politesse russe. Passer au 'tu' est un acte social significatif."
+        },
+        {
+          "term": "Douchevnoe teplota",
+          "definition": "Chaleur de l'âme — chaleur authentique réservée aux relations vraiment intimes."
+        },
+        {
+          "term": "Anekdot (Анекдот)",
+          "definition": "Blague courte et satirique — genre culturel russe raffiné. À ne pas confondre avec le mot français 'anecdote'."
+        },
+        {
+          "term": "Litso (Лицо)",
+          "definition": "La face — concept social de ne pas humilier l'autre en public."
+        },
+        {
+          "term": "Prostranstvo (Пространство)",
+          "definition": "L'espace — distinction fondamentale entre espace intime (chaleur) et espace public (neutralité) en Russie."
+        },
+        {
+          "term": "Prozorlivost' (Прозорливость)",
+          "definition": "Discernement intuitif — capacité à 'lire' les gens derrière les apparences. Qualité très valorisée en Russie."
+        }
+      ]
+    },
+    "glossary": [
+      {
+        "question": "Pourquoi les Russes ne sourient-ils pas aux inconnus ?",
+        "options": [
+          "Par hostilité culturelle",
+          "Le sourire est réservé à l'espace privé — sourire à des inconnus est perçu comme faux",
+          "Par timidité naturelle",
+          "Pour des raisons climatiques"
+        ],
+        "answer": 1,
+        "explanation": "En Russie, le sourire est réservé aux relations vraiment intimes. Sourire à des inconnus est perçu comme insincère — ce n'est pas de l'impolitesse, c'est la norme de l'espace public."
+      },
+      {
+        "question": "Comment appelle-t-on respectueusement un supérieur en Russie ?",
+        "options": [
+          "Par son nom de famille",
+          "Par son prénom + patronyme (imia-otchestvo)",
+          "Par son titre suivi de Monsieur",
+          "Par son prénom seul"
+        ],
+        "answer": 1,
+        "explanation": "En Russie, on s'adresse respectueusement à un supérieur par son imia-otchestvo — prénom + patronyme. C'est une marque de respect fondamentale."
+      },
+      {
+        "question": "Quelle est la différence entre espace public et privé en Russie ?",
+        "options": [
+          "Aucune différence notable",
+          "Espace public = neutralité ; espace privé = chaleur et intensité émotionnelle totale",
+          "L'espace public est convivial, le privé est formel",
+          "L'espace public est réservé aux autorités"
+        ],
+        "answer": 1,
+        "explanation": "La distinction public/privé est fondamentale : espace public = neutralité fonctionnelle ; espace privé = ouverture totale. La même personne peut être froide dans le métro et extraordinairement chaleureuse deux heures plus tard chez elle."
+      },
+      {
+        "question": "Comment fonctionne principalement l'humour russe ?",
+        "options": [
+          "Par des plaisanteries légères et optimistes",
+          "Par des anecdotes satiriques noires sur l'absurdité du quotidien",
+          "Par l'humour physique",
+          "Par des jeux de mots complexes"
+        ],
+        "answer": 1,
+        "explanation": "L'humour russe est sombre, ironique et autoréférentiel — les anecdotes soviétiques en sont l'expression la plus connue. Un humour qui rit de la souffrance pour ne pas en être vaincu."
+      },
+      {
+        "question": "Que signifie un silence de quelques secondes dans une conversation russe ?",
+        "options": [
+          "Désaccord ou mécontentement",
+          "Réflexion sérieuse — le silence est une marque de confort",
+          "Signe de ne pas avoir entendu",
+          "Demande de changer de sujet"
+        ],
+        "answer": 1,
+        "explanation": "En Russie, le silence n'est pas inconfortable — signe que l'interlocuteur réfléchit sérieusement. Remplir immédiatement les silences peut être perçu comme de la superficialité."
+      }
+    ],
+    "quiz": "**Ne traduisez pas les comportements russes à travers votre grille française.** Un Russe qui ne vous sourit pas n'est pas impoli — il respecte les codes de l'espace public.\n\nLa meilleure façon de s'adapter : dans le métro, soyez discret et neutre. Quand vous entrez dans une boutique, dites «Добрый день» d'un ton posé — vous serez généralement bien accueilli. La chaleur vient après.\n\n**Un test imparable** : si vous semblez perdu en Russie, les chances qu'un Russe vous aide spontanément — même sans parler votre langue — sont très élevées. La générosité active est la vraie politesse russe."
+  },
+  "ru": {
+    "module_title": "Русская душа",
+    "lesson_title": "Почему русские не улыбаются",
+    "lesson_subtitle": "Расшифровка русской вежливости",
+    "intro": "Это одно из первых наблюдений французских туристов в России: в метро никто не улыбается, продавцы кажутся резкими. Поспешный вывод: «Русские холодные». Реальность увлекательнее и куда тоньше.",
+    "sections": [
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "Русская вежливость — иная история",
+        "body": "Русские коды вежливости так же строги, как французские, — но отличны по содержанию. Во Франции вежливость — улыбка, тёплое «bonjour». В России — конкретные поступки: придержать дверь, уступить место, помочь без просьбы.\n\nИсторически в традиционном российском обществе коллективное выживание зависело от способности доверять делам, а не словам.\n\n«Вы» и «ты» играют принципиальную роль в русской вежливости. Переход с «вы» на «ты» — значимый социальный момент. Во Франции можно перейти за несколько часов. В России рабочие отношения остаются на «вы» годами."
+      },
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "Публичное против приватного — двойная идентичность русских",
+        "body": "Ключ к пониманию «русского, не улыбающегося» — радикальное разграничение публичного и приватного пространства. В публичном — метро, улица, магазин — поведение нейтрально, закрыто, деловито. Незнакомцам не улыбаются.\n\nЭто не грубость — социальная норма. Публичное пространство функционально; эмоции принадлежат приватному.\n\nНо стоит переступить порог приватного — трансформация полная. Тот же «холодный» в метро человек может быть абсолютно тёплым двумя часами позже за столом."
+      },
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Обязательная улыбка — глазами русских",
+        "body": "Один из наиболее упоминаемых культурных шоков россиян на Западе — «фальшивая улыбка» англоязычных культур. Для россиянина американский сотрудник, систематически улыбающийся, воспринимается как форма социальной лжи.\n\nФилософ Анна Вежбицка показывает, что английское «friendly» не имеет прямого аналога в русском: теплота резервируется для по-настоящему близких отношений.\n\nКогда россиянин относится к вам с большой теплотой — это подлинно. Не маркетинговый приём."
+      },
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Вежливость на работе",
+        "body": "Рабочие коды вежливости сильно определяются уважением к иерархии. К начальнику обращаются по имени-отчеству — например, «Иван Николаевич» — никогда по одному имени без разрешения.\n\n«Вы» сохраняется в большинстве профессиональных контекстов. Использовать «ты» с начальником без его разрешения — серьёзный промах.\n\nНа совещании подчинённый не возразит прямо начальнику — даже если прав. Найдёт косвенную формулировку или поговорит наедине. Культура «лица» — не унижать другого публично."
+      },
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Русский юмор — ирония и самоирония",
+        "body": "Отсутствие публичной улыбки не означает отсутствия юмора. Русский юмор остёр, чёрен, нередко авторефлексивен.\n\nЖанр советского анекдота — одна из наиболее изощрённых форм культурного выражения. Эти короткие сатирические истории о глупости бюрократии или абсурде коммунизма требовали интеллекта. Они передавались как тайный язык между людьми доверия.\n\nЭтот юмор глубоко связан с душой — он смеётся над страданием и абсурдом, чтобы не быть ими побеждённым. Форма сопротивления и коллективного психического здоровья."
+      },
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Расшифровка невербальных сигналов русских",
+        "body": "Ключевые коды для понимания россиянина за пределами слов:\n\nМолчание не смущает — нередко знак комфорта. Если собеседник несколько секунд молчит — он серьёзно думает. Немедленно заполнять паузы может восприниматься как поверхностность.\n\nПрямой взгляд важен — смотреть в глаза означает честность. Отводить взгляд — знак лжи.\n\nЕда как язык: предложить поесть или выпить — продолжение душевной щедрости. Систематически отказываться от угощения может восприниматься как отказ от самого человека."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Совет путешественника 🤝",
+      "icon": "💡",
+      "content": [
+        {
+          "term": "Фальшивая улыбка",
+          "definition": "Термин для дежурной улыбки, воспринимаемой как неискренность. Критика западной культуры обязательной улыбки."
+        },
+        {
+          "term": "Имя-отчество",
+          "definition": "Официальная и уважительная форма обращения. Например, «Иван Николаевич». С начальниками и пожилыми."
+        },
+        {
+          "term": "Вы / ты",
+          "definition": "Фундаментальное различие русской вежливости. Переход на «ты» — значимый социальный акт."
+        },
+        {
+          "term": "Душевная теплота",
+          "definition": "Подлинная теплота, резервируемая для по-настоящему близких отношений."
+        },
+        {
+          "term": "Анекдот",
+          "definition": "Короткая сатирическая история — изощрённый русский культурный жанр. Не путать с французским «anecdote»."
+        },
+        {
+          "term": "Лицо",
+          "definition": "Концепция «не унижать другого публично»."
+        },
+        {
+          "term": "Пространство",
+          "definition": "Фундаментальное разграничение интимного (теплота) и публичного (нейтральность) пространства."
+        },
+        {
+          "term": "Прозорливость",
+          "definition": "Интуитивная проницательность: способность «читать» людей за внешностью. Высоко ценимое качество."
+        }
+      ]
+    },
+    "glossary": [
+      {
+        "question": "Почему россияне не улыбаются незнакомцам?",
+        "options": [
+          "Из культурной враждебности",
+          "Улыбка резервирована для приватного пространства — улыбаться незнакомцам воспринимается как фальшь",
+          "Из природной застенчивости",
+          "По климатическим причинам"
+        ],
+        "answer": 1,
+        "explanation": "В России улыбка резервируется для близких отношений. Улыбаться незнакомцам — неискренность или странность, не грубость."
+      },
+      {
+        "question": "Как уважительно обращаться к начальнику в России?",
+        "options": [
+          "Только по фамилии",
+          "По имени-отчеству",
+          "По должности плюс «господин»",
+          "Только по имени"
+        ],
+        "answer": 1,
+        "explanation": "В России к начальнику уважительно обращаются по имени-отчеству. Это фундаментальный знак уважения."
+      },
+      {
+        "question": "В чём разница между публичным и приватным пространством?",
+        "options": [
+          "Значимого различия нет",
+          "Публичное = нейтральность ; приватное = тепло и тотальная интенсивность",
+          "Публичное дружелюбно, приватное формально",
+          "Публичное зарезервировано для властей"
+        ],
+        "answer": 1,
+        "explanation": "Публичное = функциональная нейтральность ; приватное = полная открытость. Один и тот же человек холоден в метро и необычайно тёпл два часа спустя дома."
+      },
+      {
+        "question": "Как преимущественно проявляется русский юмор?",
+        "options": [
+          "Лёгкими оптимистичными шутками",
+          "Сатирическими чёрными анекдотами об абсурде повседневности",
+          "Физическим юмором",
+          "Сложными каламбурами"
+        ],
+        "answer": 1,
+        "explanation": "Русский юмор тёмный, ироничный, авторефлексивный — советские анекдоты его наиболее известное выражение. Юмор, смеющийся над страданием."
+      },
+      {
+        "question": "Что означает молчание на несколько секунд в разговоре?",
+        "options": [
+          "Несогласие или недовольство",
+          "Серьёзное размышление — молчание знак комфорта",
+          "Знак того, что не расслышали",
+          "Неявная просьба сменить тему"
+        ],
+        "answer": 1,
+        "explanation": "В России молчание не смущает — означает, что собеседник серьёзно думает. Немедленно заполнять паузы — поверхностность."
+      }
+    ],
+    "quiz": "**Не переводите русское поведение через французскую призму.** Россиянин, не улыбающийся вам, не грубит — соблюдает коды публичного пространства.\n\nЛучший способ адаптироваться: в метро будьте сдержаны и нейтральны. Входя в магазин, скажите «Добрый день» ровным тоном — как правило, хорошо примут. Теплота приходит потом.\n\n**Надёжный тест**: если выглядите потерявшимся в России, шансы, что россиянин спонтанно поможет — очень высоки. Активная щедрость и есть настоящая русская вежливость."
+  }
+}

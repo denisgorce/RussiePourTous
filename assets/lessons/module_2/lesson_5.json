@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "module_id": 2,
+    "lesson_id": 5,
+    "module_icon": "🗺️",
+    "lesson_icon": "🌊",
+    "estimated_minutes": 12,
+    "difficulty": "intermédiaire",
+    "sources": [
+      {"label": "Encyclopædia Universalis — Extrême-Orient russe", "url": "https://www.universalis.fr/encyclopedie/extreme-orient-russe/"},
+      {"label": "Le Monde diplomatique — Vladivostok et la politique asiatique", "url": "https://www.monde-diplomatique.fr/"},
+      {"label": "Routard — Vladivostok", "url": "https://www.routard.com/guide/vladivostok/"},
+      {"label": "IFRI — Russie et pivot asiatique", "url": "https://www.ifri.org/"}
+    ]
+  },
+  "fr": {
+    "module_title": "L'Immensité Russe",
+    "lesson_title": "L'Extrême-Orient russe",
+    "lesson_subtitle": "Vladivostok, le Pacifique et l'Arctique",
+    "intro": "À l'extrémité orientale de la Russie, à 9 000 km de Moscou et à quelques heures de vol de Tokyo, Séoul et Pékin, se trouve Vladivostok — «maîtrise de l'Orient» en russe. Cette ville de 600 000 habitants, fondée seulement en 1860, est à la fois le bout du monde russe et la porte d'entrée vers l'Asie-Pacifique. L'Extrême-Orient russe est aujourd'hui l'un des enjeux stratégiques majeurs de la Russie : dépeuplé, immensément riche en ressources, et désormais priorité affichée du Kremlin dans sa diplomatie asiatique.",
+    "sections": [
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "Vladivostok — la fin des rails du monde",
+        "body": "**Vladivostok** (Владивосток — «Maîtrise de l'Orient») est fondée en **1860** comme avant-poste militaire russe sur le Pacifique, au terme d'un extraordinaire effort de colonisation. La Russie a acquis ces territoires par le **Traité de Pékin (1860)** avec la Chine affaiblie — un souvenir que la Chine n'a pas oublié et qui structure encore les relations russo-chinoises.\n\nL'achèvement du **Transsibérien** à Vladivostok en **1916** transforme la ville : elle devient le terminus de la ligne la plus longue du monde, un port militaire majeur (flotte du Pacifique), et progressivement un centre économique régional. Pendant la Guerre froide, Vladivostok est une **ville fermée** aux étrangers — base de la flotte soviétique du Pacifique, son accès est strictement contrôlé jusqu'en **1992**.\n\nLa région possède aussi une histoire amérindienne méconnue : les **Nanaïs**, **Evenks** du Pacifique, **Nivkhes** (peuple de la côte) et surtout les **Aïnous** (dans les îles Kouriles) habitaient ces territoires depuis des millénaires avant la colonisation russe. Ces peuples autochtones du Pacifique russe sont aujourd'hui peu nombreux et leurs cultures fragilisées."
+      },
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "Le bout du monde russe",
+        "body": "L'**Extrême-Orient russe** (Дальний Восток) couvre **6,2 millions de km²** — soit plus d'un tiers du territoire russe — pour seulement **8 millions d'habitants**. C'est l'une des régions les moins densément peuplées de la planète. Depuis la chute de l'URSS, la population a diminué d'environ **20%** : jeunes et qualifiés migrent vers Moscou, tandis que les conditions de vie et les infrastructures se dégradent.\n\nLa géographie est à couper le souffle. L'**île de Sakhaline** (Сахалин), ancienne colonie pénitentiaire du XIXe siècle (que Tchekhov a visitée et décrite en 1890), est aujourd'hui un gisement majeur de gaz naturel liquéfié. Les **îles Kouriles** (Курильские острова) — chapelet d'îles volcaniques entre le Kamtchatka et le Japon — font l'objet d'un **différend territorial persistant** avec le Japon, qui les réclame (les appelant ses «Territoires du Nord»). Ce litige bloque la signature d'un traité de paix officiel entre la Russie et le Japon depuis 1945.\n\nLe **Kamtchatka** (Камчатка) est une des merveilles naturelles de la planète : une péninsule de 270 000 km² avec **29 volcans actifs**, des geysers, des ours bruns sur les rivières à saumons, des aigles de mer. Jusqu'en 1991, c'était également une zone militaire fermée."
+      },
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "Le pivot asiatique de la Russie",
+        "body": "Depuis 2014 et les sanctions occidentales, le **pivot vers l'Asie** est devenu une priorité stratégique affichée de Moscou. Vladivostok en est la vitrine : le **Forum Économique Oriental** (Восточный экономический форум, créé en 2015) y réunit chaque année dirigeants et investisseurs asiatiques — Chine, Japon, Corée du Sud, pays de l'ASEAN. C'est le Davos russe orienté vers l'Asie.\n\nLe **partenariat russo-chinois** est l'axe central de ce pivot. Depuis 2014 et surtout 2022, les échanges commerciaux ont explosé. La Chine est devenue le premier partenaire commercial de la Russie. Des pipelines (Power of Siberia, 3 000 km) acheminent le gaz russe vers la Chine. Des milliers d'entreprises et de touristes chinois s'installent à Vladivostok.\n\nCette proximité est cependant ambivalente : les Russes de l'Extrême-Orient observent avec une inquiétude diffuse l'intensité de la présence chinoise dans leur région. Les inégalités de population sont vertigineuses — 8 millions de Russes face à 150 millions de Chinois dans les provinces frontalières. La question de la «sinisation» de l'Extrême-Orient russe est un sujet sensible dans les cercles stratégiques russes."
+      },
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "Les richesses de l'Orient et les défis du quotidien",
+        "body": "L'Extrême-Orient russe recèle des richesses naturelles extraordinaires : poissons et crustacés du Pacifique (le **crabe royal du Kamtchatka** est un luxe mondiale exporté), bois de la taïga, hydrocarbures de Sakhaline, métaux précieux. Vladivostok est aussi un grand port de transit entre l'Asie et l'Europe.\n\nMais la vie quotidienne à Vladivostok est marquée par des **paradoxes saisissants**. La ville est à 9 fuseaux horaires de Moscou — soit **9 heures d'avance**. Les grandes décisions politiques et économiques se prennent à 9 000 km, dans un fuseau horaire où il fait nuit quand Vladivostok travaille. Ce décalage nourrit un sentiment de marginalisation que partagent beaucoup d'habitants de l'Extrême-Orient.\n\nLes voitures **japonaises d'occasion** (с правым рулём, *s pravym rulem* — à conduite à droite) dominent les rues de Vladivostok — importées de Hokkaido et du Honshu japonais, elles sont omniprésentes malgré les tentatives de Moscou de les taxer ou interdire. Un symbole de la «japonisation» culturelle de l'Extrême-Orient russe. Les restaurants japonais, coréens et chinois sont plus nombreux que les restaurants russes classiques à Vladivostok."
+      },
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "L'Arctique — la nouvelle frontière",
+        "body": "L'**Arctique russe** est en train de devenir l'un des enjeux stratégiques et culturels majeurs du XXIe siècle. Le réchauffement climatique ouvre progressivement la **Route maritime du Nord** (Северный морской путь, *Severny Morskoy Put*) — voie de navigation longeant la côte arctique russe, qui raccourcit de moitié le trajet entre l'Europe et l'Asie par rapport au Canal de Suez.\n\nLa Russie investit massivement dans son Arctique : nouveaux brise-glaces nucléaires (la Russie possède la plus grande flotte mondiale), bases militaires, extraction d'hydrocarbures dans les mers arctiques (péninsule de Yamal). Elle revendique une large part du plateau continental arctique auprès de l'ONU, en concurrence avec le Canada, le Danemark (Groenland) et la Norvège.\n\nLa culture des **peuples arctiques** russes — Nenets, Yakoutes du Nord, Tchouktches, Evenks de la toundra — est encore vivante malgré les pressions de modernisation. Les **Tchouktches** (Чукчи) de la péninsule de Tchoukotka, séparés de l'Alaska par 86 km du détroit de Béring, sont l'un des peuples autochtones les plus exposés au réchauffement climatique et les plus emblématiques de cette frontière entre deux continents."
+      },
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "La table du Pacifique — crabe, saumon et influences asiatiques",
+        "body": "La gastronomie de l'Extrême-Orient russe est radicalement différente de la cuisine moscovite. Ici, le Pacifique est omniprésent dans l'assiette : **crabe royal du Kamtchatka** (камчатский краб, *kamchatsky krab*) — considéré comme le meilleur crabe du monde, avec ses pinces géantes — est la star absolue. À Vladivostok, on le mange dans des restaurants spécialisés, cuit à la vapeur ou en soupe.\n\nLe **saumon** (лосось, *losos*) et les autres salmonidés (keta, gorbusha, nerka) sont abondants et peu chers — bien supérieurs en fraîcheur aux saumons d'élevage européens. Le **ikra** (икра — caviar) de saumon rouge (*krasnaya ikra*) est une spécialité locale, vendu en bocaux dans les marchés pour un prix accessible.\n\nL'influence **japonaise et coréenne** est manifeste dans la cuisine locale : makis et sashimis, ramens, bibimbap sont aussi courants que les plats russes dans les restaurants de Vladivostok. Cette fusion est unique en Russie. Un code culturel essentiel : à Vladivostok, **l'heure de Moscou est une abstraction** — la ville vit à son propre rythme, tourné vers le Pacifique et l'Asie. Respecter cette identité régionale forte est apprécié."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur 🤝",
+      "icon": "💡",
+      "content": "**Vladivostok est la grande surprise russe pour un voyageur curieux.** Moins connue que Moscou ou Pétersbourg, elle offre une expérience russe radicalement différente : architecturalement mixte (russo-soviétique-asiatique), gastronomiquement inventive (crabe, sushis, bière artisanale), et dotée d'une atmosphère de bout du monde que les habitants portent avec une fierté tranquille.\n\nSi vous avez la chance de faire le Transsibérien complet (7 jours, Moscou → Vladivostok), vous traverserez 8 fuseaux horaires et verrez défiler la totalité d'un continent. L'expérience de regarder la Russie défiler pendant des jours depuis la fenêtre d'un wagon est irremplaçable — et les conversations avec les Russes dans le train sont souvent les plus authentiques qu'on puisse avoir.\n\n**L'Arctique en tant que sujet de conversation** : évoquer le réchauffement climatique et l'Arctique est une façon intelligente d'engager une discussion non-politique avec des Russes. La question de l'avenir de l'Arctique — ses ressources, ses routes maritimes, sa culture autochtone menacée — passionne de nombreux Russes et ouvre des conversations riches et nuancées."
+    },
+    "glossary": [
+      {"term": "Vladivostok (Владивосток)", "definition": "Principale ville de l'Extrême-Orient russe (600 000 hab.), fondée en 1860. Son nom signifie 'Maîtrise de l'Orient'. Terminus du Transsibérien."},
+      {"term": "Route maritime du Nord", "definition": "Voie de navigation arctique longeant la côte nord de la Russie. Le réchauffement climatique l'ouvre progressivement, raccourcissant de moitié la route Europe-Asie."},
+      {"term": "Sakhaline (Сахалин)", "definition": "Grande île de l'Extrême-Orient russe, ancienne colonie pénitentiaire, aujourd'hui major producteur de gaz naturel liquéfié."},
+      {"term": "Îles Kouriles (Курильские острова)", "definition": "Chapelet d'îles entre le Kamtchatka et le Japon. Objet d'un différend territorial persistant avec le Japon qui bloque la signature d'un traité de paix."},
+      {"term": "Kamtchatka (Камчатка)", "definition": "Péninsule de 270 000 km² avec 29 volcans actifs, geysers et faune sauvage exceptionnelle. Paradis naturel du Pacifique russe."},
+      {"term": "Crabe royal du Kamtchatka", "definition": "Crustacé géant du Pacifique nord, considéré comme le meilleur crabe au monde. Spécialité gastronomique emblématique de Vladivostok."},
+      {"term": "Forum Économique Oriental", "definition": "Conférence annuelle à Vladivostok créée en 2015, réunissant dirigeants et investisseurs asiatiques. Vitrine du pivot asiatique de la Russie."},
+      {"term": "Tchouktches (Чукчи)", "definition": "Peuple autochtone de la péninsule de Tchoukotka, séparé de l'Alaska par 86 km. Symbole de la frontière entre deux continents."}
+    ],
+    "quiz": [
+      {
+        "question": "Que signifie le nom 'Vladivostok' en russe ?",
+        "options": ["'Porte de l'Est'", "'Maîtrise de l'Orient'", "'Ville du Pacifique'", "'Fin du monde'"],
+        "answer": 1,
+        "explanation": "Vladivostok signifie littéralement 'Maîtrise (ou domination) de l'Orient' en russe — un nom qui reflète l'ambition impériale russe au XIXe siècle de contrôler l'accès au Pacifique."
+      },
+      {
+        "question": "Quelle superficie couvre l'Extrême-Orient russe ?",
+        "options": ["1,5 millions km²", "3,2 millions km²", "6,2 millions km²", "9 millions km²"],
+        "answer": 2,
+        "explanation": "L'Extrême-Orient russe couvre 6,2 millions de km² — plus d'un tiers du territoire russe — pour seulement 8 millions d'habitants, l'une des régions les moins densément peuplées au monde."
+      },
+      {
+        "question": "Quel différend territorial oppose la Russie et le Japon depuis 1945 ?",
+        "options": ["La péninsule du Kamtchatka", "Les îles Kouriles (ou 'Territoires du Nord' pour le Japon)", "L'île de Sakhaline", "Les îles de la mer d'Okhotsk"],
+        "answer": 1,
+        "explanation": "Le Japon revendique depuis 1945 les îles Kouriles du Sud (qu'il appelle 'Territoires du Nord'). Ce litige non résolu bloque la signature d'un traité de paix officiel russo-japonais."
+      },
+      {
+        "question": "Quelle est la spécialité gastronomique emblématique de Vladivostok ?",
+        "options": ["Le saumon du Kamtchatka", "Le crabe royal du Kamtchatka", "Le hareng du Pacifique", "L'esturgeon de la mer d'Okhotsk"],
+        "answer": 1,
+        "explanation": "Le crabe royal du Kamtchatka, avec ses pinces géantes, est considéré comme le meilleur crabe au monde et la spécialité gastronomique par excellence de Vladivostok."
+      },
+      {
+        "question": "Pourquoi les voitures japonaises d'occasion à conduite à droite dominent-elles les rues de Vladivostok ?",
+        "options": ["C'est une règle de circulation locale", "Elles sont importées du Japon proche et moins chères malgré la conduite à droite", "Le Japon les offre dans le cadre d'un accord bilatéral", "Ce sont des voitures russes conçues pour l'export"],
+        "answer": 1,
+        "explanation": "La proximité géographique du Japon (quelques heures de ferry) rend les voitures japonaises d'occasion moins chères que les voitures russes ou occidentales, malgré la conduite à droite — au point de dominer le parc automobile local."
+      }
+    ]
+  },
+  "ru": {
+    "module_title": "Бескрайняя Россия",
+    "lesson_title": "Российский Дальний Восток",
+    "lesson_subtitle": "Владивосток, Тихий океан и Арктика",
+    "intro": "На восточной оконечности России, в 9 000 км от Москвы и в нескольких часах лёта от Токио, Сеула и Пекина, стоит Владивосток — «Владеющий Востоком» по-русски. Этот город с 600 000 жителями, основанный лишь в 1860 году, одновременно является краем русского мира и воротами в Азиатско-Тихоокеанский регион. Сегодня российский Дальний Восток — один из главных стратегических приоритетов России: малолюдный, баснословно богатый ресурсами и заявленный Кремлём как ключевое направление азиатской дипломатии.",
+    "sections": [
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "Владивосток — конечная станция мировых рельсов",
+        "body": "**Владивосток** основан в **1860 году** как российский военный аванпост на Тихом океане — итог колоссального колонизационного усилия. Россия получила эти территории по **Пекинскому трактату (1860)** с ослабевшим Китаем — событие, которого Китай не забыл и которое по сей день влияет на российско-китайские отношения.\n\nЗавершение строительства **Транссибирской магистрали** во Владивостоке в **1916 году** преобразило город: он стал конечной станцией длиннейшей в мире железной дороги, крупной военно-морской базой (Тихоокеанский флот) и постепенно — региональным экономическим центром. В годы холодной войны Владивосток был **закрытым городом** для иностранцев — базой советского Тихоокеанского флота, доступ строго контролировался вплоть до **1992 года**.\n\nВ регионе есть и малоизвестная коренная история: **нанайцы**, **тихоокеанские эвенки**, **нивхи** (береговой народ) и особенно **айны** (на Курильских островах) населяли эти территории тысячелетиями до русской колонизации."
+      },
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "Край русского мира",
+        "body": "**Дальний Восток России** занимает **6,2 миллиона км²** — более трети территории страны — при населении всего **8 миллионов человек**. Это один из наименее населённых регионов планеты. После распада СССР население сократилось примерно на **20%**: молодёжь и квалифицированные кадры уезжают в Москву, пока инфраструктура деградирует.\n\nГеография поразительна. **Остров Сахалин** (Сахалин) — бывшая каторжная колония XIX века (которую Чехов посетил и описал в 1890 году) — сегодня крупный источник сжиженного природного газа. **Курильские острова** — гряда вулканических островов между Камчаткой и Японией — предмет **неурегулированного территориального спора** с Японией, претендующей на них (называя их «Северными территориями»). Это разногласие блокирует подписание официального мирного договора между Россией и Японией с 1945 года.\n\n**Камчатка** — одно из природных чудес планеты: полуостров 270 000 км² с **29 действующими вулканами**, гейзерами, бурыми медведями на лососёвых реках, орланами-белохвостами."
+      },
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Азиатский разворот России",
+        "body": "После 2014 года и западных санкций **разворот к Азии** стал заявленным стратегическим приоритетом Москвы. Владивосток — его витрина: **Восточный экономический форум** (создан в 2015 году) ежегодно собирает здесь азиатских лидеров и инвесторов — Китай, Японию, Южную Корею, страны АСЕАН. Это азиатский Давос по-русски.\n\n**Российско-китайское партнёрство** — стержень этого разворота. После 2014 и особенно 2022 года товарооборот стремительно вырос. Китай стал главным торговым партнёром России. Газопроводы («Сила Сибири», 3 000 км) прокачивают российский газ в Китай. Тысячи китайских предприятий и туристов обосновались во Владивостоке.\n\nНо это сближение двойственно: россияне Дальнего Востока с диффузной тревогой наблюдают за интенсивностью китайского присутствия в своём регионе. Демографический дисбаланс колоссален — 8 миллионов россиян против 150 миллионов китайцев в приграничных провинциях. Вопрос «синизации» российского Дальнего Востока — болезненная тема в российских стратегических кругах."
+      },
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Богатства Востока и вызовы повседневности",
+        "body": "Российский Дальний Восток таит исключительные природные богатства: рыба и моллюски Тихого океана (**камчатский краб** — мировая роскошь на экспорт), древесина тайги, сахалинские углеводороды, драгоценные металлы. Владивосток — крупный транзитный порт между Азией и Европой.\n\nОднако повседневная жизнь во Владивостоке отмечена **разительными парадоксами**. Город опережает Москву на **9 часовых поясов**. Крупные политические и экономические решения принимаются в 9 000 км, в часовом поясе, где ночь, когда Владивосток работает. Этот разрыв питает чувство маргинализации, разделяемое многими жителями Дальнего Востока.\n\n**Японские подержанные автомобили с правым рулём** господствуют на улицах Владивостока — завезённые с Хоккайдо и Хонсю, они повсеместны, несмотря на попытки Москвы их облагать пошлинами или запрещать. Символ «японизации» культуры российского Дальнего Востока."
+      },
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Арктика — новый рубеж",
+        "body": "**Российская Арктика** становится одним из ключевых стратегических и культурных вызовов XXI века. Климатическое потепление постепенно открывает **Северный морской путь** — трассу вдоль арктического побережья России, сокращающую вдвое расстояние между Европой и Азией по сравнению с Суэцким каналом.\n\nРоссия активно инвестирует в свою Арктику: новые атомные ледоколы (крупнейший в мире флот), военные базы, добыча углеводородов в арктических морях (полуостров Ямал). Она претендует на значительную часть арктического континентального шельфа в ООН — в конкуренции с Канадой, Данией (Гренландия) и Норвегией.\n\nКультура **арктических народов** России — ненцев, северных якутов, чукчей, тундровых эвенков — ещё жива, несмотря на давление модернизации. **Чукчи** полуострова Чукотка, отделённые от Аляски 86 км Берингова пролива, — один из коренных народов, наиболее подверженных изменению климата и наиболее символичных для этой границы между двумя континентами."
+      },
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Тихоокеанский стол — краб, лосось и азиатские влияния",
+        "body": "Гастрономия российского Дальнего Востока разительно отличается от московской кухни. Здесь Тихий океан господствует в тарелке: **камчатский краб** (камчатский краб) — считающийся лучшим в мире, с гигантскими клешнями — абсолютная звезда. Во Владивостоке его едят в специализированных ресторанах, приготовленного на пару или в супе.\n\n**Лосось** (лосось) и другие лососёвые (кета, горбуша, нерка) — в изобилии и по доступным ценам, далеко превосходя свежестью европейского аквакультурного лосося. **Красная икра** — местная специальность, продающаяся в банках на рынках по вполне приемлемым ценам.\n\n**Японское и корейское влияние** очевидно в местной кухне: роллы и сашими, рамэн, пибимбап — столь же обычны в ресторанах Владивостока, как русские блюда. Этот кулинарный сплав уникален для России. Важный культурный код: во Владивостоке **московское время — абстракция**, город живёт в своём ритме, обращённом к Тихому океану и Азии. Уважать эту сильную региональную идентичность высоко ценится."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Совет путешественника 🤝",
+      "icon": "💡",
+      "content": "**Владивосток — главный сюрприз России для любопытного путешественника.** Менее известный, чем Москва или Петербург, он предлагает радикально иной русский опыт: архитектурно смешанный (русско-советско-азиатский), гастрономически изобретательный (краб, суши, крафтовое пиво), с аурой края земли, которую жители носят с тихой гордостью.\n\nЕсли вам посчастливится проехать на Транссибе полностью (7 дней, Москва → Владивосток), вы пересечёте 8 часовых поясов и наблюдать, как за окном вагона проплывает целый континент. Этот опыт незаменим — а разговоры с россиянами в поезде нередко оказываются самыми искренними из возможных.\n\n**Арктика как тема для разговора**: упомянуть изменение климата и Арктику — умный способ начать неполитическую беседу с россиянами. Вопрос будущего Арктики — её ресурсов, морских путей, угрозы коренным культурам — увлекает многих россиян и открывает содержательные, многогранные разговоры."
+    },
+    "glossary": [
+      {"term": "Владивосток", "definition": "Главный город российского Дальнего Востока (600 000 жит.), основан в 1860 году. Имя означает «владеющий Востоком». Конечная станция Транссиба."},
+      {"term": "Северный морской путь", "definition": "Арктическая морская трасса вдоль северного побережья России. Потепление климата постепенно открывает её, сокращая вдвое расстояние Европа–Азия."},
+      {"term": "Сахалин", "definition": "Крупный остров российского Дальнего Востока, бывшая каторжная колония, сегодня важный производитель сжиженного природного газа."},
+      {"term": "Курильские острова", "definition": "Гряда островов между Камчаткой и Японией. Предмет неурегулированного территориального спора с Японией, блокирующего мирный договор."},
+      {"term": "Камчатка", "definition": "Полуостров 270 000 км² с 29 действующими вулканами, гейзерами и исключительной дикой природой. Природное чудо российского Тихоокеанья."},
+      {"term": "Камчатский краб", "definition": "Гигантский тихоокеанский краб, считающийся лучшим в мире. Знаковая гастрономическая специальность Владивостока."},
+      {"term": "Восточный экономический форум", "definition": "Ежегодная конференция во Владивостоке (с 2015 г.), собирающая азиатских лидеров и инвесторов. Витрина азиатского разворота России."},
+      {"term": "Чукчи", "definition": "Коренной народ полуострова Чукотка, отделённого от Аляски 86 км Берингова пролива. Символ границы между двумя континентами."}
+    ],
+    "quiz": [
+      {
+        "question": "Что означает название «Владивосток» по-русски?",
+        "options": ["«Ворота Востока»", "«Владеющий Востоком»", "«Тихоокеанский город»", "«Конец света»"],
+        "answer": 1,
+        "explanation": "Владивосток буквально означает «владеющий (или господствующий над) Востоком» — название, отражающее имперские амбиции России XIX века по установлению контроля над выходом к Тихому океану."
+      },
+      {
+        "question": "Какую площадь занимает российский Дальний Восток?",
+        "options": ["1,5 млн км²", "3,2 млн км²", "6,2 млн км²", "9 млн км²"],
+        "answer": 2,
+        "explanation": "Российский Дальний Восток занимает 6,2 миллиона км² — более трети территории России — при населении всего 8 миллионов человек; один из наименее населённых регионов в мире."
+      },
+      {
+        "question": "Какой территориальный спор ведут Россия и Япония с 1945 года?",
+        "options": ["Полуостров Камчатка", "Курильские острова (японское название — «Северные территории»)", "Остров Сахалин", "Острова в Охотском море"],
+        "answer": 1,
+        "explanation": "Япония с 1945 года претендует на южные Курильские острова (которые называет «Северными территориями»). Этот неурегулированный спор блокирует подписание официального российско-японского мирного договора."
+      },
+      {
+        "question": "Какова знаковая гастрономическая специальность Владивостока?",
+        "options": ["Камчатский лосось", "Камчатский краб", "Тихоокеанская сельдь", "Осётр Охотского моря"],
+        "answer": 1,
+        "explanation": "Камчатский краб с гигантскими клешнями считается лучшим в мире и является главной гастрономической специальностью Владивостока."
+      },
+      {
+        "question": "Почему японские подержанные автомобили с правым рулём преобладают на улицах Владивостока?",
+        "options": ["Это местное правило движения", "Они ввозятся из близкой Японии и дешевле, несмотря на правый руль", "Япония поставляет их по двустороннему соглашению", "Это российские машины, разработанные для экспорта"],
+        "answer": 1,
+        "explanation": "Географическая близость Японии (несколько часов на пароме) делает японские подержанные авто дешевле российских или западных машин, несмотря на правый руль — настолько, что они господствуют на местном авторынке."
+      }
+    ]
+  }
+}

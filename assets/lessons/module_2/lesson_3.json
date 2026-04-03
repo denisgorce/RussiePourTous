@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "module_id": 2,
+    "lesson_id": 3,
+    "module_icon": "🗺️",
+    "lesson_icon": "❄️",
+    "estimated_minutes": 13,
+    "difficulty": "intermédiaire",
+    "sources": [
+      {"label": "Encyclopædia Universalis — Sibérie", "url": "https://www.universalis.fr/encyclopedie/siberie/"},
+      {"label": "CNRS — La Sibérie, ressources et enjeux", "url": "https://www.cnrs.fr/"},
+      {"label": "Routard — Transsibérien", "url": "https://www.routard.com/guide/transsiberien/"},
+      {"label": "National Geographic — Lac Baïkal", "url": "https://www.nationalgeographic.fr/"}
+    ]
+  },
+  "fr": {
+    "module_title": "L'Immensité Russe",
+    "lesson_title": "La Sibérie — l'immensité froide",
+    "lesson_subtitle": "Géographie, ressources, peuples",
+    "intro": "La Sibérie. Ce mot seul évoque quelque chose d'extrême — l'exil, le froid, l'infini. Pour un Français, c'est une abstraction géographique. Pour un Russe, c'est à la fois une menace (on y envoie les condamnés depuis des siècles) et une fierté nationale absolue : cette immensité appartient à la Russie. 9 millions de km² — soit 17 fois la France — couverts de taïga, de toundra, de steppes et de montagnes, traversés par le fleuve Ienisseï et baignant dans les eaux du lac Baïkal. Comprendre la Sibérie, c'est comprendre pourquoi la Russie pense grand.",
+    "sections": [
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "La conquête de la Sibérie — une épopée oubliée",
+        "body": "La conquête russe de la Sibérie est l'une des grandes épopées de l'expansion territoriale humaine — aussi rapide que la conquête de l'Amérique, et bien moins connue en Occident. En moins d'un siècle (**1580–1650**), des groupes de cosaques, de marchands de fourrures et d'aventuriers traversent tout le continent asiatique jusqu'au Pacifique — à pied, en canot, puis en traîneau.\n\nLe moteur économique : les **fourrures** (zibeline, renard, castor). Au XVIe–XVIIe siècle, la fourrure sibérienne vaut autant que les épices d'Orient — les tsars en tirent un tiers de leurs revenus. En échange, les peuples autochtones (Yakoutes, Bouriates, Evenks, Nenets) sont soumis à un tribut en fourrures (*yasak*). La colonisation russe de la Sibérie présente de nombreuses analogies avec la colonisation européenne des Amériques, y compris l'effondrement démographique des populations autochtones.\n\nAux XVIIIe–XIXe siècles, la Sibérie devient synonyme d'**exil pénal**. Des milliers de criminels de droit commun et de condamnés politiques y sont déportés. Les **décembristes** (nobles révoltés contre Nicolas Ier en 1825), puis les militants socialistes et anarchistes. **Dostoïevski** lui-même est déporté en Sibérie (1849–1854) — expérience qui marquera définitivement son œuvre. Au XXe siècle, le système du **Goulag** industrialise cet exil : des millions de détenus construisent les routes, mines et usines sibériennes."
+      },
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "La géographie de l'immensité",
+        "body": "La Sibérie (Сибирь) couvre **9 millions de km²** — à peu près la superficie de l'Europe entière, et pourtant peuplée de seulement **27 millions de personnes** (soit la densité de la Mongolie). La raison : des hivers d'une violence extrême. À **Iakoutsk** (Якутск), capitale de la République de Sakha, les températures descendent régulièrement à **-40°C**, atteignant parfois **-60°C**. C'est une des villes les plus froides au monde — et pourtant elle compte 300 000 habitants.\n\nLes grands **fleuves sibériens** — Ob, Ienisseï, Lena — coulent du sud vers le nord jusqu'à l'Arctique. Ces fleuves colossaux (le Lena fait 4 500 km) ont structuré l'exploration et la colonisation. Ils gèlent en hiver et deviennent des autoroutes de glace.\n\nLe **lac Baïkal** (озеро Байкал) est le joyau de la Sibérie : le lac le plus profond du monde (1 642 m), le plus ancien (25 millions d'années), et qui contient à lui seul **20% de l'eau douce non gelée de la planète**. Ses eaux d'une transparence cristalline (visibilité jusqu'à 40 m de profondeur) abritent une faune endémique extraordinaire, dont le **nerpa** — seul phoque d'eau douce au monde. En hiver, la surface gèle sur 1 à 2 mètres d'épaisseur — on peut traverser le lac en voiture."
+      },
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "Les peuples de Sibérie",
+        "body": "La Sibérie abrite une **mosaïque de peuples autochtones** — environ 40 groupes ethniques distincts, totalisant quelques centaines de milliers de personnes. Parmi les plus importants : les **Yakoutes** (Sakhas, 500 000 personnes) — peuple turcophone des forêts de l'est sibérien ; les **Bouriates** (500 000 personnes) — proches des Mongols, bouddhistes ; les **Evenks** (chamans, chasseurs nomades de la taïga) ; les **Nenets** (éleveurs de rennes de la toundra arctique).\n\nCes peuples ont leurs propres langues, traditions chamaniques, modes de vie (nomades ou semi-nomades). La période soviétique a été dramatique pour eux : collectivisation forcée, destruction des pratiques chamaniques, déplacements de populations. Beaucoup de langues sibériennes sont aujourd'hui menacées d'extinction.\n\nLa **République de Sakha (Iakoutie)** est la plus grande subdivision administrative du monde (3,1 millions de km² — soit 6 fois la France). Elle produit 25% des diamants mondiaux (mines d'Alrosa) et d'importantes quantités d'or. Les Yakoutes représentent environ 50% de la population de la République — un des rares cas où le peuple autochtone est majoritaire dans sa région."
+      },
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "La Sibérie — le coffre-fort de la Russie",
+        "body": "La Sibérie contient l'essentiel des richesses naturelles qui font la puissance économique russe. En ressources prouvées : la Russie possède les **premières réserves mondiales de gaz naturel** (Sibérie occidentale — champs de Gazprom à Yamal), les **deuxièmes réserves de pétrole** (champs de Surgut et de Khanty-Mansiysk), les **premières réserves de charbon** (bassin de Kouznetsk), d'immenses forêts (**taïga = 22% des forêts mondiales**), les premières réserves d'or, de diamants, de nickel, de palladium.\n\nCette richesse en hydrocarbures structure toute l'économie russe — et sa dépendance. Quand le prix du pétrole monte, la Russie prospère ; quand il chute, elle souffre. L'extraction et l'acheminement se font dans des conditions extrêmes : les pipelines traversent des milliers de kilomètres de pergélisol (permafrost — sol gelé en permanence). Le **réchauffement climatique** fragilise ce pergélisol, menaçant les infrastructures — un enjeu existentiel pour la Russie.\n\nLa principale ville de Sibérie est **Novossibirsk** (Новосибирск) — 1,6 million d'habitants, «capitale» de la Sibérie, centre scientifique majeur (Akademgorodok, la «cité des sciences» fondée par Khrouchtchev). Iekaterinbourg, à l'Oural, est la «capitale» de l'Oural industriel. Irkoutsk, près du Baïkal, est la porte d'entrée du lac."
+      },
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "Le Transsibérien — le voyage mythique",
+        "body": "Le **Transsibérien** (Транссибирская магистраль) est la ligne de chemin de fer la plus longue du monde : **9 289 km** reliant Moscou à Vladivostok en 7 jours de train. Construit entre **1891 et 1916**, il est une des grandes réalisations techniques du monde et a profondément transformé la Sibérie en la désenclavant.\n\nPrendre le Transsibérien est pour beaucoup d'étrangers le **voyage mythique par excellence en Russie**. Le train passe par l'Oural, les steppes de Sibérie occidentale, les forêts de Sibérie centrale, Irkoutsk et le lac Baïkal, les plaines de l'Extrême-Orient. Dans les wagons (*platzkart*, couchettes ouvertes), on partage pendant des jours thé, nourriture et conversation avec ses voisins de wagon — une expérience sociale intensive.\n\nLa culture sibérienne produit une **littérature et une musique propres**. Valentin Raspoutine (pas le moine), auteur de *Adieu à Matiora* (1976) — roman sur la noyade d'un village pour construire un barrage — est le grand écrivain sibérien du XXe siècle. Le chaman sibérien, figure de médiateur entre monde humain et world spirituel, a inspiré de nombreux artistes et anthropologues du monde entier."
+      },
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "Manger en Sibérie — la cuisine du froid extrême",
+        "body": "La cuisine sibérienne est une cuisine de **survie sublimée** — nourrissante, calorique, adaptée aux hivers extrêmes. Les **pelmeni** (пельмени) sont nés en Sibérie : ces raviolis à la viande (porc, bœuf ou agneau, parfois gibier) sont le plat national sibérien. La légende dit qu'ils sont nés des pochettes de viande hachée congelée que les chasseurs emportaient comme provision. Aujourd'hui, on en trouve dans toute la Russie — mais les vrais pelmeni sibériens sont faits maison, en famille, par centaines avant l'hiver.\n\nLe **poisson sibérien** est exceptionnel : омуль (*omoul*) du lac Baïkal — poisson blanc endémique, fumé ou grillé — est le plat emblématique de la région. Le sterlet, l'esturgeon de l'Ob, le taïmen (la plus grande truite du monde, pouvant atteindre 1,50 m). Dans les villes sibériennes, les marchés regorgent de poissons séchés, fumés ou congelés à l'air libre en hiver.\n\n**Le froid comme code social** : en Sibérie, discuter du froid n'est pas se plaindre — c'est un langage commun, une fierté. Les habitants de Iakoutsk portent des combinaisons de fourrure pour -50°C avec une décontraction qui force le respect. «Ce n'est pas un temps froid, c'est juste -40°» dit-on ici. Cette stoïcité face aux conditions extrêmes est une valeur profondément sibérienne."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur 🤝",
+      "icon": "💡",
+      "content": "**Le Transsibérien + lac Baïkal est le voyage d'une vie.** Si vous envisagez un voyage en Russie orienté découverte (hors contraintes politiques actuelles), l'itinéraire classique Moscou → Irkoutsk (en train, 3 nuits) → lac Baïkal → Vladivostok est l'expérience russe la plus complète qui existe. Préférez l'été (juillet–août) pour le Baïkal, ou février pour la surface gelée.\n\nUne curiosité culturelle : les Russes sont fascinés par leur propre immensité sibérienne, mais peu d'entre eux y ont réellement voyagé. Pour un Moscovite, la Sibérie est presque aussi exotique que pour un Français — c'est un pays dans le pays. Si vous avez voyagé au Baïkal ou sur le Transsibérien, vous aurez des conversations passionnantes qui dépasseront les clichés habituels.\n\n**En conversation** : ne jamais réduire la Sibérie à l'exil et au Goulag — même si cette dimension est réelle et importante. Pour les Russes d'aujourd'hui, la Sibérie est avant tout une source de fierté nationale immense : 'Nous possédons ce territoire, ces richesses, cette immensité'. C'est une identité."
+    },
+    "glossary": [
+      {"term": "Taïga (Тайга)", "definition": "Forêt boréale de conifères couvrant la majeure partie de la Sibérie. Représente 22% des forêts mondiales et est le plus grand biome terrestre."},
+      {"term": "Permafrost (Вечная мерзлота)", "definition": "Sol gelé en permanence recouvrant 65% du territoire russe. Son dégel sous l'effet du réchauffement climatique menace les infrastructures."},
+      {"term": "Lac Baïkal (Байкал)", "definition": "Lac le plus profond (1 642 m) et le plus ancien (25 M d'années) du monde. Contient 20% de l'eau douce mondiale non gelée."},
+      {"term": "Pelmeni (Пельмени)", "definition": "Raviolis sibériens à la viande hachée. Plat national de la Sibérie, nés selon la légende des provisions de chasse congelées."},
+      {"term": "Transsibérien", "definition": "Ligne ferroviaire de 9 289 km reliant Moscou à Vladivostok. La plus longue du monde, construite en 1891-1916."},
+      {"term": "Omoul (Омуль)", "definition": "Poisson blanc endémique du lac Baïkal, fumé ou grillé. Plat emblématique de la région d'Irkoutsk."},
+      {"term": "Yasak (Ясак)", "definition": "Tribut en fourrures imposé aux peuples autochtones sibériens lors de la colonisation russe du XVIe-XVIIe siècle."},
+      {"term": "Nerpa (Нерпа)", "definition": "Phoque d'eau douce endémique du lac Baïkal — seul représentant mondial de cette espèce en eau douce."}
+    ],
+    "quiz": [
+      {
+        "question": "Quelle superficie couvre approximativement la Sibérie ?",
+        "options": ["3 millions km²", "6 millions km²", "9 millions km²", "12 millions km²"],
+        "answer": 2,
+        "explanation": "La Sibérie couvre environ 9 millions de km² — soit 17 fois la France ou l'équivalent de l'Europe entière — pour seulement 27 millions d'habitants."
+      },
+      {
+        "question": "Quel pourcentage de l'eau douce mondiale non gelée contient le lac Baïkal ?",
+        "options": ["5%", "10%", "20%", "30%"],
+        "answer": 2,
+        "explanation": "Le lac Baïkal contient à lui seul 20% de toute l'eau douce non gelée de la planète, dans ses eaux cristallines profondes de 1 642 mètres."
+      },
+      {
+        "question": "Quel célèbre écrivain russe a été déporté en Sibérie (1849-1854), expérience qui marqua son œuvre ?",
+        "options": ["Tolstoï", "Dostoïevski", "Pouchkine", "Tchekhov"],
+        "answer": 1,
+        "explanation": "Dostoïevski fut déporté en Sibérie de 1849 à 1854 après sa condamnation pour activité révolutionnaire. Cette expérience nourrit profondément son œuvre, notamment 'Souvenirs de la maison des morts'."
+      },
+      {
+        "question": "Quelle était la ressource économique qui motiva la conquête russe de la Sibérie au XVIe-XVIIe siècle ?",
+        "options": ["Le pétrole", "Les fourrures (zibeline, renard)", "L'or et les diamants", "Le charbon"],
+        "answer": 1,
+        "explanation": "Les fourrures sibériennes (zibeline, renard, castor) étaient aussi précieuses que les épices d'Orient. Les tsars en tiraient un tiers de leurs revenus — moteur économique de la colonisation."
+      },
+      {
+        "question": "Combien de kilomètres mesure le Transsibérien, la plus longue ligne ferroviaire du monde ?",
+        "options": ["5 000 km", "7 200 km", "9 289 km", "11 500 km"],
+        "answer": 2,
+        "explanation": "Le Transsibérien mesure 9 289 km de Moscou à Vladivostok, nécessitant 7 jours de train. Construit entre 1891 et 1916, il reste la plus longue ligne ferroviaire du monde."
+      }
+    ]
+  },
+  "ru": {
+    "module_title": "Бескрайняя Россия",
+    "lesson_title": "Сибирь — холодная бесконечность",
+    "lesson_subtitle": "География, ресурсы, народы",
+    "intro": "Сибирь. Одно это слово рождает ощущение чего-то крайнего — ссылки, холода, бесконечности. Для француза это географическая абстракция. Для русского — одновременно угроза (туда веками отправляли осуждённых) и абсолютная национальная гордость: эта необъятность принадлежит России. 9 миллионов км² — в 17 раз больше Франции — покрытых тайгой, тундрой, степями и горами, прорезанных Енисеем и омываемых водами Байкала. Понять Сибирь — значит понять, почему Россия мыслит по-крупному.",
+    "sections": [
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "Покорение Сибири — забытая эпопея",
+        "body": "Русское завоевание Сибири — одна из великих эпопей территориальной экспансии человечества: столь же стремительная, как покорение Америки, и куда менее известная на Западе. Менее чем за столетие (**1580–1650**) казаки, торговцы пушниной и авантюристы прошли весь азиатский континент до Тихого океана — пешком, на лодках, потом на санях.\n\nЭкономический двигатель: **пушнина** (соболь, лиса, бобёр). В XVI–XVII веках сибирская пушнина стоила столько же, сколько восточные пряности: цари получали с неё треть доходов. В обмен коренные народы (якуты, буряты, эвенки, ненцы) облагались пушным оброком (*ясак*). Русская колонизация Сибири во многом повторяет европейскую колонизацию Америк, включая демографический упадок коренного населения.\n\nВ XVIII–XIX веках Сибирь становится синонимом **каторги**. Тысячи уголовников и политических осуждённых ссылаются туда. **Декабристы** (восставшие дворяне 1825 года), затем социалисты и анархисты. Сам **Достоевский** отбыл сибирскую каторгу (1849–1854) — опыт, навсегда отметивший его творчество. В XX веке система **ГУЛАГа** превратила эту ссылку в промышленный процесс."
+      },
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "География бескрайности",
+        "body": "Сибирь занимает **9 миллионов км²** — примерно площадь всей Европы, однако здесь живут лишь **27 миллионов человек** (плотность как в Монголии). Причина: зимы чудовищной суровости. В **Якутске**, столице Республики Саха, температура регулярно опускается до **-40°C**, иногда достигая **-60°C**. Это один из холоднейших городов мира — и тем не менее здесь живут 300 000 человек.\n\nВеликие **сибирские реки** — Обь, Енисей, Лена — текут с юга на север к Арктике. Эти колоссальные реки (Лена — 4 500 км) структурировали освоение края. Зимой они замерзают и превращаются в ледяные автострады.\n\n**Байкал** — жемчужина Сибири: самое глубокое озеро в мире (1 642 м), самое древнее (25 миллионов лет), содержащее единолично **20% незамёрзших мировых запасов пресной воды**. Его кристально прозрачные воды (видимость до 40 м) укрывают удивительную эндемичную фауну, в том числе **нерпу** — единственного в мире пресноводного тюленя. Зимой поверхность замерзает на 1–2 метра — по озеру можно ездить на машине."
+      },
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Народы Сибири",
+        "body": "Сибирь — дом **мозаики коренных народов**: около 40 различных этнических групп, насчитывающих в совокупности несколько сотен тысяч человек. Среди наиболее многочисленных: **якуты** (саха, 500 000 человек) — тюркоязычный народ восточносибирских лесов; **буряты** (500 000 человек) — близкие монголам, буддисты; **эвенки** (шаманы, кочующие охотники тайги); **ненцы** (оленеводы арктической тундры).\n\nУ этих народов собственные языки, шаманские традиции, образ жизни (кочевой или полукочевой). Советский период стал для них катастрофой: принудительная коллективизация, уничтожение шаманских практик, переселение. Многие сибирские языки сегодня под угрозой исчезновения.\n\n**Республика Саха (Якутия)** — крупнейшее административное деление в мире (3,1 млн км² — в 6 раз больше Франции). Здесь добывается 25% мировых алмазов (АЛРОСА) и значительные объёмы золота. Якуты составляют около 50% населения республики — один из редких случаев, когда коренной народ является большинством в своём регионе."
+      },
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Сибирь — сейф России",
+        "body": "В Сибири сосредоточена большая часть природных богатств, составляющих экономическую мощь России. Доказанные запасы: Россия обладает **крупнейшими в мире запасами природного газа** (Западная Сибирь — месторождения «Газпрома» на Ямале), **вторыми запасами нефти** (Сургут, Ханты-Мансийск), **крупнейшими запасами угля** (Кузнецкий бассейн), огромными лесами (**тайга = 22% мировых лесов**), крупнейшими запасами золота, алмазов, никеля, палладия.\n\nЭто богатство углеводородами структурирует всю российскую экономику — и её зависимость. Добыча ведётся в экстремальных условиях: трубопроводы тянутся тысячи километров по **вечной мерзлоте** (мёрзлый грунт). **Глобальное потепление** разрушает эту мерзлоту, угрожая инфраструктуре — экзистенциальный вызов для России.\n\nКрупнейший город Сибири — **Новосибирск** (1,6 миллиона жителей), «столица» Сибири, крупный научный центр (Академгородок, «город учёных», основанный Хрущёвым). Иркутск у Байкала — ворота к озеру."
+      },
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Транссибирская магистраль — мифическое путешествие",
+        "body": "**Транссибирская магистраль** — самая длинная в мире железная дорога: **9 289 км** от Москвы до Владивостока за 7 дней. Построенная с **1891 по 1916 год**, она стала одним из великих технических достижений человечества и коренным образом изменила Сибирь, открыв её миру.\n\nДля многих иностранцев проехать на Транссибе — **легендарное путешествие мечты по России**. Поезд минует Урал, степи Западной Сибири, леса Центральной Сибири, Иркутск и Байкал, равнины Дальнего Востока. В вагонах (*плацкарт*, открытые полки) несколько дней подряд делишь чай, еду и разговоры с соседями — интенсивный социальный опыт.\n\nСибирская культура рождает **собственную литературу и музыку**. Валентин Распутин, автор «Прощания с Матёрой» (1976) — роман о затоплении деревни ради строительства плотины — великий сибирский писатель XX века. Шаман сибирских народов как медиатор между человеческим и духовным миром вдохновил бесчисленных художников и антропологов."
+      },
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Еда в Сибири — кухня крайнего холода",
+        "body": "Сибирская кухня — **возведённая в искусство кухня выживания**: сытная, калорийная, приспособленная к жестоким зимам. **Пельмени** родом из Сибири: эти пирожки с мясным фаршем (свинина, говядина, баранина или дичь) — национальное сибирское блюдо. По преданию, они произошли от замороженных мясных кулёчков, которые охотники брали с собой в дорогу. Сегодня пельмени есть по всей России, но настоящие сибирские делаются дома, всей семьёй, сотнями перед зимой.\n\n**Сибирская рыба** исключительна: **омуль** из Байкала — эндемичный белорыбица, копчёная или жареная — символическое блюдо региона. Стерлядь, обский осётр, таймень (крупнейшая в мире форель до 1,5 м). На сибирских рынках — изобилие сушёной, копчёной или замороженной на морозе рыбы.\n\n**Холод как социальный код**: в Сибири говорить о холоде — не жаловаться, это общий язык, предмет гордости. Жители Якутска надевают меховые комбинезоны при -50°C с завидной невозмутимостью. «Это не холодно, всего -40°» — говорят здесь. Эта стойкость перед крайними условиями — глубинная сибирская ценность."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Совет путешественника 🤝",
+      "icon": "💡",
+      "content": "**Транссиб + Байкал — путешествие всей жизни.** Если вы планируете поездку в Россию с целью открытия (с учётом нынешних политических ограничений), классический маршрут Москва → Иркутск (поездом, 3 ночи) → Байкал → Владивосток — самый полный российский опыт из возможных. Для Байкала предпочтительнее лето (июль–август) или февраль — по замёрзшему льду.\n\nКультурный курьёз: русские завороженно говорят о своей необъятной Сибири, но немногие там бывали. Для москвича Сибирь почти такая же экзотика, как для француза — страна внутри страны. Если вы путешествовали на Байкал или по Транссибу, у вас получатся захватывающие разговоры, далеко выходящие за рамки привычных клише.\n\n**В разговоре**: никогда не сводите Сибирь к ссылке и ГУЛАГу — даже если эта сторона реальна и важна. Для сегодняшних россиян Сибирь — прежде всего источник огромной национальной гордости: «Мы владеем этой территорией, этими богатствами, этой необъятностью». Это идентичность."
+    },
+    "glossary": [
+      {"term": "Тайга", "definition": "Бореальный хвойный лес, покрывающий большую часть Сибири. Составляет 22% мировых лесов и является крупнейшим наземным биомом."},
+      {"term": "Вечная мерзлота", "definition": "Постоянно мёрзлый грунт, занимающий 65% территории России. Таяние под воздействием глобального потепления угрожает инфраструктуре."},
+      {"term": "Байкал", "definition": "Самое глубокое (1 642 м) и древнее (25 млн лет) озеро в мире. Содержит 20% мировых незамёрзших запасов пресной воды."},
+      {"term": "Пельмени", "definition": "Сибирские пирожки с мясным фаршем. Национальное блюдо Сибири, появившееся, по преданию, из дорожных замороженных запасов охотников."},
+      {"term": "Транссибирская магистраль", "definition": "Железная дорога протяжённостью 9 289 км от Москвы до Владивостока. Самая длинная в мире, построена в 1891–1916 годах."},
+      {"term": "Омуль", "definition": "Эндемичная байкальская рыба, копчёная или жареная. Символическое блюдо иркутского региона."},
+      {"term": "Ясак", "definition": "Пушной оброк, взимавшийся с коренных народов Сибири в ходе русской колонизации XVI–XVII веков."},
+      {"term": "Нерпа", "definition": "Пресноводный тюлень, эндемичный для Байкала — единственный в мире представитель этого вида в пресной воде."}
+    ],
+    "quiz": [
+      {
+        "question": "Какую площадь занимает приблизительно Сибирь?",
+        "options": ["3 млн км²", "6 млн км²", "9 млн км²", "12 млн км²"],
+        "answer": 2,
+        "explanation": "Сибирь занимает около 9 миллионов км² — в 17 раз больше Франции или равно всей Европе — при этом здесь живут лишь 27 миллионов человек."
+      },
+      {
+        "question": "Какой процент незамёрзших мировых запасов пресной воды содержит Байкал?",
+        "options": ["5%", "10%", "20%", "30%"],
+        "answer": 2,
+        "explanation": "Байкал единолично содержит 20% всех незамёрзших запасов пресной воды на Земле в своих кристально прозрачных водах глубиной 1 642 метра."
+      },
+      {
+        "question": "Какой знаменитый русский писатель был сослан в Сибирь (1849–1854), и этот опыт отметил его творчество?",
+        "options": ["Толстой", "Достоевский", "Пушкин", "Чехов"],
+        "answer": 1,
+        "explanation": "Достоевский был сослан в Сибирь с 1849 по 1854 год после осуждения за революционную деятельность. Этот опыт глубоко питал его творчество, прежде всего «Записки из Мёртвого дома»."
+      },
+      {
+        "question": "Какой ресурс двигал русское завоевание Сибири в XVI–XVII веках?",
+        "options": ["Нефть", "Пушнина (соболь, лиса)", "Золото и алмазы", "Уголь"],
+        "answer": 1,
+        "explanation": "Сибирская пушнина (соболь, лиса, бобёр) стоила столько же, сколько восточные пряности. Цари получали с неё треть доходов — экономический двигатель колонизации."
+      },
+      {
+        "question": "Какова протяжённость Транссибирской магистрали — самой длинной железной дороги в мире?",
+        "options": ["5 000 км", "7 200 км", "9 289 км", "11 500 км"],
+        "answer": 2,
+        "explanation": "Транссибирская магистраль насчитывает 9 289 км от Москвы до Владивостока — 7 дней в пути. Построена с 1891 по 1916 год, по-прежнему самая длинная в мире."
+      }
+    ]
+  }
+}

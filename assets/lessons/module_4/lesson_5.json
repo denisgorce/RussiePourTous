@@ -1,0 +1,296 @@
+{
+  "meta": {
+    "module_id": 4,
+    "lesson_id": 5,
+    "module_icon": "🌙",
+    "lesson_icon": "🌿",
+    "estimated_minutes": 12,
+    "difficulty": "intermédiaire",
+    "sources": [
+      {
+        "label": "Encyclopædia Universalis — Russie",
+        "url": "https://www.universalis.fr/"
+      }
+    ]
+  },
+  "fr": {
+    "module_title": "L'Âme Russe",
+    "lesson_title": "La Dacha — l'art de vivre à la campagne",
+    "lesson_subtitle": "Nature, potager et ressourcement",
+    "intro": "Si vous voulez comprendre l'âme russe dans sa dimension la plus sereine et la plus authentique, allez à la dacha. Ce mot intraduisible en français désigne à la fois un lieu (une maison de campagne) et un mode de vie, un rituel saisonnier et un rapport profond à la nature, une philosophie du repos et de l'autosuffisance qui est au cœur de l'identité russe.",
+    "sections": [
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "Histoire de la dacha — des tsars aux prolétaires",
+        "body": "La dacha (дача — littéralement «ce qui est donné») tire son nom des propriétés que les tsars distribuaient à leurs favoris en échange de services. Au XVIIIe siècle, la cour de Pierre le Grand et de Catherine II possède des datchas aux environs de Saint-Pétersbourg.\n\nAu XIXe siècle, la dacha devient accessible à la bourgeoisie aisée et aux intellectuels. Tchekhov, Tolstoï, Pouchkine y écrivent leurs œuvres ; c'est un espace de liberté bourgeoise et de créativité. Les gares de campagne inaugurées dans les années 1860 ouvrent la possibilité aux familles de moyens revenus de s'éloigner de la ville.\n\nSous Staline, l'État distribue des «datchas des six ares» (*shest' sotok*, шесть соток — six cents mètres carrés) aux travailleurs méritants. Ces lotissements périurbains, souvent rudimentaires, permettent à des millions de familles soviétiques de cultiver leurs légumes. Aujourd'hui encore, beaucoup de datchas russes correspondent à ce modèle : une petite maison de bois, un potager serré, des framboisiers et des pommes de terre."
+      },
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "La géographie des datchas — ceinture verte de Moscou",
+        "body": "La région de Moscou est entourée d'une immense ceinture de datchas s'étendant jusqu'à 100-150 km de la capitale. Le vendredi soir, les autoroutes moscovites sont paralysées par l'exode dacha — des millions de familles qui quittent la ville pour leur jardin.\n\nCes territoires de datchas sont organisés en «coopératives dachas» (садоводческие товарищества, *sadovodcheskie tovaricchestva*) où chaque famille possède une parcelle de 600 à 1 000 m². Ces associations ont leurs propres règles de copropriété, gardiens et infrastructure d'eau.\n\nLa datcha idéale doit réunir plusieurs éléments : un potager (*ogorod*), un banya (étuve), des arbres fruitiers, des framboisiers, des plates-bandes de fleurs. Plus la datcha est éloignée et sauvage, plus elle est valorisée par son propriétaire — la nature non domestiquée est une aspiration russe fondamentale."
+      },
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "La datcha comme microcosme social",
+        "body": "La datcha est un espace social particulier — à la fois refugie de la collectivité et espace de l'individu. On y retrouve une version plus authentique des relations sociales que dans la vie urbaine : les voisins de datcha se connaissent réellement, s'entraident pour les travaux, partagent légumes et conseils horticoles.\n\nPendant la période soviétique, la datcha était l'un des rares espaces où la parole était relativement libre. Loin des oreilles des voisins de palier, dans le jardin ou la cuisine d'été, on pouvait parler de politique, critiquer le régime, partager des lectures interdites. La datcha comme espace de liberté informelle est une mémoire encore vive.\n\nAujourd'hui, la datcha est aussi un marqueur social. Les oligarques et les nouveaux riches ont des «mégadatchas» de plusieurs hectares avec piscine, tennis et gardes du corps — à l'extrême opposé des six ares soviétiques. Mais même les plus modestes datchas participent d'une même culture de la campagne, du potager et du rapport direct à la nature."
+      },
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "La datcha comme autonomie alimentaire",
+        "body": "La datcha a joué un rôle économique crucial pendant les périodes difficiles. Durant les années 1990, alors que l'économie soviétique s'effondrait et que les magasins étaient vides, les datchas des familles ont nourri des millions de Russes. Des études montrent que les datchas fournissaient alors près de 40% de la production nationale de pommes de terre et de légumes.\n\nAujourd'hui encore, un nombre significatif de Russes préservent l'habitude du potager (*ogorod*) — non par nécessité économique pour la plupart, mais par tradition et par plaisir. La fierté de manger «ses» tomates, «ses» concombres, «ses» pommes est profondément ancrée.\n\nLa **conserve maison** (домашние заготовки, *domashnie zagotovki*) est un art majeur dans les familles russes : cornichons à l'aneth, tomates marinées, confitures de groseilles, champignons salés, compotes. Le cellier (*podval*, подвал) d'une datcha ou d'un appartement de province est souvent plein de bocaux maison qui permettent de traverser l'hiver."
+      },
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "La nature dans la littérature et la peinture russes",
+        "body": "Le rapport des Russes à la nature est fondamentalement différent du rapport français. Pour un Français, la nature est souvent un décor ou un loisir. Pour un Russe, la nature (особенно природа, *osobenno priroda*) est un lieu de ressourcement existentiel, une présence vivante avec laquelle on entretient une relation quasi-mystique.\n\nDans la peinture russe du XIXe siècle, le mouvement des «Peredvizhniki» (Передвижники — les Ambulants) a célébré les paysages russes — forêts, steppes, rivières, ciels changeants — avec une tendresse et une mélancolie uniques. Isaac Levitan est le plus grand paysagiste russe ; ses toiles («Soirée d'or», «Lac Eternel») sont d'une beauté poignante.\n\nEn littérature, la description de la nature russe est un art en soi. Les descriptions de Tourgueniev dans «Pères et Fils» ou «Rudin», les passages sur la nature dans «Guerre et Paix» de Tolstoï — la nature russe y est un personnage à part entière, miroir de l'âme des personnages humains."
+      },
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "La cuisine de datcha — simplicité et abondance",
+        "body": "La cuisine de datcha est l'une des plus savoureuses de Russie — non pas par sophistication, mais par fraîcheur absolue. Les légumes du potager cueillis le matin même, les champignons ramassés dans la forêt voisine, les fraises et framboises mangées directement sur le plant — c'est une expérience gustative que la France des marchés bio ne peut que partiellement reproduire.\n\nLe **barbecue russe** (*shashlyk*, шашлык) est l'acte central de la culture datcha. Ce n'est pas un barbecue à l'occidentale — c'est une brochette de viande marinée (agneau, porc, bœuf) cuite sur des braises dans un appareil en acier (*mangal*, мангал). La préparation de la marinade est un art — chaque famille a sa recette secrète. Le shashlyk se mange avec des oignons crus, du persil frais et du pain.\n\nLe rituel du banya à la datcha complète l'expérience : une étuve en bois chauffée au feu de bois (*banya po-tchiornomu* — banya à la noire, la plus traditionnelle), suivie d'une plongée dans un étang ou un tuyau d'eau froide. Ce contraste de chaud et de froid est une expérience physique et mentale intense, au cœur de la philosophie du ressourcement russe."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur",
+      "icon": "💡",
+      "content": "**Si vous êtes invité à une datcha, c'est un privilège réel.** Ce n'est pas une simple invitation à dîner — c'est une intégration au cercle le plus intime. Comportez-vous comme un membre de la famille : proposez d'aider au potager, participez à la préparation du shashlyk, acceptez le banya.\n\n**Apportez quelque chose** : bouteille de vin, dessert, fruits. Pour les enfants de la famille, un petit jouet ou une attention sera particulièrement apprécié.\n\n**Ne soyez pas pressé.** Une invitation à la datcha ne s'organise pas sur une demi-journée — c'est au minimum un week-end. Si vous devez partir tôt, prévenez à l'avance. Quitter une table de datcha abruptement est une impolitesse grave."
+    },
+    "glossary": [
+      {
+        "term": "Datcha (Дача)",
+        "definition": "Maison de campagne russe — bien plus qu'une résidence secondaire, c'est un mode de vie saisonnier et un rapport profond à la nature."
+      },
+      {
+        "term": "Ogorod (Огород)",
+        "definition": "Potager — composante essentielle de la datcha russe. La fierté de manger ses propres légumes est profondément ancrée."
+      },
+      {
+        "term": "Shest' sotok (Шесть соток)",
+        "definition": "Six ares — superficie standard des datchas soviétiques distribuées aux travailleurs. Encore la taille typique de beaucoup de datchas russes."
+      },
+      {
+        "term": "Shashlyk (Шашлык)",
+        "definition": "Brochettes de viande marinée cuites sur des braises — acte central de la culture datcha. Rituel social aussi important que la nourriture."
+      },
+      {
+        "term": "Mangal (Мангал)",
+        "definition": "Appareil en acier sur pieds pour cuire les shashlyk. Présent dans toute datcha russe. Symbole du week-end de campagne."
+      },
+      {
+        "term": "Domashnie zagotovki",
+        "definition": "Conserves maison — tomates marinées, cornichons, confitures, champignons salés. Art familial majeur pour traverser l'hiver russe."
+      },
+      {
+        "term": "Peredvizhniki (Передвижники)",
+        "definition": "Les Ambulants — mouvement de peinture réaliste russe du XIXe siècle célébrant les paysages et la vie populaire russes."
+      },
+      {
+        "term": "Banya po-tchornomu",
+        "definition": "Banya à la noire — type de banya traditionnel chauffé directement au feu de bois, sans cheminée. Le plus authentique des banya russes."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Qu'est-ce que la datcha représente pour les Russes, au-delà d'une simple résidence secondaire ?",
+        "options": [
+          "Un investissement immobilier",
+          "Un mode de vie saisonnier et un rapport profond à la nature — espace de ressourcement existentiel",
+          "Un luxe réservé aux classes supérieures",
+          "Une obligation de l'État soviétique"
+        ],
+        "answer": 1,
+        "explanation": "La datcha représente bien plus qu'un lieu de vacances — c'est un rituel culturel profond, un espace de contact avec la nature, d'autosuffisance alimentaire et de relations sociales authentiques."
+      },
+      {
+        "question": "Quel rôle les datchas ont-elles joué pendant les années 1990 en Russie ?",
+        "options": [
+          "Un rôle purement récréatif",
+          "Nourrir une large partie de la population durant l'effondrement économique — jusqu'à 40% de la production de légumes",
+          "Accueillir les réunions politiques clandestines",
+          "Remplacer les banques pour les économies familiales"
+        ],
+        "answer": 1,
+        "explanation": "Durant les années 1990, les datchas ont fourni jusqu'à 40% de la production nationale de légumes, nourrissant des millions de familles alors que l'économie soviétique s'effondrait."
+      },
+      {
+        "question": "Qu'est-ce que le 'shashlyk' et quel est son rôle dans la culture datcha ?",
+        "options": [
+          "Une soupe de légumes du potager",
+          "Des brochettes de viande marinée sur des braises — rituel social central de la datcha",
+          "Un type de banya traditionnel",
+          "Un jeu collectif de plein air"
+        ],
+        "answer": 1,
+        "explanation": "Le shashlyk est le rituel central de la culture datcha — brochettes marinées cuites au mangal. La préparation, la cuisson et le partage sont un rituel social aussi important que la nourriture elle-même."
+      },
+      {
+        "question": "Quel peintre russe du XIXe siècle est le plus grand représentant du paysage russe ?",
+        "options": [
+          "Kandinsky",
+          "Isaac Levitan",
+          "Malevitch",
+          "Chagall"
+        ],
+        "answer": 1,
+        "explanation": "Isaac Levitan est le plus grand paysagiste russe — ses toiles des forêts, lacs et ciels d'automne russes sont d'une beauté mélancolique unique. Il fait partie du mouvement des Peredvizhniki (Ambulants)."
+      },
+      {
+        "question": "Quel est l'acte final du rituel datcha qui complète une journée au grand air ?",
+        "options": [
+          "Un repas festif à la russe",
+          "Un banya suivi d'un plongeon dans l'eau froide — contraste de chaud et froid au cœur du ressourcement russe",
+          "Une promenade dans la forêt au coucher du soleil",
+          "Un toast au champagne"
+        ],
+        "answer": 1,
+        "explanation": "Le banya à la datcha — étuve chauffée au bois suivie d'un plongeon dans l'eau froide — est le rituel de ressourcement par excellence. Ce contraste de chaud et de froid est une philosophie physique et mentale au cœur de la culture russe."
+      }
+    ]
+  },
+  "ru": {
+    "module_title": "Русская душа",
+    "lesson_title": "Дача — искусство жизни на природе",
+    "lesson_subtitle": "Природа, огород и восстановление",
+    "intro": "Если вы хотите понять русскую душу в её самом безмятежном и подлинном измерении — поезжайте на дачу. Это непереводимое на французский слово обозначает одновременно место (загородный дом) и образ жизни, сезонный ритуал и глубинное отношение к природе, философию отдыха и самодостаточности.",
+    "sections": [
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "История дачи — от царей до пролетариев",
+        "body": "Дача (буквально — «то, что дано») получила название от поместий, которые цари жаловали фаворитам. В XVIII веке приближённые Петра Великого и Екатерины II имели дачи под Санкт-Петербургом.\n\nВ XIX веке дача стала доступна зажиточной буржуазии и интеллигенции. Чехов, Толстой, Пушкин писали там свои произведения.\n\nПри Сталине государство раздавало «дачи на шести сотках» заслуженным работникам. Эти пригородные участки, нередко очень скромные, позволяли миллионам советских семей выращивать овощи. Многие русские дачи и сегодня соответствуют этой модели: небольшой деревянный домик, тесный огород, малина и картофель."
+      },
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "География дач — зелёный пояс Москвы",
+        "body": "Подмосковье окружено огромным дачным поясом, простирающимся до 100–150 км от столицы. По пятницам вечером московские трассы парализованы «дачным исходом» — миллионы семей покидают город ради своих участков.\n\nДачные территории организованы в «садоводческие товарищества» — каждая семья владеет участком от 6 до 10 соток. У этих объединений свои правила, сторожа и водоснабжение.\n\nИдеальная дача должна включать: огород, баню, плодовые деревья, малину, цветочные грядки. Чем дальше дача и чем она дичее — тем выше ценится владельцем. Неокультуренная природа — фундаментальное устремление россиянина."
+      },
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Дача как социальный микрокосм",
+        "body": "Дача — особое социальное пространство: одновременно убежище от коллектива и место для индивида. Здесь встречаешь более подлинную версию социальных отношений, чем в городской жизни: дачные соседи по-настоящему знают друг друга, помогают в работах, делятся овощами и советами по огородничеству.\n\nВ советский период дача была одним из немногих пространств относительной свободы слова. Вдали от соседей по лестничной клетке, в саду или летней кухне, можно было говорить о политике, критиковать режим, передавать самиздат.\n\nСегодня дача — и социальный маркер. У олигархов — мегадачи на нескольких гектарах с бассейном, теннисным кортом, охраной. Но даже самые скромные дачи причастны к одной и той же культуре природы, огорода и непосредственного контакта с землёй."
+      },
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Дача как продовольственная автономия",
+        "body": "Дача сыграла решающую экономическую роль в трудные периоды. В 1990-е, когда советская экономика рухнула и прилавки опустели, семейные дачи кормили миллионы россиян. Исследования показывают, что тогда дачи обеспечивали около 40% национального производства картофеля и овощей.\n\nСегодня значительная часть россиян сохраняет привычку огородничества — не из экономической нужды для большинства, а по традиции и для удовольствия. Гордость поесть «своих» помидоров, «своих» огурцов глубоко укоренена.\n\n**Домашние заготовки** — высокое искусство в русских семьях: солёные огурцы с укропом, маринованные помидоры, смородиновое варенье, солёные грибы, компоты. Подвал дачи или провинциальной квартиры нередко полон домашних банок на зиму."
+      },
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Природа в русской литературе и живописи",
+        "body": "Отношение русских к природе принципиально отличается от французского. Для француза природа — нередко декорация или развлечение. Для россиянина природа — место экзистенциального восстановления, живое присутствие, с которым поддерживаешь почти мистическую связь.\n\nВ русской живописи XIX века движение передвижников воспевало русские пейзажи — леса, степи, реки, переменчивое небо — с неповторимой нежностью и меланхолией. Исаак Левитан — величайший русский пейзажист; его полотна («Золотая осень», «Над вечным покоем») пронзительно прекрасны.\n\nВ литературе описание русской природы — самостоятельное искусство. Природа у Тургенева, в «Войне и мире» Толстого — полноценный персонаж, зеркало души человеческих героев."
+      },
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Дачная кухня — простота и изобилие",
+        "body": "Дачная кухня — одна из вкуснейших в России: не изощрённостью, а абсолютной свежестью. Овощи с грядки, сорванные утром, грибы из соседнего леса, клубника и малина прямо с куста — вкусовой опыт, который биофермерские рынки Франции могут лишь частично воспроизвести.\n\n**Шашлык** — центральный акт дачной культуры. Это не западный барбекю — маринованное мясо (баранина, свинина, говядина) на углях в мангале. Приготовление маринада — искусство: у каждой семьи свой тайный рецепт. Шашлык едят с сырым луком, свежей петрушкой и хлебом.\n\nДачная баня завершает опыт: деревянная парная на дровах, затем окунание в пруд или холодный душ. Этот контраст жара и холода — интенсивный физический и душевный опыт, сердце русской философии восстановления."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Совет путешественника",
+      "icon": "💡",
+      "content": "**Если вас приглашают на дачу — это настоящая привилегия.** Это не просто приглашение на ужин — это включение в самый близкий круг. Ведите себя как член семьи: предложите помочь в огороде, участвуйте в приготовлении шашлыка, примите баню.\n\n**Привезите что-нибудь**: бутылку вина, десерт, фрукты. Детям семьи небольшой подарок или лакомство будут особо оценены.\n\n**Не торопитесь.** Приглашение на дачу не укладывается в полдня — это как минимум уик-энд. Если нужно уехать раньше — предупредите заранее. Резко встать из-за дачного стола — серьёзная грубость."
+    },
+    "glossary": [
+      {
+        "term": "Дача",
+        "definition": "Русский загородный дом — гораздо больше, чем второй дом; сезонный образ жизни и глубинное отношение к природе."
+      },
+      {
+        "term": "Огород",
+        "definition": "Огород — обязательная составляющая русской дачи. Гордость поесть собственных овощей глубоко укоренена."
+      },
+      {
+        "term": "Шесть соток",
+        "definition": "Шесть соток — стандартная площадь советских дач, выделявшихся рабочим. До сих пор типичный размер многих русских дач."
+      },
+      {
+        "term": "Шашлык",
+        "definition": "Маринованное мясо на углях в мангале — центральный акт дачной культуры. Социальный ритуал не менее важный, чем сама еда."
+      },
+      {
+        "term": "Мангал",
+        "definition": "Стальное устройство для приготовления шашлыка. Присутствует на каждой русской даче. Символ дачного уик-энда."
+      },
+      {
+        "term": "Домашние заготовки",
+        "definition": "Домашние заготовки — маринованные помидоры, огурцы, варенье, солёные грибы. Семейное искусство пережить русскую зиму."
+      },
+      {
+        "term": "Передвижники",
+        "definition": "Передвижники — движение русского реализма XIX века, воспевавшее русские пейзажи и народную жизнь."
+      },
+      {
+        "term": "Баня по-чёрному",
+        "definition": "Традиционный вид бани, отапливаемой дровами напрямую, без дымохода. Самый аутентичный вид русской бани."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Что представляет собой дача для россиян, помимо второго дома?",
+        "options": [
+          "Недвижимое вложение",
+          "Сезонный образ жизни и глубинное отношение к природе — пространство экзистенциального восстановления",
+          "Роскошь, доступная только высшим классам",
+          "Советская государственная обязанность"
+        ],
+        "answer": 1,
+        "explanation": "Дача — гораздо больше, чем место отпуска: глубокий культурный ритуал, пространство контакта с природой, продовольственной самодостаточности и подлинных социальных отношений."
+      },
+      {
+        "question": "Какую роль дачи сыграли в России в 1990-е годы?",
+        "options": [
+          "Чисто рекреативную",
+          "Кормить большую часть населения в период экономического краха — до 40% производства овощей",
+          "Принимать подпольные политические собрания",
+          "Заменять банки для семейных сбережений"
+        ],
+        "answer": 1,
+        "explanation": "В 1990-е дачи обеспечивали до 40% национального производства овощей, кормя миллионы семей в условиях краха советской экономики."
+      },
+      {
+        "question": "Что такое «шашлык» и какова его роль в дачной культуре?",
+        "options": [
+          "Овощной суп с огорода",
+          "Маринованное мясо на углях — центральный социальный ритуал дачи",
+          "Традиционный вид бани",
+          "Коллективная игра на открытом воздухе"
+        ],
+        "answer": 1,
+        "explanation": "Шашлык — центральный ритуал дачной культуры: маринованное мясо на мангале. Приготовление, жарка и совместная трапеза — социальный ритуал не менее важный, чем сама еда."
+      },
+      {
+        "question": "Какой русский художник XIX века — величайший представитель русского пейзажа?",
+        "options": [
+          "Кандинский",
+          "Исаак Левитан",
+          "Малевич",
+          "Шагал"
+        ],
+        "answer": 1,
+        "explanation": "Исаак Левитан — величайший русский пейзажист: его полотна с русскими лесами, озёрами и осенним небом обладают неповторимой меланхолической красотой. Он принадлежал движению передвижников."
+      },
+      {
+        "question": "Каков завершающий акт дачного ритуала, венчающий день на природе?",
+        "options": [
+          "Торжественный русский ужин",
+          "Баня с последующим погружением в холодную воду — контраст жара и холода в сердце русского восстановления",
+          "Прогулка в лесу на закате",
+          "Тост шампанским"
+        ],
+        "answer": 1,
+        "explanation": "Дачная баня — парная на дровах с последующим погружением в холодную воду — главный ритуал восстановления. Этот контраст жара и холода — физическая и душевная философия в сердце русской культуры."
+      }
+    ]
+  }
+}

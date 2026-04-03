@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "module_id": 1,
+    "lesson_id": 1,
+    "module_icon": "🏰",
+    "lesson_icon": "🌱",
+    "estimated_minutes": 15,
+    "difficulty": "débutant",
+    "sources": [
+      {"label": "Larousse — Histoire de la Russie", "url": "https://www.larousse.fr/encyclopedie/divers/Russie/177779"},
+      {"label": "France Diplomatie — Russie", "url": "https://www.diplomatie.gouv.fr/fr/dossiers-pays/russie/"},
+      {"label": "Encyclopædia Universalis — Russie", "url": "https://www.universalis.fr/encyclopedie/russie/"},
+      {"label": "Le Monde — Dossier Russie", "url": "https://www.lemonde.fr/russie/"}
+    ]
+  },
+  "fr": {
+    "module_title": "Les Racines de la Russie",
+    "lesson_title": "Naître Russe — l'âme d'un peuple",
+    "lesson_subtitle": "Histoire, valeurs et codes fondateurs",
+    "intro": "Comprendre la Russie, c'est d'abord accepter qu'elle ne ressemble à aucun autre pays. Ni tout à fait européenne, ni tout à fait asiatique, la Russie est un continent en elle-même. Mille ans de tsars, de conquêtes, de révolutions et d'immensité géographique ont façonné un peuple à la psychologie unique — mélancolique et généreux, fier et hospitalier, parfois incompris des Occidentaux. Cette leçon pose les bases indispensables pour ne pas commettre les erreurs classiques d'interprétation.",
+    "sections": [
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "Les grandes dates qui ont tout changé",
+        "body": "La Russie naît officiellement en **862 après J.-C.** quand le chef viking Riourik fonde la principauté de Novgorod — c'est ce qu'on appelle la «Rus» de Kiev. Pendant des siècles, c'est un patchwork de principautés orthodoxes qui résistent (ou succombent) aux invasions mongoles du XIIIe siècle.\n\nLa Russie moderne prend forme avec **Ivan le Terrible** (1547–1584), premier à se proclamer «Tsar de toutes les Russies». Puis **Pierre le Grand** (1682–1725) transforme radicalement le pays : il construit Saint-Pétersbourg, impose la modernisation à l'occidentale, crée une marine et une armée permanente, et ouvre la Russie à l'Europe — non sans brutalité. Sa fille **Catherine II** (1762–1796) poursuit cette œuvre et agrandit considérablement l'empire.\n\nLe tournant définitif arrive en **1917** : deux révolutions en quelques mois — la révolution de Février qui renverse le Tsar Nicolas II, puis la révolution d'Octobre où les bolchéviques de Lénine s'emparent du pouvoir. L'**URSS** naît officiellement en 1922 et durera jusqu'en **1991**. Ces 74 ans de régime soviétique ont marqué profondément la psychologie russe : le collectivisme, la méfiance envers l'État, la débrouillardise (débrouillardise = «smetka» en russe) sont des héritages directs de cette période."
+      },
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "Le plus grand pays du monde",
+        "body": "La Russie s'étend sur **17,1 millions de km²** — soit 30 fois la France, ou encore 1/8 de la surface terrestre mondiale. Du détroit de Béring (à quelques kilomètres de l'Alaska) à l'enclave de Kaliningrad sur la Baltique, le pays couvre **11 fuseaux horaires**. Quand il est midi à Moscou, il est 19h à Vladivostok.\n\nCette immensité a forgé une psychologie particulière : les Russes ont un rapport à l'espace radicalement différent des Français. L'immensité n'est pas seulement géographique — elle est intérieure. Le mot russe «просторы» (prostory, «espaces ouverts») désigne à la fois les steppes infinies et un sentiment d'intériorité que les Français traduiraient par «l'infini».\n\nLe pays abrite les plus grandes réserves mondiales de gaz naturel, les deuxièmes réserves de pétrole, d'immenses forêts (la taïga couvre un tiers du pays), le lac Baïkal qui contient 20% de l'eau douce mondiale non gelée. Cette richesse en ressources naturelles est à la fois une bénédiction économique et une «malédiction» — un État rentier qui n'a pas eu à développer des institutions démocratiques pour lever l'impôt comme en Europe occidentale."
+      },
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "La verticale du pouvoir",
+        "body": "La Russie est officiellement une **République fédérale semi-présidentielle** dotée d'une Constitution de 1993. Mais en pratique, le pouvoir est fortement concentré autour du Président, souvent décrit par la notion de «verticale du pouvoir» (вертикаль власти, *vertikal vlasti*).\n\nDepuis l'arrivée au pouvoir de **Vladimir Poutine** en 2000, la Russie a consolidé ce système : affaiblissement des contre-pouvoirs (médias, justice, régions), réduction de l'autonomie des partis d'opposition, renforcement des services de sécurité (le FSB, successeur du KGB). La Constitution a été amendée en 2020 pour permettre à Poutine de rester au pouvoir jusqu'en 2036.\n\nMais attention à la caricature : beaucoup de Russes soutiennent sincèrement ce système, associé à la stabilité retrouvée après le chaos des années 1990. La notion de **«порядок» (poryadok)** — l'ordre — est fondamentale dans la psychologie russe. Après l'humiliation post-soviétique, la restauration d'une Russie puissante et stable est perçue par une large partie de la population comme une valeur positive, quelle que soit l'opinion qu'on peut en avoir."
+      },
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "Une économie de contrastes",
+        "body": "La Russie est la **11e économie mondiale** (PIB ~1 800 milliards $). Mais cette richesse est mal répartie : Moscou concentre environ 20% du PIB national pour 10% de la population. Les inégalités sont considérables : une poignée d'oligarques contrôle l'essentiel des grandes entreprises, tandis que le salaire médian tourne autour de **55 000 roubles/mois** (~600 €).\n\nLa Russie a développé une économie largement dépendante des hydrocarbures — pétrole et gaz représentent environ 40% des recettes fiscales de l'État. Cette «malédiction des ressources» rend l'économie vulnérable aux fluctuations du prix du pétrole et aux sanctions internationales.\n\nÀ Moscou, les écarts sont saisissants : des supermarchés Azbuká Vkusa (l'équivalent du Bon Marché) côtoient des marchés soviétiques ; des voitures de luxe allemandes circulent à côté de Ladas rouillées. En province, la réalité est souvent plus dure, avec des services publics dégradés et un exode rural persistant vers les grandes villes."
+      },
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "Un géant culturel",
+        "body": "La Russie a produit certains des plus grands noms de la littérature, de la musique et des arts de l'humanité. **Tolstoï** (Guerre et Paix, Anna Karénine), **Dostoïevski** (Crime et Châtiment, Les Frères Karamazov), **Tchekhov** (La Cerisaie, Les Trois Sœurs), **Pouchkine** (Eugène Onéguine) sont enseignés dans toutes les universités du monde.\n\nEn musique, **Tchaïkovski** reste l'un des compositeurs les plus joués au monde (Le Lac des Cygnes, Casse-Noisette). En peinture, **Kandinsky** et **Malevitch** ont fondé l'abstraction moderne. Le cinéaste **Eisenstein** (Le Cuirassé Potemkine) a révolutionné le langage cinématographique. **Andreï Tarkovski** (Solaris, Le Miroir) est considéré comme l'un des cinéastes les plus importants du XXe siècle.\n\nCette richesse culturelle n'est pas seulement du passé : la scène contemporaine (musique, littérature, théâtre) reste très vivante, même si une partie des artistes les plus critiques ont dû quitter le pays ces dernières années. Le **Ballet du Bolchoï** à Moscou et le **Ballet Mariinsky** à Saint-Pétersbourg restent parmi les meilleures compagnies mondiales."
+      },
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "L'hospitalité russe — une règle d'or",
+        "body": "L'hospitalité est une valeur cardinale en Russie. Un invité russe sera nourri copieusement — il est mal venu d'arriver les mains vides, et encore plus mal venu de refuser la nourriture ou la boisson qu'on vous propose. La table russe est généreuse, les quantités importantes : le **bortsch** (soupe à la betterave), les **zakouski** (hors-d'œuvre froids), les **pelmeni** (raviolis sibériens), le **hareng sous son manteau de betterave** — autant de plats que vous rencontrerez inévitablement.\n\nLa **vodka** occupe une place symbolique et rituelle. On ne boit jamais seul et on ne boit pas sans porter un toast. Le premier toast est généralement «За здоровье !» (Za zdorovye — À la santé !). Refuser de boire peut être perçu comme un manque de confiance ; mais depuis quelques années, dire «je ne bois pas pour raisons médicales» (по медицинским показаниям, *po meditsinskim pokazaniyam*) est accepté sans insistance.\n\nNe soyez pas surpris par la **froideur apparente** des Russes en public. Les inconnus ne se sourient pas dans la rue ou dans le métro — ce n'est pas de l'impolitesse, c'est la norme. La chaleur et la générosité s'expriment dans le cercle privé, pas dans les espaces publics."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur 🤝",
+      "icon": "💡",
+      "content": "**Ne confondez pas froideur publique et hostilité.** Le Russe que vous croisez dans le métro de Moscou ne vous sourira probablement pas — ce n'est ni de la méchanceté ni du mépris. C'est simplement que sourire à des inconnus est considéré en Russie comme faux ou naïf. On réserve la chaleur aux gens qu'on connaît vraiment.\n\nEn revanche, si vous êtes invité chez des Russes, vous découvrirez une hospitalité déstabilisante pour un Français : on vous servira sans cesse, on insistera pour que vous mangiez encore, on sortira les meilleures bouteilles pour vous honorer. Cette dualité — froid en public, généreux en privé — est peut-être la première clé pour comprendre l'âme russe.\n\n**Apprenez 5 mots en russe avant de partir.** Здравствуйте (Zdravstvuyte — Bonjour formel), Спасибо (Spasibo — Merci), Пожалуйста (Pozhaluysta — S'il vous plaît/De rien), Да/Нет (Da/Net — Oui/Non), Извините (Izvinite — Excusez-moi). Ce simple effort sera reçu comme un immense signe de respect."
+    },
+    "glossary": [
+      {"term": "Tsar", "definition": "Titre des empereurs russes, du latin Caesar. Le dernier tsar, Nicolas II, fut renversé en 1917."},
+      {"term": "Дача (Datcha)", "definition": "Maison de campagne russe, souvent modeste. Lieu de ressourcement essentiel pour les Russes."},
+      {"term": "Vodka", "definition": "Eau-de-vie de céréales, environ 40° d'alcool. Mot signifiant «petite eau» (вода = voda, eau)."},
+      {"term": "URSS", "definition": "Union des Républiques Socialistes Soviétiques (1922–1991). État fédéral communiste fondé par Lénine."},
+      {"term": "FSB", "definition": "Service fédéral de sécurité, successeur du KGB soviétique. Service de contre-espionnage intérieur."},
+      {"term": "Oligarque", "definition": "Homme d'affaires russe ayant acquis une fortune considérable lors des privatisations des années 1990."},
+      {"term": "Zakouski (Закуски)", "definition": "Hors-d'œuvre froids servis au début des repas russes — caviar, harengs, salades, charcuteries."},
+      {"term": "Bortsch (Борщ)", "definition": "Soupe de betterave rouge, emblème de la cuisine slave. Servi chaud avec une cuillère de crème fraîche."}
+    ],
+    "quiz": [
+      {
+        "question": "En quelle année Riourik fonde-t-il la principauté qui donnera naissance à la Russie ?",
+        "options": ["862", "1147", "1547", "1917"],
+        "answer": 0,
+        "explanation": "En 862 après J.-C., le chef viking Riourik fonde la principauté de Novgorod — la première entité politique de la «Rus» qui donnera naissance à la Russie."
+      },
+      {
+        "question": "Quel tsar a transformé la Russie en la modernisant à l'occidentale et fondant Saint-Pétersbourg ?",
+        "options": ["Ivan le Terrible", "Pierre le Grand", "Catherine II", "Alexandre II"],
+        "answer": 1,
+        "explanation": "Pierre le Grand (1682–1725) a fondé Saint-Pétersbourg, créé une marine permanente et modernisé la Russie en s'inspirant de l'Europe occidentale."
+      },
+      {
+        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "options": ["7", "9", "11", "13"],
+        "answer": 2,
+        "explanation": "La Russie s'étend sur 11 fuseaux horaires, de Kaliningrad sur la Baltique jusqu'à Vladivostok sur le Pacifique."
+      },
+      {
+        "question": "Qu'est-ce que la «verticale du pouvoir» en Russie ?",
+        "options": ["Le système fédéral des régions", "La concentration du pouvoir autour du Président", "L'organisation de l'Église orthodoxe", "Le système des promotions dans l'armée"],
+        "answer": 1,
+        "explanation": "La «verticale du pouvoir» désigne la forte concentration des décisions politiques autour du Président, avec des contre-pouvoirs affaiblis."
+      },
+      {
+        "question": "Pourquoi un Russe ne vous sourira-t-il pas spontanément dans le métro ?",
+        "options": ["Par hostilité envers les étrangers", "Parce que sourire aux inconnus est considéré comme faux ou naïf", "Par timidité culturelle", "C'est une règle du métro de Moscou"],
+        "answer": 1,
+        "explanation": "En Russie, sourire à des inconnus est considéré comme faux ou insincère. La chaleur et la générosité s'expriment dans le cercle privé, pas en public."
+      }
+    ]
+  },
+  "ru": {
+    "module_title": "Корни России",
+    "lesson_title": "Стать русским — душа народа",
+    "lesson_subtitle": "История, ценности и основы",
+    "intro": "Понять Россию — значит прежде всего принять, что она не похожа ни на одну другую страну. Ни полностью европейская, ни полностью азиатская, Россия сама по себе — целый континент. Тысяча лет царей, завоеваний, революций и географических просторов сформировали народ с уникальной психологией — меланхоличный и щедрый, гордый и гостеприимный, порой непонятный для западного человека.",
+    "sections": [
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "Ключевые даты, изменившие всё",
+        "body": "Россия официально рождается в **862 году н.э.**, когда викинг Рюрик основывает Новгородское княжество. Это то, что мы называем Киевской Русью.\n\nСовременная Россия формируется при **Иване Грозном** (1547–1584), первом, кто провозгласил себя «Царём всея Руси». Затем **Пётр Великий** (1682–1725) радикально преобразует страну, основывает Санкт-Петербург и открывает Россию Европе.\n\nПоворотный момент наступает в **1917 году**: две революции — Февральская, свергнувшая царя Николая II, и Октябрьская, когда большевики Ленина захватывают власть. **СССР** основан в 1922 году и просуществует до **1991 года**. Эти 74 года советской власти оставили глубокий след в русской психологии."
+      },
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "Крупнейшая страна мира",
+        "body": "Россия занимает **17,1 млн км²** — в 30 раз больше Франции. От Берингова пролива до Калининграда страна охватывает **11 часовых поясов**.\n\nЭта необъятность сформировала особую психологию: у русских совершенно иное отношение к пространству. Слово «просторы» обозначает одновременно бесконечные степи и ощущение внутренней бескрайности.\n\nСтрана располагает крупнейшими в мире запасами природного газа, вторыми по величине запасами нефти и озером Байкал, содержащим 20% мировых незамёрзших запасов пресной воды."
+      },
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Вертикаль власти",
+        "body": "Россия официально является **федеративной полупрезидентской республикой** с Конституцией 1993 года. На практике власть сильно сосредоточена вокруг Президента — это то, что называют «вертикалью власти».\n\nС приходом к власти **Владимира Путина** в 2000 году Россия укрепила эту систему: ослабление противовесов, ограничение автономии оппозиционных партий, усиление силовых структур (ФСБ, преемник КГБ).\n\nМногие россияне искренне поддерживают эту систему, связывая её со стабильностью после хаоса 1990-х. Понятие **«порядка»** фундаментально для русской психологии."
+      },
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Экономика контрастов",
+        "body": "Россия — **11-я экономика мира** (ВВП ~$1,8 трлн). Москва концентрирует около 20% национального ВВП при 10% населения. Средняя зарплата составляет около **55 000 рублей/месяц**.\n\nЭкономика во многом зависит от углеводородов — нефть и газ составляют около 40% налоговых поступлений государства. В Москве контрасты разительны: дорогие магазины соседствуют с рынками советской эпохи."
+      },
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Культурный гигант",
+        "body": "Россия дала миру величайших представителей литературы, музыки и искусства: **Толстой**, **Достоевский**, **Чехов**, **Пушкин** преподаются во всех университетах мира.\n\n**Чайковский** — один из самых исполняемых композиторов в мире. **Кандинский** и **Малевич** основали абстрактное искусство. **Эйзенштейн** революционизировал киноязык. **Тарковский** считается одним из величайших режиссёров XX века.\n\n**Большой театр** в Москве и **Мариинский театр** в Санкт-Петербурге остаются одними из лучших балетных компаний мира."
+      },
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Русское гостеприимство — золотое правило",
+        "body": "Гостеприимство — кардинальная ценность в России. Гость будет накормлен обильно; приходить с пустыми руками неприлично, отказываться от угощения — ещё хуже.\n\n**Водка** занимает символическое и ритуальное место. Никогда не пьют в одиночку и без тоста. Первый тост — «За здоровье!»\n\nНе удивляйтесь **кажущейся холодности** русских в общественных местах. Незнакомцы не улыбаются на улице или в метро — это не грубость, это норма. Теплота и щедрость проявляются в приватном кругу."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Совет путешественника 🤝",
+      "icon": "💡",
+      "content": "**Не путайте публичную холодность с враждебностью.** Русский, которого вы встретите в московском метро, скорее всего не улыбнётся вам — это ни злоба, ни презрение. Просто улыбаться незнакомцам считается в России фальшью или наивностью.\n\nЗато если вас пригласят в гости к русским, вы откроете для себя гостеприимство, способное озадачить француза: вас будут угощать без конца, настаивать на добавке, доставать лучшие бутылки в вашу честь.\n\n**Выучите 5 слов по-русски перед поездкой.** Это будет воспринято как огромный знак уважения."
+    },
+    "glossary": [
+      {"term": "Царь", "definition": "Титул русских императоров. Последний царь Николай II был свергнут в 1917 году."},
+      {"term": "Дача", "definition": "Загородный дом, обычно скромный. Важное место отдыха и восстановления для русских."},
+      {"term": "Водка", "definition": "Зерновой дистиллят крепостью около 40°. Слово означает «маленькая вода»."},
+      {"term": "СССР", "definition": "Союз Советских Социалистических Республик (1922–1991). Коммунистическое федеративное государство, основанное Лениным."},
+      {"term": "ФСБ", "definition": "Федеральная служба безопасности, преемник советского КГБ. Служба внутренней контрразведки."},
+      {"term": "Олигарх", "definition": "Российский бизнесмен, приобретший огромное состояние в ходе приватизации 1990-х годов."},
+      {"term": "Закуски", "definition": "Холодные закуски, подаваемые в начале русской трапезы — икра, сельдь, салаты, колбасы."},
+      {"term": "Борщ", "definition": "Суп из красной свёклы — символ славянской кухни. Подаётся горячим со ложкой сметаны."}
+    ],
+    "quiz": [
+      {
+        "question": "В каком году Рюрик основывает княжество, давшее начало России?",
+        "options": ["862", "1147", "1547", "1917"],
+        "answer": 0,
+        "explanation": "В 862 году н.э. викинг Рюрик основывает Новгородское княжество — первое политическое образование Руси."
+      },
+      {
+        "question": "Какой царь преобразил Россию, модернизировав её по западному образцу и основав Санкт-Петербург?",
+        "options": ["Иван Грозный", "Пётр Великий", "Екатерина II", "Александр II"],
+        "answer": 1,
+        "explanation": "Пётр Великий (1682–1725) основал Санкт-Петербург, создал постоянный флот и открыл Россию Западной Европе."
+      },
+      {
+        "question": "Сколько часовых поясов охватывает Россия?",
+        "options": ["7", "9", "11", "13"],
+        "answer": 2,
+        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
+      },
+      {
+        "question": "Что означает «вертикаль власти» в России?",
+        "options": ["Федеральная система регионов", "Концентрация власти вокруг Президента", "Организация православной церкви", "Система воинских званий"],
+        "answer": 1,
+        "explanation": "«Вертикаль власти» обозначает сильную концентрацию политических решений вокруг Президента при ослабленных противовесах."
+      },
+      {
+        "question": "Почему русский, скорее всего, не улыбнётся вам в метро?",
+        "options": ["Из враждебности к иностранцам", "Потому что улыбаться незнакомцам считается фальшью", "Из культурной застенчивости", "Это правило московского метро"],
+        "answer": 1,
+        "explanation": "В России улыбаться незнакомцам считается неискренним. Тепло и щедрость проявляются в приватном кругу, а не публично."
+      }
+    ]
+  }
+}

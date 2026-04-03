@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "module_id": 2,
+    "lesson_id": 2,
+    "module_icon": "🗺️",
+    "lesson_icon": "🏛️",
+    "estimated_minutes": 13,
+    "difficulty": "débutant",
+    "sources": [
+      {"label": "Saint-Pétersbourg — portail officiel", "url": "https://www.gov.spb.ru/"},
+      {"label": "Hermitage Museum — collections en ligne", "url": "https://www.hermitagemuseum.org/"},
+      {"label": "Encyclopædia Universalis — Saint-Pétersbourg", "url": "https://www.universalis.fr/encyclopedie/saint-petersbourg/"},
+      {"label": "Routard — Saint-Pétersbourg", "url": "https://www.routard.com/guide/saint_petersbourg/"}
+    ]
+  },
+  "fr": {
+    "module_title": "L'Immensité Russe",
+    "lesson_title": "Saint-Pétersbourg — la fenêtre sur l'Europe",
+    "lesson_subtitle": "Pierre le Grand et la ville tsariste",
+    "intro": "Saint-Pétersbourg est peut-être la ville la plus belle de Russie — et l'une des plus belles d'Europe. Construite de toutes pièces sur des marécages baltiques au début du XVIIIe siècle, au prix de dizaines de milliers de vies, elle est le monument à la volonté d'un seul homme : Pierre le Grand, qui voulait donner à la Russie une capitale digne des grandes cours européennes. Ville de contrastes entre grandeur impériale et mélancolie nordique, elle a inspiré Pouchkine, Dostoïevski, et reste un pèlerinage incontournable pour tout amoureux de la culture russe.",
+    "sections": [
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "Une ville née de la volonté d'un tsar",
+        "body": "Le **27 mai 1703**, Pierre le Grand pose la première pierre de la forteresse Pierre-et-Paul sur une île marécageuse de l'embouchure de la Néva. À cet endroit précis naît Saint-Pétersbourg — *Sankt Peterburg* en allemand, nom délibérément choisi pour marquer la rupture avec la tradition russe et l'ouverture vers l'Europe. La ville sera ensuite rebaptisée **Petrograd** (1914, pour sonner plus russe lors de la Première Guerre mondiale contre l'Allemagne) puis **Leningrad** (1924, en hommage au leader bolchévique) avant de reprendre son nom d'origine en **1991** par référendum.\n\nLa construction est titanesque et meurtrière : des dizaines de milliers de serfs, soldats et prisonniers de guerre travaillent dans des conditions effroyables sur les marécages. On dit que la ville est «construite sur des ossements». Pierre visite les chantiers navals hollandais et anglais incognito, revient avec des architectes européens (Trezzini, Rastrelli, Rossi) qui conçoivent les palais, cathédrales et perspectives rectiligne — une grille urbaine à l'européenne, aux antipodes du plan radioconcentrique de Moscou.\n\nCapitale de l'empire de **1712 à 1918**, Pétersbourg a été le théâtre des deux révolutions de 1917 — c'est ici que l'URSS est née. Elle subit pendant la Seconde Guerre mondiale le **siège le plus long de l'histoire moderne** : 872 jours (1941–1944), causant la mort d'environ **800 000 à 1 million de civils** par la faim et les bombardements. Ce traumatisme extraordinaire, le «blokada», est présent dans chaque famille pétersbourgeoise."
+      },
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "La Venise du Nord — une ville sur l'eau",
+        "body": "Saint-Pétersbourg est construite sur **42 îles** reliées par **342 ponts** à l'embouchure de la Néva dans le golfe de Finlande. Cette géographie aquatique lui vaut le surnom de «Venise du Nord» — mais une Venise aux proportions impériales, avec des canaux bordés de palais baroque et néoclassique aux façades pastel (jaune, vert, bleu, ocre) absolument uniques.\n\nLa **perspective Nevski** (Невский проспект) est l'artère principale : 4,5 km d'une ligne droite qui traverse le cœur de la ville, bordée d'immeubles du XVIIIe–XIXe siècle, de cafés, de librairies, de l'Église du Sauveur-sur-le-Sang-Versé et du palais Anitchkov. Cette avenue est à Pétersbourg ce que les Champs-Élysées sont à Paris — mais plus noble, moins commerciale.\n\nLa lumière de Pétersbourg est unique. Les **nuits blanches** (белые ночи, *belye nochi*) entre fin mai et début juillet, quand le soleil se couche à 23h et se lève à 3h, plongent la ville dans une lumière dorée irréelle. Toute la population est dehors jusqu'au petit matin — les ponts sur la Néva s'ouvrent à 1h30 du matin pour laisser passer les bateaux, séparant les festivités nocturnes du reste de la ville."
+      },
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "La ville-symbole de l'intelligentsia russe",
+        "body": "Saint-Pétersbourg et Moscou incarnent deux âmes de la Russie en tension permanente. Moscou : pragmatique, commerciale, asiatique dans ses racines, populaire. Pétersbourg : cultivée, européenne dans l'esprit, aristocratique dans ses codes, mélancolique.\n\nCette rivalité est ancienne et profonde. Pour les Moscovites, les Pétersbourgeois sont des «snobs europénisés». Pour les Pétersbourgeois, les Moscovites sont des «parvenus sans culture». Cette tension reflète le grand débat russe entre **slavophiles** (la Russie doit assumer sa différence asiatique et orthodoxe) et **occidentalistes** (la Russie est fondamentalement européenne et doit s'aligner sur l'Occident).\n\nFait politique notable : **Vladimir Poutine** est né à Leningrad en 1952. Avant de s'installer à Moscou dans les années 1990, il a passé toute sa formation et sa carrière dans sa ville natale. Plusieurs de ses proches collaborateurs sont issus du même milieu pétersbourgeois du KGB — ce qu'on appelle le «clan de Pétersbourg» (*piterskie*) qui domine largement le pouvoir russe contemporain."
+      },
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "La deuxième ville de Russie",
+        "body": "Saint-Pétersbourg est la **deuxième ville économique de Russie** avec 5,5 millions d'habitants. Son économie repose sur l'industrie (construction navale, défense, automobile — usine Toyota et Hyundai, depuis fermées), la recherche scientifique, et de plus en plus le tourisme.\n\nAvant 2022, la ville accueillait **8 à 10 millions de touristes par an**, dont une large part de Français et d'Européens. Les croisières sur la Baltique faisaient escale systématiquement à Pétersbourg. Depuis les sanctions, le tourisme occidental s'est effondré — mais la ville reste animée par les touristes russes et asiatiques.\n\nLe coût de la vie y est légèrement inférieur à Moscou. Les appartements dans les immeubles historiques du centre — les **kommunalki** (коммуналки, appartements communautaires soviétiques où plusieurs familles partageaient cuisine et sanitaires) sont de plus en plus reconvertis en lofts branchés. Le marché **Kuznechny** (Кузнечный рынок), proche de la maison de Dostoïevski, est le marché couvert historique le plus couru."
+      },
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "L'Ermitage — le plus grand musée du monde",
+        "body": "L'**Ermitage** (Государственный Эрмитаж) est le plus grand musée du monde en superficie et l'un des plus importants par ses collections : **3 millions d'objets**, dont les chefs-d'œuvre de Léonard de Vinci, Raphaël, Michel-Ange, Rembrandt, Rubens, Monet, Matisse, Picasso. Le palais d'Hiver (Зимний дворец) où il est installé était la résidence officielle des tsars — 1 057 pièces, 1 786 portes, 1 945 fenêtres, 117 escaliers.\n\nCatherine la Grande fut la fondatrice des collections au XVIIIe siècle : elle achetait en masse aux enchères européennes, commandait aux grands maîtres. Ses successeurs continuèrent. L'Ermitage est ainsi une collection de l'appétit culturel vorace de l'empire russe pour l'art occidental — une ironique leçon d'histoire.\n\nLa ville a aussi produit une **littérature propre** : Pouchkine y vécut et mourut en duel. Dostoïevski y situa *Crime et Châtiment* (on peut visiter l'escalier de «la vieille prêteuse d'argent»). **Anna Akhmatova** y écrivit son *Requiem* pendant le blokada. Le **Théâtre Mariinski** (Мариинский театр) rival du Bolchoï, fondé en 1783, est la seconde scène lyrique et chorégraphique de Russie."
+      },
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "La cuisine pétersbourgeoise et les codes de la ville",
+        "body": "La cuisine de Saint-Pétersbourg porte l'empreinte de sa géographie maritime et de son histoire européenne. La **pirozhki** (пирожки — petits chaussons fourrés, frits ou au four) sont la street food historique de la perspective Nevski. Les poissons de la Baltique — hareng, sprat, smelt (*корюшка, koryushka*) — occupent une place centrale dans la gastronomie locale.\n\nLe **smelt** (corégone baltique) est un poisson d'eau douce/saumâtre dont le parfum est réputé rappeler les concombres frais. Chaque printemps, les Pétersbourgeois font la queue pour acheter les premiers smelts frits — une tradition locale aussi sacrée que les asperges pour les Alsaciens.\n\nL'**étiquette pétersbourgeoise** est réputée plus formelle qu'à Moscou : on vouvoie plus volontiers, on s'habille un peu mieux, on apprécie les conversations culturelles. Pétersbourg conserve quelque chose de l'aristocratie des codes. Un code essentiel : si vous invitez un Pétersbourgeois au théâtre ou à un concert, habillez-vous correctement — jeans et baskets au Mariinski seraient un vrai impair. Les **billets longtemps à l'avance** sont indispensables pour le Mariinski."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur 🤝",
+      "icon": "💡",
+      "content": "**Visitez Pétersbourg pendant les nuits blanches** (fin mai – début juillet) si vous en avez la possibilité. La lumière rasante à minuit sur les canaux et la Néva, les ponts qui s'ouvrent dans la nuit, les gens dehors jusqu'à l'aube — c'est une expérience unique au monde qui capture parfaitement l'âme de cette ville étrange et magnifique.\n\nSi vous ne pouvez faire qu'une chose à l'Ermitage : allez directement aux **salles des Impressionnistes** (3e étage, aile Nouvelle-Hermitage) — Monet, Renoir, Cézanne, Matisse, Picasso en quantité et en qualité éblouissantes. Catherine la Grande et ses successeurs ont acquis ces œuvres avant même que leur valeur soit reconnue en Occident.\n\n**Dostoïevski est partout** à Pétersbourg. Son appartement-musée (quai du canal Griboïedov) et les lieux de *Crime et Châtiment* sont à deux pas l'un de l'autre. Se promener dans ce quartier de Sennaya avec le roman en tête est l'une des expériences de voyage les plus intenses qu'on puisse vivre."
+    },
+    "glossary": [
+      {"term": "Nuits blanches (Белые ночи)", "definition": "Phénomène naturel à Saint-Pétersbourg : entre fin mai et début juillet, le soleil ne se couche pratiquement pas (nuit de 2-3 heures seulement)."},
+      {"term": "Ermitage (Эрмитаж)", "definition": "Plus grand musée du monde en superficie, installé dans le Palais d'Hiver des tsars. 3 millions d'œuvres, dont les plus grands maîtres européens."},
+      {"term": "Perspective Nevski (Невский проспект)", "definition": "Avenue principale de Saint-Pétersbourg, 4,5 km de long, avenue culturelle et commerciale depuis le XVIIIe siècle."},
+      {"term": "Blokada (Блокада)", "definition": "Siège de Leningrad par les Allemands (1941-1944) : 872 jours, environ 800 000 à 1 million de morts civils. Traumatisme fondateur."},
+      {"term": "Pirozhki (Пирожки)", "definition": "Petits chaussons fourrés (viande, chou, fromage, œuf) frits ou cuits au four. Street food historique de Saint-Pétersbourg."},
+      {"term": "Mariinski (Мариинский театр)", "definition": "Théâtre lyrique et chorégraphique fondé en 1783, rival du Bolchoï. Berceau du ballet russe classique."},
+      {"term": "Kommunalka (Коммуналка)", "definition": "Appartement communautaire soviétique où plusieurs familles partageaient cuisine et sanitaires. Nombreux à Pétersbourg, reconvertis en lofts."},
+      {"term": "Piterskie (Питерские)", "definition": "Surnom des Pétersbourgeois. Désigne aussi le 'clan de Pétersbourg' — les collaborateurs de Poutine issus du KGB de Leningrad."}
+    ],
+    "quiz": [
+      {
+        "question": "En quelle année Pierre le Grand fonde-t-il Saint-Pétersbourg ?",
+        "options": ["1682", "1703", "1725", "1762"],
+        "answer": 1,
+        "explanation": "Le 27 mai 1703, Pierre le Grand pose la première pierre de la forteresse Pierre-et-Paul sur une île marécageuse de la Néva — acte fondateur de Saint-Pétersbourg."
+      },
+      {
+        "question": "Quel événement tragique la ville a-t-elle subi pendant la Seconde Guerre mondiale ?",
+        "options": ["Une occupation nazie de 3 ans", "Le siège de 872 jours causant ~1 million de morts civils", "La destruction de l'Ermitage par les bombardements", "Une reddition négociée en 1942"],
+        "answer": 1,
+        "explanation": "Le siège de Leningrad (1941-1944) dura 872 jours et causa la mort d'environ 800 000 à 1 million de civils, principalement par la faim. C'est le plus long siège de l'histoire moderne."
+      },
+      {
+        "question": "Combien d'îles relie Saint-Pétersbourg avec ses 342 ponts ?",
+        "options": ["12 îles", "27 îles", "42 îles", "68 îles"],
+        "answer": 2,
+        "explanation": "Saint-Pétersbourg est construite sur 42 îles reliées par 342 ponts à l'embouchure de la Néva — ce qui lui vaut le surnom de 'Venise du Nord'."
+      },
+      {
+        "question": "Qui a fondé les collections de l'Ermitage au XVIIIe siècle ?",
+        "options": ["Pierre le Grand", "Catherine la Grande", "Alexandre Ier", "Nicolas II"],
+        "answer": 1,
+        "explanation": "Catherine la Grande fonda les collections de l'Ermitage au XVIIIe siècle en achetant massivement des œuvres d'art aux enchères européennes, créant l'une des plus grandes collections mondiales."
+      },
+      {
+        "question": "Qu'appelle-t-on les 'nuits blanches' à Saint-Pétersbourg ?",
+        "options": ["Les nuits de neige en hiver", "La période (fin mai-juillet) où le soleil ne se couche presque pas", "Les festivités nocturnes du Nouvel An", "Les nuits de brouillard sur la Néva"],
+        "answer": 1,
+        "explanation": "Les nuits blanches désignent la période (fin mai à début juillet) où la proximité du pôle fait que le soleil ne se couche que 2-3 heures à Saint-Pétersbourg — lumière irréelle à minuit."
+      }
+    ]
+  },
+  "ru": {
+    "module_title": "Бескрайняя Россия",
+    "lesson_title": "Санкт-Петербург — окно в Европу",
+    "lesson_subtitle": "Пётр Великий и царский город",
+    "intro": "Санкт-Петербург — пожалуй, красивейший город России и один из красивейших в Европе. Возведённый на болотах Балтики в начале XVIII века ценой десятков тысяч жизней, он — памятник воле одного человека: Петра Великого, мечтавшего дать России столицу, достойную великих европейских дворов. Город контрастов между имперским величием и северной меланхолией, он вдохновлял Пушкина и Достоевского и по сей день остаётся обязательным паломничеством для всякого, влюблённого в русскую культуру.",
+    "sections": [
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "Город, рождённый волей царя",
+        "body": "**27 мая 1703 года** Пётр Великий заложил первый камень Петропавловской крепости на болотистом острове в дельте Невы. На этом месте родился Санкт-Петербург — *Sankt Peterburg* по-немецки, имя намеренно выбранное, чтобы обозначить разрыв с русской традицией и открытость Европе. Позднее город переименовывался в **Петроград** (1914, чтобы звучать по-русски в годы Первой мировой с Германией), затем в **Ленинград** (1924, в честь вождя большевиков), и вновь обрёл историческое название в **1991 году** по результатам референдума.\n\nСтроительство было титаническим и смертоносным: десятки тысяч крепостных, солдат и военнопленных трудились в ужасающих условиях на болотах. Говорят, город «построен на костях». Пётр инкогнито посещал голландские и английские верфи, возвращался с европейскими архитекторами (Трезини, Растрелли, Росси), которые проектировали дворцы, соборы и прямые проспекты — европейская городская сетка, полная противоположность радиально-концентрическому плану Москвы.\n\nСтолица империи **с 1712 по 1918 год**, Петербург стал ареной обеих революций 1917 года. В годы Второй мировой он пережил **самую длительную осаду в современной истории**: 872 дня (1941–1944), унёсшие жизни около **800 000–1 миллиона мирных жителей** от голода и бомбардировок. Эта блокада присутствует в памяти каждой петербургской семьи."
+      },
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "Северная Венеция — город на воде",
+        "body": "Санкт-Петербург построен на **42 островах**, соединённых **342 мостами** в дельте Невы у Финского залива. Эта водная география принесла ему прозвище «Северная Венеция» — но Венеция императорского масштаба, с каналами, обрамлёнными барочными и неоклассическими дворцами с пастельными фасадами (жёлтыми, зелёными, голубыми, охристыми), совершенно неповторимыми.\n\n**Невский проспект** — главная артерия: 4,5 км прямой линии через сердце города, обрамлённой зданиями XVIII–XIX веков, кафе, книжными магазинами, церковью Спаса на Крови и Аничковым дворцом. Эта улица — петербургские Елисейские Поля, но благороднее и менее коммерческие.\n\nСвет Петербурга уникален. **Белые ночи** (конец мая — начало июля), когда солнце садится в 23:00 и встаёт в 3:00, погружают город в нереальный золотой свет. Всё население выходит на улицы до рассвета — мосты через Неву разводятся в 1:30 ночи, пропуская суда и разделяя ночные гуляния."
+      },
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Город-символ русской интеллигенции",
+        "body": "Санкт-Петербург и Москва олицетворяют два вечно спорящих духа России. Москва: прагматичная, торговая, с азиатскими корнями, народная. Петербург: культурный, европейский по духу, аристократический по кодам, меланхоличный.\n\nЭто соперничество древнее и глубокое. Для москвичей петербуржцы — «европеизированные снобы». Для петербуржцев москвичи — «выскочки без культуры». Это противоречие отражает великий российский спор между **славянофилами** (Россия должна принять свою азиатскую и православную самобытность) и **западниками** (Россия в основе своей европейска и должна равняться на Запад).\n\nПолитически значимый факт: **Владимир Путин** родился в Ленинграде в 1952 году. До переезда в Москву в 1990-х он прожил всё детство и строил карьеру в родном городе. Многие его ближайшие соратники вышли из той же ленинградской среды КГБ — так называемый «питерский клан», во многом определяющий современную российскую власть."
+      },
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Второй город России",
+        "body": "Санкт-Петербург — **второй экономический центр России** с 5,5 миллиона жителей. Его экономика опирается на промышленность (судостроение, оборонка, автомобилестроение — заводы Toyota и Hyundai, впоследствии закрытые), научные исследования и всё больше — туризм.\n\nДо 2022 года город принимал **8–10 миллионов туристов в год**, среди которых немало французов и европейцев. Балтийские круизы делали обязательную остановку в Петербурге. С введением санкций западный туризм резко упал, но город по-прежнему оживлён благодаря российским и азиатским гостям.\n\nСтоимость жизни здесь чуть ниже, чем в Москве. Квартиры в исторических домах центра — бывшие **коммуналки** (советские коммунальные квартиры, где несколько семей делили кухню и санузел) — всё активнее превращаются в модные лофты. **Кузнечный рынок**, рядом с домом Достоевского, — самый известный крытый рынок города."
+      },
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Эрмитаж — крупнейший музей мира",
+        "body": "**Эрмитаж** — крупнейший в мире музей по площади и один из богатейших по коллекциям: **3 миллиона предметов**, в том числе шедевры Леонардо да Винчи, Рафаэля, Микеланджело, Рембрандта, Рубенса, Моне, Матисса, Пикассо. Зимний дворец (Зимний Дворец), в котором он расположен, был официальной резиденцией царей: 1 057 комнат, 1 786 дверей, 1 945 окон, 117 лестниц.\n\nЕкатерина Великая — основательница коллекций в XVIII веке: она массово скупала произведения на европейских аукционах. Эрмитаж — это собрание ненасытного культурного аппетита Российской империи к западному искусству.\n\nГород также породил **собственную литературу**: Пушкин здесь жил и погиб на дуэли. Достоевский поместил сюда «Преступление и наказание» (можно посетить ту самую лестницу «старухи-процентщицы»). **Анна Ахматова** написала здесь «Реквием» в годы блокады. **Мариинский театр** (основан в 1783 году) — вторая лирическая и хореографическая сцена России, соперник Большого."
+      },
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Петербургская кухня и городские коды",
+        "body": "Кухня Санкт-Петербурга несёт отпечаток морской географии и европейской истории. **Пирожки** — историческая уличная еда Невского проспекта. Рыба Балтики — сельдь, шпроты, корюшка — занимает центральное место в местной гастрономии.\n\n**Корюшка** — небольшая пресноводно-солоноватая рыба, знаменитая тем, что пахнет свежими огурцами. Каждую весну петербуржцы выстраиваются в очередь за первой жареной корюшкой — местная традиция столь же священная, как спаржа для эльзасцев.\n\n**Петербургский этикет** считается более формальным, чем московский: здесь охотнее обращаются на «Вы», одеваются чуть тщательнее, ценят культурные беседы. Петербург сохраняет нечто от аристократизма кодов. Важный код: если вы приглашаете петербуржца в театр или на концерт, оденьтесь соответственно — джинсы и кроссовки в Мариинском были бы серьёзным промахом. **Билеты заранее** необходимы для Мариинского."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Совет путешественника 🤝",
+      "icon": "💡",
+      "content": "**Приезжайте в Петербург в белые ночи** (конец мая — начало июля), если есть такая возможность. Косой свет в полночь над каналами и Невой, мосты, разводящиеся ночью, люди на улицах до рассвета — это уникальный в мире опыт, совершенно точно передающий душу этого странного и прекрасного города.\n\nЕсли можете сделать в Эрмитаже что-то одно: идите прямо в **залы импрессионистов** (3-й этаж, Новый Эрмитаж) — Моне, Ренуар, Сезанн, Матисс, Пикассо в ослепительном количестве и качестве. Екатерина Великая и её преемники приобретали эти работы ещё до того, как Запад признал их ценность.\n\n**Достоевский — повсюду** в Петербурге. Его квартира-музей (набережная канала Грибоедова) и места «Преступления и наказания» в двух шагах друг от друга. Прогулка по кварталу Сенной площади с романом в руках — один из самых захватывающих путешественнических опытов."
+    },
+    "glossary": [
+      {"term": "Белые ночи", "definition": "Природное явление в Санкт-Петербурге: с конца мая по начало июля солнце почти не заходит (ночь длится лишь 2–3 часа)."},
+      {"term": "Эрмитаж", "definition": "Крупнейший в мире музей по площади, расположённый в Зимнем дворце царей. 3 миллиона произведений, включая величайших европейских мастеров."},
+      {"term": "Невский проспект", "definition": "Главный проспект Санкт-Петербурга, 4,5 км в длину, культурная и торговая артерия с XVIII века."},
+      {"term": "Блокада", "definition": "Осада Ленинграда немцами (1941–1944): 872 дня, около 800 000–1 миллиона погибших мирных жителей. Основополагающая коллективная травма."},
+      {"term": "Пирожки", "definition": "Маленькие жареные или печёные пирожки с начинкой (мясо, капуста, сыр, яйцо). Историческая уличная еда Санкт-Петербурга."},
+      {"term": "Мариинский театр", "definition": "Театр оперы и балета, основанный в 1783 году, соперник Большого. Колыбель русского классического балета."},
+      {"term": "Коммуналка", "definition": "Советская коммунальная квартира, где несколько семей делили кухню и санузел. Таких много в Петербурге; сейчас переоборудуются в лофты."},
+      {"term": "Питерские", "definition": "Прозвище петербуржцев. Также обозначает «питерский клан» — соратников Путина из ленинградского КГБ."}
+    ],
+    "quiz": [
+      {
+        "question": "В каком году Пётр Великий основал Санкт-Петербург?",
+        "options": ["1682", "1703", "1725", "1762"],
+        "answer": 1,
+        "explanation": "27 мая 1703 года Пётр Великий заложил первый камень Петропавловской крепости на болотистом острове в дельте Невы — это акт основания Санкт-Петербурга."
+      },
+      {
+        "question": "Какое трагическое событие пережил город во Второй мировой войне?",
+        "options": ["Трёхлетняя нацистская оккупация", "Осада 872 дня с гибелью ~1 млн мирных жителей", "Разрушение Эрмитажа бомбардировками", "Капитуляция в 1942 году"],
+        "answer": 1,
+        "explanation": "Блокада Ленинграда (1941–1944) длилась 872 дня и унесла жизни около 800 000–1 миллиона мирных жителей, главным образом от голода. Это самая долгая осада в современной истории."
+      },
+      {
+        "question": "На скольких островах построен Санкт-Петербург, соединённых 342 мостами?",
+        "options": ["12 островах", "27 островах", "42 островах", "68 островах"],
+        "answer": 2,
+        "explanation": "Санкт-Петербург построен на 42 островах, соединённых 342 мостами в дельте Невы — за это он и получил прозвище «Северная Венеция»."
+      },
+      {
+        "question": "Кто основал коллекции Эрмитажа в XVIII веке?",
+        "options": ["Пётр Великий", "Екатерина Великая", "Александр I", "Николай II"],
+        "answer": 1,
+        "explanation": "Екатерина Великая основала коллекции Эрмитажа в XVIII веке, массово скупая произведения искусства на европейских аукционах и создавая одно из богатейших собраний мира."
+      },
+      {
+        "question": "Что такое «белые ночи» в Санкт-Петербурге?",
+        "options": ["Снежные ночи зимой", "Период (конец мая — июль), когда солнце почти не заходит", "Новогодние праздничные гулянья", "Туманные ночи над Невой"],
+        "answer": 1,
+        "explanation": "Белые ночи — период с конца мая по начало июля, когда близость полюса означает, что солнце садится лишь на 2–3 часа в Санкт-Петербурге: в полночь — нереальный золотой свет."
+      }
+    ]
+  }
+}

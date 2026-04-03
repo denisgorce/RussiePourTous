@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "module_id": 2,
+    "lesson_id": 4,
+    "module_icon": "🗺️",
+    "lesson_icon": "🏔️",
+    "estimated_minutes": 12,
+    "difficulty": "intermédiaire",
+    "sources": [
+      {"label": "Encyclopædia Universalis — Oural", "url": "https://www.universalis.fr/encyclopedie/oural/"},
+      {"label": "Le Monde — Le Caucase russe", "url": "https://www.lemonde.fr/"},
+      {"label": "IFRI — Géopolitique du Caucase", "url": "https://www.ifri.org/"},
+      {"label": "Larousse — Iekaterinbourg", "url": "https://www.larousse.fr/encyclopedie/divers/Iekaterinbourg/123456"}
+    ]
+  },
+  "fr": {
+    "module_title": "L'Immensité Russe",
+    "lesson_title": "Le Caucase et les Ouraliens",
+    "lesson_subtitle": "Montagnes, diversité et histoire",
+    "intro": "La Russie n'est pas que plaines et forêts. Elle possède deux grandes chaînes de montagnes aux personnalités radicalement différentes : l'**Oural**, vieille dorsale épuisée qui sépare symboliquement l'Europe de l'Asie, et le **Caucase**, massif jeune et volcanique qui touche au ciel et abrite l'une des plus grandes diversités ethniques et linguistiques au monde. Ces deux zones montagneuses racontent deux histoires de la Russie : l'une industrielle et soviétique, l'autre explosive et millénaire.",
+    "sections": [
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "L'Oural — la frontière entre deux mondes",
+        "body": "L'**Oural** (Уральские горы) est une chaîne de montagnes de 2 500 km du nord au sud, dont le point culminant atteint à peine 1 895 m (mont Narodnaïa). Ce sont des montagnes très anciennes, usées par l'érosion — presque des collines à beaucoup d'endroits. Mais leur rôle symbolique est immense : elles marquent la **frontière géographique conventionnelle entre l'Europe et l'Asie**.\n\nL'histoire de l'Oural est une histoire d'**industrie et d'exploitation minière**. Au XVIIIe siècle, **Pierre le Grand** comprend que l'Oural est un trésor : fer, cuivre, nickel, or, gemmes. Il y fonde des forges et fonderies — les premières usines modernes de Russie. **Iekaterinbourg** (Екатеринбург) est fondée en **1723** comme centre métallurgique, nommée d'après Catherine Ière.\n\nC'est à **Iekaterinbourg** qu'a lieu l'événement le plus symbolique de l'histoire russe du XXe siècle hors des deux capitales : dans la nuit du **16 au 17 juillet 1918**, le tsar **Nicolas II**, son épouse Alexandra, leurs cinq enfants et quatre serviteurs sont exécutés dans la cave de la maison Ipatiev par les bolchéviques. Leurs restes sont retrouvés en 1991. En 2000, l'Église orthodoxe les canonise. L'église du «Sang-Versé» (Храм-на-Крови) construite sur ce site est aujourd'hui un lieu de pèlerinage majeur."
+      },
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "Le Caucase — les montagnes les plus hautes d'Europe",
+        "body": "Le **Caucase** (Кавказ) est un massif qui s'étend d'ouest en est sur 1 100 km entre la mer Noire et la mer Caspienne. Son point culminant, l'**Elbrouz** (Эльбрус — 5 642 m), est le plus haut sommet d'Europe, dépassant le mont Blanc de 800 mètres. La frontière entre la **Russie** et ses voisins (Géorgie, Azerbaïdjan) passe en pleine montagne.\n\nLa partie russe du Caucase comprend notamment la **Tchétchénie**, le **Daghestan** (la région la plus multiethnique de Russie, avec plus de 30 langues), la **Kabardino-Balkarie**, la **Tcherkessie**. Ces régions sont officiellement des **«Républiques»** dans la Fédération de Russie — avec leur propre gouvernement, langue officielle et identité forte.\n\n**Sotchi** (Сочи) est la grande surprise du Caucase russe : station balnéaire sur la mer Noire, avec palmiers et plages, à moins de 50 km des pistes de ski du Caucase. Sotchi a accueilli les **Jeux Olympiques d'hiver de 2014** — un investissement de 50 milliards de dollars, le plus coûteux de l'histoire olympique. Ce choix a montré la volonté russe de combiner diplomatie internationale et développement touristique dans une région stratégique."
+      },
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "La poudrière caucasienne",
+        "body": "Le Caucase russe est la région la plus politiquement sensible de Russie. La **Tchétchénie** (Чечня) a été le théâtre de deux guerres d'une extrême violence : la **première guerre** (1994–1996), lancée par Eltsine pour empêcher l'indépendance, se termine par une défaite humiliante de l'armée russe. La **deuxième guerre** (1999–2009), lancée par Poutine après les attentats de Moscou, aboutit à la «normalisation» par la force. La Tchétchénie est aujourd'hui dirigée par **Ramzan Kadyrov** — chef à poigne, très proche de Poutine, qui a reconstruit Grozny de fond en comble.\n\nLe **Daghestan** reste une région en tension permanente : mosaic de peuples (Avars, Darghins, Lezgines...), forte influence islamiste, taux de chômage élevé. Cette région frontalière avec la Géorgie et l'Azerbaïdjan est un enjeu géopolitique majeur dans la compétition entre la Russie et les influences extérieures (turque, iranienne, occidentale).\n\nLa diversité linguistique du Caucase est extraordinaire : le Daghestan compte **plus de 30 langues distinctes** dans un territoire de 50 000 km² — la plus forte densité linguistique au monde après la Papouasie-Nouvelle-Guinée. Cette diversité est un héritage des millénaires d'isolation géographique dans les vallées de haute montagne."
+      },
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "L'Oural industriel — la forge de la Russie",
+        "body": "La région de l'Oural reste l'une des plus importantes zones industrielles de Russie. **Iekaterinbourg** (1,5 million d'habitants, quatrième ville de Russie) est le centre économique et culturel de l'Oural. Ville résolument moderne, elle accueille des entreprises internationales, des universités, une scène culturelle dynamique — et pourtant reste marquée par son passé industriel et soviétique.\n\nLes villes de l'**Oural industriel** — Tcheliabinsk, Magnitogorsk, Nijni Tagil — incarnent le modèle soviétique : usines métallurgiques gigantesques construites dans les années 1930, cités ouvrières, pollution héritée. **Magnitogorsk** (Магнитогорск) est construite dans les années 1930 autour du plus grand complexe sidérurgique d'URSS — un symbole de l'industrialisation stalinienne. La ville a fourni l'acier de millions de chars T-34 pendant la Seconde Guerre mondiale.\n\nLa région du Caucase, en revanche, a une économie moins développée que la moyenne russe, avec une forte dépendance aux **transferts fédéraux** et au tourisme estival (Sotchi, Elbrous). Le taux de chômage y est parmi les plus élevés de Russie, notamment en Tchétchénie (taux officiel autour de 13%, réel probablement bien plus élevé)."
+      },
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "La culture caucasienne — épopées et polyphonies",
+        "body": "Le Caucase est une des régions les plus riches au monde en traditions orales, musicales et artisanales. Les épopées des peuples caucasiens — comme le **Nart** (épopée des ancêtres mythologiques partagée par les Ossètes, Kabardins, Adyguéens) — sont parmi les cycles épiques les plus anciens du monde, antérieurs à l'*Iliade*.\n\nLa **polyphonie géorgienne** (inscrite au patrimoine de l'UNESCO, bien que la Géorgie soit un État indépendant) a influencé la musique chorégraphique de tout le Caucase. Les instruments de musique traditionnels — le **panduri** géorgien, le **doutар** daghestanais — sont joués dans les fêtes et cérémonies.\n\nL'artisanat caucasien est célèbre : les **tapis du Daghestan** (dits «kilims du Caucase»), les **poignards damasquinés** de Kubachi, la **céramique de Balkh**. Pour les Russes, le Caucase évoque aussi les poètes romantiques du XIXe siècle : **Lermontov** (mort en duel au Caucase à 26 ans), **Pouchkine**, **Tolstoï** (ses débuts militaires au Caucase) y ont tous trouvé une source d'inspiration dans les paysages sauvages et les guerres interminables."
+      },
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "La cuisine caucasienne — les saveurs de la montagne",
+        "body": "La cuisine caucasienne est l'une des plus appréciées en Russie — souvent considérée comme plus savoureuse que la cuisine russe «classique». Elle a fortement influencé la gastronomie moscovite depuis des décennies.\n\nLes incontournables : les **khinkali** géorgiens (grands raviolis au jus, à manger en tenant par la petite tête sans la manger — un code strict) ; le **chakhoukhobi** (poulet en sauce tomate-épices) ; le **dolma** (feuilles de vigne farcies) ; le **basturma** (viande séchée très épicée) ; les **lula kebab** (brochettes de viande hachée). Les **pains** caucasiens — lavash, khachapouri (pain au fromage géorgien) — sont omniprésents dans les marchés moscovites.\n\nEn Russie, il existe une large communauté caucasienne (Géorgiens, Arméniens, Azéris, Tchétchènes) établie dans les grandes villes depuis des décennies. Les restaurants caucasiens sont parmi les plus populaires à Moscou. Le code social essentiel : dans la culture caucasienne, l'**hospitalité** est encore plus absolue qu'en Russie. Refuser la nourriture ou la boisson d'un hôte caucasien est une offense très grave — et les quantités servies sont proprement intimidantes."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur 🤝",
+      "icon": "💡",
+      "content": "**Iekaterinbourg mérite un détour** — souvent ignorée des circuits touristiques classiques, c'est une ville fascinante : l'église du Sang-Versé, le mémorial des Romanov, le musée d'histoire des Oural, une scène gastronomique et artistique dynamique. C'est aussi la ville natale de Boris Eltsine — dont le musée est remarquable et politiquement édifiant.\n\nSur la Tchétchénie : si vous êtes invité à parler de ce sujet avec des Russes, sachez que les opinions sont très divisées et les souvenirs très douloureux. Beaucoup de familles ont perdu des proches dans les deux guerres. Ne jamais plaisanter sur ce sujet ou le réduire à une polémique politique — c'est d'abord une tragédie humaine.\n\n**Un conseil inattendu** : si vous rencontrez des Caucasiens (Géorgiens, Arméniens, Tchétchènes) en Russie — par exemple à Moscou — vous découvrirez une sous-culture fascinante, entre intégration et fierté identitaire. Leur rapport à la Russie est complexe, leur cuisine est délicieuse, et leur hospitalité, légendaire."
+    },
+    "glossary": [
+      {"term": "Oural (Уральские горы)", "definition": "Chaîne de 2 500 km marquant la frontière conventionnelle entre l'Europe et l'Asie. Montagnes très anciennes, point culminant 1 895 m."},
+      {"term": "Elbrouz (Эльбрус)", "definition": "Point culminant du Caucase et de l'Europe (5 642 m), dépassant le mont Blanc de 800 m. Volcan endormi dans le Caucase russe."},
+      {"term": "Iekaterinbourg (Екатеринбург)", "definition": "Quatrième ville de Russie (1,5 M hab.), fondée en 1723. Lieu d'exécution de Nicolas II et sa famille en 1918."},
+      {"term": "Tchétchénie (Чечня)", "definition": "République russe du Caucase, théâtre de deux guerres (1994-96, 1999-2009). Aujourd'hui dirigée par Ramzan Kadyrov."},
+      {"term": "Daghestan (Дагестан)", "definition": "République la plus multiethnique de Russie, avec plus de 30 langues distinctes. Région frontalière à forte identité islamique."},
+      {"term": "Khinkali (Хинкали)", "definition": "Grands raviolis géorgiens au jus, tenus par la petite tête pour les manger. Emblème de la cuisine caucasienne en Russie."},
+      {"term": "Khachapouri (Хачапури)", "definition": "Pain géorgien fourré au fromage. Omniprésent dans les marchés et restaurants russes — l'une des contributions culinaires caucasiennes les plus populaires."},
+      {"term": "Épopée Nart (Нарты)", "definition": "Cycle épique des ancêtres mythologiques, partagé par plusieurs peuples du Caucase (Ossètes, Kabardins). Antérieur à l'Iliade."}
+    ],
+    "quiz": [
+      {
+        "question": "Quelle est la signification symbolique principale de l'Oural ?",
+        "options": ["La frontière entre la Russie et la Finlande", "La frontière géographique conventionnelle entre l'Europe et l'Asie", "La limite de la zone arctique", "La frontière entre zones climatiques tempérée et continentale"],
+        "answer": 1,
+        "explanation": "L'Oural marque la frontière conventionnelle entre l'Europe et l'Asie, même si ces montagnes anciennes sont relativement basses. Cette limite symbolique structure la géographie mentale russe."
+      },
+      {
+        "question": "Quel sommet du Caucase est le plus haut d'Europe, dépassant le Mont Blanc ?",
+        "options": ["Le Kazbek", "L'Elbrouz (5 642 m)", "Le Dychtaou", "Le Chakdagh"],
+        "answer": 1,
+        "explanation": "L'Elbrouz (5 642 m) est le plus haut sommet du Caucase et de l'Europe, dépassant le Mont Blanc (4 808 m) de 834 mètres. C'est un volcan endormi situé en Russie."
+      },
+      {
+        "question": "Quel événement dramatique s'est produit à Iekaterinbourg en juillet 1918 ?",
+        "options": ["La fondation de l'URSS", "L'exécution du tsar Nicolas II et de sa famille", "La première grande bataille de la guerre civile russe", "La signature du traité de Brest-Litovsk"],
+        "answer": 1,
+        "explanation": "Dans la nuit du 16 au 17 juillet 1918, le tsar Nicolas II, son épouse, leurs cinq enfants et leurs serviteurs furent exécutés dans la cave de la maison Ipatiev d'Iekaterinbourg par les bolchéviques."
+      },
+      {
+        "question": "Combien de langues distinctes le Daghestan compte-t-il ?",
+        "options": ["Plus de 5", "Plus de 15", "Plus de 30", "Plus de 50"],
+        "answer": 2,
+        "explanation": "Le Daghestan compte plus de 30 langues distinctes dans un territoire de 50 000 km² — l'une des plus fortes densités linguistiques au monde, héritée de l'isolement géographique millénaire des vallées."
+      },
+      {
+        "question": "Comment mange-t-on correctement les khinkali géorgiens ?",
+        "options": ["Avec une fourchette et un couteau", "En tenant par la petite tête (la queue) sans la manger", "En les trempant dans la sauce", "En les coupant en deux avec les doigts"],
+        "answer": 1,
+        "explanation": "Les khinkali se mangent en les tenant par la petite tête (la queue de pâte) sans la manger, en mordant dans la poche pour boire le jus d'abord. Couper un khinkali est considéré comme une faute de goût."
+      }
+    ]
+  },
+  "ru": {
+    "module_title": "Бескрайняя Россия",
+    "lesson_title": "Кавказ и Уральский регион",
+    "lesson_subtitle": "Горы, разнообразие и история",
+    "intro": "Россия — это не только равнины и леса. Здесь есть два великих горных хребта с совершенно разным характером: **Урал** — старый, изношенный хребет, символически разделяющий Европу и Азию, и **Кавказ** — молодой вулканический массив, касающийся неба и укрывающий одно из самых богатых этнических и языковых разнообразий на Земле. Эти два горных региона рассказывают две истории России: промышленную и советскую — одну, взрывную и тысячелетнюю — другую.",
+    "sections": [
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "Урал — граница между двумя мирами",
+        "body": "**Уральские горы** — горная цепь протяжённостью 2 500 км с севера на юг, наивысшая точка которой — гора Народная (1 895 м). Это очень древние горы, сглаженные эрозией — в ряде мест больше похожие на холмы. Но их символическая роль огромна: они обозначают **условную географическую границу между Европой и Азией**.\n\nИстория Урала — это история **промышленности и горного дела**. В XVIII веке **Пётр Великий** понял, что Урал — настоящая сокровищница: железо, медь, никель, золото, самоцветы. Здесь он основал кузницы и литейные заводы — первые современные предприятия России. **Екатеринбург** основан в **1723 году** как металлургический центр, названный в честь Екатерины I.\n\nИменно в **Екатеринбурге** произошло наиболее символическое событие русской истории XX века за пределами двух столиц: в ночь с **16 на 17 июля 1918 года** царь **Николай II**, его супруга Александра, пятеро детей и четверо слуг были расстреляны большевиками в подвале Ипатьевского дома. Останки обнаружены в 1991 году. В 2000 году православная церковь причислила их к лику святых. **Храм на Крови**, возведённый на этом месте, — сегодня крупный центр паломничества."
+      },
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "Кавказ — высочайшие горы Европы",
+        "body": "**Кавказ** — горный массив протяжённостью 1 100 км с запада на восток между Чёрным и Каспийским морями. Его наивысшая точка — **Эльбрус** (5 642 м) — высочайшая вершина Европы, превышающая Монблан на 800 метров. Граница между **Россией** и её соседями (Грузией, Азербайджаном) пролегает прямо в горах.\n\nРоссийская часть Кавказа включает **Чечню**, **Дагестан** (самый многонациональный регион России — более 30 языков), **Кабардино-Балкарию**, **Черкесию**. Эти регионы официально являются **«Республиками»** в составе Российской Федерации — со своим правительством, официальным языком и сильной идентичностью.\n\n**Сочи** — главный сюрприз российского Кавказа: курортный город на черноморском побережье с пальмами и пляжами, в менее чем 50 км от кавказских горнолыжных трасс. В Сочи прошли **Зимние Олимпийские игры 2014 года** — вложения составили 50 миллиардов долларов, рекорд в истории Олимпиад."
+      },
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Кавказская пороховая бочка",
+        "body": "Российский Кавказ — самый политически чувствительный регион страны. **Чечня** стала ареной двух войн чудовищной жестокости: **первая чеченская** (1994–1996), начатая Ельциным для предотвращения независимости, завершилась унизительным поражением российской армии. **Вторая чеченская** (1999–2009), развязанная Путиным после московских терактов, привела к «нормализации» силой. Сегодня Чечнёй руководит **Рамзан Кадыров** — жёсткий правитель, близкий Путину, отстроивший Грозный с нуля.\n\n**Дагестан** остаётся регионом постоянной напряжённости: мозаика народов (аварцы, даргинцы, лезгины...), высокое влияние исламизма, безработица. Этот приграничный регион — крупный геополитический узел в конкуренции России с внешними влияниями (турецким, иранским, западным).\n\nЛингвистическое разнообразие Кавказа поразительно: в Дагестане **более 30 самостоятельных языков** на территории 50 000 км² — одна из высочайших в мире языковых плотностей, наследие тысячелетий географической изоляции в горных долинах."
+      },
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Промышленный Урал — кузница России",
+        "body": "Уральский регион по-прежнему входит в число важнейших промышленных зон России. **Екатеринбург** (1,5 млн жителей, четвёртый город России) — экономический и культурный центр Урала. Решительно современный город с международными компаниями, университетами, динамичной культурной сценой — и тем не менее несущий отпечаток промышленного и советского прошлого.\n\nГорода **промышленного Урала** — Челябинск, Магнитогорск, Нижний Тагил — воплощают советскую модель: гигантские металлургические заводы 1930-х, рабочие кварталы, накопленное загрязнение. **Магнитогорск** возведён в 1930-е вокруг крупнейшего металлургического комбината СССР — символ сталинской индустриализации. Город поставил сталь на миллионы танков Т-34 в годы Второй мировой.\n\nКавказский регион, напротив, экономически менее развит по сравнению со среднероссийским уровнем — с высокой зависимостью от **федеральных трансфертов** и летнего туризма (Сочи, Эльбрус)."
+      },
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Кавказская культура — эпосы и многоголосие",
+        "body": "Кавказ — один из богатейших в мире регионов с точки зрения устных, музыкальных и ремесленных традиций. Эпосы кавказских народов — как **«Нарты»** (эпос о мифических предках, общий для осетин, кабардинцев, адыгейцев) — одни из древнейших в мире, восходящие к временам, предшествующим «Илиаде».\n\n**Грузинское многоголосие** (занесённое в список ЮНЕСКО, хотя Грузия является независимым государством) повлияло на хоровую музыку всего Кавказа. Традиционные инструменты — грузинский **пандури**, дагестанский **дутар** — звучат на праздниках и церемониях.\n\nКавказские ремёсла знамениты: **дагестанские ковры** (кавказские килимы), **дамасские кинжалы** Кубачи, **балхарская керамика**. Для русских Кавказ неотделим от романтиков XIX века: **Лермонтов** (погиб на дуэли на Кавказе в 26 лет), **Пушкин**, **Толстой** (начинал там военную карьеру) — все черпали вдохновение в диких пейзажах и бесконечных войнах."
+      },
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Кавказская кухня — ароматы гор",
+        "body": "Кавказская кухня — одна из наиболее любимых в России: её нередко считают вкуснее «классической» русской. На протяжении десятилетий она сильно влияла на московскую гастрономию.\n\nНепременные блюда: **хинкали** по-грузински (большие пельмени с бульоном, которые едят, держа за «хвостик» и не съедая его — строгий этикет); **чахохбили** (курица в томатно-пряном соусе); **долма** (фаршированные виноградные листья); **бастурма** (сильно приправленная вяленая говядина); **лула-кебаб** (шашлык из рубленого мяса). **Кавказские хлеба** — лаваш, **хачапури** (грузинский хлеб с сыром) — повсюду на московских рынках.\n\nВ России большая кавказская диаспора (грузины, армяне, азербайджанцы, чеченцы), осевшая в крупных городах. Кавказские рестораны — одни из самых популярных в Москве. Главный социальный код: в кавказской культуре **гостеприимство** ещё более абсолютно, чем в русской. Отказ от угощения хозяина-кавказца — серьёзнейшая обида, а количество подаваемого просто устрашает."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Совет путешественника 🤝",
+      "icon": "💡",
+      "content": "**Екатеринбург заслуживает внимания** — нередко обходимый стороной в классических туристических маршрутах, это удивительный город: Храм на Крови, мемориал Романовых, музей истории Урала, динамичная гастрономическая и художественная сцена. Это также родной город Бориса Ельцина — музей которого замечателен и политически поучителен.\n\nО Чечне: если вас приглашают говорить на эту тему с россиянами, знайте, что мнения резко расходятся, а воспоминания очень болезненны. Многие семьи потеряли близких в двух войнах. Никогда не шутите на эту тему и не сводите её к политической полемике — это прежде всего человеческая трагедия.\n\n**Неожиданный совет**: если вы встретите кавказцев (грузин, армян, чеченцев) в России — например, в Москве — вы откроете для себя увлекательную субкультуру между интеграцией и гордостью идентичности. Их отношения с Россией сложны, их кухня восхитительна, а гостеприимство — легендарно."
+    },
+    "glossary": [
+      {"term": "Уральские горы", "definition": "Горная цепь протяжённостью 2 500 км, обозначающая условную границу между Европой и Азией. Очень древние горы, наивысшая точка — 1 895 м."},
+      {"term": "Эльбрус", "definition": "Высочайшая точка Кавказа и Европы (5 642 м), превышающая Монблан на 800 м. Спящий вулкан на территории России."},
+      {"term": "Екатеринбург", "definition": "Четвёртый город России (1,5 млн жителей), основан в 1723 году. Место расстрела Николая II и его семьи в 1918 году."},
+      {"term": "Чечня", "definition": "Российская республика на Кавказе, ставшая ареной двух войн (1994–96, 1999–2009). Сегодня управляется Рамзаном Кадыровым."},
+      {"term": "Дагестан", "definition": "Самый многонациональный регион России — более 30 самостоятельных языков. Приграничный регион с сильной исламской идентичностью."},
+      {"term": "Хинкали", "definition": "Грузинские пельмени с бульоном, которые едят, держа за «хвостик». Символ кавказской кухни в России."},
+      {"term": "Хачапури", "definition": "Грузинский хлеб с сыром. Повсеместно распространён на российских рынках и в ресторанах — одно из популярнейших кавказских кулинарных достижений."},
+      {"term": "Нарты", "definition": "Эпос о мифических предках, общий для нескольких кавказских народов (осетины, кабардинцы). Восходит ко временам, предшествующим «Илиаде»."}
+    ],
+    "quiz": [
+      {
+        "question": "Каково главное символическое значение Уральских гор?",
+        "options": ["Граница России и Финляндии", "Условная географическая граница между Европой и Азией", "Граница Арктической зоны", "Граница между умеренным и континентальным климатом"],
+        "answer": 1,
+        "explanation": "Урал обозначает условную границу между Европой и Азией — даже при относительно небольшой высоте гор. Этот символический рубеж структурирует российскую ментальную географию."
+      },
+      {
+        "question": "Какая вершина Кавказа является высочайшей в Европе, превосходя Монблан?",
+        "options": ["Казбек", "Эльбрус (5 642 м)", "Дыхтау", "Шахдаг"],
+        "answer": 1,
+        "explanation": "Эльбрус (5 642 м) — высочайшая точка Кавказа и Европы, превышающая Монблан (4 808 м) на 834 метра. Это спящий вулкан, расположенный в России."
+      },
+      {
+        "question": "Какое драматическое событие произошло в Екатеринбурге в июле 1918 года?",
+        "options": ["Основание СССР", "Расстрел царя Николая II и его семьи", "Первое крупное сражение Гражданской войны", "Подписание Брестского мира"],
+        "answer": 1,
+        "explanation": "В ночь с 16 на 17 июля 1918 года царь Николай II, его супруга, пятеро детей и слуги были расстреляны большевиками в подвале Ипатьевского дома в Екатеринбурге."
+      },
+      {
+        "question": "Сколько самостоятельных языков насчитывает Дагестан?",
+        "options": ["Более 5", "Более 15", "Более 30", "Более 50"],
+        "answer": 2,
+        "explanation": "В Дагестане более 30 самостоятельных языков на территории 50 000 км² — одна из высочайших в мире языковых плотностей, унаследованная от тысячелетней географической изоляции горных долин."
+      },
+      {
+        "question": "Как правильно едят хинкали по-грузински?",
+        "options": ["Ножом и вилкой", "Держа за хвостик, не съедая его", "Макая в соус", "Разламывая пополам руками"],
+        "answer": 1,
+        "explanation": "Хинкали едят, держа за «хвостик» (сложенный жгутик теста) и не съедая его, кусая через тесто, чтобы сначала выпить бульон. Разрезать хинкали — грубая ошибка."
+      }
+    ]
+  }
+}

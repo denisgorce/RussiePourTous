@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "module_id": 1,
+    "lesson_id": 3,
+    "module_icon": "🏰",
+    "lesson_icon": "☭",
+    "estimated_minutes": 14,
+    "difficulty": "intermédiaire",
+    "sources": [
+      {"label": "Encyclopædia Universalis — Révolution russe", "url": "https://www.universalis.fr/encyclopedie/revolution-russe/"},
+      {"label": "France Culture — L'URSS en 10 dates", "url": "https://www.franceculture.fr/histoire/lurss-en-10-dates"},
+      {"label": "Le Monde — Dossier URSS", "url": "https://www.lemonde.fr/"},
+      {"label": "INA — Archives soviétiques", "url": "https://www.ina.fr/"}
+    ]
+  },
+  "fr": {
+    "module_title": "Les Racines de la Russie",
+    "lesson_title": "L'URSS — l'empire du socialisme",
+    "lesson_subtitle": "1917–1991, l'expérience soviétique",
+    "intro": "L'URSS a duré 69 ans — moins d'un siècle. Pourtant, cette expérience a transformé en profondeur la psychologie d'un peuple, remodelé la carte du monde et mis en concurrence deux visions de la société pendant toute la Guerre froide. Pour un Français, comprendre l'URSS, c'est comprendre pourquoi les Russes pensent et réagissent comme ils le font encore aujourd'hui — la mémoire soviétique est vivante, ambivalente, et souvent incomprise en Occident.",
+    "sections": [
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "1917 — deux révolutions qui changent le monde",
+        "body": "L'année 1917 est l'une des plus chargées de l'histoire mondiale. La Russie est épuisée par trois ans de Première Guerre mondiale : des millions de morts, une armée en déroute, une population affamée. En **février 1917**, une révolution spontanée renverse le Tsar **Nicolas II** — le dernier Romanov abdique. Une gouvernement provisoire libéral prend le pouvoir. Mais il commet l'erreur fatale : continuer la guerre.\n\nEn **octobre 1917**, les **bolchéviques** de **Lénine** (Vladimir Ilitch Oulianov) et Trotski s'emparent du pouvoir lors d'un coup d'État quasi-insurrectionnel à Petrograd. C'est la «Révolution d'Octobre». Leur programme : paix immédiate, redistribution des terres aux paysans, contrôle ouvrier des usines. Leur modèle : le marxisme interprété par Lénine dans sa théorie du parti d'avant-garde.\n\nS'ensuit une **guerre civile terrible** (1918–1921) entre l'Armée Rouge bolchévique et les «Blancs» (monarchistes, républicains, alliés étrangers). La famille impériale est exécutée à Iekaterinbourg en **juillet 1918**. Les bolchéviques l'emportent. L'**URSS** est officiellement proclamée le **30 décembre 1922** : une fédération de républiques socialistes couvrant l'essentiel de l'ex-empire russe."
+      },
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "L'empire soviétique — 15 républiques, un seul parti",
+        "body": "L'URSS à son apogée (années 1950–1980) couvre **22,4 millions de km²** — légèrement plus que la Russie actuelle — et comprend **15 républiques soviétiques** : Russie, Ukraine, Biélorussie, les trois républiques baltes (Estonie, Lettonie, Lituanie), les républiques du Caucase (Géorgie, Arménie, Azerbaïdjan) et cinq républiques d'Asie centrale (Kazakhstan, Ouzbékistan, Turkménistan, Tadjikistan, Kirghizistan).\n\nCette diversité est gouvernée par un principe unique : le **Parti communiste de l'Union soviétique (PCUS)**, dont le Secrétaire général détient le pouvoir réel. La constitution prévoit des «républiques souveraines» — en pratique, tout est décidé à Moscou.\n\nUne spécificité géographique essentielle : **Moscou** est le centre absolu, concentrant les meilleures infrastructures, les meilleurs médecins, les meilleures universités. Cette logique centre-périphérie, héritée de l'URSS, structure encore aujourd'hui les migrations internes russes — et explique l'exode de province vers la capitale."
+      },
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "Staline, la terreur et la victoire",
+        "body": "Après la mort de Lénine en 1924, **Joseph Staline** (Iossif Vissarionovitch Djougachvili, né en Géorgie) s'impose par une série de manœuvres politiques contre ses rivaux. Son règne (1924–1953) est l'un des plus meurtriers de l'histoire humaine.\n\nLa **collectivisation forcée** de l'agriculture (1929–1933) provoque une famine artificielle — l'**Holodomor** en Ukraine — qui tue entre 5 et 7 millions de personnes. La **Grande Terreur** de 1936–1938 décime l'intelligentsia, l'armée, le parti : environ **750 000 personnes** sont fusillées, des millions envoyées dans les camps du **Goulag** (Главное управление лагерей, le système des camps de travail forcé).\n\nMais Staline incarne aussi la victoire la plus chère à la mémoire russe : la **Grande Guerre patriotique** (1941–1945). L'invasion nazie fait **27 millions de morts soviétiques** — un chiffre qui dépasse l'entendement français (la France a perdu 600 000 personnes). Cette victoire, à un prix hallucinant, reste le fait d'armes fondateur de l'identité soviétique puis russe. Le **9 mai**, «Jour de la Victoire», est la fête nationale la plus chargée émotionnellement en Russie aujourd'hui.\n\nL'ambivalence des Russes vis-à-vis de Staline — à la fois bourreau et sauveur de la patrie — est l'une des grandes énigmes que les Occidentaux peinent à comprendre."
+      },
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "La vie ordinaire sous le régime soviétique",
+        "body": "La vie quotidienne soviétique est marquée par des **paradoxes profonds**. L'État garantit un emploi à tous, un logement (même petit), des soins gratuits, l'enseignement gratuit de la maternelle à l'université. Le loyer est dérisoire (quelques roubles par mois pour un appartement entier). La sécurité matérielle de base est assurée — à condition d'être «dans le rang».\n\nEn contrepartie : des **pénuries chroniques** de biens de consommation. On fait la queue pour des heures pour du fromage, de la charcuterie, des chaussures. Un appartement se «mérite» par des années d'attente sur liste d'attente. La voiture particulière (la **Lada**, la **Moskvitch**) est un luxe d'État accessible après des années d'épargne ou de relations.\n\nLa **blague politique** (анекдот, *anecdot*) est l'art national de résistance douce : les Soviétiques ont développé un humour noir extraordinaire pour dépasser leur impuissance politique. Ces blagues circulaient de bouche à oreille, risquées mais indestructibles.\n\n**Exemple célèbre** : «En Union soviétique, le futur est certain — c'est le passé qui est imprévisible.»\n\nCette culture de la débrouillardise (блат, *blat* — utiliser ses relations), de la double vie publique/privée, et de la méfiance vis-à-vis des institutions officielles reste prégnante dans la société russe contemporaine."
+      },
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "L'art soviétique — entre propagande et génie",
+        "body": "L'art soviétique présente une contradiction fascinante. D'un côté, le **réalisme socialiste** imposé par Staline dès les années 1930 : l'art doit servir l'idéologie, représenter des ouvriers triomphants, des kolkhoziens souriants, des héros de la Révolution. Ce style officiel est souvent kitsch vu d'Occident — mais il a produit des œuvres d'une puissance visuelle indéniable (affiches constructivistes, fresques des stations de métro de Moscou).\n\nDe l'autre, des artistes qui trouvent des formes de résistance ou de contournement. **Dmitri Chostakovitch** compose des symphonies d'une densité émotionnelle inouïe, jouant sur les limites du tolerable. **Andreï Tarkovski** réalise des films (L'Enfance d'Ivan, Andrei Roublev, Solaris, Le Miroir) d'une profondeur philosophique qui passent la censure par leur opacité même. **Mikhaïl Boulgakov** écrit *Le Maître et Marguerite* — roman satirique sur Moscou dans les années 1930 — qu'il sait ne jamais pouvoir publier de son vivant.\n\nLa **littérature du samizdat** (самиздат, «autoédition») — textes dactylographiés clandestinement et circulant de main en main — est l'une des formes de résistance culturelle les plus touchantes de l'histoire. **Alexandre Soljenitsyne** (*L'Archipel du Goulag*, publié à l'Ouest) en est la figure la plus connue à l'international."
+      },
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "La cuisine soviétique — contrainte et créativité",
+        "body": "La cuisine soviétique est une cuisine de **contraintes assumées**. Les pénuries d'approvisionnement ont développé un génie de la substitution et de l'économie. La **soupe** reste le plat central — pas par tradition seulement, mais parce qu'une soupe nourrit une famille avec peu.\n\nLe livre de référence de la cuisine soviétique, le **«Livre de la bonne cuisine et de la bonne alimentation»** (Книга о вкусной и здоровой пище, 1939), est l'un des livres les plus vendus de l'histoire de l'URSS : il donne des recettes avec des produits disponibles en magasin d'État, standardisant la cuisine nationale.\n\nDeux plats incarnent l'ère soviétique. La **«Salade Olivier soviétique»** — version simplifiée avec des saucisses de Francfort, carottes, pommes de terre, petits pois et mayonnaise — remplace le luxueux original tsariste et devient LE plat incontournable de toute fête. Elle est encore aujourd'hui préparée pour le Nouvel An dans presque tous les foyers russes.\n\nLe **pain noir** (ржаной хлеб, *rzhanoy khleb* — pain de seigle) est l'aliment de base absolu. Dense, légèrement acide, très nourrissant — aux antipodes de la baguette française. Si vous êtes invité chez des Russes et qu'on vous sert du pain noir avec du sel et du beurre, c'est un geste de bienvenue sincère et traditionnel."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur 🤝",
+      "icon": "💡",
+      "content": "**N'attendez pas de la culpabilité collective sur Staline.** En France, nous avons tendance à penser que les Russes devraient avoir le même rapport à Staline que les Allemands à Hitler. C'est une erreur de perspective. Staline est une figure ambivalente pour beaucoup de Russes — le bourreau qui a aussi vaincu le nazisme, sauvant l'Europe à un coût inimaginable. Discuter de Staline en Russie requiert de l'humilité et de la nuance.\n\nÀ l'inverse, **la Seconde Guerre mondiale est le sujet le plus chargé**. Les Russes appellent ce conflit «la Grande Guerre patriotique» — pas la Seconde Guerre mondiale. Pour eux, cette guerre a été avant tout une guerre de survie nationale, livrée essentiellement sur le Front de l'Est (80% des combats). 27 millions de morts soviétiques contre 600 000 français — ne l'oubliez jamais dans une conversation.\n\nUne approche intelligente : montrez que vous connaissez **Tarkovski ou Chostakovitch**. Ces noms évoquent une résistance artistique noble face au régime — une sensibilité que les Russes cultivés admirent profondément."
+    },
+    "glossary": [
+      {"term": "Bolchéviques", "definition": "Faction du parti social-démocrate russe menée par Lénine, qui prit le pouvoir en octobre 1917 et fonda le régime soviétique."},
+      {"term": "URSS (СССР)", "definition": "Union des Républiques Socialistes Soviétiques (1922–1991), État communiste fédéral fondé par Lénine sur les ruines de l'empire russe."},
+      {"term": "Goulag (ГУЛАГ)", "definition": "Système de camps de travail forcé soviétiques. Des millions de personnes y ont été internées, dont beaucoup y sont mortes."},
+      {"term": "Grande Guerre patriotique", "definition": "Nom russe de la Seconde Guerre mondiale (1941–1945), qui a causé 27 millions de morts soviétiques. Mémoire fondatrice."},
+      {"term": "Réalisme socialiste", "definition": "Doctrine artistique officielle soviétique exigeant que l'art serve l'idéologie communiste en représentant une réalité idéalisée."},
+      {"term": "Samizdat (Самиздат)", "definition": "Littéralement «autoédition» : textes clandestins dactylographiés et circulant de main en main sous le régime soviétique."},
+      {"term": "Blat (Блат)", "definition": "Système informel de faveurs et de relations personnelles utilisé pour obtenir ce que le système officiel ne fournissait pas."},
+      {"term": "9 mai — Jour de la Victoire", "definition": "Fête nationale la plus chargée émotionnellement en Russie, commémorant la victoire soviétique sur le nazisme en 1945."}
+    ],
+    "quiz": [
+      {
+        "question": "En quelle année les bolchéviques de Lénine s'emparent-ils du pouvoir à Petrograd ?",
+        "options": ["Février 1917", "Octobre 1917", "Décembre 1922", "Janvier 1924"],
+        "answer": 1,
+        "explanation": "En octobre 1917 (calendrier julien), les bolchéviques de Lénine et Trotski renversent le gouvernement provisoire lors d'un coup d'État quasi-insurrectionnel à Petrograd."
+      },
+      {
+        "question": "Combien de morts soviétiques la Seconde Guerre mondiale a-t-elle causés ?",
+        "options": ["3 millions", "10 millions", "27 millions", "40 millions"],
+        "answer": 2,
+        "explanation": "La Seconde Guerre mondiale (appelée 'Grande Guerre patriotique' en Russie) a causé environ 27 millions de morts soviétiques — contre 600 000 pour la France."
+      },
+      {
+        "question": "Qu'est-ce que le Goulag ?",
+        "options": ["Le service secret soviétique", "Le système de camps de travail forcé", "Le parti communiste russe", "Le système de collectivisation agricole"],
+        "answer": 1,
+        "explanation": "Le Goulag (acronyme russe) désigne le système de camps de travail forcé dans lequel des millions de Soviétiques ont été internés, souvent pour des motifs politiques."
+      },
+      {
+        "question": "Quel est le nom russe de la Seconde Guerre mondiale ?",
+        "options": ["La Guerre de Crimée", "La Grande Guerre patriotique", "La Guerre de Libération", "Le Conflit germano-soviétique"],
+        "answer": 1,
+        "explanation": "Les Russes appellent ce conflit 'Grande Guerre patriotique' (1941–1945), soulignant son caractère de guerre de survie nationale. Cette appellation reflète une mémoire profondément différente de celle de l'Occident."
+      },
+      {
+        "question": "Qu'est-ce que le 'blat' soviétique ?",
+        "options": ["Un type de pain noir russe", "Un système informel de faveurs et de relations", "Un grade militaire soviétique", "Une danse folklorique russe"],
+        "answer": 1,
+        "explanation": "Le 'blat' désigne le système de relations personnelles et de faveurs informelles utilisé pour obtenir ce que le système officiel ne fournissait pas — une culture de débrouillardise encore présente en Russie."
+      }
+    ]
+  },
+  "ru": {
+    "module_title": "Корни России",
+    "lesson_title": "СССР — империя социализма",
+    "lesson_subtitle": "1917–1991, советский опыт",
+    "intro": "СССР просуществовал 69 лет — менее столетия. Тем не менее этот эксперимент глубоко изменил психологию целого народа, перекроил карту мира и противопоставил два видения общества на протяжении всей холодной войны. Для понимания сегодняшней России необходимо понять СССР — советская память жива, противоречива и часто неправильно трактуется на Западе.",
+    "sections": [
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "1917 — две революции, изменившие мир",
+        "body": "1917 год — один из самых насыщенных в мировой истории. Россия измотана тремя годами Первой мировой: миллионы погибших, разваливающаяся армия, голодающее население. В **феврале 1917 года** стихийная революция сметает царя **Николая II** — последний Романов отрекается от престола. К власти приходит либеральное Временное правительство. Но оно допускает роковую ошибку: продолжает войну.\n\nВ **октябре 1917 года** большевики **Ленина** (Владимир Ильич Ульянов) и Троцкого захватывают власть в ходе почти инсуррекционного переворота в Петрограде. Это «Октябрьская революция». Их программа: немедленный мир, передача земли крестьянам, рабочий контроль над заводами.\n\nВслед за этим — **жестокая Гражданская война** (1918–1921) между красными большевиками и «белыми» (монархистами, республиканцами, иностранными союзниками). Царская семья расстреляна в Екатеринбурге в **июле 1918 года**. Победили большевики. **СССР** официально провозглашён **30 декабря 1922 года**."
+      },
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "Советская империя — 15 республик, одна партия",
+        "body": "СССР в период расцвета (1950–1980-е годы) занимал **22,4 млн км²** и включал **15 союзных республик**: Россию, Украину, Белоруссию, три прибалтийские республики (Эстонию, Латвию, Литву), закавказские республики (Грузию, Армению, Азербайджан) и пять среднеазиатских республик.\n\nЭтим разнообразием управлял единый принцип: **Коммунистическая партия Советского Союза (КПСС)**, Генеральный секретарь которой обладал реальной властью. Конституция предусматривала «суверенные республики» — на практике всё решалось в Москве.\n\nКлючевая географическая особенность: **Москва** — абсолютный центр, сосредоточивший лучшую инфраструктуру, лучших врачей, лучшие университеты. Эта логика центр-периферия, унаследованная от СССР, по сей день определяет внутреннюю миграцию в России."
+      },
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Сталин, террор и победа",
+        "body": "После смерти Ленина в 1924 году **Иосиф Сталин** (Иосиф Виссарионович Джугашвили, грузин по происхождению) утвердился у власти, устранив соперников. Его правление (1924–1953) — одно из самых кровавых в истории человечества.\n\n**Принудительная коллективизация** сельского хозяйства (1929–1933) вызывает искусственный голод — **Голодомор** на Украине — унёсший от 5 до 7 миллионов жизней. **Большой террор** 1936–1938 годов выкашивает интеллигенцию, армию, партию: около **750 000 человек** расстреляны, миллионы отправлены в лагеря **ГУЛАГа**.\n\nНо Сталин олицетворяет и победу, наиболее дорогую русской памяти: **Великую Отечественную войну** (1941–1945). Нацистское нашествие унесло **27 миллионов советских жизней** — цифра, недоступная французскому воображению (Франция потеряла 600 000 человек). Эта победа ценой немыслимых жертв — основополагающий факт советской, а затем российской идентичности. **9 мая**, День Победы — самый эмоционально значимый праздник в сегодняшней России.\n\nАмбивалентность россиян по отношению к Сталину — одновременно палач и спаситель Родины — одна из великих загадок, которую Запад с трудом осмысливает."
+      },
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Обычная жизнь при советском режиме",
+        "body": "Советская повседневность отмечена **глубокими противоречиями**. Государство гарантировало всем работу, жильё (пусть и небольшое), бесплатную медицину, бесплатное образование от детского сада до университета. Аренда была символической. Базовая материальная безопасность обеспечивалась — при условии «быть как все».\n\nЗа это — **хронический дефицит** потребительских товаров. Часами стояли в очереди за сыром, колбасой, обувью. Квартира «зарабатывалась» годами ожидания в очереди. Личный автомобиль (Жигули, Москвич) был государственной роскошью, доступной после лет накоплений или связей.\n\n**Политический анекдот** (анекдот) — национальное искусство мягкого сопротивления. Советские люди выработали исключительный чёрный юмор, чтобы пережить политическое бессилие. Эти анекдоты передавались из уст в уста — рискованно, но неуничтожимо.\n\n**Известный пример**: «В СССР будущее предсказуемо — это прошлое непредсказуемо.»\n\nКультура изворотливости (блат — использование связей), двойной жизни публичной/частной и недоверия к официальным институтам по-прежнему ощутима в современном российском обществе."
+      },
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Советское искусство — между пропагандой и гениальностью",
+        "body": "Советское искусство — увлекательное противоречие. С одной стороны, **социалистический реализм**, навязанный Сталиным с 1930-х: искусство должно служить идеологии, изображать торжествующих рабочих, улыбающихся колхозников, героев Революции. На западный взгляд этот официальный стиль часто кажется китчем — но он создал произведения несомненной визуальной мощи (конструктивистские плакаты, фрески московских станций метро).\n\nС другой стороны — художники, ищущие пути сопротивления или обхода. **Дмитрий Шостакович** сочиняет симфонии с невероятной эмоциональной насыщенностью, балансируя на грани дозволенного. **Андрей Тарковский** снимает фильмы (Иваново детство, Андрей Рублёв, Солярис, Зеркало) такой философской глубины, что они проходят цензуру именно своей непрозрачностью. **Михаил Булгаков** пишет *Мастера и Маргариту* — сатирический роман о Москве 1930-х — зная, что при жизни его не опубликуют.\n\n**Самиздат** (самиздат — «самоиздательство») — тексты, тайно перепечатанные и передававшиеся из рук в руки — одна из самых трогательных форм культурного сопротивления в истории. **Александр Солженицын** (*Архипелаг ГУЛАГ*, изданный на Западе) — наиболее известная на международном уровне его фигура."
+      },
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Советская кухня — ограничения и творчество",
+        "body": "Советская кухня — кухня **принятых ограничений**. Дефицит снабжения выработал гений замены и экономии. **Суп** остаётся центральным блюдом — не только по традиции, но потому что суп накормит семью из малого.\n\nГлавная книга советской кухни — **«Книга о вкусной и здоровой пище»** (1939) — одна из самых издаваемых книг в истории СССР: она давала рецепты из продуктов, доступных в государственных магазинах, стандартизируя национальную кухню.\n\nДва блюда олицетворяют советскую эпоху. **«Советский оливье»** — упрощённая версия с варёной колбасой, морковью, картошкой, горошком и майонезом — заменил роскошный дореволюционный прообраз и стал ГЛАВНЫМ блюдом любого праздника. До сих пор готовится практически в каждом доме на Новый год.\n\n**Чёрный хлеб** (ржаной хлеб) — абсолютная основа питания. Плотный, слегка кисловатый, очень сытный — полная противоположность французскому багету. Если в гостях вам подают чёрный хлеб с солью и маслом — это искренний и традиционный жест гостеприимства."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Совет путешественника 🤝",
+      "icon": "💡",
+      "content": "**Не ждите коллективной вины за Сталина.** Во Франции принято думать, что россияне должны относиться к Сталину так же, как немцы к Гитлеру. Это ошибка перспективы. Для многих россиян Сталин — противоречивая фигура: палач, который к тому же победил нацизм, ценой немыслимых жертв спасая Европу. Обсуждать Сталина в России требует смирения и нюансов.\n\nНапротив, **Вторая мировая война — самая болезненная тема**. Русские называют этот конфликт «Великой Отечественной» — не Второй мировой. Для них это прежде всего война национального выживания, веденная главным образом на Восточном фронте (80% боёв). 27 миллионов советских жертв против 600 000 французских — никогда не забывайте об этом в разговоре.\n\nУмный подход: покажите, что знаете **Тарковского или Шостаковича**. Эти имена олицетворяют благородное художественное сопротивление режиму — ценимое образованными россиянами."
+    },
+    "glossary": [
+      {"term": "Большевики", "definition": "Фракция российской социал-демократической партии под руководством Ленина, захватившая власть в октябре 1917 года."},
+      {"term": "СССР (CCCP)", "definition": "Союз Советских Социалистических Республик (1922–1991), коммунистическое федеративное государство, основанное Лениным."},
+      {"term": "ГУЛАГ", "definition": "Система лагерей принудительного труда в СССР. Миллионы людей были там заключены, многие погибли."},
+      {"term": "Великая Отечественная война", "definition": "Российское название Второй мировой войны (1941–1945), унёсшей 27 миллионов советских жизней. Основополагающая память."},
+      {"term": "Социалистический реализм", "definition": "Официальная советская художественная доктрина, требовавшая, чтобы искусство служило коммунистической идеологии."},
+      {"term": "Самиздат", "definition": "«Самоиздательство»: тайно перепечатанные тексты, передававшиеся из рук в руки при советском режиме."},
+      {"term": "Блат", "definition": "Неформальная система связей и услуг, используемая для получения того, чего официальная система не давала."},
+      {"term": "9 мая — День Победы", "definition": "Эмоционально самый значимый национальный праздник России, отмечающий советскую победу над нацизмом в 1945 году."}
+    ],
+    "quiz": [
+      {
+        "question": "В каком году большевики Ленина захватили власть в Петрограде?",
+        "options": ["Февраль 1917", "Октябрь 1917", "Декабрь 1922", "Январь 1924"],
+        "answer": 1,
+        "explanation": "В октябре 1917 года (по юлианскому календарю) большевики Ленина и Троцкого свергли Временное правительство в ходе переворота в Петрограде."
+      },
+      {
+        "question": "Сколько советских граждан погибло во Второй мировой войне?",
+        "options": ["3 миллиона", "10 миллионов", "27 миллионов", "40 миллионов"],
+        "answer": 2,
+        "explanation": "Вторая мировая война (Великая Отечественная) унесла около 27 миллионов советских жизней — против 600 000 у Франции."
+      },
+      {
+        "question": "Что такое ГУЛАГ?",
+        "options": ["Советские спецслужбы", "Система лагерей принудительного труда", "Коммунистическая партия России", "Система коллективизации сельского хозяйства"],
+        "answer": 1,
+        "explanation": "ГУЛАГ (аббревиатура) — система лагерей принудительного труда, где были заключены миллионы советских граждан, нередко по политическим мотивам."
+      },
+      {
+        "question": "Как называют Вторую мировую войну в России?",
+        "options": ["Крымская война", "Великая Отечественная война", "Война освобождения", "Германо-советский конфликт"],
+        "answer": 1,
+        "explanation": "Россияне называют этот конфликт «Великой Отечественной войной» (1941–1945), подчёркивая её характер войны национального выживания."
+      },
+      {
+        "question": "Что такое советский «блат»?",
+        "options": ["Вид чёрного хлеба", "Неформальная система связей и услуг", "Воинское звание в СССР", "Русский народный танец"],
+        "answer": 1,
+        "explanation": "«Блат» обозначает систему личных связей и неформальных услуг для получения того, чего официальная система не предоставляла — культура изворотливости, по сей день присутствующая в России."
+      }
+    ]
+  }
+}

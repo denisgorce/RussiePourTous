@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "module_id": 5,
+    "lesson_id": 1,
+    "module_icon": "🛢️",
+    "lesson_icon": "⛽",
+    "estimated_minutes": 12,
+    "difficulty": "intermédiaire",
+    "sources": [
+      {
+        "label": "Encyclopædia Universalis — Russie",
+        "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "France Diplomatie",
+        "url": "https://www.diplomatie.gouv.fr/fr/dossiers-pays/russie/"
+      }
+    ]
+  },
+  "fr": {
+    "module_title": "L'Économie Russe",
+    "lesson_title": "Pétrole et Gaz — la malédiction des ressources",
+    "lesson_subtitle": "Comment les hydrocarbures structurent l'économie",
+    "intro": "La Russie possède les premières réserves mondiales de gaz naturel et les deuxièmes de pétrole. Cette richesse est à la fois sa plus grande force et sa plus grande vulnérabilité. Comprendre l'économie russe, c'est d'abord comprendre le paradoxe du pays-rente.",
+    "sections": [
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "Du pétrole soviétique au capitalisme d'État",
+        "body": "Les champs sibériens de Tiumen et Khanty-Mansiysk, exploités massivement par l'URSS dans les années 1960-70, sont devenus la colonne vertébrale de l'économie russe. Après 1991, privatisés à prix dérisoire, ils ont créé les oligarques. Puis Poutine a renversé la tendance : Ioukos démantelée, Rosneft et Gazprom renforcés. Le «capitalisme d'État» — économie de marché formelle, secteurs stratégiques sous contrôle étatique — est le modèle russe actuel.\n\nCe modèle a une logique : l'État contrôle la rente pétrolière, la redistribue via des salaires publics, des retraites et des subventions. La stabilité sociale repose sur cette redistribution. Quand les cours chutent (2014-2016, 2020), la pression sociale monte immédiatement.\n\nLes deux piliers sont Rosneft (pétrole, PDG Igor Setchin — l'un des hommes les plus puissants de Russie) et Gazprom (gaz, PDG Alexeï Miller). Ces entreprises ne sont pas gérées comme des sociétés commerciales ordinaires — leurs décisions mêlent objectifs commerciaux et politiques étrangères."
+      },
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "La géographie du pétrole — Sibérie et Arctique",
+        "body": "La Sibérie occidentale (Yamal, Khanty-Mansiysk, Surgut) concentre 70% de la production pétrolière russe et 90% du gaz. Ces territoires extrêmes — pergélisol, -40°C, absence d'infrastructure — nécessitent des investissements colossaux et une technologie de pointe.\n\nL'Arctique est le nouveau front. Le réchauffement climatique ouvre des gisements autrefois inaccessibles. Le projet Yamal LNG — terminal de gaz naturel liquéfié sur la péninsule de Yamal — envoie désormais des cargaisons vers la Chine, l'Inde, et l'Europe via la route arctique.\n\nLa Route Maritime du Nord, longeant la côte arctique russe, raccourcit de moitié le trajet Asie-Europe. La Russie contrôle cette voie avec ses brise-glaces nucléaires — le seul État au monde à posséder une telle flotte. Cette domination arctique est un levier géopolitique croissant."
+      },
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "Malédiction des ressources — le piège du pays riche",
+        "body": "Le concept économique de 'malédiction des ressources' explique pourquoi les pays riches en pétrole développent souvent moins de démocratie et d'institutions solides que les pays sans ressources. La logique : un État qui vit de ses rentes n'a pas besoin de lever des impôts, donc n'a pas besoin de négocier avec ses citoyens.\n\nLa Russie illustre ce mécanisme. Les 40% de revenus fédéraux issus des hydrocarbures permettent à l'État de financer son appareil sans développer une économie productive diversifiée. Les tentatives de diversification (Skolkovo, corridor numérique, agroalimentaire) n'ont jamais fondamentalement réduit cette dépendance.\n\nLes sanctions de 2022 ont brutalement exposé une autre dimension du piège : la dépendance aux technologies occidentales pour l'extraction avancée (forage en eaux profondes, Arctic LNG). Privée des composants et logiciels occidentaux, l'industrie pétrolière russe risque une désindustrialisation progressive."
+      },
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "Pétrole et vie quotidienne russe",
+        "body": "Le pétrole se manifeste dans la vie quotidienne russe par des subventions invisibles. Le chauffage collectif au gaz (centralnoe otoplenye) chauffe 80% des appartements russes à un prix dérisoire — moins de 5% du revenu médian. L'essence est subventionnée à environ 55 roubles/litre.\n\nLe Fonds National de Bien-être accumulé pendant les hausses de pétrole a permis d'amortir les crises. Mais il s'érode sous l'effet des dépenses militaires post-2022 et des sanctions.\n\nLa double logique ressource/redistribution crée une dépendance psychologique : les Russes attendent de l'État qu'il maintienne les prix bas sur les produits essentiels. Toute hausse significative du prix de l'essence ou du pain est vécue comme une rupture du contrat social implicite."
+      },
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "Gazprom et la diplomatie du gaz",
+        "body": "Gazprom est l'incarnation du soft power russe en Europe. Pendant 20 ans, il a fourni jusqu'à 40% du gaz européen, créant une dépendance structurelle que la Russie a utilisée comme levier diplomatique — coupures momentanées vers l'Ukraine (2006, 2009), prix préférentiels pour les alliés.\n\nLe gazoduc Nord Stream (sous la Baltique, vers l'Allemagne) était le symbole de cette relation — et une source de division au sein de l'UE entre pays dépendants et méfiants. Les explosions de Nord Stream 1 et 2 en septembre 2022 ont mis fin brutalement à cette ère.\n\nLa réorientation vers la Chine (gazoduc Power of Siberia, 3000 km) est massive mais pas à conditions équivalentes : la Chine négocie en position de force, obtenant des prix bien inférieurs aux tarifs européens. La diplomatie du gaz a changé d'objet — mais la logique de dépendance s'est inversée."
+      },
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "La cuisine du pétrole — plats subventionnés et inégalités",
+        "body": "La richesse pétrolière se traduit gastronomiquement par des inégalités frappantes. Moscou, qui concentre les revenus pétroliers, est devenue une capitale gastronomique de premier rang — restaurants gastronomiques, cuisine du monde entier, terrasses animées. Les villes pétrolières comme Surgut ou Nefteyugansk (littéralement «Pêche du pétrole») ont des restaurants correctement fournis, malgré leur isolement.\n\nEn revanche, dans les régions sans revenus pétroliers (Ivanovo, Pskov, certaines oblasts rurales), la cuisine est souvent retournée à une frugalité soviétique : bortsch, kasha, poisson en conserve, pain et thé. La richesse pétrolière ne ruisselle pas uniformément.\n\nLe plat symbolique des travailleurs pétroliers sibériens est la pelmeni de leur région — préparée avec du gibier (cerf, élan) plutôt que du porc, souvent achetée congelée en grands sacs pour tenir l'hiver. Cette cuisine d'urgence est aussi une cuisine de fierté régionale."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur",
+      "icon": "💡",
+      "content": "Évitez de réduire la Russie à «un pays qui ne vit que du pétrole». La fierté nationale est forte autour des secteurs industriels, scientifiques et agricoles. Abordez le sujet par la question de la diversification économique — un vrai débat en Russie.\n\nLa dépendance pétrolière est un sujet sur lequel beaucoup de Russes éduqués sont eux-mêmes critiques. Poser la question «Comment imaginez-vous l'économie russe dans 30 ans ?» ouvre souvent des discussions fascinantes sur l'avenir, le réchauffement, les énergies renouvelables."
+    },
+    "glossary": [
+      {
+        "term": "Rosneft (Роснефть)",
+        "definition": "Plus grande compagnie pétrolière russe à majorité étatique. Dirigée par Igor Setchin."
+      },
+      {
+        "term": "Gazprom (Газпром)",
+        "definition": "Géant gazier à 51% étatique. Premier producteur mondial de gaz."
+      },
+      {
+        "term": "Malédiction des ressources",
+        "definition": "Les pays très riches en ressources développent souvent moins de démocratie et plus de corruption."
+      },
+      {
+        "term": "Centralnoye otoplenye",
+        "definition": "Chauffage collectif municipal au gaz — universel dans les appartements russes."
+      },
+      {
+        "term": "Fonds National de Bien-être",
+        "definition": "Fonds souverain alimenté par les revenus pétroliers pour amortir les crises."
+      },
+      {
+        "term": "Nord Stream",
+        "definition": "Gazoducs sous la Baltique reliant la Russie à l'Allemagne, sabotés en 2022."
+      },
+      {
+        "term": "Capitalisme d'État",
+        "definition": "Modèle économique : marché formel + contrôle étatique des secteurs stratégiques."
+      },
+      {
+        "term": "Yamal LNG",
+        "definition": "Terminal de gaz naturel liquéfié sur la péninsule de Yamal, exportant vers la Chine et l'Asie."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Quel pourcentage des revenus fédéraux russes provient des hydrocarbures ?",
+        "options": [
+          "5-10%",
+          "20%",
+          "Environ 40%",
+          "Plus de 70%"
+        ],
+        "answer": 2,
+        "explanation": "Les hydrocarbures (pétrole + gaz) fournissent environ 40% des revenus fédéraux russes — d'où la forte sensibilité de l'économie aux cours mondiaux."
+      },
+      {
+        "question": "Quelle innovation Russie déploie-t-elle pour ouvrir la route arctique ?",
+        "options": [
+          "Des satellites de navigation",
+          "Une flotte de brise-glaces nucléaires — la seule au monde",
+          "Des sous-marins civils de ravitaillement",
+          "Des plateformes pétrolières flottantes"
+        ],
+        "answer": 1,
+        "explanation": "La Russie possède la seule flotte mondiale de brise-glaces nucléaires, qui maintient ouvert le Passage du Nord-Est (Route Maritime du Nord) et affirme sa souveraineté arctique."
+      },
+      {
+        "question": "Qu'est-ce que la 'malédiction des ressources' ?",
+        "options": [
+          "L'épuisement des hydrocarbures",
+          "Les pays riches en ressources développent souvent moins de démocratie et d'institutions solides",
+          "Les dommages environnementaux de l'extraction",
+          "La fluctuation des cours du pétrole"
+        ],
+        "answer": 1,
+        "explanation": "La malédiction des ressources : les États rentiers n'ont pas besoin de lever des impôts, donc pas de négocier avec leurs citoyens, freinant le développement démocratique."
+      },
+      {
+        "question": "Pourquoi la réorientation gazière vers la Chine est-elle moins avantageuse pour la Russie ?",
+        "options": [
+          "Le gaz sibérien est de moindre qualité",
+          "La Chine négocie en position de force et obtient des prix inférieurs aux tarifs européens",
+          "Les distances de transport sont trop grandes",
+          "La Chine préfère le charbon"
+        ],
+        "answer": 1,
+        "explanation": "La Chine, ayant d'autres options d'approvisionnement, négocie à des prix inférieurs aux tarifs européens historiques — la Russie a perdu sa position de force."
+      },
+      {
+        "question": "Quel est l'impact des sanctions de 2022 sur l'industrie pétrolière russe ?",
+        "options": [
+          "Aucun impact — la Russie est autosuffisante",
+          "Perte des technologies occidentales de forage avancé, risque de désindustrialisation progressive",
+          "Hausse immédiate de la production grâce à la demande asiatique",
+          "Fermeture totale des champs sibériens"
+        ],
+        "answer": 1,
+        "explanation": "Les sanctions privent l'industrie pétrolière russe des technologies occidentales pour le forage en eaux profondes et l'Arctic LNG, risquant une désindustrialisation à moyen terme."
+      }
+    ]
+  },
+  "ru": {
+    "module_title": "Российская экономика",
+    "lesson_title": "Нефть и газ — ресурсное проклятие",
+    "lesson_subtitle": "Как углеводороды структурируют экономику",
+    "intro": "Россия располагает крупнейшими в мире запасами природного газа и вторыми — нефти. Это богатство одновременно её главная сила и главная уязвимость. Понять российскую экономику — значит понять парадокс страны-ренты.",
+    "sections": [
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "От советской нефти к государственному капитализму",
+        "body": "Сибирские месторождения Тюмени и Ханты-Мансийска, масштабно осваивавшиеся СССР в 1960–70-е, стали позвоночником российской экономики. После 1991 года, приватизированные за бесценок, они породили олигархов. Затем Путин изменил курс: ЮКОС разгромлен, Роснефть и Газпром усилены. «Государственный капитализм» — формально рыночная экономика, стратегические отрасли под государственным контролем — нынешняя российская модель.\n\nЭта модель имеет логику: государство контролирует нефтяную ренту, перераспределяет её через государственные зарплаты, пенсии и субсидии. Социальная стабильность держится на этом перераспределении. Когда цены падают (2014–2016, 2020), социальное напряжение немедленно нарастает.\n\nДва столпа — Роснефть (нефть, глава Игорь Сечин) и Газпром (газ, глава Алексей Миллер). Они управляются не как обычные коммерческие компании — их решения сочетают деловые и внешнеполитические цели."
+      },
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "География нефти — Сибирь и Арктика",
+        "body": "Западная Сибирь (Ямал, Ханты-Мансийск, Сургут) концентрирует 70% российской нефтедобычи и 90% газа. Эти экстремальные территории — вечная мерзлота, -40°C, отсутствие инфраструктуры — требуют колоссальных инвестиций.\n\nАрктика — новый фронт. Потепление открывает ранее недоступные месторождения. Проект «Ямал СПГ» — терминал сжиженного природного газа — отправляет грузы в Китай, Индию и Европу по арктическому маршруту.\n\nСеверный морской путь вдоль арктического побережья России сокращает вдвое маршрут Азия–Европа. Россия контролирует этот путь атомными ледоколами — единственная в мире держава с такими флотом."
+      },
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Ресурсное проклятие — ловушка богатой страны",
+        "body": "Экономическая концепция «ресурсного проклятия» объясняет, почему нефтяные государства нередко развивают меньше демократии и крепких институтов, чем страны без ресурсов. Логика: государство, живущее на ренту, не нуждается в сборе налогов, а значит — в переговорах с гражданами.\n\nРоссия иллюстрирует этот механизм. 40% федеральных доходов от углеводородов позволяют государству содержать аппарат, не развивая диверсифицированной производительной экономики.\n\nСанкции 2022 года грубо обнажили ещё одно измерение ловушки: зависимость от западных технологий глубоководного бурения и арктического СПГ. Лишённая западных компонентов и программного обеспечения, нефтяная промышленность рискует постепенной деиндустриализацией."
+      },
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Нефть и повседневная жизнь россиян",
+        "body": "Нефть проявляется в повседневной жизни россиян через незримые субсидии. Централизованное газовое отопление обогревает 80% российских квартир по смешной цене — менее 5% медианного дохода. Бензин субсидируется до ~55 рублей/литр.\n\nФНБ, накопленный в период нефтяных пиков, позволял амортизировать кризисы. Но истощается под воздействием послевоенных военных расходов и санкций.\n\nДвойная логика ресурс/перераспределение создаёт психологическую зависимость: россияне ждут от государства поддержания низких цен на базовые товары. Любой существенный рост цен на бензин или хлеб воспринимается как разрыв негласного социального контракта."
+      },
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Газпром и газовая дипломатия",
+        "body": "Газпром — воплощение российской «мягкой силы» в Европе. На протяжении 20 лет он поставлял до 40% европейского газа, создавая структурную зависимость, использовавшуюся как дипломатический рычаг — временные отключения в отношении Украины (2006, 2009), льготные цены для союзников.\n\nГазопровод «Северный поток» (по дну Балтики в Германию) был символом этих отношений. Взрывы «Северного потока — 1» и «— 2» в сентябре 2022 года резко положили этой эпохе конец.\n\nПереориентация на Китай («Сила Сибири», 3000 км) масштабна, но не на эквивалентных условиях: Китай переговоры ведёт с позиции силы, получая цены значительно ниже европейских. Газовая дипломатия сменила объект — но логика зависимости перевернулась."
+      },
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Кухня нефти — субсидируемые блюда и неравенство",
+        "body": "Нефтяное богатство гастрономически выражается в разительных контрастах. Москва, концентрирующая нефтяные доходы, стала первоклассной гастрономической столицей. Нефтяные города вроде Сургута или Нефтеюганска (буквально — «Рыболовство нефти») имеют неплохо снабжённые рестораны.\n\nНапротив, в регионах без нефтяных доходов (Иваново, Псков, ряд сельских областей) кухня нередко вернулась к советской скудости: борщ, каша, рыбные консервы, хлеб и чай. Нефтяное богатство распределяется неравномерно.\n\nСимволическое блюдо сибирских нефтяников — пельмени своего региона, часто с дичью (оленина, лось) вместо свинины, нередко покупаемые замороженными большими мешками на зиму."
+      }
+    ],
+    "conseil_ami": {
+      "title": "Совет путешественника",
+      "icon": "💡",
+      "content": "Избегайте сводить Россию к «стране, живущей только на нефти». Национальная гордость сильна в отношении промышленных и научных достижений. Задайте вопрос о диверсификации — это реальная дискуссия внутри России.\n\nВопрос нефтяной зависимости критикуют и многие образованные россияне. «Как вы представляете российскую экономику через 30 лет?» нередко открывает захватывающие дискуссии о будущем, потеплении, возобновляемой энергетике."
+    },
+    "glossary": [
+      {
+        "term": "Роснефть",
+        "definition": "Крупнейшая российская нефтяная компания с государственным большинством. Возглавляет Игорь Сечин."
+      },
+      {
+        "term": "Газпром",
+        "definition": "Газовый гигант на 51% государственный. Крупнейший в мире производитель газа."
+      },
+      {
+        "term": "Ресурсное проклятие",
+        "definition": "Страны, богатые ресурсами, нередко развивают меньше демократии и больше коррупции."
+      },
+      {
+        "term": "Центральное отопление",
+        "definition": "Муниципальное централизованное газовое отопление — универсальное в российских квартирах."
+      },
+      {
+        "term": "Фонд национального благосостояния",
+        "definition": "Суверенный фонд, пополняемый нефтяными доходами для амортизации кризисов."
+      },
+      {
+        "term": "Северный поток",
+        "definition": "Газопроводы по дну Балтики из России в Германию, взорванные в 2022 году."
+      },
+      {
+        "term": "Государственный капитализм",
+        "definition": "Экономическая модель: формальный рынок + государственный контроль стратегических отраслей."
+      },
+      {
+        "term": "Ямал СПГ",
+        "definition": "Терминал сжиженного природного газа на полуострове Ямал, экспортирующий в Китай и Азию."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Какую долю федеральных доходов России обеспечивают углеводороды?",
+        "options": [
+          "5-10%",
+          "20%",
+          "Около 40%",
+          "Более 70%"
+        ],
+        "answer": 2,
+        "explanation": "Углеводороды (нефть + газ) дают около 40% федеральных доходов России — отсюда высокая чувствительность экономики к мировым ценам."
+      },
+      {
+        "question": "Какую инновацию Россия использует для освоения арктического маршрута?",
+        "options": [
+          "Навигационные спутники",
+          "Атомный ледокольный флот — единственный в мире",
+          "Гражданские подводные суда снабжения",
+          "Плавучие нефтяные платформы"
+        ],
+        "answer": 1,
+        "explanation": "Россия располагает единственным в мире атомным ледокольным флотом, поддерживающим Северный морской путь и утверждающим арктический суверенитет."
+      },
+      {
+        "question": "Что такое «ресурсное проклятие»?",
+        "options": [
+          "Истощение углеводородов",
+          "Богатые ресурсами страны нередко развивают меньше демократии и крепких институтов",
+          "Экологический ущерб от добычи",
+          "Колебания нефтяных цен"
+        ],
+        "answer": 1,
+        "explanation": "Ресурсное проклятие: рентные государства не нуждаются в сборе налогов, а значит — в переговорах с гражданами, тормозя демократическое развитие."
+      },
+      {
+        "question": "Почему переориентация газа на Китай менее выгодна для России?",
+        "options": [
+          "Сибирский газ хуже качеством",
+          "Китай переговоры ведёт с позиции силы, получая цены ниже европейских",
+          "Транспортные расстояния слишком велики",
+          "Китай предпочитает уголь"
+        ],
+        "answer": 1,
+        "explanation": "Китай, имея другие варианты снабжения, договаривается о ценах ниже исторических европейских — Россия утратила позицию силы."
+      },
+      {
+        "question": "Каково влияние санкций 2022 года на российскую нефтяную промышленность?",
+        "options": [
+          "Никакого — Россия самодостаточна",
+          "Потеря западных технологий глубокого бурения, риск постепенной деиндустриализации",
+          "Немедленный рост добычи за счёт азиатского спроса",
+          "Полное закрытие сибирских месторождений"
+        ],
+        "answer": 1,
+        "explanation": "Санкции лишают нефтяную промышленность России западных технологий глубоководного бурения и арктического СПГ, создавая риск деиндустриализации в среднесрочной перспективе."
+      }
+    ]
+  }
+}
