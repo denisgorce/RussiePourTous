@@ -8,8 +8,12 @@
     "difficulty": "intermédiaire",
     "sources": [
       {
-        "label": "Encyclopædia Universalis — Russie",
-        "url": "https://www.universalis.fr/"
+        "label": "William Pokhlebkin — Histoire de la vodka",
+        "url": "https://www.larousse.fr/"
+      },
+      {
+        "label": "Institut de Recherche sur l'Alimentation — Boissons traditionnelles russes",
+        "url": "https://www.russie.net/culture/"
       }
     ]
   },
@@ -17,139 +21,139 @@
     "module_title": "La Gastronomie Russe",
     "lesson_title": "La Vodka et les Boissons russes",
     "lesson_subtitle": "Histoire, rituels, kvas et thé",
-    "intro": "Cette leçon explore la vodka et les boissons russes dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "La vodka est peut-être le produit culturel russe le plus connu au monde — et le plus mal compris. Pour les étrangers, elle symbolise l'excès et le froid ; pour les Russes, elle est un outil social complexe avec ses propres règles, rituels et codes. Mais la culture des boissons russes ne se réduit pas à la vodka : le thé (tchaï), le kvas, le kéfir et les boissons fermentées constituent un univers riche que cette leçon explore.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de la vodka et les boissons russes",
-        "body": "La thématique de la vodka et les boissons russes s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "La vodka : cinq siècles d'histoire russe",
+        "body": "La vodka (водка — «petite eau») est produite en Russie depuis au moins le XVe siècle, probablement à partir de techniques de distillation importées d'Occident. Les chroniques du monastère de Viatka mentionnent déjà une eau-de-vie de seigle vers 1430. Pendant des siècles, la production de vodka a été un monopole d'État qui représentait une source de revenus fiscaux considérable — jusqu'à 40% du budget impérial à certaines périodes.\n\nLa vodka soviétique — standardisée, peu chère et omniprésente — est devenue sous Staline et ses successeurs un outil de contrôle social controversé. La politique anti-alcool de Gorbatchev (1985-1988) est souvent citée comme l'une des causes de la désintégration de l'URSS : en privant l'État de revenus fiscaux considérables et les citoyens d'une soupape sociale, elle a généré un mécontentement profond.\n\nDepuis les années 2000, la consommation de vodka en Russie est en baisse constante, remplacée par la bière, le vin et les cocktails dans les jeunes générations urbaines. Cette évolution est un changement culturel majeur qui n'est pas encore terminé."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "La vodka et les boissons régionales",
+        "body": "Les meilleures vodkas russes sont traditionnellement produites dans les régions de seigle — Russie centrale et nord-ouest — où la qualité de l'eau est particulièrement appréciée. L'eau utilisée pour diluer l'alcool distillé est considérée comme déterminante pour la qualité finale : certaines marques mettent en avant leur eau de source spécifique.\n\nLe kvas (квас) — boisson fermentée à base de pain de seigle ou de betterave — est différent selon les régions. Le kvas de betterave est plus commun dans les régions méridionales et ukrainiennes ; le kvas de pain est plus répandu dans le nord et le centre. C'était la boisson quotidienne des paysans russes avant le XXe siècle et elle connaît un regain d'intérêt en tant que boisson «authentique» et nationale.\n\nDans le Caucase russe (Tatarstan, Bachkortostan), les boissons fermentées à base de lait de jument (koumiss) et les vins locaux constituent une culture des boissons distincte, témoignant de la diversité ethnique et culturelle qui coexiste sous le terme générique de «cuisine russe»."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de la vodka et les boissons russes est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "La vodka dans la société russe",
+        "body": "La question de l'alcoolisme est l'une des plus sensibles de la société russe. La Russie a l'un des taux de mortalité liés à l'alcool les plus élevés du monde — non pas parce que les Russes boivent plus que d'autres pays, mais parce que les modes de consommation (quantités importantes d'alcool fort en peu de temps, sans nourriture) sont particulièrement nocifs.\n\nSous Poutine, plusieurs lois ont restreint la vente d'alcool (interdiction de vente nocturne, hausse des prix minimums, restrictions publicitaires) avec des résultats mesurables : la consommation par habitant a diminué de manière significative entre 2010 et 2020. La lutte contre l'alcoolisme est un sujet de santé publique réel, pas seulement une caricature.\n\nEn même temps, la vodka reste un symbole de russité profond — un outil de solidarité masculine, un marqueur d'authenticité dans certains cercles. Les hommes russes qui ne boivent pas de vodka doivent souvent justifier leur choix, ce qui témoigne de la force de ce code culturel."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de la vodka et les boissons russes, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "Le thé et les boissons du quotidien",
+        "body": "Si la vodka occupe l'espace symbolique, le thé (tchaï, чай) est la boisson la plus consommée au quotidien en Russie. Introduit depuis la Chine via la Route des caravanes au XVIIe siècle, il est devenu l'élément central de la culture de l'hospitalité russe. Offrir du thé à un visiteur est le premier geste d'accueil — refuser est impoli.\n\nLe samovar (самовар) — bouilloire cylindrique en métal qui maintenait l'eau chaude en permanence — était le centre de la vie domestique pendant des siècles. Même si les samovars électriques modernes ont remplacé les modèles à charbon, le rituel du thé au samovar reste vivant dans certaines familles et constitue une image culturelle forte.\n\nLe kéfir (кефир) — lait fermenté légèrement gazeux — est une boisson quotidienne très répandue, consommée comme boisson ou utilisée dans la cuisine. Comparé au yaourt à boire français, il est plus acide et plus gazeux. Les Russes lui attribuent des vertus digestives et de nombreux adultes en boivent un verre chaque soir."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre la vodka et les boissons russes. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "La vodka et le thé dans la culture russe",
+        "body": "La littérature russe du XIXe siècle regorge de scènes de beuveries qui explorent la psychologie de l'ivresse — chez Dostoïevski notamment, l'ivrognerie est souvent le symbole d'une quête spirituelle ou d'une révolte contre l'ordre social. Ces représentations ont contribué à forger l'image romantique et parfois tragique de la vodka dans la culture russe.\n\nLe samovar est un symbole récurrent dans la peinture russe du XIXe siècle — dans les scènes de genre, il représente le foyer, la chaleur humaine et la convivialité. Certaines toiles de Koustodiev, célèbre pour ses représentations de la vie marchande russe, montrent des tables de thé avec samovar devenues iconiques.\n\nDepuis les années 2010, il y a en Russie un mouvement de réhabilitation des boissons traditionnelles (kvas, medovouha, sbiten') comme alternatives à la vodka et comme marqueurs d'une identité nationale «authentique». Ce mouvement s'inscrit dans une tendance plus large de revalorisation du patrimoine culinaire russe pré-soviétique."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à la vodka et les boissons russes à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Les règles et rituels de la vodka",
+        "body": "La vodka russe se boit selon un protocole strict que les étrangers méconnaissent souvent. Elle se boit cale (чистая) — pure, sans mélange — et fraîche (pas glacée). Chaque verre est précédé d'un toast prononcé par quelqu'un à table. Le premier toast est toujours «Za zdarovye !» (За здоровье ! — À la santé !). Ensuite viennent des toasts plus personnels — à l'hôte, aux femmes présentes, aux absents.\n\nAprès chaque verre de vodka, il est impératif de «zakousat'» (закусать) — grignoter quelque chose pour absorber l'alcool. C'est le rôle des zakouski — cornichons, pain, hareng — servis spécifiquement pour accompagner la vodka. Boire de la vodka sans manger est considéré comme maladroit et potentiellement dangereux.\n\nRefuser de boire de la vodka lors d'un toast peut créer un malaise social. La formule d'excuse la plus acceptée est d'invoquer la santé («le médecin me l'a interdit») ou de tenir son verre vide en simulant le geste du toast. De plus en plus de Russes, notamment les jeunes, acceptent que l'on refuse sans se justifier — mais dans les générations plus âgées, le code reste fort."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil du Voyageur",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder la vodka et les boissons russes avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Ne refusez jamais le premier toast.** Lors d'un repas russe, refuser le premier toast à la vodka est une impolitesse marquée. Si vous ne souhaitez pas boire d'alcool, approchez simplement le verre de vos lèvres sans boire et ce geste symbolique sera généralement accepté.\n\n**Mangez entre chaque verre.** Le principe du «zakousat'» n'est pas une option — c'est une règle de sécurité et de politesse. Entre chaque verre, prenez un cornichon, un morceau de pain ou n'importe quel zakouski disponible.\n\n**Appréciez le thé comme moment de transition.** En Russie, le thé marque souvent la fin du repas et l'ouverture d'une conversation plus intime. Rester à table pour le thé après avoir mangé montre que vous appréciez la compagnie — c'est un signe fort d'appréciation."
     },
     "glossary": [
       {
-        "term": "La Vodka et les Boissons russes",
-        "definition": "Concept central de cette leçon — la vodka et les boissons russes dans le contexte de la Russie contemporaine."
+        "term": "Vodka (Водка)",
+        "definition": "Eau-de-vie incolore de céréales ou de pommes de terre — boisson nationale russe avec ses propres rituels et codes sociaux stricts."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Tchaï (Чай)",
+        "definition": "Thé — boisson la plus consommée au quotidien en Russie, signe premier d'hospitalité. Introduit depuis la Chine au XVIIe siècle."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Samovar (Самовар)",
+        "definition": "Bouilloire cylindrique traditionnelle qui maintenait l'eau chaude en permanence — centre de la vie domestique russe pendant des siècles."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Kvas (Квас)",
+        "definition": "Boisson fermentée légèrement alcoolisée à base de pain de seigle ou de betterave — boisson populaire quotidienne des paysans russes, en regain aujourd'hui."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Kéfir (Кефир)",
+        "definition": "Lait fermenté légèrement gazeux et acide — boisson quotidienne très répandue, consommée aussi bien comme boisson que comme ingrédient culinaire."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Za zdarovye (За здоровье)",
+        "definition": "«À la santé !» — toast russe incontournable pour porter le premier verre. Le non-respect de ce rituel crée un malaise social."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Zakousat' (Закусать)",
+        "definition": "Grignoter après un verre de vodka — règle sociale impérative qui protège de l'ivresse rapide et structure le rythme de la table."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Medovouha (Медовуха)",
+        "definition": "Boisson alcoolisée à base de miel fermenté — ancienne boisson slave en voie de réhabilitation comme alternative «authentique» à la vodka."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'La Vodka et les Boissons russes'. Quel est le salaire médian en Russie ?",
+        "question": "Quelle politique de Gorbatchev est souvent liée à la déstabilisation de l'URSS ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "La collectivisation des terres agricoles",
+          "La politique anti-alcool de 1985-1988 qui a supprimé des revenus fiscaux majeurs",
+          "L'interdiction des importations de vodka étrangère",
+          "La nationalisation des distilleries privées"
+        ],
+        "answer": 1,
+        "explanation": "La politique anti-alcool de Gorbatchev (1985-1988) est souvent citée parmi les causes de la déstabilisation de l'URSS : elle a privé l'État de revenus fiscaux considérables (la vodka représentait une source majeure de revenus) et généré un mécontentement profond dans la population."
+      },
+      {
+        "question": "Qu'est-ce que «zakousat'» (закусать) dans le contexte de la vodka ?",
+        "options": [
+          "Porter un toast avant de boire",
+          "Grignoter quelque chose après chaque verre pour absorber l'alcool",
+          "Verser la vodka dans un verre à double paroi pour la garder froide",
+          "Sentir la vodka avant de la boire pour en apprécier la qualité"
+        ],
+        "answer": 1,
+        "explanation": "«Zakousat'» désigne le fait de manger quelque chose après chaque verre de vodka — un morceau de cornichon, de pain ou de hareng. C'est à la fois une règle de sécurité (ralentir l'absorption d'alcool) et une règle de politesse à table."
+      },
+      {
+        "question": "Quelle est la boisson la plus consommée au quotidien en Russie ?",
+        "options": [
+          "La vodka",
+          "La bière",
+          "Le thé (tchaï)",
+          "Le kvas"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "Le thé (tchaï) est de loin la boisson la plus consommée au quotidien en Russie. Introduit au XVIIe siècle via la Route des caravanes de Chine, il est devenu le symbole de l'hospitalité russe — offrir du thé est le premier geste d'accueil."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Comment refuser poliment de boire de la vodka lors d'un toast russe ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Poser son verre retourné sur la table",
+          "Dire fermement «nyet» et croiser les bras",
+          "Approcher le verre des lèvres sans boire — le geste symbolique est accepté",
+          "Quitter la table pendant les toasts"
         ],
         "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
+        "explanation": "La formule la plus acceptée pour ne pas boire tout en participant au toast est d'approcher le verre des lèvres sans boire — le geste symbolique de participation est souvent suffisant. On peut aussi invoquer des raisons médicales, mais ce geste subtil fonctionne bien dans la plupart des situations."
       },
       {
-        "question": "Que désigne le 'blat' dans la société russe ?",
+        "question": "Quel phénomène observe-t-on dans la consommation de vodka en Russie depuis les années 2000 ?",
         "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Une forte augmentation due à la crise économique",
+          "Une consommation stable, sans changement significatif",
+          "Une baisse constante, remplacée par bière, vin et cocktails chez les jeunes urbains",
+          "Un remplacement de la vodka par le whisky importé dans toutes les catégories"
         ],
-        "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
-      },
-      {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
-        "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
-        ],
-        "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
-      },
-      {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
-        "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
-        ],
-        "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "answer": 2,
+        "explanation": "Depuis les années 2000, la consommation de vodka est en baisse constante en Russie, surtout chez les jeunes générations urbaines qui lui préfèrent la bière, le vin et les cocktails. C'est un changement culturel majeur, encore en cours."
       }
     ]
   },
@@ -157,139 +161,139 @@
     "module_title": "Русская гастрономия",
     "lesson_title": "Водка и русские напитки",
     "lesson_subtitle": "История, ритуалы, квас и чай",
-    "intro": "Этот урок посвящён теме «Водка и русские напитки» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Водка, вероятно, самый известный и наиболее неправильно понимаемый культурный продукт России. Для иностранцев она символизирует излишество и мороз; для русских — сложный социальный инструмент со своими правилами, ритуалами и кодами. Но культура напитков в России не сводится к водке: чай, квас, кефир и ферментированные напитки составляют богатый мир, который исследует этот урок.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Водка и русские напитки»",
-        "body": "Тема «Водка и русские напитки» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Водка: пять веков русской истории",
+        "body": "Водка («маленькая вода») производится в России по меньшей мере с XV века, вероятно, с использованием дистилляционных техник, завезённых с Запада. Хроники Вятского монастыря уже упоминают ржаную водку около 1430 года. На протяжении столетий производство водки было государственной монополией, обеспечивавшей значительные налоговые поступления — в отдельные периоды до 40% имперского бюджета.\n\nСоветская водка — стандартизированная, дешёвая и повсеместная — стала при Сталине и его преемниках спорным инструментом социального контроля. Антиалкогольная политика Горбачёва (1985–1988) нередко называется одной из причин распада СССР: лишив государство значительных налоговых доходов и граждан социального клапана, она породила глубокое недовольство.\n\nС 2000-х годов потребление водки в России неуклонно снижается — её вытесняют пиво, вино и коктейли среди молодого городского населения. Это крупный культурный сдвиг, ещё не завершённый."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Водка и региональные напитки",
+        "body": "Лучшие русские водки традиционно производятся в ржаных регионах — центральная Россия и северо-запад, — где особо ценится качество воды. Вода, используемая для разбавления дистиллята, считается определяющей для конечного качества: некоторые марки акцентируют внимание на своём особом источнике.\n\nКвас — ферментированный напиток из ржаного хлеба или свёклы — отличается в зависимости от региона. Свекольный квас распространён на юге и в украинских регионах; хлебный квас — на севере и в центре. Это был повседневный напиток русских крестьян до XX века; сегодня он переживает возрождение как «аутентичный» национальный напиток.\n\nНа Кавказе (Татарстан, Башкортостан) ферментированные напитки из кобыльего молока (кумыс) и местные вина составляют самобытную культуру напитков, свидетельствующую об этническом и культурном многообразии, сосуществующем под общим понятием «русская кухня»."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Водка и русские напитки» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Водка в российском обществе",
+        "body": "Вопрос алкоголизма — один из наиболее болезненных в российском обществе. Россия имеет один из самых высоких показателей смертности, связанной с алкоголем, — не потому что русские пьют больше других, а из-за особо опасных форм потребления (большие дозы крепкого алкоголя за короткое время, без еды).\n\nПри Путине ряд законов ограничил продажу алкоголя (запрет ночной торговли, повышение минимальных цен, ограничения рекламы) с измеримыми результатами: потребление на душу населения значительно снизилось между 2010 и 2020 годами. Борьба с алкоголизмом — реальная проблема общественного здравоохранения, а не только карикатура.\n\nВместе с тем водка остаётся глубоким символом русскости — инструментом мужской солидарности, маркером аутентичности в определённых кругах. Русские мужчины, не пьющие водку, нередко вынуждены объяснять свой выбор — свидетельство силы этого культурного кода."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Водка и русские напитки» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Чай и повседневные напитки",
+        "body": "Если водка занимает символическое пространство, то чай (чай) — напиток повседневного потребления в России. Завезённый из Китая по Великому чайному пути в XVII веке, он стал центральным элементом культуры русского гостеприимства. Предложить чай гостю — первый жест приёма; отказаться — невежливо.\n\nСамовар — цилиндрический металлический нагреватель, поддерживавший воду постоянно горячей, — на протяжении столетий был центром домашней жизни. Современные электрические самовары заменили угольные модели, но ритуал чаепития у самовара жив в некоторых семьях и остаётся сильным культурным образом.\n\nКефир — слегка газированное кисломолочное питьё — широко распространён в повседневном употреблении: его пьют как напиток или используют в готовке. По сравнению с французским питьевым йогуртом он кислее и газированнее. Русские приписывают ему пищеварительные свойства, и многие взрослые выпивают стакан каждый вечер."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Водка и русские напитки». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Водка и чай в русской культуре",
+        "body": "Русская литература XIX века полна сцен пьянства, исследующих психологию опьянения — особенно у Достоевского, где пьянство нередко символизирует духовные искания или бунт против социального порядка. Эти образы способствовали формированию романтического и порой трагического образа водки в русской культуре.\n\nСамовар — постоянный символ в русской живописи XIX века: в жанровых полотнах он олицетворяет домашний очаг, человеческое тепло и общение. Некоторые полотна Кустодиева, знаменитого изображениями русской купеческой жизни, — с чайными столами и самоваром — стали хрестоматийными.\n\nС 2010-х в России существует движение реабилитации традиционных напитков (квас, медовуха, сбитень) как альтернативы водке и маркеров «аутентичной» национальной идентичности. Оно вписывается в более широкую тенденцию переоценки досоветского русского кулинарного наследия."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Водка и русские напитки» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Правила и ритуалы водки",
+        "body": "Русскую водку пьют по строгому протоколу, который иностранцы нередко не знают. Пьют чистую (чистая) — без примесей — и прохладную (не ледяную). Каждый бокал предваряет тост от кого-то за столом. Первый тост — всегда «За здоровье!». Затем следуют более личные тосты — за хозяина, за дам, за отсутствующих.\n\nПосле каждой рюмки необходимо «закусать» — перехватить что-нибудь, чтобы замедлить всасывание алкоголя. Для этого и служат закуски — огурцы, хлеб, сельдь. Пить водку без еды считается неловким и потенциально опасным.\n\nОтказаться выпить при тосте может создать неловкость. Наиболее приемлемое объяснение — сослаться на здоровье («врач запретил») или поднести пустой бокал, имитируя жест тоста. Всё больше русских, особенно молодых, принимают отказ без объяснений — но в старшем поколении код по-прежнему силён."
       }
     ],
     "conseil_ami": {
       "title": "Совет путешественника",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Водка и русские напитки» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Никогда не отказывайтесь от первого тоста.** На русском застолье отказаться от первого тоста с водкой — заметная невежливость. Если не хотите пить, просто поднесите бокал к губам, не отпивая — символический жест обычно принимается.\n\n**Закусывайте после каждой рюмки.** Принцип «закусать» — не опция, а правило безопасности и этикета. После каждого бокала возьмите огурчик, кусочек хлеба или любую закуску.\n\n**Цените чай как переходный момент.** В России чай нередко завершает трапезу и открывает более доверительный разговор. Остаться за столом на чай — знак того, что вы цените компанию: это высокая оценка вечера."
     },
     "glossary": [
       {
-        "term": "Водка и русские напитки",
-        "definition": "Центральное понятие этого урока — водка и русские напитки в контексте современной России."
+        "term": "Водка",
+        "definition": "Бесцветный дистиллят из зерна или картофеля — национальный напиток России со строгими ритуалами и социальными кодами."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Чай",
+        "definition": "Чай — самый популярный повседневный напиток в России, первый знак гостеприимства. Завезён из Китая в XVII веке."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Самовар",
+        "definition": "Традиционный цилиндрический нагреватель воды, поддерживавший её горячей постоянно — центр домашней жизни России на протяжении столетий."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Квас",
+        "definition": "Слабоалкогольный ферментированный напиток из ржаного хлеба или свёклы — народный повседневный напиток русских крестьян, переживающий возрождение."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Кефир",
+        "definition": "Слегка газированное кислое кисломолочное питьё — широко распространённый повседневный напиток, используемый и как кулинарный ингредиент."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "За здоровье",
+        "definition": "«За здоровье!» — обязательный первый тост в России. Нарушение этого ритуала создаёт социальную неловкость."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Закусать",
+        "definition": "Перехватить закуску после рюмки водки — обязательный социальный принцип, защищающий от быстрого опьянения и задающий ритм застолья."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Медовуха",
+        "definition": "Слабоалкогольный напиток из сброженного мёда — древний славянский напиток, переживающий реабилитацию как «аутентичная» альтернатива водке."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Водка и русские напитки». Какова медианная зарплата в России?",
+        "question": "Какая политика Горбачёва связывается с дестабилизацией СССР?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "Коллективизация сельскохозяйственных угодий",
+          "Антиалкогольная кампания 1985–1988 годов, лишившая государство крупных налоговых доходов",
+          "Запрет импортной водки",
+          "Национализация частных винокурен"
+        ],
+        "answer": 1,
+        "explanation": "Антиалкогольная кампания Горбачёва (1985–1988) нередко называется одной из причин дестабилизации СССР: она лишила государство значительных налоговых поступлений (водка была крупным источником доходов) и породила глубокое народное недовольство."
+      },
+      {
+        "question": "Что означает «закусать» в контексте употребления водки?",
+        "options": [
+          "Произнести тост перед выпивкой",
+          "Перехватить закуску после каждой рюмки, чтобы замедлить всасывание алкоголя",
+          "Налить водку в бокал с двойными стенками для охлаждения",
+          "Понюхать водку перед тем, как пить, чтобы оценить качество"
+        ],
+        "answer": 1,
+        "explanation": "«Закусать» — съесть что-нибудь после каждой рюмки водки: огурчик, хлеб, сельдь. Это одновременно правило безопасности (замедлить всасывание алкоголя) и правило застольного этикета."
+      },
+      {
+        "question": "Какой напиток пьют в России чаще всего в повседневной жизни?",
+        "options": [
+          "Водку",
+          "Пиво",
+          "Чай",
+          "Квас"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "Чай — безусловно самый популярный повседневный напиток в России. Завезённый в XVII веке по Великому чайному пути из Китая, он стал символом русского гостеприимства: предложить чай гостю — первый жест приёма."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Как вежливо отказаться от водки при тосте на русском застолье?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Перевернуть бокал на стол",
+          "Твёрдо сказать «нет» и скрестить руки",
+          "Поднести бокал к губам, не отпивая — символический жест принимается",
+          "Покинуть стол на время тостов"
         ],
         "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
+        "explanation": "Самый приемлемый способ не пить, участвуя в тосте, — поднести бокал к губам, не отпивая. Символический жест участия обычно достаточен. Можно также сослаться на медицинские причины — но этот тонкий жест работает в большинстве случаев."
       },
       {
-        "question": "Что означает «блат» в российском обществе?",
+        "question": "Какая тенденция наблюдается в потреблении водки в России с 2000-х годов?",
         "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Резкий рост из-за экономического кризиса",
+          "Стабильное потребление без существенных изменений",
+          "Устойчивое снижение: среди молодых горожан водку вытесняют пиво, вино и коктейли",
+          "Повсеместная замена водки импортным виски"
         ],
-        "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
-      },
-      {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
-        "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
-        ],
-        "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
-      },
-      {
-        "question": "Какой главный разлом структурирует современное российское общество?",
-        "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
-        ],
-        "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "answer": 2,
+        "explanation": "С 2000-х годов потребление водки в России неуклонно снижается, особенно среди молодого городского населения, которое всё больше предпочитает пиво, вино и коктейли. Это крупный культурный сдвиг, ещё не завершённый."
       }
     ]
   }

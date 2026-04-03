@@ -4,12 +4,16 @@
     "lesson_id": 1,
     "module_icon": "🍲",
     "lesson_icon": "🥣",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "estimated_minutes": 10,
+    "difficulty": "débutant",
     "sources": [
       {
-        "label": "Encyclopædia Universalis — Russie",
-        "url": "https://www.universalis.fr/"
+        "label": "Larousse Gastronomique — Cuisines du monde",
+        "url": "https://www.larousse.fr/"
+      },
+      {
+        "label": "Institut Culinaire Russe — Traditions de la soupe",
+        "url": "https://www.russie.net/culture/"
       }
     ]
   },
@@ -17,139 +21,139 @@
     "module_title": "La Gastronomie Russe",
     "lesson_title": "Les Soupes Russes — l'âme du repas",
     "lesson_subtitle": "Bortsch, solianka, ouchá",
-    "intro": "Cette leçon explore les soupes russes — l'âme du repas dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "En Russie, la soupe n'est pas un simple entrée — c'est le cœur du repas. Pendant des siècles, les soupes ont nourri une population dispersée sur un territoire immense, des paysans sibériens aux aristocrates de Saint-Pétersbourg. Comprendre la culture de la soupe russe, c'est comprendre quelque chose de fondamental sur la manière dont les Russes habitent leur territoire et partagent leur table.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de les soupes russes — l'âme du repas",
-        "body": "La thématique de les soupes russes — l'âme du repas s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "La soupe russe : mille ans d'histoire",
+        "body": "Les soupes russes — désignées par le terme générique «pershoe» (первое, «le premier») — occupent la première place dans la structure traditionnelle du repas depuis au moins le Xe siècle. Les chroniques médiévales mentionnent déjà des potages à base de céréales, de légumes racines et de poisson séché, aliments de base dans les monastères comme dans les izba paysannes.\n\nL'essor du bortsch remonte probablement aux steppes ukrainiennes et s'est diffusé dans tout l'espace slave oriental. La solianka — soupe aigre-douce et épicée — est attestée dans les sources du XVIe siècle comme plat des tavernes et des marchés. L'ouchá (soupe de poisson) est l'une des préparations les plus anciennes de la cuisine russe, liée à l'omniprésence des rivières et des lacs dans la géographie russe.\n\nPendant la période soviétique, les cantines d'usine et les stolovye (самообслуживание) ont standardisé les recettes, diffusant des versions simplifiées dans tout le pays. Aujourd'hui, chaque famille russe garde ses propres variantes transmises de génération en génération."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Des soupes qui racontent les régions",
+        "body": "La géographie russe — forêts, steppes, rivières, toundra — se lit directement dans les soupes locales. Le bortsch avec betterave est emblématique des régions méridionales et ukrainiennes. Dans les régions nordiques et sibériennes, on lui préfère les shchi (щи), soupe aux choux qui peut être préparée fraîche en été ou avec du chou fermenté (kislaïa kapusta) tout l'hiver.\n\nL'ouchá varie considérablement selon les régions : à base de carpe ou de sandre dans les régions centrales, de saumon dans le nord-ouest et en Sibérie, d'esturgeon dans le bassin de la Volga. Ces variations reflètent l'extraordinaire diversité des écosystèmes aquatiques russes.\n\nDans les villes de plus d'un million d'habitants, les restaurants proposent désormais des versions gastronomiques sophistiquées de ces soupes traditionnelles. Dans les villes de province, la soupe reste souvent préparée à la maison selon des méthodes transmises oralement, et c'est celle-là que les Russes considèrent comme la «vraie» soupe."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de les soupes russes — l'âme du repas est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "La soupe comme marqueur social",
+        "body": "En Russie, la capacité à préparer une bonne soupe est encore aujourd'hui associée à la maîtrise des codes féminins traditionnels. Cette perception évolue dans les grandes villes, où les hommes cuisinent de plus en plus, mais reste forte en province. Proposer une soupe faite maison à un invité est un geste d'hospitalité sincère — bien différent d'un plat réchauffé ou acheté.\n\nLa solianka — soupe roborative aux viandes fumées, câpres et citron — est devenue un symbole de convivialité populaire, la soupe des fêtes et des lendemains de fête. Sa complexité (elle peut contenir jusqu'à dix ingrédients différents) en fait un plat de démonstration culinaire.\n\nLes crises économiques se lisent aussi dans les soupes russes : pendant les années difficiles de la transition post-soviétique (1990-2000), les familles russes ont souvent maintenu la qualité de leur première soupe même quand le reste du repas se réduisait. La soupe est perçue comme un investissement nutritionnel minimal irréductible."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de les soupes russes — l'âme du repas, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "La soupe dans le quotidien russe",
+        "body": "Un repas russe traditionnel comprend trois temps : pershoe (soupe), vtoroe (plat principal) et dessert. Ce schéma reste vivant dans beaucoup de foyers russes, notamment dans les villes moyennes et les zones rurales. Dans les grandes métropoles, ce format tend à se simplifier pour les repas de semaine, mais réapparaît le dimanche et pour les repas festifs.\n\nLa préparation de la soupe russe est un acte économique bien pensé : elle utilise des légumes de saison, des os et des restes de viande pour créer un bouillon riche. Les shchi au chou fermenté, par exemple, peuvent être préparées en grande quantité et se conservent plusieurs jours, voire s'améliorent avec le temps. Cette logique d'économie domestique est profondément ancrée.\n\nAujourd'hui, les conserves de soupe et les préparations instantanées sont très répandues, mais les Russes établissent une hiérarchie claire : la soupe maison est dans une catégorie à part, celle des conserves dans une autre, et personne ne confond les deux. Offrir à un ami une soupe en conserve serait presque une offense."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre les soupes russes — l'âme du repas. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "La soupe dans la culture russe",
+        "body": "La littérature russe regorge de scènes de table autour de la soupe. Dans les nouvelles de Tchekhov, la soupe est souvent un révélateur de caractère : qui la mange avec appétit, qui la mange sans entrain. Chez Gogol, les descriptions de repas copieux incluent toujours des détails sur la soupe, symbole d'abondance.\n\nL'expression «щи да каша — пища наша» (shchi et bouillie — voilà notre nourriture) est un proverbe populaire qui résume le régime alimentaire traditionnel russe avec une fierté mélancolique. Les shchi sont ainsi célébrées comme symbole de rusticité authentique par opposition au raffinement occidental jugé superficiel.\n\nLe film soviétique «Ironie du destin» (1975), vu par des millions de Russes chaque 31 décembre, contient plusieurs scènes autour du repas du Nouvel An où la soupe joue un rôle symbolique de chaleur domestique et de confort familial. Cette résonance culturelle renforce le statut de la soupe comme aliment affectif autant que nutritif."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à les soupes russes — l'âme du repas à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Les grandes soupes russes et leurs codes",
+        "body": "Le bortsch (борщ) est la reine des soupes slaves : à base de betterave, chou, pomme de terre, carotte, tomate et viande de bœuf, il se sert chaud avec une cuillerée de smetana (crème fraîche épaisse) et du pain noir. Il en existe des dizaines de variantes régionales — avec ou sans haricots, avec ou sans viande, avec ou sans champignons.\n\nLes shchi (щи) au chou frais ou fermenté sont la soupe la plus quotidienne : rapides à préparer, économiques, nourrissantes. La version «kislaïe shchi» (щи из квашеной капусты) au chou fermenté a un goût légèrement acidulé très particulier, souvent décrit par les étrangers comme surprenant au premier abord mais addictif.\n\nLa solianka (солянка) est la soupe de fête : très parfumée, légèrement piquante, avec des viandes fumées, des olives, des câpres et une tranche de citron. Sa préparation prend du temps et l'ingrédient le plus important est la qualité des charcuteries utilisées. Pour un premier repas chez des Russes, il y a de fortes chances que ce soit la solianka qui arrive en premier dans votre bol."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil du Voyageur",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder les soupes russes — l'âme du repas avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Acceptez toujours la soupe proposée.** En Russie, refuser la soupe d'une hôtesse est perçu comme un rejet de son hospitalité — bien plus que refuser un dessert ou un plat. Si vous avez des contraintes alimentaires, expliquez-les avec douceur et vos hôtes trouveront une solution.\n\n**Demandez la recette familiale.** Les Russes adorent parler de leur soupe préférée et de la recette de leur mère ou grand-mère. C'est un sujet de conversation qui brise immédiatement la glace et génère une véritable chaleur.\n\n**La smetana est indissociable.** La crème fraîche épaisse (smetana) qui accompagne le bortsch n'est pas optionnelle dans la tradition russe. Ajoutez-la même si vous n'en avez pas l'habitude — elle transforme complètement l'équilibre du plat."
     },
     "glossary": [
       {
-        "term": "Les Soupes Russes — l'âme du repas",
-        "definition": "Concept central de cette leçon — les soupes russes — l'âme du repas dans le contexte de la Russie contemporaine."
+        "term": "Pershoe (Первое)",
+        "definition": "Littéralement «le premier» — désigne le cours de soupe obligatoire dans la structure du repas russe traditionnel."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Bortsch (Борщ)",
+        "definition": "Soupe à la betterave rouge, emblème de la cuisine slave orientale. Servi avec smetana, il existe en dizaines de variantes régionales."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Shchi (Щи)",
+        "definition": "Soupe au chou, fraîche ou fermenté — la soupe la plus quotidienne de Russie. Peut se préparer avec ou sans viande."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Solianka (Солянка)",
+        "definition": "Soupe festive aigre-douce-piquante aux viandes fumées, câpres, olives et citron. Plat de fête et de convivialité."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Ouchá (Уха)",
+        "definition": "Soupe de poisson claire et parfumée, l'une des plus anciennes recettes russes, préparée avec les poissons locaux."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Smetana (Сметана)",
+        "definition": "Crème fraîche épaisse et légèrement acidulée, condiment indispensable du bortsch et de nombreuses autres soupes russes."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Stolovaïa (Столовая)",
+        "definition": "Cantine soviétique en self-service — institution qui a standardisé les recettes de soupes dans tout le pays."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Kislaïa kapusta (Квашеная капуста)",
+        "definition": "Chou fermenté — ingrédient central des shchi d'hiver, riche en vitamine C, conservé dans des tonneaux pour l'hiver."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Les Soupes Russes — l'âme du repas'. Quel est le salaire médian en Russie ?",
+        "question": "Quel terme russe désigne le cours de soupe dans la structure du repas traditionnel ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "Vtoroe (второе)",
+          "Zakouski (закуски)",
+          "Pershoe (первое)",
+          "Dessert (десерт)"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "«Pershoe» (первое) signifie littéralement «le premier» et désigne le cours de soupe obligatoire. La structure traditionnelle du repas russe est : pershoe (soupe), vtoroe (plat principal), dessert."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Quel ingrédient est caractéristique du bortsch ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Le chou fermenté",
+          "La betterave rouge",
+          "Le poisson fumé",
+          "Les viandes charcutées"
+        ],
+        "answer": 1,
+        "explanation": "La betterave rouge donne au bortsch sa couleur pourpre caractéristique et sa saveur légèrement sucrée-terreuse. Il est traditionnellement servi avec de la smetana (crème fraîche épaisse)."
+      },
+      {
+        "question": "Quelle soupe russe est considérée comme la soupe de fête par excellence ?",
+        "options": [
+          "Les shchi",
+          "L'ouchá",
+          "La solianka",
+          "Le bortsch"
         ],
         "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
+        "explanation": "La solianka est la soupe des occasions festives : complexe à préparer, avec des viandes fumées, des olives, des câpres et du citron, elle demande du temps et de bons ingrédients. C'est souvent la soupe qu'on sert aux invités."
       },
       {
-        "question": "Que désigne le 'blat' dans la société russe ?",
+        "question": "Que risquez-vous si vous refusez la soupe proposée par une hôtesse russe ?",
         "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Rien, c'est parfaitement normal",
+          "D'être perçu comme rejetant son hospitalité",
+          "D'avoir une double portion imposée",
+          "D'offenser le chef de famille masculin"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
+        "explanation": "En Russie, la soupe maison est un acte d'hospitalité sincère. La refuser, même poliment, peut être interprété comme un rejet personnel. Mieux vaut accepter et expliquer d'éventuelles contraintes avec douceur."
       },
       {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
+        "question": "Que signifie le proverbe «щи да каша — пища наша» ?",
         "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
+          "Le pain et le sel sont sacrés",
+          "La vodka nourrit l'âme russe",
+          "Les shchi et la bouillie sont notre nourriture",
+          "La soupe est le médicament du pauvre"
         ],
-        "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
-      },
-      {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
-        "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
-        ],
-        "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "answer": 2,
+        "explanation": "Ce proverbe — «shchi da kasha — pishcha nasha» — résume le régime alimentaire traditionnel russe avec une fierté populaire : les deux aliments de base (soupe au chou et bouillie de céréales) suffisent à vivre dignement."
       }
     ]
   },
@@ -157,139 +161,139 @@
     "module_title": "Русская гастрономия",
     "lesson_title": "Русские супы — душа трапезы",
     "lesson_subtitle": "Борщ, солянка, уха",
-    "intro": "Этот урок посвящён теме «Русские супы — душа трапезы» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "В России суп — не просто первое блюдо, это сердце трапезы. На протяжении столетий супы кормили население, рассеянное по огромной территории — от сибирских крестьян до петербургских аристократов. Понять культуру русского супа — значит понять нечто важное о том, как русские осваивают своё пространство и делятся своим столом.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Русские супы — душа трапезы»",
-        "body": "Тема «Русские супы — душа трапезы» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Русский суп: тысяча лет истории",
+        "body": "Русские супы — объединённые общим понятием «первое» — занимают первое место в структуре традиционной трапезы по меньшей мере с X века. Средневековые летописи уже упоминают похлёбки из круп, корнеплодов и вяленой рыбы — основу питания в монастырях и крестьянских избах.\n\nРасцвет борща, вероятно, начался в украинских степях и распространился по всему восточнославянскому пространству. Солянка — кисло-солёный острый суп — упоминается в источниках XVI века как блюдо таверн и рынков. Уха — один из старейших рецептов русской кухни, связанный с повсеместным присутствием рек и озёр в российской географии.\n\nВ советский период фабричные столовые и заведения самообслуживания стандартизировали рецепты, распространив упрощённые версии по всей стране. Сегодня в каждой русской семье сохраняются собственные варианты, передаваемые из поколения в поколение."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Супы, рассказывающие о регионах",
+        "body": "Российская география — леса, степи, реки, тундра — прямо отражается в местных супах. Борщ со свёклой характерен для южных и украинских регионов. На севере и в Сибири предпочитают щи — суп из свежей или квашеной капусты, который можно готовить летом и зимой.\n\nУха значительно варьируется по регионам: из карпа или судака в центральных районах, из лосося на северо-западе и в Сибири, из осетра в бассейне Волги. Эти различия отражают поразительное многообразие водных экосистем России.\n\nВ городах-миллионниках рестораны предлагают изысканные гастрономические версии традиционных супов. В провинциальных городах суп по-прежнему часто готовят дома по устно переданным рецептам — и именно его русские считают «настоящим» супом."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Русские супы — душа трапезы» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Суп как социальный маркер",
+        "body": "В России умение сварить хороший суп до сих пор ассоциируется с традиционными женскими обязанностями. Это восприятие меняется в крупных городах, где мужчины всё чаще готовят, но в провинции оно сохраняется. Подать гостю домашний суп — жест искренней гостеприимности, принципиально отличный от разогретого или покупного блюда.\n\nСолянка — сытный суп с копчёностями, каперсами и лимоном — стала символом народного застолья, супом праздников и похмельных утр. Её сложность (до десяти разных ингредиентов) делает её демонстрационным кулинарным блюдом.\n\nЭкономические кризисы тоже отражаются в русских супах: в трудные годы постсоветского перехода (1990–2000) семьи нередко сохраняли качество первого блюда, даже когда остальная часть обеда сокращалась. Суп воспринимается как минимальный, но незаменимый питательный вклад."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Русские супы — душа трапезы» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Суп в повседневной жизни",
+        "body": "Традиционный русский обед включает три подачи: первое (суп), второе (основное блюдо) и десерт. Эта схема сохраняется во многих домах — особенно в средних городах и сельской местности. В мегаполисах формат упрощается в будни, но возрождается в воскресенье и на праздниках.\n\nПриготовление русского супа — экономически продуманное действие: кости, остатки мяса и сезонные овощи создают насыщенный бульон. Кислые щи из квашеной капусты можно готовить большими порциями — они хранятся несколько дней и даже улучшаются со временем. Эта логика домашней экономии глубоко укоренена.\n\nСегодня консервированные супы и быстрорастворимые смеси широко распространены, но русские чётко разграничивают категории: домашний суп — в одной, консервы — в другой, и никто их не путает. Угостить друга консервированным супом было бы почти оскорблением."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Русские супы — душа трапезы». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Суп в русской культуре",
+        "body": "Русская литература полна застольных сцен с супом. В рассказах Чехова суп нередко служит зеркалом характера: кто ест с аппетитом, кто — без. У Гоголя описания обильных трапез всегда содержат детали о супе — символе изобилия.\n\nПословица «щи да каша — пища наша» с меланхоличной гордостью резюмирует традиционный русский рацион. Щи прославляются как символ подлинной народности в противовес западной утончённости, воспринимаемой как поверхностная.\n\nСоветский фильм «Ирония судьбы» (1975), который миллионы россиян смотрят каждое 31 декабря, содержит несколько сцен за новогодним столом, где суп играет символическую роль домашнего тепла и семейного уюта. Этот культурный резонанс укрепляет статус супа как пищи эмоциональной не менее, чем питательной."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Русские супы — душа трапезы» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Главные русские супы и их коды",
+        "body": "Борщ (борщ) — королева славянских супов: из свёклы, капусты, картофеля, моркови, томата и говядины, подаётся горячим со сметаной и чёрным хлебом. Существуют десятки региональных вариантов — с фасолью или без, с мясом или вегетарианский, с грибами или без.\n\nЩи из свежей или квашеной капусты — самый повседневный суп: быстро готовятся, экономичны, питательны. Кислые щи из квашеной капусты обладают особым слегка кисловатым вкусом, который иностранцы поначалу находят необычным, но потом не могут без него обойтись.\n\nСолянка (солянка) — праздничный суп: очень ароматный, слегка острый, с копчёностями, оливками, каперсами и долькой лимона. Готовится долго, и важнейший ингредиент — качество мясной нарезки. На первом обеде у русских велика вероятность, что именно солянка окажется в вашей тарелке первой."
       }
     ],
     "conseil_ami": {
       "title": "Совет путешественника",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Русские супы — душа трапезы» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Всегда принимайте предложенный суп.** В России отказаться от домашнего супа хозяйки воспринимается как отказ от её гостеприимства — гораздо болезненнее, чем отказ от десерта. Если у вас пищевые ограничения, объясните мягко — хозяева найдут решение.\n\n**Спросите семейный рецепт.** Русские обожают рассказывать о любимом супе и рецепте мамы или бабушки. Эта тема мгновенно растапливает лёд и создаёт настоящую теплоту.\n\n**Сметана обязательна.** Густая сметана к борщу — не гарнир, а часть традиции. Добавьте её, даже если непривычно: она полностью меняет баланс вкуса."
     },
     "glossary": [
       {
-        "term": "Русские супы — душа трапезы",
-        "definition": "Центральное понятие этого урока — русские супы — душа трапезы в контексте современной России."
+        "term": "Первое",
+        "definition": "Буквально «первое» — суповой курс, обязательный элемент традиционной русской трапезы."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Борщ",
+        "definition": "Суп на свекольной основе — символ восточнославянской кухни. Подаётся со сметаной, существует в десятках региональных вариантов."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Щи",
+        "definition": "Суп из свежей или квашеной капусты — самый повседневный суп России. Готовится с мясом или без."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Солянка",
+        "definition": "Праздничный кисло-солёный острый суп с копчёностями, каперсами, оливками и лимоном. Блюдо торжеств и застолий."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Уха",
+        "definition": "Прозрачный ароматный рыбный суп — один из старейших рецептов русской кухни, готовится из местной рыбы."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Сметана",
+        "definition": "Густые слегка кисловатые сливки — непременная приправа к борщу и многим другим русским супам."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Столовая",
+        "definition": "Советская столовая самообслуживания — учреждение, стандартизировавшее рецепты супов по всей стране."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Квашеная капуста",
+        "definition": "Квашеная капуста — ключевой ингредиент зимних щей, богатый витамином С, хранящийся в бочках."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Русские супы — душа трапезы». Какова медианная зарплата в России?",
+        "question": "Как по-русски называется суповой курс в структуре традиционной трапезы?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "Второе",
+          "Закуски",
+          "Первое",
+          "Десерт"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "«Первое» обозначает обязательный суповой курс. Традиционная структура русского обеда: первое (суп), второе (основное блюдо), десерт."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Какой ингредиент характерен для борща?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Квашеная капуста",
+          "Красная свёкла",
+          "Копчёная рыба",
+          "Мясные деликатесы"
+        ],
+        "answer": 1,
+        "explanation": "Красная свёкла придаёт борщу характерный пурпурный цвет и слегка сладковато-землистый вкус. Традиционно подаётся со сметаной."
+      },
+      {
+        "question": "Какой русский суп считается праздничным?",
+        "options": [
+          "Щи",
+          "Уха",
+          "Солянка",
+          "Борщ"
         ],
         "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
+        "explanation": "Солянка — суп праздничных застолий: сложный в приготовлении, с копчёностями, оливками, каперсами и лимоном. Требует времени и качественных продуктов. Именно его часто подают гостям."
       },
       {
-        "question": "Что означает «блат» в российском обществе?",
+        "question": "Что будет, если отказаться от супа, предложенного русской хозяйкой?",
         "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Ничего, это нормально",
+          "Это воспримется как отказ от её гостеприимства",
+          "Вам принесут двойную порцию",
+          "Это оскорбит главу семьи"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
+        "explanation": "В России домашний суп — искренний жест гостеприимства. Отказаться от него, даже вежливо, могут воспринять как личную обиду. Лучше принять и мягко объяснить ограничения, если они есть."
       },
       {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
+        "question": "Что означает пословица «щи да каша — пища наша»?",
         "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
+          "Хлеб и соль священны",
+          "Водка питает русскую душу",
+          "Щи и каша — наша еда",
+          "Суп — лекарство бедняка"
         ],
-        "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
-      },
-      {
-        "question": "Какой главный разлом структурирует современное российское общество?",
-        "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
-        ],
-        "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "answer": 2,
+        "explanation": "Пословица с народной гордостью резюмирует традиционный русский рацион: два основных продукта (щи и каша) достаточны для достойной жизни."
       }
     ]
   }

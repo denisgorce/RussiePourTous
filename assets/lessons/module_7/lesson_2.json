@@ -4,12 +4,16 @@
     "lesson_id": 2,
     "module_icon": "🍲",
     "lesson_icon": "🥚",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "estimated_minutes": 10,
+    "difficulty": "débutant",
     "sources": [
       {
-        "label": "Encyclopædia Universalis — Russie",
-        "url": "https://www.universalis.fr/"
+        "label": "Larousse Gastronomique — Cuisines du monde",
+        "url": "https://www.larousse.fr/"
+      },
+      {
+        "label": "Bibliothèque nationale de Russie — Traditions culinaires",
+        "url": "https://www.nlr.ru/"
       }
     ]
   },
@@ -17,139 +21,139 @@
     "module_title": "La Gastronomie Russe",
     "lesson_title": "Zakouski — l'art des hors-d'œuvre",
     "lesson_subtitle": "Caviar, hareng, salade Olivier",
-    "intro": "Cette leçon explore zakouski — l'art des hors-d'œuvre dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "Les zakouski (закуски) sont bien plus que des amuse-bouches : ils constituent tout un rituel social, une ouverture de la fête qui peut durer des heures avant même que le plat principal arrive. Chez un Russe, la table des zakouski est un acte de démonstration de générosité et de soin — elle dit au visiteur : «tu comptes pour nous». Comprendre les zakouski, c'est comprendre le rapport russe à l'abondance, à l'hospitalité et au partage.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de zakouski — l'art des hors-d'œuvre",
-        "body": "La thématique de zakouski — l'art des hors-d'œuvre s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "Les zakouski : des origines aristocratiques à la table populaire",
+        "body": "Les zakouski tels que nous les connaissons aujourd'hui ont été codifiés dans la cuisine aristocratique russe du XVIIIe siècle, sous l'influence française et suédoise. Le terme lui-même vient du verbe «закусить» (zakousit') — grignoter, mordre. Dans les grandes maisons nobles, ils étaient servis dans une pièce séparée, le salon, avant de passer à table — un rituel qui permettait aux convives de se retrouver, boire et converser avant le repas formel.\n\nLe caviar — emblème mondial de la gastronomie russe — est consommé en Russie depuis au moins le XVe siècle. Les chroniques monastiques mentionnent déjà les œufs d'esturgeon comme aliment de jeûne dans les communautés orthodoxes. Ce n'est qu'au XIXe siècle que le caviar est devenu le produit de luxe qu'il représente internationalement.\n\nLa salade Olivier — aujourd'hui symbole des fêtes russes — a été créée vers 1860 par Lucien Olivier, chef français du restaurant «L'Ermitage» à Moscou. La recette originale, élaborée et coûteuse, a été transformée pendant la période soviétique en une version populaire avec des pommes de terre, des petits pois et du saucisson — c'est cette version soviétique que les Russes adorent aujourd'hui."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Des zakouski selon les régions",
+        "body": "La composition des zakouski varie considérablement selon les régions de Russie, reflétant les ressources locales. Dans les zones côtières et lacustres, le poisson fumé, séché ou mariné domine : harengs en Baltique, saumon du Pacifique en Extrême-Orient, omoul du lac Baïkal — une spécialité que les voyageurs en Sibérie ne manquent pas.\n\nDans les régions du Caucase et de la Volga, les zakouski incluent davantage de légumes marinés, de fromages locaux et de pains spéciaux. Dans les régions centrales et septentrionales, les champignons marinés (grzyby marynowane) sont un incontournable — la forêt russe fournit des dizaines d'espèces comestibles que les familles ramassent encore chaque automne.\n\nMoscou et Saint-Pétersbourg ont développé des cultures gastronomiques distinctes : la table pétersbourgeoise est réputée plus raffinée, avec davantage d'influences européennes, tandis que la table moscovite est souvent plus opulente et abondante."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de zakouski — l'art des hors-d'œuvre est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "La table des zakouski comme expression sociale",
+        "body": "En Russie, la richesse et le soin de la table des zakouski est un indicateur social fort. Pour un repas ordinaire entre amis proches, quelques plats simples suffisent. Pour des invités importants ou une occasion spéciale, la table doit être abondante au point de surprendre — c'est une démonstration d'hospitalité (гостеприимство, gostepriimstvo) qui engage l'honneur de la famille.\n\nPendant la période soviétique, la raréfaction des produits a paradoxalement renforcé l'importance symbolique des zakouski : pouvoir offrir du saucisson de qualité, des cornichons maison ou un pot de caviar était un signe d'accès à des réseaux privilégiés (le «blat») et une manière d'affirmer son statut social.\n\nAujourd'hui, avec l'essor des classes moyennes urbaines, on observe une bifurcation : d'un côté, un retour aux traditions sous forme de zakouski «authentiques» et artisanaux ; de l'autre, une tendance à remplacer les zakouski traditionnels par des amuse-bouches inspirés des cuisines internationales lors des repas de jeunes urbains."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de zakouski — l'art des hors-d'œuvre, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "Le caviar : entre mythe et réalité économique",
+        "body": "Le caviar occupe une place paradoxale dans l'imaginaire culinaire russe : symbole universel de luxe à l'étranger, il est en réalité peu consommé au quotidien en Russie, même si son prix y est inférieur qu'à l'étranger. Les Russes ordinaires l'achètent pour les grandes occasions — Nouvel An, mariages, anniversaires importants — mais pas pour un dîner ordinaire.\n\nLe caviar rouge (ikra krasnaya, икра красная) — œufs de saumon ou de truite — est lui beaucoup plus accessible et fait véritablement partie du quotidien festif russe. Les blinis au caviar rouge avec de la smetana sont LE plat symbolique des fêtes du Nouvel An et de Maslenitsa (la semaine des crêpes).\n\nL'économie informelle du caviar est complexe : la pêche illégale d'esturgeon dans la mer Caspienne a considérablement réduit les stocks au cours des dernières décennies. Le caviar «sauvage» légal est de plus en plus remplacé par le caviar d'élevage, ce qui change les dynamiques économiques du secteur."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre zakouski — l'art des hors-d'œuvre. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "Les zakouski dans la culture russe",
+        "body": "La table des zakouski est un sujet récurrent de la peinture russe du XIXe siècle. Les toiles de genre représentant des scènes de repas — qu'ils soient paysans ou bourgeois — montrent presque toujours une table chargée de petits plats, de pain et de boissons. Ces représentations ont contribué à codifier l'idéal d'abondance comme valeur hospitalière centrale.\n\nDans la littérature, les zakouski sont souvent associés aux moments de réconciliation, de retrouvailles ou de fête. Chez Tchekhov, une table bien garnie signale l'ouverture d'un espace social de confiance. Chez Dostoïevski, l'absence ou la pauvreté de la table reflète la misère matérielle et morale des personnages.\n\nLa salade Olivier est devenue un vrai phénomène culturel : impossible en Russie de fêter le Nouvel An sans elle. Son nom français, bien que tout le monde en Russie ignore généralement son créateur, lui confère une touche d'élégance paradoxale. Dans les années 1990-2000, des marques ont commercialisé des versions industrielles, mais les Russes continuent de préparer «leur» salade Olivier maison."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à zakouski — l'art des hors-d'œuvre à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Les zakouski incontournables et leurs codes",
+        "body": "Le hareng sous manteau (selyodka pod shuboi, сельдь под шубой) est un zakouski emblématique : hareng mariné recouvert de couches de betterave, pomme de terre, carotte et mayonnaise, formant un gâteau coloré que l'on tranche à la cuillère. Son aspect décoratif est aussi important que son goût.\n\nLes cornichons et légumes marinés (malossolnye ogurtsy, малосольные огурцы) sont le zakouski le plus universel et le moins cher — des concombres légèrement salés à l'aneth et à l'ail, préparés maison depuis toujours. Ils accompagnent systématiquement la vodka et neutralisent son goût fort.\n\nLes blinis (блины) — crêpes fines de sarrasin ou de froment — sont le support universel des zakouski : avec du caviar rouge ou noir, de la smetana, du hareng ou des champignons. Leur préparation est un art familial transmis entre femmes et leur réussite (régularité, fine dentelle) est un sujet de fierté."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil du Voyageur",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder zakouski — l'art des hors-d'œuvre avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Ne remplissez pas votre assiette dès le début.** La table des zakouski est conçue pour durer. Si vous vous servez de tout au premier passage, vous serez incapable de goûter aux plats principaux qui arriveront bien après — et votre hôte sera gêné de ne pouvoir vous offrir la suite.\n\n**Commentez ce que vous mangez.** Les Russes apprécient énormément que leurs invités remarquent et commentent la nourriture. Dire «ces cornichons sont extraordinaires, vous les avez faits vous-même ?» est un compliment qui réchauffe immédiatement l'atmosphère.\n\n**Le caviar rouge, pas le noir.** Si vous êtes invité dans un foyer russe ordinaire, c'est probablement du caviar de saumon (rouge) que vous trouverez — et c'est délicieux. Réserver vos comparaisons avec le caviar d'esturgeon serait déplacé."
     },
     "glossary": [
       {
-        "term": "Zakouski — l'art des hors-d'œuvre",
-        "definition": "Concept central de cette leçon — zakouski — l'art des hors-d'œuvre dans le contexte de la Russie contemporaine."
+        "term": "Zakouski (Закуски)",
+        "definition": "Hors-d'œuvre russes — table de petits plats froids servis en début de repas, ritualisée en véritable cérémonie d'hospitalité."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Salade Olivier (Салат Оливье)",
+        "definition": "Salade festive incontournable : pommes de terre, carottes, petits pois, cornichons, saucisson et mayonnaise. Symbole du Nouvel An russe."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Selyodka pod shuboi (Сельдь под шубой)",
+        "definition": "Hareng sous manteau — gâteau en couches de hareng mariné, betterave, pomme de terre et mayonnaise. Zakouski décoratif emblématique."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Ikra (Икра)",
+        "definition": "Caviar — les œufs de poisson. Ikra chyornaya (noire) d'esturgeon, ikra krasnaya (rouge) de saumon ou truite."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Blini (Блины)",
+        "definition": "Crêpes fines russes — support universel des zakouski avec caviar, smetana, hareng ou champignons. Art familial transmis entre générations."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Malossolnye ogurtsy (Малосольные огурцы)",
+        "definition": "Cornichons légèrement salés à l'aneth et à l'ail — zakouski universel qui accompagne systématiquement la vodka."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Gostepriimstvo (Гостеприимство)",
+        "definition": "Hospitalité — valeur centrale de la culture russe, exprimée notamment par l'abondance et le soin de la table."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Maslenitsa (Масленица)",
+        "definition": "La semaine des crêpes — fête populaire qui précède le Carême orthodoxe, occasion traditionnelle de manger des blinis avec toutes garnitures."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Zakouski — l'art des hors-d'œuvre'. Quel est le salaire médian en Russie ?",
+        "question": "Qui a créé la salade Olivier originale au XIXe siècle ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "Un cuisinier russe de la cour impériale",
+          "Lucien Olivier, chef français du restaurant L'Ermitage à Moscou",
+          "Un chef soviétique pendant la période stalinienne",
+          "Un chef ukrainien de Kiev"
+        ],
+        "answer": 1,
+        "explanation": "La salade Olivier a été créée vers 1860 par Lucien Olivier, chef français du restaurant «L'Ermitage» à Moscou. La recette originale était élaborée et coûteuse — la version soviétique simplifiée (pommes de terre, petits pois, saucisson) est celle que les Russes adorent aujourd'hui."
+      },
+      {
+        "question": "Quel est le zakouski le plus universellement consommé avec la vodka ?",
+        "options": [
+          "La salade Olivier",
+          "Le caviar noir",
+          "Les cornichons légèrement salés (malossolnye ogurtsy)",
+          "Le saumon fumé"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "Les cornichons légèrement salés à l'aneth et à l'ail (malossolnye ogurtsy) accompagnent systématiquement la vodka en Russie. Leur goût frais et légèrement acidulé neutralise l'alcool fort — c'est le zakouski le plus économique et le plus universel."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Quelle est la bonne stratégie à table lors d'un repas russe avec zakouski ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Remplir son assiette généreusement dès le début pour ne rien rater",
+          "Attendre que l'hôte serve chaque convive",
+          "Se servir modérément pour pouvoir goûter aux plats qui viennent ensuite",
+          "Refuser les zakouski et attendre le plat principal"
         ],
         "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
+        "explanation": "La table des zakouski est conçue pour durer toute la soirée. Se servir de tout au début empêche de goûter les plats principaux qui arrivent après. Il faut goûter progressivement en gardant de l'appétit pour la suite."
       },
       {
-        "question": "Que désigne le 'blat' dans la société russe ?",
+        "question": "Quelle est la différence entre ikra chyornaya et ikra krasnaya ?",
         "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "La chyornaya est salée, la krasnaya est fumée",
+          "La chyornaya est d'esturgeon (noire), la krasnaya est de saumon ou truite (rouge)",
+          "La chyornaya vient de Sibérie, la krasnaya de la mer Noire",
+          "Ce sont deux noms pour le même produit selon les régions"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
+        "explanation": "Ikra chyornaya (икра чёрная) désigne le caviar noir d'esturgeon — produit de luxe. Ikra krasnaya (икра красная) désigne les œufs de saumon ou de truite — beaucoup plus accessible et très présent dans les fêtes russes ordinaires."
       },
       {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
+        "question": "Lors de quel événement la salade Olivier est-elle incontournable en Russie ?",
         "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
+          "Les mariages traditionnels",
+          "La fête de Pâques orthodoxe",
+          "Le Nouvel An",
+          "Le 9 mai, Jour de la Victoire"
         ],
-        "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
-      },
-      {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
-        "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
-        ],
-        "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "answer": 2,
+        "explanation": "La salade Olivier est LE plat symbolique du Nouvel An russe — il est pratiquement impossible de fêter le 31 décembre en Russie sans elle. Chaque famille prépare sa version, souvent transmise de génération en génération."
       }
     ]
   },
@@ -157,139 +161,139 @@
     "module_title": "Русская гастрономия",
     "lesson_title": "Закуски — искусство холодных блюд",
     "lesson_subtitle": "Икра, сельдь, салат оливье",
-    "intro": "Этот урок посвящён теме «Закуски — искусство холодных блюд» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Закуски — гораздо больше, чем просто начало трапезы: это целый социальный ритуал, открытие праздника, которое может длиться часами до появления главного блюда. У русских стол с закусками — демонстрация щедрости и заботы, говорящая гостю: «ты нам важен». Понять закуски — значит понять русское отношение к изобилию, гостеприимству и совместному застолью.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Закуски — искусство холодных блюд»",
-        "body": "Тема «Закуски — искусство холодных блюд» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Закуски: от аристократических истоков к народному столу",
+        "body": "Закуски в их нынешнем виде сложились в аристократической русской кухне XVIII века под французским и шведским влиянием. Само слово происходит от глагола «закусить» — немного поесть, перехватить. В богатых дворянских домах закуски подавали в отдельной комнате — гостиной — до перехода к столу: этот ритуал позволял гостям собраться, выпить и поговорить перед официальным обедом.\n\nИкра — всемирный символ русской гастрономии — употреблялась в России по меньшей мере с XV века. Монастырские хроники уже упоминают осетровую икру как постный продукт в православных общинах. Лишь в XIX веке икра приобрела международный статус деликатеса.\n\nСалат оливье — сегодня символ русских праздников — был создан около 1860 года Люсьеном Оливье, французским шеф-поваром московского ресторана «Эрмитаж». Оригинальный изысканный рецепт был упрощён в советское время до народного варианта с картофелем, горошком и колбасой — именно эту советскую версию русские так любят сегодня."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Закуски по регионам",
+        "body": "Состав закусок существенно меняется в зависимости от региона, отражая местные ресурсы. В прибрежных и озёрных районах преобладают копчёная, сушёная или маринованная рыба: сельдь на Балтике, тихоокеанский лосось на Дальнем Востоке, байкальский омуль — специалитет, который путешественники по Сибири не пропускают.\n\nВ регионах Кавказа и Поволжья в закусках больше маринованных овощей, местных сыров и особого хлеба. В центральных и северных районах маринованные грибы — непременный элемент: русский лес даёт десятки съедобных видов, которые семьи по-прежнему собирают каждую осень.\n\nМосква и Санкт-Петербург выработали разные гастрономические культуры: петербургский стол славится утончённостью и европейским влиянием, московский стол нередко отличается большей обильностью."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Закуски — искусство холодных блюд» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Стол закусок как социальное выражение",
+        "body": "В России богатство и тщательность стола с закусками — сильный социальный маркер. На обычном ужине с близкими друзьями хватит нескольких простых блюд. Для важных гостей или особого случая стол должен быть настолько обильным, чтобы удивить — это демонстрация гостеприимства (гостеприимства), затрагивающая честь семьи.\n\nВ советский период дефицит продуктов парадоксально усилил символическое значение закусок: иметь возможность предложить качественную колбасу, домашние соления или баночку икры означало доступ к привилегированным сетям (блату) и подтверждение социального статуса.\n\nСегодня с ростом городского среднего класса наблюдается раздвоение: с одной стороны, возврат к традициям в виде «аутентичных» ремесленных закусок; с другой — среди молодых горожан традиционные закуски всё чаще заменяются закусками в стиле интернациональной кухни."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Закуски — искусство холодных блюд» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Икра: между мифом и экономической реальностью",
+        "body": "Икра занимает парадоксальное место в русском кулинарном воображении: всемирный символ роскоши за рубежом, она в действительности редко встречается на повседневном столе в России, хотя цены здесь ниже, чем за границей. Обычные россияне покупают её по торжественным поводам — Новый год, свадьбы, юбилеи — но не на рядовой ужин.\n\nКрасная икра (икра лосося или форели) значительно доступнее и по-настоящему входит в праздничный быт. Блины с красной икрой и сметаной — символическое блюдо Нового года и Масленицы.\n\nТеневая экономика икры сложна: незаконный лов осетра в Каспийском море резко сократил запасы за последние десятилетия. Легальную «дикую» икру всё больше вытесняет аквакультурная, что меняет экономику отрасли."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Закуски — искусство холодных блюд». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Закуски в русской культуре",
+        "body": "Стол с закусками — постоянная тема в русской живописи XIX века. Жанровые полотна со сценами застолья — крестьянского или буржуазного — почти всегда изображают стол, уставленный маленькими блюдами, хлебом и напитками. Эти образы закрепили идеал изобилия как центральной ценности гостеприимства.\n\nВ литературе закуски часто связаны с моментами примирения, встреч или праздника. У Чехова хорошо накрытый стол обозначает открытое доверительное пространство. У Достоевского скудость или отсутствие закусок отражает материальную и моральную нищету персонажей.\n\nСалат оливье стал настоящим культурным феноменом: встретить Новый год без него в России практически невозможно. Французское имя, хотя большинство русских не знают о его создателе, придаёт ему парадоксальный оттенок изысканности. В 1990–2000-е годы появились промышленные версии, но русские продолжают готовить «свой» домашний оливье."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Закуски — искусство холодных блюд» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Главные закуски и их коды",
+        "body": "Сельдь под шубой — эмблематическая закуска: маринованная сельдь, покрытая слоями свёклы, картофеля, моркови и майонеза, образующая красочный «пирог», который режут ложкой. Декоративный вид так же важен, как вкус.\n\nМалосольные огурцы с укропом и чесноком — самая универсальная и дешёвая закуска. Их свежий слегка кисловатый вкус нейтрализует крепкий вкус водки — эта закуска сопровождает её неизменно.\n\nБлины — тонкие гречневые или пшеничные блинчики — универсальная «платформа» для закусок: с красной или чёрной икрой, сметаной, сельдью или грибами. Умение печь блины — семейное искусство, передаваемое между женщинами; ровные, тонкие, как кружево, они — предмет гордости."
       }
     ],
     "conseil_ami": {
       "title": "Совет путешественника",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Закуски — искусство холодных блюд» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Не накладывайте полную тарелку сразу.** Стол с закусками рассчитан на весь вечер. Если взять всего в начале, не останется места для горячих блюд, которые появятся позже, — и хозяин смутится, что не смог угостить вас всем.\n\n**Комментируйте еду.** Русские очень ценят, когда гости замечают и хвалят угощение. Сказать «эти огурчики удивительные, вы сами солили?» — комплимент, мгновенно согревающий атмосферу.\n\n**Красная икра, а не чёрная.** В обычном русском доме вам, скорее всего, предложат лососёвую (красную) икру — она вкусная. Сравнивать её с осетровой было бы неуместно."
     },
     "glossary": [
       {
-        "term": "Закуски — искусство холодных блюд",
-        "definition": "Центральное понятие этого урока — закуски — искусство холодных блюд в контексте современной России."
+        "term": "Закуски",
+        "definition": "Русские холодные закуски — стол из маленьких блюд, подаваемых в начале трапезы, превращённый в настоящий ритуал гостеприимства."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Салат оливье",
+        "definition": "Неотъемлемый праздничный салат: картофель, морковь, горошек, солёные огурцы, колбаса и майонез. Символ русского Нового года."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Сельдь под шубой",
+        "definition": "Слоёный салат из маринованной сельди, свёклы, картофеля и майонеза. Эффектная декоративная закуска."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Икра",
+        "definition": "Рыбная икра. Чёрная икра — осетровая, красная икра — лососёвая или форелевая."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Блины",
+        "definition": "Тонкие русские блинчики — универсальная основа для закусок: с икрой, сметаной, сельдью или грибами. Семейное кулинарное искусство."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Малосольные огурцы",
+        "definition": "Слегка подсоленные огурцы с укропом и чесноком — самая универсальная закуска, неизменный спутник водки."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Гостеприимство",
+        "definition": "Гостеприимство — центральная ценность русской культуры, выражаемая прежде всего через обилие и заботу о столе."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Масленица",
+        "definition": "Масленичная неделя — народный праздник перед православным постом, традиционное время есть блины со всевозможными начинками."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Закуски — искусство холодных блюд». Какова медианная зарплата в России?",
+        "question": "Кто создал оригинальный салат оливье в XIX веке?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "Русский повар при императорском дворе",
+          "Люсьен Оливье, французский шеф московского ресторана «Эрмитаж»",
+          "Советский кулинар сталинской эпохи",
+          "Украинский шеф из Киева"
+        ],
+        "answer": 1,
+        "explanation": "Салат оливье был создан около 1860 года Люсьеном Оливье, французским шеф-поваром московского ресторана «Эрмитаж». Оригинальный изысканный рецепт был упрощён в советское время до варианта с картофелем, горошком и колбасой."
+      },
+      {
+        "question": "Какая закуска традиционно сопровождает водку?",
+        "options": [
+          "Салат оливье",
+          "Чёрная икра",
+          "Малосольные огурцы",
+          "Копчёный лосось"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "Малосольные огурцы с укропом и чесноком — неизменный спутник водки в России. Их свежий слегка кисловатый вкус нейтрализует крепость алкоголя — самая доступная и универсальная закуска."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Какова правильная стратегия за столом с закусками на русском застолье?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Щедро накладывать сразу, чтобы ничего не пропустить",
+          "Ждать, пока хозяин подаст каждому",
+          "Брать понемногу, чтобы оставить место для следующих блюд",
+          "Отказаться от закусок и ждать горячего"
         ],
         "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
+        "explanation": "Стол с закусками рассчитан на весь вечер. Взять всего в начале — значит не суметь оценить горячие блюда, которые появятся позже. Нужно постепенно пробовать, сохраняя аппетит."
       },
       {
-        "question": "Что означает «блат» в российском обществе?",
+        "question": "В чём разница между чёрной и красной икрой?",
         "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Чёрная солёная, красная копчёная",
+          "Чёрная — осетровая, красная — лососёвая или форелевая",
+          "Чёрная из Сибири, красная с Чёрного моря",
+          "Это два названия одного продукта в разных регионах"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
+        "explanation": "Чёрная икра — осетровая, деликатес. Красная икра — лососёвая или форелевая, значительно доступнее и по-настоящему вошедшая в праздничный быт: блины с красной икрой и сметаной — символ Нового года и Масленицы."
       },
       {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
+        "question": "Без какого блюда невозможно встретить Новый год в России?",
         "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
+          "Пельмени",
+          "Пасхальный кулич",
+          "Салат оливье",
+          "Борщ"
         ],
-        "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
-      },
-      {
-        "question": "Какой главный разлом структурирует современное российское общество?",
-        "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
-        ],
-        "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "answer": 2,
+        "explanation": "Салат оливье — неотъемлемый символ русского Нового года. Встретить 31 декабря без него практически невозможно: каждая семья готовит свою версию, нередко передаваемую из поколения в поколение."
       }
     ]
   }

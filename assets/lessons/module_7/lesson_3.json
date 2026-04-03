@@ -4,12 +4,16 @@
     "lesson_id": 3,
     "module_icon": "🍲",
     "lesson_icon": "🥟",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "estimated_minutes": 10,
+    "difficulty": "débutant",
     "sources": [
       {
-        "label": "Encyclopædia Universalis — Russie",
-        "url": "https://www.universalis.fr/"
+        "label": "Larousse Gastronomique — Cuisines du monde",
+        "url": "https://www.larousse.fr/"
+      },
+      {
+        "label": "Gastronome.ru — Encyclopédie culinaire russe",
+        "url": "https://www.gastronom.ru/"
       }
     ]
   },
@@ -17,139 +21,139 @@
     "module_title": "La Gastronomie Russe",
     "lesson_title": "Plats principaux et pelmeni",
     "lesson_subtitle": "Bœuf Stroganov, kotlety, pelmeni",
-    "intro": "Cette leçon explore plats principaux et pelmeni dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "Si les soupes et les zakouski sont l'ouverture et le rituel, les plats principaux russes sont le cœur nutritif et symbolique du repas. Ils reflètent la géographie, le climat et l'histoire d'un pays immense : des pelmeni sibériens conçus pour résister aux grands froids, au bœuf Stroganov aristocratique du XIXe siècle, en passant par les kotlety populaires de l'ère soviétique. Chaque plat porte une histoire, une région, une époque.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de plats principaux et pelmeni",
-        "body": "La thématique de plats principaux et pelmeni s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "L'évolution des plats principaux russes",
+        "body": "La cuisine russe traditionnelle s'est longtemps construite autour de trois contraintes : un hiver long et rigoureux, une économie agricole pauvre, et des ressources limitées en épices. Ces contraintes ont produit une cuisine de conservation, de lenteur et de densité calorique — des plats qui tiennent au corps et permettent de travailler dans le froid.\n\nLe pelmeni — ravioli sibérien farci de viande — est l'exemple parfait : compact, nourrissant, transportable congelé dans la neige, il était le repas des chasseurs, des soldats et des voyageurs. Son origine est disputée entre les traditions tatares, oudmourtes et russes, mais il est devenu l'une des spécialités les plus identitaires de la cuisine russe.\n\nL'ère soviétique a standardisé et diffusé les plats principaux à travers un réseau de cantines (stolovye) qui servaient les mêmes recettes de Vladivostok à Kaliningrad. Le bœuf Stroganov, réduit à une version simplifiée avec de la crème et du ketchup industriel, ou les kotlety panés — ces recettes soviétiques sont celles que beaucoup de Russes d'aujourd'hui associent à l'enfance et à un certain confort alimentaire nostalgique."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Des plats qui parlent du territoire",
+        "body": "Les pelmeni sont directement liés à la géographie sibérienne : dans les conditions de froid extrême, on pouvait préparer des centaines de pelmeni, les laisser geler à l'extérieur, puis les conserver plusieurs semaines. Cette technique de congélation naturelle est une adaptation culinaire remarquable aux conditions arctiques.\n\nLe chou farci (golubtsy, голубцы) — feuilles de chou roulées autour d'une farce de viande et de riz, cuites lentement dans une sauce tomate — illustre la logique des régions agricoles de l'ouest et du centre de la Russie, où le chou est cultivé massivement. Sa cuisson lente correspond aussi à la logique des poêles à bois (pech') qui maintenaient une chaleur constante toute la journée.\n\nLe pilaf (plov) est le plat emblématique des républiques d'Asie centrale qui ont longtemps fait partie de l'URSS — il est aujourd'hui pleinement intégré à la gastronomie russe et vendu dans de nombreux restaurants. La diffusion des cuisines des républiques soviétiques est l'un des legs gastronomiques les plus importants de l'ère soviétique."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de plats principaux et pelmeni est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "Les plats principaux comme miroir social",
+        "body": "En Russie, le plat principal servi lors d'une occasion révèle beaucoup sur le statut social et les aspirations du foyer. Un repas ordinaire en semaine peut n'être que des pelmeni sortis du congélateur, des kotlety préparées à la hâte ou des macarons (la pasta soviétique). Mais pour les invités ou les occasions importantes, les plats doivent être soignés, abondants et idéalement préparés maison.\n\nLe bœuf Stroganov porte en lui une histoire sociale intéressante : créé dans les cercles aristocratiques du XIXe siècle, simplifié à l'époque soviétique, redevenu emblème de la cuisine russe «gastronomique» depuis les années 2000, il incarne les allers-retours entre culture de l'élite et culture populaire dans la société russe.\n\nLes pelmeni industriels — vendus congelés en grande surface — sont un marqueur sociologique : dans les années difficiles des années 1990, ils représentaient l'alimentation de survie. Aujourd'hui, certains restaurants upscale servent des «pelmeni artisanaux» à des prix élevés, réinventant ce plat populaire comme produit de niche gastronomique."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de plats principaux et pelmeni, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "La cuisine du quotidien russe",
+        "body": "Le repas quotidien de nombreuses familles russes tourne autour de plats simples et économiques. Les kotlety (котлеты) — galettes de viande hachée assaisonnées d'oignon et d'ail, panées et frites — sont peut-être le plat le plus préparé dans les foyers russes ordinaires : rapides, peu coûteuses et appréciées de tous.\n\nLa gasha (каша) — bouillie de céréales — reste un aliment de base omniprésent. Bouillie de sarrasin (grechka), de millet, d'avoine ou de semoule, elle accompagne presque tous les plats principaux en substitut d'une garniture. Les Russes ont une affection particulière pour la grechka (sarrasin) dont ils achètent des réserves en cas d'incertitude économique — pendant les crises, les stocks de grechka dans les magasins s'épuisent en premier.\n\nLe prix de la nourriture est un sujet sensible dans la société russe. Les hausses du prix des aliments de base (pelmeni industriels, pain, pommes de terre) sont ressenties immédiatement par une large partie de la population, surtout en province. La nourriture représente une part bien plus importante du budget des ménages russes (environ 30%) qu'en France (~15%)."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre plats principaux et pelmeni. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "Les plats principaux dans la culture russe",
+        "body": "Les pelmeni occupent une place culturelle particulière : ils sont le plat de la convivialité familiale par excellence. Préparer des pelmeni ensemble — chaque membre de la famille façonnant les petits chaussons — est une activité de cohésion familiale qui ressemble à la préparation des raviolis en Italie. Cette pratique collective valorise la transmission et le faire-ensemble.\n\nLe kholodets (холодец) — gelée de porc ou de bœuf préparée lentement, servie froide avec du raifort — est un plat de fête qui demande beaucoup de temps et d'attention. Sa préparation (deux jours minimum) est un geste d'amour culinaire que l'on ne fait que pour les grandes occasions. Voir du kholodets sur une table est le signe que l'hôte a investi beaucoup dans la réception.\n\nLe cinéma soviétique regorge de scènes autour des repas quotidiens, où les plats simples — pelmeni, kartoshka (pommes de terre), kotlety — symbolisent le confort domestique et la chaleur humaine. Ces références culturelles partagées créent une nostalgie collective pour la «simpli­cité soviétique» que beaucoup de Russes ressentent encore, indépendamment de leur opinion politique sur cette époque."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à plats principaux et pelmeni à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Les grands plats principaux et leurs secrets",
+        "body": "Le pelmeni (пельмени) est la fierté sibérienne : fine pâte à base d'œufs enveloppant une farce de porc, bœuf ou agneau assaisonnée d'oignon et d'ail. Il se cuit dans l'eau bouillante et se sert avec de la smetana, du beurre ou du vinaigre selon les préférences. La qualité d'un pelmeni artisanal se reconnaît à la finesse de la pâte et à la jutosité de la farce.\n\nLe bœuf Stroganov (befstroganov, бефстроганов) dans sa version classique utilise du filet de bœuf émincé très finement, sauté à feu vif puis lié dans une sauce à la crème fraîche légèrement moutardée. Le secret est la rapidité de cuisson du bœuf — trop cuit, il devient caoutchouteux. Ce plat illustre l'influence française sur la haute cuisine russe du XIXe siècle.\n\nLes kotlety (котлеты) ne sont pas des côtelettes malgré leur nom — c'est un emprunt du français «côtelette». Ce sont des galettes de viande hachée mélangées avec du pain trempé dans du lait, de l'oignon et des épices, panées et frites dans du beurre ou de l'huile. Chaque famille a sa recette. C'est le plat dont les Russes émigrés parlent avec le plus de nostalgie."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil du Voyageur",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder plats principaux et pelmeni avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Proposez de faire des pelmeni ensemble.** Si vous êtes dans un foyer russe, proposer de préparer des pelmeni en groupe est une invitation à un moment de vrai partage. Les Russes adorent cette activité collective et seront touchés par votre intérêt.\n\n**Ne comparez pas avec les raviolis ou les dumplings.** Les Russes connaissent les raviolis italiens et les gyoza japonais — comparer les pelmeni à ces plats peut être bien reçu ou mal vécu selon les interlocuteurs. Mieux vaut s'intéresser aux spécificités des pelmeni eux-mêmes.\n\n**Demandez comment ils mangent leur grechka.** La bouillie de sarrasin est un sujet très personnel pour les Russes — avec du beurre ? Avec du lait ? Nature ? Chaque préférence dit quelque chose sur la région et l'éducation. C'est une conversation qui crée de la connivence."
     },
     "glossary": [
       {
-        "term": "Plats principaux et pelmeni",
-        "definition": "Concept central de cette leçon — plats principaux et pelmeni dans le contexte de la Russie contemporaine."
+        "term": "Pelmeni (Пельмени)",
+        "definition": "Raviolis sibériens à la viande — l'un des plats les plus identitaires de la cuisine russe. Se cuit à l'eau et se sert avec smetana, beurre ou vinaigre."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Kotlety (Котлеты)",
+        "definition": "Galettes de viande hachée panées et frites — plat quotidien russe par excellence, du nom français «côtelette» mais très différent du concept original."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Befstroganov (Бефстроганов)",
+        "definition": "Bœuf Stroganov — filet de bœuf émincé sauté dans une sauce crème légèrement moutardée. Plat aristocratique du XIXe siècle devenu emblème de la cuisine russe."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Golubtsy (Голубцы)",
+        "definition": "Chou farci — feuilles de chou enveloppant une farce viande-riz, cuites lentement en sauce tomate. Plat familial par excellence."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Kholodets (Холодец)",
+        "definition": "Gelée de porc ou bœuf cuite lentement et servie froide avec du raifort. Plat de fête qui demande deux jours de préparation."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Grechka (Гречка)",
+        "definition": "Sarrasin (bouillie de) — garniture emblématique de la cuisine russe et aliment de réserve stratégique en cas de crise."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Pech' (Печь)",
+        "definition": "Poêle à bois russe traditionnel — cœur de la maison paysanne qui maintient une chaleur constante propice aux cuissons lentes."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Plov (Плов)",
+        "definition": "Pilaf d'Asie centrale — riz cuit avec de la viande, des carottes et des épices, intégré à la gastronomie russe grâce à l'héritage soviétique."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Plats principaux et pelmeni'. Quel est le salaire médian en Russie ?",
+        "question": "Quelle adaptation pratique a favorisé la popularité des pelmeni en Sibérie ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "Leur cuisson très rapide dans de l'eau chaude",
+          "Leur conservation naturelle par congélation dans le froid sibérien",
+          "Leur composition uniquement végétale adaptée au jeûne",
+          "Leur préparation sans feu, idéale pour les nomades"
+        ],
+        "answer": 1,
+        "explanation": "Les pelmeni étaient préparés en grande quantité et laissés congeler naturellement à l'extérieur dans le froid sibérien. Cette technique permettait de les conserver plusieurs semaines — une adaptation ingénieuse aux conditions arctiques pour nourrir chasseurs et voyageurs."
+      },
+      {
+        "question": "Pourquoi les kotlety russes ne ressemblent-ils pas aux côtelettes françaises ?",
+        "options": [
+          "Parce qu'ils sont faits de légumes uniquement",
+          "Parce que le mot «kotlety» vient du français «côtelette» mais désigne en réalité des galettes de viande hachée",
+          "Parce qu'ils sont cuits au four et non à la poêle",
+          "Parce que la recette a été inventée en URSS et n'a rien à voir avec la France"
+        ],
+        "answer": 1,
+        "explanation": "Le mot «kotlety» est emprunté du français «côtelette» mais la réalité est très différente : ce sont des galettes de viande hachée mélangées avec du pain, de l'oignon et des épices, panées et frites. C'est un emprunt lexical qui a évolué indépendamment en Russie."
+      },
+      {
+        "question": "Quel aliment les Russes achètent-ils massivement en cas de crise économique ?",
+        "options": [
+          "Des conserves de bortsch",
+          "Du pain blanc",
+          "De la grechka (sarrasin)",
+          "Des pelmeni congelés"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "La grechka (bouillie de sarrasin) est l'aliment de réserve stratégique par excellence en Russie. Lors des crises économiques, les stocks de grechka dans les magasins s'épuisent en premier — c'est un réflexe culturel lié à la valeur de cet aliment nourrissant et conservable."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Quel est le secret de la réussite du befstroganov classique ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Une cuisson longue et lente pour attendrir la viande",
+          "L'utilisation de bœuf de basse qualité pour respecter la tradition soviétique",
+          "Une cuisson rapide à feu vif pour garder le bœuf tendre et juteux",
+          "L'ajout de ketchup industriel pour la saveur"
         ],
         "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
+        "explanation": "Le secret du befstroganov est la rapidité : le filet de bœuf émincé très finement doit être saisi à feu vif et lié rapidement avec la sauce crème. Une cuisson trop longue le rend caoutchouteux. C'est une technique française adaptée par la haute cuisine russe du XIXe siècle."
       },
       {
-        "question": "Que désigne le 'blat' dans la société russe ?",
+        "question": "Quel geste peut favoriser un vrai moment de partage dans un foyer russe ?",
         "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Apporter une bouteille de vin français",
+          "Proposer de préparer des pelmeni ensemble",
+          "Cuisiner soi-même un plat français pour ses hôtes",
+          "Réciter des noms de plats russes en russe"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
-      },
-      {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
-        "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
-        ],
-        "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
-      },
-      {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
-        "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
-        ],
-        "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "Proposer de faire des pelmeni ensemble est une invitation à un moment de convivialité familiale — façonner les petits chaussons est une activité collective que les Russes adorent partager. Cela démontre de l'intérêt authentique pour la culture culinaire et crée une vraie connexion."
       }
     ]
   },
@@ -157,139 +161,139 @@
     "module_title": "Русская гастрономия",
     "lesson_title": "Основные блюда и пельмени",
     "lesson_subtitle": "Бефстроганов, котлеты, пельмени",
-    "intro": "Этот урок посвящён теме «Основные блюда и пельмени» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Если супы и закуски — это открытие и ритуал, то основные блюда русской кухни — её питательное и символическое ядро. Они отражают географию, климат и историю огромной страны: сибирские пельмени, созданные для больших морозов; аристократический бефстроганов XIX века; народные котлеты советской эпохи. Каждое блюдо несёт в себе историю, регион, эпоху.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Основные блюда и пельмени»",
-        "body": "Тема «Основные блюда и пельмени» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Эволюция основных блюд русской кухни",
+        "body": "Традиционная русская кухня долго формировалась под влиянием трёх ограничений: долгая суровая зима, бедное земледелие, скудость пряностей. Эти условия породили кухню заготовок, медленной готовки и высокой калорийности — блюда, дающие силы и позволяющие работать на холоде.\n\nПельмени — сибирские пельмени с мясной начинкой — идеальный пример: компактные, сытные, годящиеся для заморозки в снегу, они были едой охотников, солдат и путешественников. Их происхождение оспаривается между татарскими, удмуртскими и русскими традициями, но сегодня они стали одним из самых символичных блюд русской кухни.\n\nСоветская эпоха стандартизировала и распространила основные блюда через сеть столовых, обслуживавших одни и те же рецепты от Владивостока до Калининграда. Бефстроганов в упрощённой версии со сливками и промышленным кетчупом, котлеты в панировке — эти советские рецепты многие нынешние русские ассоциируют с детством и особым ностальгическим гастрономическим комфортом."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Блюда, говорящие о территории",
+        "body": "Пельмени напрямую связаны с сибирской географией: в условиях экстремального холода можно было налепить сотни пельменей, выставить их замерзать на улицу и хранить несколько недель. Эта техника естественной заморозки — замечательная кулинарная адаптация к арктическим условиям.\n\nГолубцы — листья капусты, фаршированные смесью мяса и риса и тушёные в томатном соусе — отражают логику земледельческих регионов запада и центра России, где капусту выращивают в огромных количествах. Их долгое тушение соответствует и логике русской печи, поддерживавшей постоянный жар весь день.\n\nПлов — главное блюдо среднеазиатских республик, долго входивших в состав СССР, — сегодня полностью вошёл в русскую гастрономию. Распространение кухонь советских республик — один из важнейших гастрономических итогов советской эпохи."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Основные блюда и пельмени» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Основные блюда как социальное зеркало",
+        "body": "В России поданное блюдо многое говорит о социальном статусе и устремлениях семьи. На обычный будничный ужин могут сойти пельмени из морозилки, наспех приготовленные котлеты или макароны. Но для гостей и важных поводов блюда должны быть тщательными, обильными и по возможности домашними.\n\nБефстроганов несёт в себе интересную социальную историю: созданный в аристократических кругах XIX века, упрощённый в советское время, он вновь стал символом «гастрономической» русской кухни с 2000-х годов — воплощение движений между элитарной и народной культурой в российском обществе.\n\nПромышленные пельмени — продаваемые замороженными в супермаркетах — социологический маркер: в трудные 1990-е они олицетворяли еду выживания. Сегодня ряд ресторанов высокой кухни подаёт «авторские пельмени» по высоким ценам, превращая народное блюдо в гастрономическую нишу."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Основные блюда и пельмени» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Повседневная готовка в России",
+        "body": "Ежедневное питание многих русских семей строится на простых и недорогих блюдах. Котлеты — рубленые мясные биточки с луком и чесноком в панировке, жаренные на масле — пожалуй, самое распространённое домашнее блюдо: быстро, дёшево и любимо всеми.\n\nКаша — зерновая каша — по-прежнему повсеместный базовый продукт. Гречневая, пшённая, овсяная или манная каша сопровождает почти любое основное блюдо в качестве гарнира. Русские особенно любят гречку и закупают её впрок при экономической неопределённости — в кризисы её запасы в магазинах исчезают первыми.\n\nЦены на еду — болезненная тема в российском обществе. Подорожание базовых продуктов (промышленных пельменей, хлеба, картофеля) ощущается широкими слоями населения, особенно в провинции. Питание занимает значительно большую долю бюджета российских домохозяйств (~30%), чем французских (~15%)."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Основные блюда и пельмени». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Основные блюда в русской культуре",
+        "body": "Пельмени занимают особое культурное место: это блюдо семейной сплочённости. Лепить пельмени вместе — когда каждый член семьи формирует маленькие «ушки» — это занятие, укрепляющее семью, подобно совместной лепке равиоли в Италии. Эта коллективная практика передаёт традицию и ценность совместного труда.\n\nХолодец — медленно сваренная свиная или говяжья заливная, подаваемая холодной с хреном — праздничное блюдо, требующее значительного времени и внимания. Его приготовление (минимум двое суток) — кулинарный жест любви, совершаемый лишь по большим поводам. Холодец на столе говорит о том, что хозяин по-настоящему постарался для гостей.\n\nВ советском кино полно сцен за повседневным столом, где простые блюда — пельмени, картошка, котлеты — символизируют домашний уют и человеческое тепло. Эти общие культурные отсылки порождают коллективную ностальгию по «советской простоте», которую многие русские ощущают до сих пор — вне зависимости от политического отношения к той эпохе."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Основные блюда и пельмени» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Главные блюда и их секреты",
+        "body": "Пельмени (пельмени) — гордость Сибири: тонкое яичное тесто, обёртывающее начинку из свинины, говядины или баранины с луком и чесноком. Варятся в кипящей воде и подаются со сметаной, маслом или уксусом по вкусу. Качество домашних пельменей определяется тонкостью теста и сочностью начинки.\n\nБефстроганов в классическом варианте — тонко нарезанная вырезка, быстро обжаренная и связанная соусом из сметаны с лёгкой горчицей. Секрет — в скорости: слишком долгая готовка делает мясо резиновым. Блюдо отражает французское влияние на высокую русскую кухню XIX века.\n\nКотлеты (котлеты) — не отбивные, несмотря на название (заимствование французского «côtelette»). Это биточки из фарша, смешанного с размоченным хлебом, луком и специями, в панировке, жаренные на масле. У каждой семьи свой рецепт. Именно это блюдо русские эмигранты вспоминают с наибольшей ностальгией."
       }
     ],
     "conseil_ami": {
       "title": "Совет путешественника",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Основные блюда и пельмени» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Предложите лепить пельмени вместе.** В русском доме предложение совместно налепить пельмени — приглашение к настоящему семейному общению. Русские обожают это коллективное занятие и будут тронуты вашим интересом.\n\n**Не сравнивайте с равиоли или дамплингами.** Русские знают итальянские равиоли и японские гёдза. Сравнение с пельменями может быть воспринято по-разному. Лучше интересоваться спецификой самих пельменей.\n\n**Спросите, как они едят гречку.** Гречневая каша — очень личная тема для русских: с маслом? С молоком? Без ничего? Каждое предпочтение что-то говорит о регионе и воспитании. Разговор об этом создаёт особую близость."
     },
     "glossary": [
       {
-        "term": "Основные блюда и пельмени",
-        "definition": "Центральное понятие этого урока — основные блюда и пельмени в контексте современной России."
+        "term": "Пельмени",
+        "definition": "Сибирские мясные пельмени — одно из самых символичных блюд русской кухни. Варятся в воде и подаются со сметаной, маслом или уксусом."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Котлеты",
+        "definition": "Жареные мясные биточки в панировке — повседневное блюдо русской кухни. Название заимствовано из французского «côtelette», но совершенно иное по сути."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Бефстроганов",
+        "definition": "Тонко нарезанная говяжья вырезка, обжаренная и поданная в соусе из сметаны с горчицей. Аристократическое блюдо XIX века, ставшее символом русской кухни."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Голубцы",
+        "definition": "Фаршированная капуста — листья капусты с начинкой из мяса и риса, тушёные в томатном соусе. Классическое семейное блюдо."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Холодец",
+        "definition": "Свиная или говяжья заливная, медленно сваренная и поданная холодной с хреном. Праздничное блюдо, требующее двух суток приготовления."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Гречка",
+        "definition": "Гречневая каша — знаковый гарнир русской кухни и стратегический запасной продукт на случай кризиса."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Печь",
+        "definition": "Традиционная русская дровяная печь — сердце крестьянского дома, поддерживающее постоянный жар, идеальный для медленного томления."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Плов",
+        "definition": "Среднеазиатский плов — рис с мясом, морковью и специями, вошедший в русскую гастрономию благодаря советскому наследию."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Основные блюда и пельмени». Какова медианная зарплата в России?",
+        "question": "Что позволило пельменям стать популярными в Сибири?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "Их очень быстрое приготовление в горячей воде",
+          "Естественная заморозка на сибирском морозе для длительного хранения",
+          "Их полностью растительный состав, подходящий для поста",
+          "Приготовление без огня, удобное для кочевников"
+        ],
+        "answer": 1,
+        "explanation": "Пельмени готовили в большом количестве и выставляли замерзать на улицу в сибирский мороз. Это позволяло хранить их несколько недель — гениальная адаптация к арктическим условиям для питания охотников и путешественников."
+      },
+      {
+        "question": "Почему русские котлеты не похожи на французские côtelettes?",
+        "options": [
+          "Потому что они исключительно овощные",
+          "Потому что слово «котлеты» заимствовано из французского, но обозначает рубленые мясные биточки",
+          "Потому что они запекаются, а не жарятся",
+          "Потому что рецепт изобрели в СССР и он не имеет отношения к Франции"
+        ],
+        "answer": 1,
+        "explanation": "Слово «котлеты» заимствовано из французского «côtelette», но в русском это совершенно другое блюдо: биточки из фарша с хлебом, луком и специями в панировке. Лексическое заимствование, развившееся самостоятельно в России."
+      },
+      {
+        "question": "Какой продукт русские массово скупают в экономические кризисы?",
+        "options": [
+          "Консервированный борщ",
+          "Белый хлеб",
+          "Гречку",
+          "Замороженные пельмени"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "Гречка — главный стратегический запасной продукт в России. В кризисы её запасы в магазинах исчезают первыми — культурный рефлекс, связанный с питательностью и способностью к хранению этой крупы."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "В чём секрет классического бефстроганова?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Долгое медленное тушение для мягкости мяса",
+          "Использование дешёвого мяса в соответствии с советской традицией",
+          "Быстрая обжарка на сильном огне, чтобы мясо осталось нежным и сочным",
+          "Добавление промышленного кетчупа для вкуса"
         ],
         "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
+        "explanation": "Секрет бефстроганова — в скорости: тонко нарезанная вырезка должна быстро обжариться на сильном огне и тут же соединиться со сметанным соусом. Долгая готовка делает мясо резиновым. Это французская техника, адаптированная высокой русской кухней XIX века."
       },
       {
-        "question": "Что означает «блат» в российском обществе?",
+        "question": "Какой жест поможет наладить настоящее общение в русском доме?",
         "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Принести бутылку французского вина",
+          "Предложить лепить пельмени вместе",
+          "Самому приготовить французское блюдо для хозяев",
+          "Произносить названия русских блюд по-русски"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
-      },
-      {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
-        "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
-        ],
-        "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
-      },
-      {
-        "question": "Какой главный разлом структурирует современное российское общество?",
-        "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
-        ],
-        "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "Предложить лепить пельмени вместе — это приглашение к семейному совместному занятию, которое русские очень любят. Это демонстрирует искренний интерес к кулинарной культуре и создаёт настоящую связь."
       }
     ]
   }

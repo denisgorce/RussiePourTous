@@ -8,8 +8,12 @@
     "difficulty": "intermédiaire",
     "sources": [
       {
-        "label": "Encyclopædia Universalis — Russie",
-        "url": "https://www.universalis.fr/"
+        "label": "Larousse — Encyclopédie des cultures du monde",
+        "url": "https://www.larousse.fr/"
+      },
+      {
+        "label": "Rossiyskaya Gazeta — Traditions culinaires et sociales",
+        "url": "https://rg.ru/"
       }
     ]
   },
@@ -17,139 +21,140 @@
     "module_title": "La Gastronomie Russe",
     "lesson_title": "La Table russe — codes et rituels",
     "lesson_subtitle": "Invitations, toasts, gestes à éviter",
-    "intro": "Cette leçon explore la table russe — codes et rituels dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "Être invité à la table d'un Russe est l'un des privilèges les plus précieux que vous puissiez obtenir en tant que voyageur ou expatrié. La table russe n'est pas seulement un lieu de nourriture — c'est un espace rituel où se jouent l'hospitalité, la confiance, l'identité et les relations. Connaître ses codes vous permettra non seulement d'éviter les impairs, mais surtout de participer pleinement à un moment qui compte profondément pour vos hôtes.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de la table russe — codes et rituels",
-        "body": "La thématique de la table russe — codes et rituels s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "La table russe à travers les siècles",
+        "body": "Le rituel de la table russe s'est construit sur plusieurs couches historiques. La tradition orthodoxe a imposé un calendrier alimentaire dense — plus de 180 jours de jeûne par an dans le calendrier religieux russe traditionnel — qui a structuré les rythmes culinaires et créé une alternance entre abondance et privation.\n\nL'époque impériale a apporté l'influence française et européenne dans les tables aristocratiques, créant un double standard : une cuisine de cour sophistiquée et une cuisine paysanne frugale. Ces deux cultures ont coexisté et se sont partiellement mélangées, laissant des traces dans les pratiques contemporaines.\n\nL'ère soviétique a valorisé la table collective — la cantine d'usine (stolovaya), le banquet d'entreprise (korporativ) — tout en réinventant les traditions festives comme les repas du Nouvel An et du 8 mars (Journée internationale des femmes). Ces occasions sont devenues des rituels séculiers qui structurent encore aujourd'hui le calendrier social russe."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Variations régionales des rituels de table",
+        "body": "Les codes de la table varient selon les régions et les milieux sociaux russes. Dans les milieux aristocratiques ou intellectuels de Moscou et Saint-Pétersbourg, la table peut être plus sobre, avec une influence européenne marquée sur le service et les manières. Dans les milieux populaires ou en province, l'abondance et la générosité sont les valeurs premières.\n\nDans les républiques à majorité musulmane (Tatarstan, Bachkortostan, Tchétchénie), les codes de table sont différents : l'alcool y est absent ou marginal, les plats principaux sont différents, et certains rituels de toast sont remplacés par d'autres formes de convivialité. Un voyageur qui connaît ces distinctions sera toujours mieux reçu.\n\nLes Russes de la diaspora — très nombreux en Allemagne, Israël, États-Unis, France — maintiennent souvent des traditions de table plus conservatrices que les Russes en Russie même. Rencontrer un Russe de l'étranger peut donner une image de la culture culinaire russe qui est celle des années 1990, non celle d'aujourd'hui."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de la table russe — codes et rituels est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "La table comme espace politique",
+        "body": "En Russie, la table est aussi un espace politique — au sens où les conversations sérieuses, les confidences et les prises de position ont traditionnellement lieu autour d'un repas. La cuisine russe (littéralement «la conversation de cuisine», kitchen talk) désignait sous l'Union soviétique les conversations privées dans les petites cuisines d'appartement, seuls espaces où l'on pouvait parler librement.\n\nCette culture du «parler vrai» à table persist : beaucoup de Russes font une distinction claire entre ce qu'ils disent en public et ce qu'ils disent autour d'une table avec des personnes de confiance. Être invité à partager cette intimité est une marque de confiance significative.\n\nLes banquets d'entreprise (korporativy, корпоративы) sont une institution russe particulière — des repas festifs organisés par les entreprises pour les fêtes, qui mélangent hiérarchie professionnelle et convivialité personnelle d'une manière que les Français trouveraient parfois déroutante. Les règles informelles de ces soirées (qui s'assoit où, qui parle en premier, comment on se comporte avec les supérieurs) sont complexes."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de la table russe — codes et rituels, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "L'invitation à dîner : codes pratiques",
+        "body": "Être invité chez des Russes implique quelques règles pratiques importantes. On n'arrive jamais les mains vides — apporter des fleurs (en nombre impair — un nombre pair est réservé aux enterrements), une boîte de chocolats, une bouteille de vin ou un gâteau est un minimum. Les cadeaux ne s'ouvrent pas nécessairement devant l'offrant — la tradition russe est d'ouvrir les cadeaux plus tard.\n\nLa ponctualité est interprétée différemment : arriver exactement à l'heure ou en avance peut gêner l'hôte qui est encore en train de préparer. Un retard de 15-20 minutes est acceptable et même attendu dans de nombreux milieux. À l'inverse, arriver en retard de plus d'une heure sans prévenir est impoli.\n\nLa question «tu as assez mangé ?» («ты наелся/наелась ?») posée avec insistance n'est pas une vraie question — c'est une invitation à reprendre et une expression de l'hospitalité. Répondre «oui, j'ai assez mangé, merci» plusieurs fois de suite finira par être compris, mais les premières fois l'hôte relancera l'invitation."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre la table russe — codes et rituels. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "La table russe dans la culture",
+        "body": "La table russe comme espace de convivialité et de partage est un thème récurrent dans toute la culture russe. Dans la littérature, les scènes de repas chez Tolstoï, Tchekhov et Boulgakov sont souvent les moments de plus grande tension dramatique — révélations, déclarations, ruptures ou réconciliations se produisent à table.\n\nLe «zastolye» (застолье) — littéralement «ce qui est au-delà de la table», c'est-à-dire l'atmosphère festive qui entoure le repas — est un concept culturel central que les Russes décrivent avec nostalgie. Un «bon zastolye» combine bonne nourriture, bons alcools, bonne compagnie, belles chansons et conversations profondes — tout cela dans un mélange qu'aucun planificateur ne peut prévoir à l'avance.\n\nLa tradition russe de chanter à table est particulièrement forte. Les chansons folkloriques russes (narodnye pesni), les romances du XIXe siècle et les chansons soviétiques de guerre sont des répertoires partagés que les Russes de toutes générations peuvent entonner spontanément autour d'une table. C'est l'une des expériences les plus émouvantes que l'on puisse vivre en Russie."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à la table russe — codes et rituels à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Les codes à connaître et les erreurs à éviter",
+        "body": "Les toasts russes obéissent à une hiérarchie : le premier toast revient à l'hôte, qui porte les suivants à différentes personnes ou thèmes. Les invités peuvent proposer des toasts au cours de la soirée, mais ne doivent pas en prendre l'initiative avant que l'hôte ait donné le ton. Un bon toast est une petite allocution sincère de 30 secondes à 2 minutes — ni trop court (manque de soin) ni trop long (ennui).\n\nLes gestes à éviter à table incluent : poser une bouteille vide sur la table (tradition maritime qui porte malheur — on pose les bouteilles vides par terre ou sous la table), siffler à l'intérieur (porte la malchance économique selon la superstition), et tendre son verre à l'hôte pour se resservir soi-même (l'hôte sert ses convives).\n\nLa règle du «dernier verre» (pososhok, посошок — littéralement «le petit bâton du voyageur») est la tradition russe de proposer un dernier verre avant que les invités partent. Refuser ce toast serait perçu comme une précipitation déplaisante à quitter la table. Même si vous êtes fatigué ou devez partir, participez à ce moment de conclusion — c'est un acte de respect pour l'hospitalité reçue."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil du Voyageur",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder la table russe — codes et rituels avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Préparez un toast sincère.** Si vous êtes invité à un repas russe, préparez mentalement un toast de 30 secondes à 1 minute que vous pourrez prononcer en russe ou en français (avec traduction). Un toast qui célèbre l'amitié franco-russe ou qui complimente l'hospitalité de vos hôtes sera très bien reçu.\n\n**N'essayez pas de tout manger.** L'abondance de la table russe est une invitation à goûter, pas à finir. Vous n'êtes pas obligé de vider votre assiette — manger avec plaisir et apprécier chaque plat est plus important que quantité.\n\n**Restez jusqu'au bout.** Quitter un repas russe trop tôt est la pire façon de remercier un hôte. Si vous devez partir, prévenez en arrivant («je dois partir à 22h») — cela permet à l'hôte d'organiser le repas en conséquence. Sinon, restez pour le pososhok final."
     },
     "glossary": [
       {
-        "term": "La Table russe — codes et rituels",
-        "definition": "Concept central de cette leçon — la table russe — codes et rituels dans le contexte de la Russie contemporaine."
-      },
-      {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
-      },
-      {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
-      },
-      {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
-      },
-      {
         "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "definition": "Littéralement «ce qui est au-delà de la table» — atmosphère festive totale qui enveloppe un bon repas russe : nourriture, alcool, conversation, chansons et chaleur humaine."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Korporativ (Корпоратив)",
+        "definition": "Banquet d'entreprise — institution russe où hiérarchie professionnelle et convivialité personnelle se mélangent lors des fêtes annuelles."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Pososhok (Посошок)",
+        "definition": "Le «dernier verre du voyageur» — toast final traditionnel avant le départ des invités. Y participer est un acte de respect pour l'hospitalité reçue."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Kukhonny razgovor (Кухонный разговор)",
+        "definition": "«Conversation de cuisine» — terme soviétique pour les discussions libres et sincères dans les cuisines d'appartement, seuls espaces privés à l'époque."
+      },
+      {
+        "term": "Gostepriimstvo (Гостеприимство)",
+        "definition": "Hospitalité russe — valeur centrale dont la table est la principale expression. Ne pas être généreux à table est l'une des pires impolitesses possibles."
+      },
+      {
+        "term": "Narodnye pesni (Народные песни)",
+        "definition": "Chansons folkloriques russes — répertoire partagé entonné spontanément autour de la table lors des moments festifs.",
+        "example": ""
+      },
+      {
+        "term": "Nakormit' do otvaïa (Накормить до отвала)",
+        "definition": "Littéralement «nourrir jusqu'à l'éclatement» — expression qui désigne l'idéal d'hospitalité russe : nourrir ses invités jusqu'à satiété complète."
+      },
+      {
+        "term": "Nechyotnoye chislo (Нечётное число)",
+        "definition": "Nombre impair — les fleurs offertes en Russie doivent toujours être en nombre impair. Un nombre pair est réservé aux enterrements."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'La Table russe — codes et rituels'. Quel est le salaire médian en Russie ?",
+        "question": "Que désigne le concept de «zastolye» (застолье) en russe ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "La liste des plats servis lors d'un repas traditionnel",
+          "L'atmosphère festive totale qui enveloppe un bon repas — nourriture, alcool, conversation et chansons",
+          "Le service formel à la française adapté à la cuisine russe",
+          "La tradition de manger debout lors des cérémonies orthodoxes"
+        ],
+        "answer": 1,
+        "explanation": "Le «zastolye» désigne l'atmosphère festive totale qui entoure un bon repas russe — un mélange de bonne nourriture, bonnes boissons, bonne compagnie, chansons et conversations profondes. C'est un concept culturel central que les Russes évoquent avec nostalgie."
+      },
+      {
+        "question": "Quel geste est à éviter absolument à table en Russie ?",
+        "options": [
+          "Poser ses coudes sur la table",
+          "Goûter à tous les plats sans en finir aucun",
+          "Poser une bouteille vide sur la table (tradition maritime porte-malheur)",
+          "Parler la bouche pleine en société mixte"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "Poser une bouteille vide sur la table est considéré comme portant malheur selon une ancienne tradition maritime. Les bouteilles vides se posent par terre ou sous la table. C'est l'une des superstitions de table les plus respectées en Russie."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Combien de fleurs doit-on apporter en cadeau à des hôtes russes ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Un nombre pair, symbole d'équilibre et de prospérité",
+          "Toujours douze, pour les douze mois de l'année",
+          "Un nombre impair — le nombre pair est réservé aux enterrements",
+          "Le nombre n'a aucune importance en Russie"
         ],
         "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
+        "explanation": "Les fleurs offertes en Russie doivent toujours être en nombre impair (1, 3, 5, 7...). Un nombre pair est strictement associé aux enterrements et aux condoléances. Offrir un nombre pair de fleurs à des hôtes vivants est une maladresse grave."
       },
       {
-        "question": "Que désigne le 'blat' dans la société russe ?",
+        "question": "Qu'est-ce que le «pososhok» (посошок) dans la tradition russe ?",
         "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Le premier toast prononcé en début de repas",
+          "Le toast final proposé aux invités juste avant leur départ",
+          "Un plat sucré servi en conclusion du repas",
+          "La tradition d'embrasser ses hôtes trois fois en partant"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
+        "explanation": "Le pososhok («le petit bâton du voyageur») est le toast final traditionnel proposé aux invités avant leur départ. Y participer est un acte de respect pour l'hospitalité reçue. Refuser ce dernier verre serait perçu comme une hâte déplaisante à quitter la table."
       },
       {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
+        "question": "Que désignait le «kukhonny razgovor» (кухонный разговор) en URSS ?",
         "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
+          "Les recettes traditionnelles transmises oralement dans les cuisines",
+          "Les discussions libres et sincères dans les petites cuisines d'appartement, seuls espaces privés",
+          "Les réunions du Parti organisées dans les cantines d'usine",
+          "Les cours de cuisine collective dans les foyers soviétiques"
         ],
         "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
-      },
-      {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
-        "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
-        ],
-        "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "Le «kukhonny razgovor» (conversation de cuisine) désignait sous l'URSS les discussions privées qui se tenaient dans les petites cuisines des appartements communaux ou collectifs. C'était l'un des seuls espaces où les Soviétiques pouvaient parler librement, hors de la surveillance du régime."
       }
     ]
   },
@@ -157,139 +162,139 @@
     "module_title": "Русская гастрономия",
     "lesson_title": "Русский стол — коды и ритуалы",
     "lesson_subtitle": "Приглашения, тосты, запрещённые жесты",
-    "intro": "Этот урок посвящён теме «Русский стол — коды и ритуалы» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Быть приглашённым к русскому столу — одна из самых ценных привилегий, которую путешественник или экспат может получить. Русский стол — не просто место для еды: это ритуальное пространство, где разыгрываются гостеприимство, доверие, идентичность и отношения. Знание его кодов поможет не только избежать промахов, но и по-настоящему участвовать в том, что глубоко важно для ваших хозяев.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Русский стол — коды и ритуалы»",
-        "body": "Тема «Русский стол — коды и ритуалы» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Русский стол сквозь века",
+        "body": "Ритуал русского стола сложился из нескольких исторических пластов. Православная традиция установила насыщенный постный календарь — более 180 постных дней в году по традиционному русскому церковному укладу, — структурировавший кулинарные ритмы и создавший чередование изобилия и воздержания.\n\nИмператорская эпоха принесла французское и европейское влияние на аристократический стол, сформировав двойной стандарт: изысканная придворная кухня и скромная крестьянская. Эти две культуры сосуществовали и частично смешались, оставив следы в современных практиках.\n\nСоветская эпоха прославила коллективный стол — заводскую столовую, корпоратив — и одновременно заново изобрела праздничные традиции: застолья Нового года и 8 марта. Эти поводы стали светскими ритуалами, по сей день структурирующими русский социальный календарь."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Региональные вариации застольных ритуалов",
+        "body": "Застольные коды варьируются в зависимости от региона и социальной среды. В аристократических или интеллектуальных кругах Москвы и Санкт-Петербурга стол может быть более сдержанным, с заметным европейским влиянием на сервировку и манеры. В народной среде и в провинции первенство отдаётся изобилию и щедрости.\n\nВ мусульманских республиках (Татарстан, Башкортостан, Чечня) застольные коды иные: алкоголь отсутствует или маргинален, блюда другие, а некоторые ритуалы тостов заменены иными формами общения. Путешественник, знающий эти различия, всегда будет принят лучше.\n\nРусская диаспора — многочисленная в Германии, Израиле, США, Франции — нередко хранит более консервативные застольные традиции, чем россияне в самой России. Встреча с русским из-за рубежа может дать образ кулинарной культуры 1990-х, а не сегодняшней."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Русский стол — коды и ритуалы» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Стол как политическое пространство",
+        "body": "В России стол — также политическое пространство: серьёзные разговоры, доверительные признания и политические высказывания традиционно происходят за едой. «Кухонный разговор» обозначал в СССР частные беседы в небольших кухнях — единственных пространствах, где можно было говорить свободно.\n\nЭта культура «говорить правду за столом» сохраняется: многие русские проводят чёткую границу между публичными высказываниями и тем, что говорят за столом с доверенными людьми. Быть приглашённым разделить эту интимность — значимый знак доверия.\n\nКорпоративы — особая русская институция: праздничные застолья, организуемые компаниями, смешивающие профессиональную иерархию и личное общение так, как французы порой находят сбивающим с толку. Неформальные правила этих вечеров (кто где сидит, кто говорит первым, как вести себя с начальством) — сложная система."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Русский стол — коды и ритуалы» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Приглашение в гости: практические коды",
+        "body": "Приглашение к русским предполагает несколько важных практических правил. Никогда не приходят с пустыми руками — цветы (в нечётном количестве: чётное число для похорон), коробка конфет, бутылка вина или торт — минимум. Подарки не обязательно открывают при дарителе: русская традиция — открывать позже.\n\nПунктуальность трактуется иначе: прийти точно или раньше времени может смутить хозяина, ещё готовящего стол. Опоздание на 15–20 минут приемлемо и даже ожидаемо во многих кругах. Опоздание более чем на час без предупреждения — невежливо.\n\nВопрос «ты наелся/наелась?», задаваемый настойчиво, — не настоящий вопрос, а приглашение добавить ещё и выражение гостеприимства. Несколько раз ответив «спасибо, я сыт», вас в конце концов поймут — но поначалу хозяин будет предлагать снова."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Русский стол — коды и ритуалы». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Русский стол в культуре",
+        "body": "Русский стол как пространство общения и совместного переживания — сквозная тема всей русской культуры. В литературе застольные сцены у Толстого, Чехова и Булгакова нередко становятся моментами наибольшего драматического напряжения: именно за столом происходят признания, решения, разрывы и примирения.\n\n«Застолье» — буквально «то, что за столом», то есть праздничная атмосфера вокруг трапезы, — центральное культурное понятие, которое русские вспоминают с ностальгией. Хорошее застолье сочетает вкусную еду, хорошие напитки, добрую компанию, красивые песни и глубокие разговоры — всё это в смешении, которое нельзя спланировать заранее.\n\nРусская традиция петь за столом особенно сильна. Народные песни, романсы XIX века и советские военные песни — общий репертуар, который русские всех поколений могут запеть за столом спонтанно. Это одно из самых трогательных переживаний, доступных в России."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Русский стол — коды и ритуалы» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Коды, которые нужно знать, и ошибки, которых нужно избегать",
+        "body": "Русские тосты подчиняются иерархии: первый тост — за хозяином, следующие — за разными людьми и темами. Гости могут предлагать тосты в течение вечера, но не должны брать инициативу раньше, чем хозяин задаст тон. Хороший тост — небольшое искреннее слово на 30 секунд — 2 минуты: не слишком короткое (небрежность) и не слишком длинное (скука).\n\nЖесты, которых следует избегать за столом: поставить пустую бутылку на стол (морская традиция, приносящая несчастье — пустые бутылки ставят на пол или под стол), свистеть в помещении (по суеверию — к финансовым потерям), самому тянуться к бутылке, чтобы налить себе (хозяин наливает гостям).\n\n«Посошок» — последняя рюмка перед уходом гостей — традиционный финальный тост. Отказаться от него было бы воспринято как неприятная спешка покинуть стол. Даже если устали или торопитесь — участвуйте в этом завершающем моменте: это знак уважения к принятому гостеприимству."
       }
     ],
     "conseil_ami": {
       "title": "Совет путешественника",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Русский стол — коды и ритуалы» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Подготовьте искренний тост.** Если вас пригласили на русское застолье, заранее придумайте тост на 30 секунд — 1 минуту, который сможете произнести по-русски или по-французски (с переводом). Тост, прославляющий русско-французскую дружбу или отмечающий гостеприимство хозяев, будет принят очень тепло.\n\n**Не старайтесь всё доесть.** Обилие русского стола — приглашение попробовать, а не доедать. Вы не обязаны опустошать тарелку: есть с удовольствием и ценить каждое блюдо важнее количества.\n\n**Оставайтесь до конца.** Уйти с русского застолья слишком рано — худший способ поблагодарить хозяина. Если нужно уйти, скажите об этом при приходе («мне нужно уйти в 22:00») — это позволит хозяину выстроить вечер. В противном случае оставайтесь на посошок."
     },
     "glossary": [
       {
-        "term": "Русский стол — коды и ритуалы",
-        "definition": "Центральное понятие этого урока — русский стол — коды и ритуалы в контексте современной России."
-      },
-      {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
-      },
-      {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
-      },
-      {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
-      },
-      {
         "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "definition": "Буквально «то, что за столом» — праздничная атмосфера хорошего русского застолья: еда, напитки, разговор, песни и человеческое тепло."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Корпоратив",
+        "definition": "Корпоративное застолье — русская институция, где профессиональная иерархия и личное общение смешиваются на праздничных мероприятиях компании."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Посошок",
+        "definition": "«Посошок путника» — традиционная последняя рюмка перед уходом гостей. Участие в этом тосте — знак уважения к принятому гостеприимству."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Кухонный разговор",
+        "definition": "Советский термин для откровенных частных бесед на кухне — одном из немногих пространств свободного слова в СССР."
+      },
+      {
+        "term": "Гостеприимство",
+        "definition": "Русское гостеприимство — центральная ценность, главным выражением которой служит стол. Быть негостеприимным за столом — одна из худших невежливостей."
+      },
+      {
+        "term": "Народные песни",
+        "definition": "Русские народные песни — общий репертуар, который русские всех поколений спонтанно поют за праздничным столом."
+      },
+      {
+        "term": "Накормить до отвала",
+        "definition": "«Накормить до отвала» — выражение, обозначающее идеал русского гостеприимства: накормить гостей до полного насыщения."
+      },
+      {
+        "term": "Нечётное число",
+        "definition": "Нечётное число — цветы в подарок в России должны быть в нечётном количестве. Чётное число предназначено для похорон."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Русский стол — коды и ритуалы». Какова медианная зарплата в России?",
+        "question": "Что обозначает понятие «застолье» по-русски?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "Список блюд традиционного русского обеда",
+          "Праздничную атмосферу хорошего застолья — еду, напитки, разговор и песни",
+          "Формальный французский сервис, адаптированный к русской кухне",
+          "Традицию есть стоя на православных церемониях"
+        ],
+        "answer": 1,
+        "explanation": "«Застолье» обозначает общую праздничную атмосферу хорошего русского стола — смешение вкусной еды, хороших напитков, доброй компании, песен и глубоких разговоров. Это центральное культурное понятие, которое русские вспоминают с ностальгией."
+      },
+      {
+        "question": "Какого жеста за столом в России следует обязательно избегать?",
+        "options": [
+          "Ставить локти на стол",
+          "Пробовать все блюда, не доедая ни одного",
+          "Ставить пустую бутылку на стол (морская примета, приносящая несчастье)",
+          "Говорить с набитым ртом в смешанной компании"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "Поставить пустую бутылку на стол считается плохой приметой — по старой морской традиции. Пустые бутылки ставят на пол или под стол. Это одно из наиболее соблюдаемых застольных суеверий в России."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Сколько цветов нужно принести в подарок хозяевам в России?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Чётное число — символ равновесия и процветания",
+          "Всегда двенадцать — по числу месяцев",
+          "Нечётное число — чётное предназначено для похорон",
+          "Количество цветов в России не имеет значения"
         ],
         "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
+        "explanation": "Цветы в подарок в России должны быть в нечётном количестве (1, 3, 5, 7...). Чётное число строго ассоциируется с похоронами и соболезнованиями. Преподнести чётное число цветов живым хозяевам — серьёзная оплошность."
       },
       {
-        "question": "Что означает «блат» в российском обществе?",
+        "question": "Что такое «посошок» в русской традиции?",
         "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Первый тост в начале застолья",
+          "Последний тост, предлагаемый гостям перед уходом",
+          "Сладкое блюдо в конце трапезы",
+          "Традиция троекратного объятия при прощании"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
+        "explanation": "Посошок («маленькая палочка путника») — традиционный последний тост перед уходом гостей. Участие в нём — знак уважения к принятому гостеприимству. Отказаться от этой рюмки воспримут как неприятное желание поскорее уйти."
       },
       {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
+        "question": "Что обозначал «кухонный разговор» в СССР?",
         "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
+          "Устно передаваемые рецепты на кухне",
+          "Откровенные частные беседы на маленьких кухнях квартир — одном из немногих свободных пространств",
+          "Партийные собрания, организуемые в заводских столовых",
+          "Уроки коллективной готовки в советских общежитиях"
         ],
         "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
-      },
-      {
-        "question": "Какой главный разлом структурирует современное российское общество?",
-        "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
-        ],
-        "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "«Кухонный разговор» в СССР обозначал частные беседы, которые вели на кухнях коммунальных или обычных квартир. Это было одно из немногих мест, где советские люди могли говорить свободно, вне надзора режима."
       }
     ]
   }
