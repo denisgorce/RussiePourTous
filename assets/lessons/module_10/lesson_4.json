@@ -4,292 +4,296 @@
     "lesson_id": 4,
     "module_icon": "🤝",
     "lesson_icon": "🏪",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "estimated_minutes": 13,
+    "difficulty": "débutant",
     "sources": [
       {
         "label": "Encyclopædia Universalis — Russie",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "Routard — Russie pratique",
+        "url": "https://www.routard.com/guide/russie/"
       }
     ]
   },
   "fr": {
     "module_title": "Codes Sociaux & Savoir-Vivre",
     "lesson_title": "Commerces, Marchés et Lieux publics",
-    "lesson_subtitle": "Comment se comporter dans la vie quotidienne",
-    "intro": "Cette leçon explore commerces, marchés et lieux publics dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "lesson_subtitle": "Comment se comporter dans la vie quotidienne russe",
+    "intro": "La Russie quotidienne — les marchés, les magasins, les transports, les administrations — a ses propres codes que le voyageur découvre parfois à ses dépens. Ni meilleures ni pires que les codes français, ces façons de faire sont simplement différentes. Les connaître transforme une expérience de dépaysement en une immersion enrichissante.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de commerces, marchés et lieux publics",
-        "body": "La thématique de commerces, marchés et lieux publics s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "Les marchés russes — rynok et bazar",
+        "body": "Les marchés (*rynok*, рынок au sens de marché alimentaire couvert ; *bazar*, базар au sens de marché en plein air) sont des institutions sociales au coeur de la vie russe. Le plus célèbre de Moscou est le marché **Dorogomilovsky** (Дорогомиловский рынок), immense marché couvert à deux pas de la gare de Kiev, où se côtoient vendeurs de fromages artisanaux, champignons séchés, viandes fumées, herbes du Caucase et poissons sibériens.\n\nComportement au marché : contrairement à un supermarché, le marché russe suppose une **interaction directe** avec le vendeur. On ne touche pas les produits sans demander — on indique ce qu'on veut et le vendeur le choisit. Il est normal de demander à goûter (*poprobovat'*, попробовать) avant d'acheter, notamment les fromages, le miel et les fruits secs.\n\nLa **négociation** (*torg*, торг) est admise dans certains marchés, notamment les marchés aux puces (*tolkuchka*, толкучка ou *bazar*) et les marchés touristiques (comme Izmailovsky à Moscou). Dans les marchés alimentaires ordinaires, le prix est généralement fixe — insistez à demander s'il y a un prix «pour les amis» (*po-druzheski*, по-дружески) si vous êtes un habitué."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Les supermarchés et magasins — codes pratiques",
+        "body": "Les supermarchés russes (*supermarket*, супермаркет) fonctionnent de façon similaire aux supermarchés français — mais avec quelques différences notables.\n\nLes principales chaînes : **Magnit** (Магнит — le plus grand distributeur de Russie, présent même dans les petites villes), **X5 Retail Group** (avec Perekrestok, Pyaterochka), **Lenta** (format hypermarché), **Azbuka Vkusa** (épiceries premium à Moscou — l'équivalent de Monoprix haut de gamme).\n\nLe poids à la caisse : en Russie, contrairement à la France, on peut souvent peser soi-même les fruits et légumes en rayon avec des balances automatiques (*vesy*, весы) et coller l'étiquette de prix. Si vous ne le faites pas, la caissière renverra le produit et cela créera une file d'attente.\n\nLes **sacs plastiques** sont disponibles à la caisse pour quelques roubles — comme en France depuis 2016. Beaucoup de Russes apportent leur propre sac (*sumka*, сумка). Les **caisses automatiques** (самообслуживание) se développent rapidement dans les grandes villes.\n\nSur le paiement : depuis 2022, les cartes étrangères ne fonctionnent plus. Prévoyez du cash ou utilisez les solutions alternatives (paiement en crypto, transferts via banques non-sanctionnées)."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de commerces, marchés et lieux publics est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "Les transports publics — codes et étiquette",
+        "body": "Les transports publics russes fonctionnent avec leur propre code d'étiquette, distinct du métro (traité en module 6).\n\nLes **marshrutki** (*marshrutka*, маршрутка — minibus collectifs) sont la forme de transport la plus caractéristique et la plus déroutante pour un étranger. Ces minibus privés circulent sur des itinéraires fixes mais s'arrêtent à la demande. On paie en glissant l'argent de la main en main vers le chauffeur (*peredayte pozhaluysta* — передайте пожалуйста — faites passer s'il vous plaît). La monnaie revient par le même chemin. Ce système de circulation de l'argent à travers les passagers est un acte de confiance sociale quotidien.\n\nDans les **tramways et bus**, céder sa place reste une norme stricte. La priorité : personnes âgées > femmes enceintes > femmes avec enfants > personnes handicapées > tous les autres. Ne pas céder sa place dans ces situations est une faute sociale visible et remarquée.\n\nLes **taxis** (Yandex.Go est l'application dominante) se commandent via application — plus fiables et moins chers qu'en héler un dans la rue. Le règlement se fait par carte in-app ou en espèces. La conversation avec le chauffeur de taxi est souvent très instructive — les chauffeurs russes ont des opinions tranchées sur tout."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de commerces, marchés et lieux publics, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "Les administrations russes — patience et pragmatisme",
+        "body": "Avoir affaire à une administration russe est une expérience qui peut tester votre patience, mais qui révèle aussi des aspects fascinants de la bureaucratie russe — héritière directe du modèle soviétique.\n\nLes **files d'attente** (*ochered'*, очередь) sont une institution russe. Sous l'URSS, les queues pour obtenir des produits rares duraient des heures — les Russes ont développé une culture de la file d'attente rigoureuse (ne pas doubler), mais aussi un art de l'attente stoïque. Aujourd'hui, les administrations les plus fréquentées (ZAGS, UFMS pour les visas) peuvent encore avoir de longues files.\n\nLe **paradoxe de la bureaucratie russe** : des règles formelles très strictes coexistent avec une flexibilité informelle considérable. La règle officielle dit non — mais la personne derrière le guichet peut dire oui si vous lui expliquez votre situation avec le bon ton, si quelqu'un vous a recommandé, ou si vous avez les bons contacts. Ce n'est pas de la corruption — c'est la marge discrétionnaire individuelle qui coexiste avec le cadre formel.\n\nLa **politesse formelle** est importante avec les fonctionnaires russes : «Вы не могли бы мне помочь ?» (Vy ne mogli by mne pomoch' ? — Pourriez-vous m'aider ?) est bien plus efficace que d'exiger ou d'insister de façon directe."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre commerces, marchés et lieux publics. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "La rue et les espaces publics",
+        "body": "La vie dans l'espace public russe a ses codes particuliers, souvent surprenants pour un Français habitué à une certaine convivialité spontanée.\n\n**L'absence de sourire spontané** dans les rues et les magasins est la première chose que les Français remarquent — traitée en détail dans le module 4. Rappelons l'essentiel : ce n'est pas de l'impolitesse, c'est la norme de l'espace public russe.\n\nLes **parcs et jardins** sont des espaces sociaux très fréquentés et très investis en Russie — pique-niques, jeux, rencontres. Gorky Park à Moscou, le Champ de Mars à Saint-Pétersbourg sont des lieux de vie sociale intense. La culture de l'espace vert est forte, notamment pour les familles avec enfants.\n\nLes **restaurants russes** ont leur propre code : on est souvent placé par un serveur (*metrdotel'*, метрдотель), même si le restaurant est à moitié vide — arriver sans réservation peut poser problème dans les bons restaurants moscovites. Le pourboire (*chaevye*, чаевые) est de 10% dans les établissements corrects, jusqu'à 15% dans les restaurants gastronomiques. On ne partage pas l'addition (*schot'*, счёт) — un convive prend généralement tout, ou on se répartit entre deux ou trois personnes."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à commerces, marchés et lieux publics à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Marchés gourmands — que manger et comment",
+        "body": "Le marché alimentaire russe est une des expériences gustatives les plus riches qui soit. Voici un guide pratique pour en profiter au maximum.\n\n**Ce qu'on déguste au marché** : le miel (*myod*, мёд) — demandez à goûter plusieurs variétés (tilleul, sarrasin, acacia) et achetez directement chez l'apiculteur. Les fromages artisanaux (*syr*, сыр) — notamment les fromages caucasiens (suluguni, adygueïsky) et les fromages à pâte dure de Sibérie. Les champignons séchés (*sushyonye griby*, сушёные грибы) — un des produits les plus savoureux, à ramener en France : cèpes, chanterelles, lactaires délicieux.\n\nLes **épices et herbes du Caucase** : *hops-suneli* (houblon de la Sunnah, mélange géorgien), *adjika* (purée de piment-ail), *utskho-suneli* (fenugrec bleu), *saffron from Abkhazia* — toutes disponibles en vrac dans les marchés. Ces épices transforment votre cuisine française.\n\nLe **caviar rouge** (*krasnaya ikra*, красная икра) — dans les marchés du Pacifique ou directement en bocaux dans les grandes villes — est un achat incontournable : moins cher qu'en France, plus frais, d'une qualité souvent supérieure. Accompagné d'un blini et d'une noisette de crème fraîche, il constitue un hors-d'oeuvre d'exception."
       }
     ],
     "conseil_ami": {
-      "title": "Le Conseil du Voyageur",
+      "title": "Le Conseil du Voyageur 🤝",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder commerces, marchés et lieux publics avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "Au marché Dorogomilovsky à Moscou, commencez toujours par le tour complet avant d'acheter quoi que ce soit — les prix et la qualité varient selon les stands. Repérez les vendeurs qui proposent à goûter spontanément — ce sont souvent les meilleurs.\n\nPour les mushrutki : ayez toujours des billets de faible valeur (20, 50, 100 roubles) — demander de la monnaie sur un billet de 1000 roubles dans une mashrutka bondée est très malvenu.\n\nSur les restaurants : toujours réserver la veille dans les bons restaurants moscovites, surtout le week-end. Les restaurants russes ont une culture d'attente plus stricte qu'en France — arriver très en retard sans prévenir peut vous coûter votre table."
     },
     "glossary": [
       {
-        "term": "Commerces, Marchés et Lieux publics",
-        "definition": "Concept central de cette leçon — commerces, marchés et lieux publics dans le contexte de la Russie contemporaine."
+        "term": "Rynok (Рынок)",
+        "definition": "Marché couvert alimentaire russe. Interaction directe avec le vendeur obligatoire. On peut demander à goûter avant d'acheter."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Marshrutka (Маршрутка)",
+        "definition": "Minibus collectif privé sur itinéraire fixe. On passe l'argent de main en main vers le chauffeur. Institution des transports russes."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Magnit (Магнит)",
+        "definition": "Plus grand distributeur alimentaire de Russie. Présent même dans les petites villes."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Ochered' (Очередь)",
+        "definition": "La file d'attente — institution russe héritée du soviétisme. Culture stricte (ne pas doubler), art de l'attente stoïque."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Chaevye (Чаевые)",
+        "definition": "Le pourboire — 10% dans un restaurant correct, 15% dans un gastronomique. L'addition n'est généralement pas divisée."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Krasnaya ikra (Красная икра)",
+        "definition": "Caviar rouge — achat incontournable dans les marchés russes. Moins cher, plus frais et souvent meilleur qu'en France."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Hops-suneli (Хмели-сунели)",
+        "definition": "Mélange d'épices géorgiennes omniprésent dans la cuisine du Caucase. À acheter en vrac dans les marchés russes."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Azbuka Vkusa (Азбука вкуса)",
+        "definition": "Chaîne d'épiceries premium moscovites — équivalent de Monoprix haut de gamme. Excellente sélection de produits russes et internationaux."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Commerces, Marchés et Lieux publics'. Quel est le salaire médian en Russie ?",
+        "question": "Comment se comporte-t-on avec un vendeur dans un marché alimentaire russe ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "On se sert soi-même librement comme dans un supermarché",
+          "On indique ce qu'on veut, le vendeur choisit — on peut demander à goûter avant d'acheter",
+          "On présente une liste écrite de ses achats",
+          "On paye d'abord et on reçoit ensuite les produits"
+        ],
+        "answer": 1,
+        "explanation": "Dans les marchés russes, on ne touche pas les produits directement — on indique ce qu'on veut au vendeur qui le choisit. Il est normal et attendu de demander à goûter (fromages, miel, fruits secs) avant d'acheter."
+      },
+      {
+        "question": "Qu'est-ce qu'une marshrutka ?",
+        "options": [
+          "Un taxi collectif réservé aux touristes",
+          "Un minibus privé collectif sur itinéraire fixe où l'argent circule de main en main vers le chauffeur",
+          "Un bus de nuit dans les grandes villes",
+          "Un service de livraison de courses à domicile"
+        ],
+        "answer": 1,
+        "explanation": "La marshrutka est un minibus privé collectif sur itinéraire fixe, qui s'arrête à la demande. On passe son argent de passager en passager vers le chauffeur — un acte de confiance sociale quotidien caractéristique de la vie russe."
+      },
+      {
+        "question": "Quel est le paradoxe de la bureaucratie russe ?",
+        "options": [
+          "Les règles sont flexibles mais les fonctionnaires sont toujours aimables",
+          "Des règles formelles très strictes coexistent avec une flexibilité informelle considérable selon la personne et les relations",
+          "Il n'existe pas de règles formelles — tout est informel",
+          "Les règles écrites ne sont jamais respectées"
+        ],
+        "answer": 1,
+        "explanation": "Le paradoxe russe : règles formelles très strictes + flexibilité informelle selon la personne. La règle officielle dit non, mais la personne peut dire oui si vous avez le bon ton, les bons contacts, ou si quelqu'un vous a recommandé."
+      },
+      {
+        "question": "Quel est le pourboire standard dans un restaurant russe correct ?",
+        "options": [
+          "Aucun pourboire — inclus dans l'addition",
+          "5% — très modéré",
+          "10% du montant total",
+          "20% comme aux États-Unis"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "Le pourboire standard en Russie est de 10% dans un restaurant correct, 15% dans un gastronomique. L'addition est généralement payée par un convive plutôt que divisée."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Quel est l'achat le plus recommandé dans les marchés russes à rapporter en France ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Les matriochkas — poupées russes décoratives",
+          "Les champignons séchés, le miel, les épices caucasiennes et la krasnaya ikra (caviar rouge)",
+          "Les icônes soviétiques vintage",
+          "Les alcools russes (vodka, cognac arménien)"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
-      },
-      {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
-        "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
-        ],
-        "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
-      },
-      {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
-        "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
-        ],
-        "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "Champignons séchés (cèpes, chanterelles), miel (plusieurs variétés), épices caucasiennes (hops-suneli, adjika) et krasnaya ikra (caviar rouge) sont les meilleurs achats alimentaires à rapporter — originaux, savoureux et introuvables facilement en France."
       }
     ]
   },
   "ru": {
     "module_title": "Социальные коды и этикет",
     "lesson_title": "Магазины, рынки и общественные места",
-    "lesson_subtitle": "Как вести себя в повседневной жизни",
-    "intro": "Этот урок посвящён теме «Магазины, рынки и общественные места» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "lesson_subtitle": "Как вести себя в российской повседневной жизни",
+    "intro": "Российская повседневность — рынки, магазины, транспорт, учреждения — имеет собственные коды, которые путешественник порой открывает ценой неловкости. Ни лучше, ни хуже французских — просто другие. Знать их превращает опыт чужбины в обогащающее погружение.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Магазины, рынки и общественные места»",
-        "body": "Тема «Магазины, рынки и общественные места» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Российские рынки — рынок и базар",
+        "body": "Рынки (*рынок*, крытый продовольственный; *базар*, открытый) — социальные институты в центре российской жизни. Самый известный в Москве — **Дорогомиловский рынок**, огромный крытый рынок у Киевского вокзала, где соседствуют фермерские сыры, сушёные грибы, копчёное мясо, кавказские травы и сибирская рыба.\n\nПоведение на рынке: в отличие от супермаркета, российский рынок предполагает прямое взаимодействие с продавцом. Товары не трогают без спроса — указывают, что нужно, и продавец выбирает. Нормально попросить попробовать перед покупкой — особенно сыры, мёд, сухофрукты.\n\n**Торг** уместен на некоторых рынках — блошиных (*толкучка*, *базар*) и туристических (как Измайловский в Москве). На обычных продовольственных рынках цена, как правило, фиксированная — можно спросить, есть ли цена «по-дружески» для постоянных покупателей."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Супермаркеты и магазины — практические коды",
+        "body": "Российские супермаркеты работают схоже с французскими — с рядом заметных отличий.\n\nГлавные сети: **Магнит** (крупнейший российский ретейлер, присутствует даже в малых городах), **X5 Retail Group** (Перекрёсток, Пятёрочка), **Лента** (формат гипермаркета), **Азбука Вкуса** (премиальные магазины в Москве — аналог дорогого «Монопри»).\n\nВес на кассе: в России, в отличие от Франции, нередко можно самостоятельно взвесить фрукты и овощи в зале на автоматических весах и наклеить ценник. Если не сделать это, кассир отправит товар назад, что создаст очередь.\n\n**Пластиковые пакеты** доступны на кассе за несколько рублей. Многие россияне приносят свою сумку. **Кассы самообслуживания** быстро развиваются в крупных городах.\n\nОб оплате: с 2022 года иностранные карты не работают. Предусмотрите наличные или используйте альтернативные решения."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Магазины, рынки и общественные места» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Общественный транспорт — коды и этикет",
+        "body": "Российский общественный транспорт работает со своим кодом этикета, отличным от метро (рассмотренного в модуле 6).\n\n**Маршрутки** — самый характерный и сбивающий с толку иностранца вид транспорта. Эти частные микроавтобусы ходят по фиксированным маршрутам, но останавливаются по требованию. Платят, передавая деньги из рук в руки к водителю («передайте пожалуйста»). Сдача возвращается тем же путём. Эта система передачи денег через пассажиров — повседневный акт социального доверия.\n\nВ **трамваях и автобусах** уступать место — жёсткая норма. Приоритет: пожилые > беременные > женщины с детьми > люди с ограниченными возможностями > все остальные. Не уступить место в этих ситуациях — заметный и замечаемый социальный проступок.\n\n**Такси** (Яндекс.Go — доминирующее приложение) вызывают через приложение: надёжнее и дешевле, чем останавливать на улице. Разговор с водителем такси нередко очень познавателен — российские таксисты имеют острые мнения обо всём."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Магазины, рынки и общественные места» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Российские учреждения — терпение и прагматизм",
+        "body": "Иметь дело с российским учреждением — опыт, способный испытать ваше терпение, но и обнажающий захватывающие аспекты российской бюрократии — прямой наследницы советской модели.\n\n**Очереди** — российский институт. При СССР очереди за дефицитными товарами длились часами; россияне выработали строгую культуру очереди (не лезть без очереди) и искусство стоического ожидания. Сегодня в самых посещаемых учреждениях (ЗАГС, УФМС по визам) всё ещё могут быть длинные очереди.\n\n**Парадокс российской бюрократии**: очень строгие формальные правила сосуществуют со значительной неформальной гибкостью. Официальное правило говорит «нет» — но человек за окошком может сказать «да», если объяснить ситуацию нужным тоном, если вас рекомендовали или есть нужные связи. Это не коррупция — это индивидуальное дискреционное пространство в сочетании с формальными рамками.\n\n**Формальная вежливость** важна с российскими чиновниками: «Вы не могли бы мне помочь?» куда эффективнее, чем требования или прямая настойчивость."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Магазины, рынки и общественные места». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Улица и общественные пространства",
+        "body": "Жизнь в российском общественном пространстве имеет особые коды, нередко удивляющие француза, привыкшего к определённой спонтанной общительности.\n\n**Отсутствие спонтанной улыбки** на улицах и в магазинах — первое, что замечают французы: это подробно рассмотрено в модуле 4. Напомним главное: не грубость, а норма российского публичного пространства.\n\n**Парки и скверы** — очень посещаемые и интенсивно используемые социальные пространства: пикники, игры, встречи. Горький парк в Москве, Марсово поле в Петербурге — места насыщенной социальной жизни. Культура зелёных пространств сильна, особенно для семей с детьми.\n\nВ **российских ресторанах** своя культура: нередко сажают метрдотель, даже если ресторан полупуст — прийти без брони в хороший московский ресторан может оказаться проблемой. Чаевые (*чаевые*) — 10% в обычных заведениях, до 15% в гастрономических. Счёт не делят: один оплачивает, или делятся между двумя-тремя."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Магазины, рынки и общественные места» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Гастрономические рынки — что есть и как",
+        "body": "Российский продовольственный рынок — один из богатейших вкусовых опытов. Практический путеводитель для максимального удовольствия.\n\n**Что пробовать на рынке**: мёд — попросите попробовать несколько сортов (липовый, гречневый, акациевый) и покупайте напрямую у пасечника. Фермерские сыры — особенно кавказские (сулугуни, адыгейский) и твёрдые сибирские. Сушёные грибы — один из самых вкусных продуктов, стоящих привезти во Францию: белые, лисички, рыжики.\n\n**Кавказские специи и травы**: хмели-сунели (грузинская смесь), аджика (паста из перца и чеснока), уцхо-сунели (голубой пажитник) — все доступны на развес на рынках. Эти специи преображают вашу французскую кухню.\n\n**Красная икра** — на дальневосточных рынках или в банках в крупных городах — обязательная покупка: дешевле, чем во Франции, свежее, нередко лучшего качества. С блином и кусочком сметаны — исключительная закуска."
       }
     ],
     "conseil_ami": {
-      "title": "Совет путешественника",
+      "title": "Совет путешественника 🤝",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Магазины, рынки и общественные места» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "На Дорогомиловском рынке в Москве всегда сначала обходите весь рынок, прежде чем что-то купить: цены и качество варьируются по прилавкам. Выбирайте продавцов, которые сами предлагают попробовать — они нередко лучшие.\n\nДля маршруток: всегда имейте мелкие купюры (20, 50, 100 рублей) — просить сдачу с тысячи в переполненной маршрутке очень неуместно.\n\nО ресторанах: всегда бронируйте накануне в хороших московских ресторанах, особенно в выходные. Культура ожидания в российских ресторанах строже, чем во Франции — опоздать сильно без предупреждения может стоить вам стола."
     },
     "glossary": [
       {
-        "term": "Магазины, рынки и общественные места",
-        "definition": "Центральное понятие этого урока — магазины, рынки и общественные места в контексте современной России."
+        "term": "Рынок",
+        "definition": "Российский крытый продовольственный рынок. Обязательное прямое взаимодействие с продавцом. Можно попросить попробовать перед покупкой."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Маршрутка",
+        "definition": "Частный маршрутный микроавтобус. Деньги передают из рук в руки к водителю. Институт российского транспорта."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Магнит",
+        "definition": "Крупнейший российский ретейлер. Присутствует даже в малых городах."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Очередь",
+        "definition": "Очередь — российский институт, унаследованный от советского времени. Строгая культура (не лезть без очереди), искусство стоического ожидания."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Чаевые",
+        "definition": "Чаевые — 10% в обычном ресторане, 15% в гастрономическом. Счёт, как правило, не делят."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Красная икра",
+        "definition": "Красная икра — обязательная покупка на российских рынках. Дешевле, свежее и нередко лучшего качества, чем во Франции."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Хмели-сунели",
+        "definition": "Грузинская смесь специй, повсеместно используемая в кавказской кухне. Стоит купить на развес на российских рынках."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Азбука вкуса",
+        "definition": "Сеть московских премиальных гастрономов — аналог дорогого «Монопри». Отличный выбор российских и международных продуктов."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Магазины, рынки и общественные места». Какова медианная зарплата в России?",
+        "question": "Как ведут себя с продавцом на российском продовольственном рынке?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "Самостоятельно берут продукты, как в супермаркете",
+          "Указывают, что нужно — продавец выбирает; можно попросить попробовать перед покупкой",
+          "Предъявляют письменный список покупок",
+          "Сначала платят, потом получают товар"
+        ],
+        "answer": 1,
+        "explanation": "На российских рынках продукты напрямую не трогают: указывают продавцу, что нужно, он выбирает. Нормально и ожидаемо попросить попробовать (сыры, мёд, сухофрукты) перед покупкой."
+      },
+      {
+        "question": "Что такое маршрутка?",
+        "options": [
+          "Коллективное такси для туристов",
+          "Частный маршрутный микроавтобус, где деньги передают из рук в руки к водителю",
+          "Ночной автобус в крупных городах",
+          "Служба доставки продуктов на дом"
+        ],
+        "answer": 1,
+        "explanation": "Маршрутка — частный маршрутный микроавтобус, останавливающийся по требованию. Деньги передают от пассажира к пассажиру к водителю — повседневный акт социального доверия, характерный для российской жизни."
+      },
+      {
+        "question": "В чём парадокс российской бюрократии?",
+        "options": [
+          "Правила гибкие, но чиновники всегда любезны",
+          "Очень строгие формальные правила сосуществуют со значительной неформальной гибкостью в зависимости от человека и связей",
+          "Формальных правил не существует — всё неформально",
+          "Писаные правила никогда не соблюдаются"
+        ],
+        "answer": 1,
+        "explanation": "Российский парадокс: очень строгие формальные правила + неформальная гибкость в зависимости от человека. Официальное правило говорит «нет», но человек может сказать «да» при нужном тоне, связях или рекомендации."
+      },
+      {
+        "question": "Каков стандартный размер чаевых в обычном российском ресторане?",
+        "options": [
+          "Чаевые не нужны — включены в счёт",
+          "5% — очень скромно",
+          "10% от суммы",
+          "20%, как в США"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "Стандартные чаевые в России — 10% в обычном ресторане, 15% в гастрономическом. Счёт как правило оплачивает один из компании, а не делится."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Что лучше всего купить на российских рынках, чтобы привезти во Францию?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Матрёшки — декоративные куклы",
+          "Сушёные грибы, мёд, кавказские специи и красная икра",
+          "Советские иконы vintaж",
+          "Российский алкоголь (водка, армянский коньяк)"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
-      },
-      {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
-        "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
-        ],
-        "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
-      },
-      {
-        "question": "Какой главный разлом структурирует современное российское общество?",
-        "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
-        ],
-        "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "Сушёные грибы (белые, лисички), мёд (несколько сортов), кавказские специи (хмели-сунели, аджика) и красная икра — лучшие гастрономические покупки: оригинальные, вкусные и труднодоступные во Франции."
       }
     ]
   }

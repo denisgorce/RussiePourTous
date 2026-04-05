@@ -8,8 +8,12 @@
     "difficulty": "intermédiaire",
     "sources": [
       {
-        "label": "Encyclopædia Universalis — Russie",
+        "label": "Encyclopædia Universalis — Avant-garde russe",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "Galerie Tretiakov — Collections nationales russes",
+        "url": "https://www.tretyakovgallery.ru/"
       }
     ]
   },
@@ -17,139 +21,139 @@
     "module_title": "Arts & Littérature",
     "lesson_title": "Peinture et Avant-garde russe",
     "lesson_subtitle": "Kandinsky, Malevitch, icônes",
-    "intro": "Cette leçon explore peinture et avant-garde russe dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "La Russie a produit deux des révolutions artistiques les plus radicales de l'histoire : la peinture d'icônes byzantine, qui a dominé l'art sacré européen pendant des siècles, et l'avant-garde russe du début du XXe siècle, qui a inventé l'abstraction et le constructivisme. Entre ces deux extrêmes, la peinture réaliste russe du XIXe siècle a créé un art national d'une puissance extraordinaire. Comprendre cet arc artistique, c'est comprendre les tensions entre tradition et modernité qui traversent toute la culture russe.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de peinture et avant-garde russe",
-        "body": "La thématique de peinture et avant-garde russe s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "Des icônes à l'avant-garde : mille ans de peinture russe",
+        "body": "La peinture russe commence avec les icônes byzantines, importées avec le christianisme orthodoxe depuis Constantinople au Xe siècle. L'icône (ikona, икона) n'est pas simplement un tableau religieux — c'est une «fenêtre sur le divin», un objet sacré dont les règles de composition (fond d'or, perspectives inversées, hiératisme des figures) obéissent à une théologie précise. Les icônes russes — notamment celles d'Andreï Roublev (vers 1360-1430), dont la Trinité est considérée comme l'une des plus grandes œuvres d'art de l'humanité — ont atteint un niveau de spiritualité et de beauté formelle incomparable.\n\nAu XIXe siècle, le mouvement des Ambulants (Peredvijniki) a créé un réalisme social russe puissant : Ilia Répine (les Bateliers de la Volga, Iouane le Terrible et son fils), Vassili Sourikov (les grandes fresques historiques), Ivan Chichkine (les paysages forestiers) ont peint la Russie avec une intensité documentaire et émotionnelle qui fait de leurs œuvres des monuments de la culture nationale.\n\nL'avant-garde russe (1910-1930) est probablement la révolution artistique la plus radicale du XXe siècle. Vassily Kandinsky invente l'abstraction lyrique, Kazimir Malevitch crée le suprématisme (le Carré noir, 1915 — le tableau le plus radical de l'histoire de l'art), Alexandre Rodtchenko développe le constructivisme. Ces artistes ne voulaient pas seulement révolutionner l'art — ils voulaient révolutionner la société entière."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Moscou, Saint-Pétersbourg et les grandes collections",
+        "body": "La Galerie Tretiakov à Moscou est le musée national d'art russe par excellence. Fondée par le marchand Pavel Tretiakov qui a commencé à collectionner l'art russe dans les années 1850, elle abrite aujourd'hui plus de 180 000 œuvres — des icônes médiévales aux peintures soviétiques en passant par les avant-gardes du XXe siècle. C'est un pèlerinage obligatoire pour comprendre l'art russe dans sa continuité.\n\nLe Musée de l'Ermitage à Saint-Pétersbourg est l'un des plus grands musées du monde avec plus de trois millions d'objets. Sa collection d'art occidental (impressionnistes français, Picasso, Matisse) est extraordinaire, mais sa collection d'art russe et de l'Asie centrale est tout aussi remarquable. Le Palais d'hiver où il est installé est lui-même un chef-d'œuvre de l'architecture baroque.\n\nL'avant-garde russe est paradoxalement mieux représentée dans des musées étrangers (MoMA à New York, Centre Pompidou à Paris, Stedelijk à Amsterdam) que dans les musées russes — parce que beaucoup d'œuvres ont été vendues ou emportées à l'étranger lors des années soviétiques difficiles. Ce patrimoine dispersé est une source de tension encore aujourd'hui dans les relations culturelles russo-occidentales."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de peinture et avant-garde russe est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "L'art soviétique et les tensions avec l'avant-garde",
+        "body": "La Révolution de 1917 a d'abord semblé offrir aux avant-gardistes russes l'occasion de mettre leur art au service d'une société nouvelle. Le Proletkult, les affiches de propagande constructivistes, le design soviétique des années 1920 — tout cela est issu de la collaboration entre artistes d'avant-garde et révolution politique. Des artistes comme El Lissitzky, Varvara Stepanova et Alexandre Rodtchenko ont cru sincèrement que l'art abstrait et le socialisme étaient compatibles.\n\nMais à partir de 1934, Staline impose le «réalisme socialiste» (sotsrealizm) comme seule esthétique officielle : l'art doit être compréhensible par le peuple, optimiste et célébratoire du socialisme. L'avant-garde est interdite, ses représentants marginalisés, emprisonnés ou contraints à l'exil intérieur. Des artistes comme Malevitch meurent dans la pauvreté ; d'autres comme Kandinsky et Chagall avaient déjà quitté la Russie.\n\nAujourd'hui, la Russie réhabilite son avant-garde comme patrimoine national : des expositions internationales célèbrent Kandinsky, Malevitch et Rodtchenko comme des figures mondiales. Mais cette réhabilitation est sélective — elle valorise l'universalisme artistique tout en minimisant le projet politique révolutionnaire qui l'accompagnait."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de peinture et avant-garde russe, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "L'art russe sur le marché mondial",
+        "body": "L'art russe est un marché important à l'échelle mondiale. Les grandes maisons de ventes (Sotheby's, Christie's, Bonhams) ont organisé pendant des décennies des ventes spécialisées «Art russe» qui attiraient des collectionneurs du monde entier, notamment des oligarques russes désireux d'acquérir leur patrimoine culturel. Cette dynamique a fait exploser les prix de certains artistes russes du XIXe et du début du XXe siècle.\n\nLes icônes représentent un marché particulier — à la fois patrimonial (certaines icônes anciennes sont classées monuments nationaux et ne peuvent quitter la Russie) et spéculatif (des icônes de qualité moyenne se vendent régulièrement à prix élevés). L'exportation illégale d'icônes anciennes est un problème réel que les douanes russes surveillent.\n\nDepuis les sanctions internationales de 2022, le marché de l'art russe s'est fragmenté : les grands collectionneurs russes ont été exclus des ventes internationales et certaines œuvres faisant l'objet de litiges ont été bloquées. Cette situation affecte aussi les musées russes, dont certains prêts à l'étranger ont été gelés."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre peinture et avant-garde russe. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "L'influence mondiale de l'avant-garde russe",
+        "body": "Le Carré noir de Malevitch (1915) est peut-être le tableau le plus radical de l'histoire de l'art — une toile carrée entièrement noire sur fond blanc, qui annonçait que la peinture devait recommencer à zéro. Ce geste fondateur a ouvert la voie à tout l'art conceptuel du XXe siècle. Sans Malevitch, il n'y aurait pas de Mondrian, pas de Rothko, pas d'art minimal américain.\n\nKandinsky est généralement crédité de l'invention de la peinture abstraite pure — ses aquarelles de 1910 sont les premières œuvres sans référence au monde réel. Son livre Du spirituel dans l'art (1911) est un texte fondateur de l'esthétique moderne, dans lequel il théorise les correspondances entre couleurs, formes et émotions.\n\nLe constructivisme russe a révolutionné le design graphique, la typographie, la photographie et l'architecture. Les affiches de Rodtchenko, les maquettes de Lissitzky, les photomontages de Klutsis ont créé un langage visuel dont les échos sont encore visibles dans la communication visuelle contemporaine du monde entier. Le Bauhaus allemand, qui a diffusé ces idées en Europe occidentale, était fortement influencé par l'avant-garde russe."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à peinture et avant-garde russe à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "L'art dans la vie culturelle russe contemporaine",
+        "body": "Les musées russes — Tretiakov, Ermitage, Musée Pouchkine des Beaux-Arts à Moscou — sont des institutions culturelles importantes dans la vie sociale russe. Les vernissages et expositions temporaires sont des événements mondains significatifs pour les milieux intellectuels et bourgeois de Moscou et Saint-Pétersbourg. Connaître les expositions en cours est un signe d'appartenance culturelle.\n\nLes icônes ont une place particulière dans les maisons russes ordinaires : beaucoup de familles russes orthodoxes ont un «coin rouge» (krasny ugol, красный угол) — un coin de la pièce principale où sont placées des icônes avec une petite lampe à huile (lampada). Cette pratique survit même dans des familles qui se considèrent peu religieuses — l'icône est autant un objet culturel qu'un objet de dévotion.\n\nL'art contemporain russe est un sujet de débat vif. Des artistes comme Ilja et Emilia Kabakov (reconnus mondialement), Oleg Kulik ou AES+F ont développé un art conceptuel et souvent satirique qui reflète la complexité de la société russe post-soviétique. Ces artistes travaillent souvent depuis l'étranger, ce qui est lui-même un marqueur des ambivalences de la culture russe contemporaine."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil du Voyageur",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder peinture et avant-garde russe avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Consacrez une journée à la Galerie Tretiakov.** C'est peut-être la journée culturellement la plus dense que vous puissiez passer en Russie. Préparez votre visite en connaissant quelques œuvres clés (la Trinité de Roublev, les Bateliers de la Volga de Répine, quelques œuvres d'avant-garde) pour ne pas être submergé.\n\n**Regardez les icônes de près.** Si vous visitez une église orthodoxe, prenez le temps d'observer les icônes dans leur contexte de dévotion — la lumière des cierges, les fidèles qui s'approchent pour les embrasser. Cette dimension vivante de l'icône est très différente de leur présentation muséale.\n\n**Posez la question de Malevitch.** «Qu'est-ce que le Carré noir vous inspire ?» est une question qui révèle immédiatement la culture artistique de votre interlocuteur russe et peut ouvrir une conversation fascinante sur l'art, la révolution et la Russie."
     },
     "glossary": [
       {
-        "term": "Peinture et Avant-garde russe",
-        "definition": "Concept central de cette leçon — peinture et avant-garde russe dans le contexte de la Russie contemporaine."
+        "term": "Ikona (Икона)",
+        "definition": "Icône — image sacrée de la tradition orthodoxe, «fenêtre sur le divin». Les règles de composition (fond d'or, perspectives inversées) obéissent à une théologie précise."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Peredvijniki (Передвижники)",
+        "definition": "Les Ambulants — mouvement de peinture réaliste russe du XIXe siècle qui organisait des expositions itinérantes et peignait la réalité sociale russe avec un engagement critique."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Suprématisme (Супрематизм)",
+        "definition": "Mouvement artistique créé par Malevitch — abstraction géométrique pure (carré, cercle, croix) qui cherche à atteindre «la suprémacie de la sensation pure» au-delà de tout référent réel."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Constructivisme (Конструктивизм)",
+        "definition": "Mouvement artistique russe post-révolutionnaire — art au service de la société nouvelle, influençant le design graphique, l'architecture et la typographie dans le monde entier."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Carré noir (Чёрный квадрат)",
+        "definition": "Tableau de Malevitch (1915) — carré noir sur fond blanc, considéré comme l'œuvre la plus radicale de l'histoire de l'art et fondatrice de tout l'art conceptuel ultérieur."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Sotsrealizm (Соцреализм)",
+        "definition": "Réalisme socialiste — esthétique officielle imposée sous Staline (à partir de 1934) : art optimiste, compréhensible, au service de la propagande socialiste."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Galerie Tretiakov (Третьяковская галерея)",
+        "definition": "Musée national d'art russe à Moscou, fondé par Pavel Tretiakov — 180 000 œuvres couvrant dix siècles d'art russe, des icônes à l'art contemporain."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Krasny ugol (Красный угол)",
+        "definition": "Littéralement «coin rouge» ou «beau coin» — coin de la pièce principale dans une maison russe orthodoxe où sont placées les icônes avec une lampada (petite lampe à huile)."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Peinture et Avant-garde russe'. Quel est le salaire médian en Russie ?",
+        "question": "Quel tableau de Malevitch est considéré comme l'œuvre la plus radicale de l'histoire de l'art ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "La Composition suprématiste (1916)",
+          "Le Carré noir (1915)",
+          "Le Carré blanc sur fond blanc (1918)",
+          "La Croix rouge sur fond noir (1920)"
+        ],
+        "answer": 1,
+        "explanation": "Le Carré noir (1915) — une toile entièrement noire sur fond blanc — est considéré comme le geste artistique le plus radical de l'histoire de l'art. Malevitch déclarait que la peinture devait recommencer à zéro. Cette œuvre a ouvert la voie à tout l'art conceptuel et minimal du XXe siècle."
+      },
+      {
+        "question": "Qu'est-ce que le «coin rouge» (krasny ugol) dans une maison russe ?",
+        "options": [
+          "L'angle de la pièce principale réservé aux livres et à la culture",
+          "Le coin où sont placées les icônes avec une petite lampe à huile dans les foyers orthodoxes",
+          "L'espace de la cuisine où se tiennent les conversations familiales importantes",
+          "La partie de la maison orientée vers l'est selon la tradition architecturale orthodoxe"
+        ],
+        "answer": 1,
+        "explanation": "Le «krasny ugol» (coin rouge ou beau coin) est le coin de la pièce principale où une famille orthodoxe russe place ses icônes avec une lampada (petite lampe à huile). C'est le lieu de prière domestique, héritage de la tradition byzantine. «Krasny» signifiait «beau» en vieux russe avant de prendre le sens de «rouge»."
+      },
+      {
+        "question": "Pourquoi l'avant-garde russe est-elle paradoxalement mieux représentée dans des musées étrangers qu'en Russie ?",
+        "options": [
+          "Parce que les artistes d'avant-garde refusaient que leurs œuvres restent en Russie soviétique",
+          "Parce que beaucoup d'œuvres ont été vendues à l'étranger ou emportées lors des années soviétiques difficiles",
+          "Parce que l'État soviétique a délibérément exporté ces œuvres pour diffuser l'art révolutionnaire",
+          "Parce que les musées russes ne considèrent pas l'avant-garde comme un art national légitime"
+        ],
+        "answer": 1,
+        "explanation": "L'avant-garde russe est mieux représentée au MoMA, au Centre Pompidou et dans d'autres musées étrangers parce que beaucoup d'œuvres ont été vendues à l'étranger par des artistes ou des institutions pendant les années difficiles de l'ère soviétique. Ce patrimoine dispersé est une source de tensions dans les relations culturelles russo-occidentales."
+      },
+      {
+        "question": "Quel mouvement artistique allemand a été fortement influencé par l'avant-garde russe ?",
+        "options": [
+          "L'expressionnisme allemand",
+          "La Nouvelle Objectivité",
+          "Le Bauhaus",
+          "Le Dadaïsme"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "Le Bauhaus allemand (1919-1933) a été fortement influencé par le constructivisme russe — dans sa philosophie d'union de l'art et du design industriel, dans ses méthodes pédagogiques et dans ses formes visuelles. Des liens directs existaient entre artistes russes et professeurs du Bauhaus, notamment via Kandinsky qui y a enseigné."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Quel peintre russe du XIXe siècle est notamment connu pour Les Bateliers de la Volga ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Vassili Sourikov",
+          "Ilia Répine",
+          "Ivan Chichkine",
+          "Nikolaï Gué"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
-      },
-      {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
-        "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
-        ],
-        "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
-      },
-      {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
-        "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
-        ],
-        "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "Ilia Répine (1844-1930) est le plus grand représentant du réalisme social russe — ses Bateliers de la Volga (1873) représentent des forçats tirant des barges contre le courant et sont devenus l'une des œuvres les plus connues de la peinture russe. Il est aussi l'auteur d'Iouane le Terrible et son fils (1885)."
       }
     ]
   },
@@ -157,139 +161,139 @@
     "module_title": "Искусство и литература",
     "lesson_title": "Живопись и русский авангард",
     "lesson_subtitle": "Кандинский, Малевич, иконы",
-    "intro": "Этот урок посвящён теме «Живопись и русский авангард» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Россия породила две наиболее радикальные художественные революции в истории: византийскую иконопись, господствовавшую в сакральном искусстве Европы на протяжении столетий, и русский авангард начала XX века, открывший абстракцию и конструктивизм. Между этими крайностями русская реалистическая живопись XIX века создала национальное искусство огромной силы. Понять этот художественный arc — значит понять противоречия между традицией и современностью, пронизывающие всю русскую культуру.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Живопись и русский авангард»",
-        "body": "Тема «Живопись и русский авангард» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "От иконы до авангарда: тысяча лет русской живописи",
+        "body": "Русская живопись начинается с византийских икон, привезённых вместе с православным христианством из Константинополя в X веке. Икона — не просто религиозная картина: это «окно в Божественное», сакральный предмет, правила написания которого (золотой фон, обратная перспектива, иератизм фигур) подчиняются точному богословию. Русские иконы — прежде всего Андрея Рублёва (около 1360–1430), чья Троица считается одним из величайших произведений человечества, — достигли несравнимого уровня духовности и формального совершенства.\n\nВ XIX веке движение Передвижников создало мощный русский социальный реализм: Илья Репин (Бурлаки на Волге, Иван Грозный и сын его), Василий Суриков (великие исторические полотна), Иван Шишкин (лесные пейзажи) запечатлели Россию с документальной и эмоциональной интенсивностью, сделавшей их произведения памятниками национальной культуры.\n\nРусский авангард (1910–1930) — вероятно, самая радикальная художественная революция XX века. Василий Кандинский изобретает лирическую абстракцию, Казимир Малевич создаёт супрематизм (Чёрный квадрат, 1915 — самое радикальное полотно в истории искусства), Александр Родченко разрабатывает конструктивизм. Эти художники хотели революционизировать не только искусство, но и всё общество."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Москва, Санкт-Петербург и великие коллекции",
+        "body": "Третьяковская галерея в Москве — главный национальный музей русского искусства. Основанная купцом Павлом Третьяковым, начавшим собирать русское искусство в 1850-х годах, она хранит более 180 000 произведений — от средневековых икон до советской живописи и авангарда XX века. Это обязательное паломничество для понимания русского искусства в его целостности.\n\nГосударственный Эрмитаж в Санкт-Петербурге — один из крупнейших музеев мира с более чем тремя миллионами предметов. Его коллекция западного искусства (французские импрессионисты, Пикассо, Матисс) удивительна, но и коллекция русского и среднеазиатского искусства не менее замечательна. Зимний дворец, в котором он расположен, сам по себе шедевр барочной архитектуры.\n\nРусский авангард парадоксально лучше представлен в зарубежных музеях (МоМА в Нью-Йорке, Центр Помпиду в Париже, Стеделейк в Амстердаме), чем в российских, — потому что многие произведения были проданы или вывезены за рубеж в трудные советские годы. Это рассеянное наследие и сегодня остаётся источником напряжённости в российско-западных культурных отношениях."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Живопись и русский авангард» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Советское искусство и противоречия с авангардом",
+        "body": "Революция 1917 года поначалу казалась авангардистам возможностью поставить искусство на службу новому обществу. Пролеткульт, конструктивистские агитационные плакаты, советский дизайн 1920-х годов — всё это вышло из сотрудничества художников-авангардистов и политической революции. Такие художники, как Эль Лисицкий, Варвара Степанова и Александр Родченко, искренне верили в совместимость абстрактного искусства и социализма.\n\nНо с 1934 года Сталин навязал «социалистический реализм» как единственную официальную эстетику: искусство должно быть понятно народу, оптимистично и прославлять социализм. Авангард запрещён, его представители оттеснены на обочину, брошены в тюрьму или принуждены к внутренней эмиграции. Малевич умирает в нищете; другие — Кандинский, Шагал — уже покинули Россию.\n\nСегодня Россия реабилитирует свой авангард как национальное достояние: международные выставки прославляют Кандинского, Малевича и Родченко как фигуры мирового масштаба. Но эта реабилитация избирательна: она ценит художественный универсализм, минимизируя революционный политический проект, которому он сопутствовал."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Живопись и русский авангард» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Русское искусство на мировом рынке",
+        "body": "Русское искусство — заметный сегмент мирового рынка. Крупные аукционные дома (Sotheby's, Christie's, Bonhams) десятилетиями проводили специализированные торги «Русское искусство», привлекавшие коллекционеров со всего мира, в том числе российских олигархов, стремившихся приобрести национальное культурное наследие. Эта динамика взвинтила цены на ряд русских художников XIX — начала XX века.\n\nИконы образуют особый рынок — одновременно наследственный (некоторые старинные иконы классифицированы как национальные памятники и не могут покидать Россию) и спекулятивный (иконы среднего качества регулярно продаются по высоким ценам). Незаконный вывоз старинных икон — реальная проблема, которую отслеживает российская таможня.\n\nС введением международных санкций в 2022 году рынок русского искусства раздробился: крупные российские коллекционеры отстранены от международных торгов, ряд спорных произведений заморожен. Это затронуло и российские музеи, некоторые зарубежные кредиты которых были блокированы."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Живопись и русский авангард». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Мировое влияние русского авангарда",
+        "body": "Чёрный квадрат Малевича (1915) — возможно, самое радикальное полотно в истории искусства: квадратный холст, целиком покрытый чёрным на белом фоне, возвещавший, что живопись должна начаться заново. Этот основополагающий жест открыл путь всему концептуальному искусству XX века. Без Малевича не было бы Мондриана, Ротко, американского минимализма.\n\nКандинскому принято приписывать изобретение чистой абстрактной живописи: его акварели 1910 года — первые произведения без отсылки к реальному миру. Его книга «О духовном в искусстве» (1911) — основополагающий текст современной эстетики, теоретизирующий соответствия между цветами, формами и эмоциями.\n\nРусский конструктивизм революционизировал графический дизайн, типографику, фотографию и архитектуру. Плакаты Родченко, макеты Лисицкого, фотомонтажи Клуциса создали визуальный язык, отголоски которого по сей день слышны в мировой визуальной коммуникации. Немецкий Баухаус, распространивший эти идеи в Западной Европе, испытал сильное влияние русского авангарда."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Живопись и русский авангард» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Искусство в современной культурной жизни России",
+        "body": "Российские музеи — Третьяковка, Эрмитаж, Пушкинский музей изобразительных искусств в Москве — важные институции в социальной жизни. Вернисажи и временные выставки — значимые светские события для интеллектуальной и буржуазной среды Москвы и Санкт-Петербурга. Знать, какие выставки идут, — знак культурной принадлежности.\n\nИконы занимают особое место в обычных русских домах: во многих православных семьях есть «красный угол» — угол главной комнаты, где стоят иконы с лампадой. Эта практика сохраняется даже в семьях, считающих себя не особо религиозными: икона — столько же культурный, сколько и религиозный предмет.\n\nСовременное русское искусство — предмет живых дискуссий. Такие художники, как Илья и Эмилия Кабаковы (признанные во всём мире), Олег Кулик или AES+F развивают концептуальное и нередко сатирическое искусство, отражающее сложность постсоветского общества. Многие работают из-за рубежа — что само по себе маркер амбивалентности современной русской культуры."
       }
     ],
     "conseil_ami": {
       "title": "Совет путешественника",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Живопись и русский авангард» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Посвятите день Третьяковской галерее.** Это, пожалуй, самый культурно насыщенный день в России. Подготовьтесь, зная несколько ключевых произведений (Троица Рублёва, Бурлаки на Волге Репина, несколько работ авангарда), чтобы не утонуть в многообразии.\n\n**Рассматривайте иконы вблизи.** Посещая православную церковь, остановитесь и понаблюдайте за иконами в их живом молитвенном контексте — при свете свечей, среди подходящих к ним верующих. Это живое измерение иконы разительно отличается от музейной экспозиции.\n\n**Задайте вопрос о Чёрном квадрате.** «Что вам говорит Чёрный квадрат?» — вопрос, мгновенно раскрывающий художественную культуру собеседника и способный открыть захватывающий разговор об искусстве, революции и России."
     },
     "glossary": [
       {
-        "term": "Живопись и русский авангард",
-        "definition": "Центральное понятие этого урока — живопись и русский авангард в контексте современной России."
+        "term": "Икона",
+        "definition": "Священный образ православной традиции, «окно в Божественное». Правила написания (золотой фон, обратная перспектива) подчиняются точному богословию."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Передвижники",
+        "definition": "Движение русских реалистов XIX века, организовавших передвижные выставки и изображавших русскую социальную действительность с критической позиции."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Супрематизм",
+        "definition": "Художественное движение Малевича — чистая геометрическая абстракция (квадрат, круг, крест), стремящаяся к «господству чистого ощущения» вне любой реальности."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Конструктивизм",
+        "definition": "Постреволюционное русское художественное движение — искусство на службе нового общества, повлиявшее на графический дизайн, архитектуру и типографику по всему миру."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Чёрный квадрат",
+        "definition": "Полотно Малевича (1915) — чёрный квадрат на белом фоне, считающееся самым радикальным произведением в истории искусства и основой всего последующего концептуального искусства."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Соцреализм",
+        "definition": "Социалистический реализм — официальная эстетика, введённая при Сталине (с 1934 года): оптимистичное, понятное искусство на службе социалистической пропаганды."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Третьяковская галерея",
+        "definition": "Национальный музей русского искусства в Москве, основанный Павлом Третьяковым: 180 000 произведений охватывают десять веков русского искусства — от икон до современности."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Красный угол",
+        "definition": "Угол главной комнаты в православном русском доме, где стоят иконы с лампадой. «Красный» в старорусском означало «красивый»."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Живопись и русский авангард». Какова медианная зарплата в России?",
+        "question": "Какое полотно Малевича считается самым радикальным в истории искусства?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "Супрематическая композиция (1916)",
+          "Чёрный квадрат (1915)",
+          "Белый квадрат на белом (1918)",
+          "Красный крест на чёрном фоне (1920)"
+        ],
+        "answer": 1,
+        "explanation": "Чёрный квадрат (1915) — холст, целиком покрытый чёрным на белом фоне, — считается самым радикальным художественным жестом в истории искусства. Малевич заявлял, что живопись должна начаться заново. Это произведение открыло путь всему концептуальному и минималистскому искусству XX века."
+      },
+      {
+        "question": "Что такое «красный угол» в русском доме?",
+        "options": [
+          "Угол главной комнаты, отведённый для книг и культуры",
+          "Угол, где православная семья ставит иконы с лампадой",
+          "Кухонное пространство для важных семейных разговоров",
+          "Часть дома, ориентированная на восток по православной архитектурной традиции"
+        ],
+        "answer": 1,
+        "explanation": "«Красный угол» (красный в старорусском — «красивый», «прекрасный») — угол главной комнаты, где православная семья ставит иконы с лампадой. Это место домашней молитвы, унаследованное от византийской традиции. Сохраняется даже в семьях, считающих себя не особо религиозными."
+      },
+      {
+        "question": "Почему русский авангард парадоксально лучше представлен в зарубежных музеях, чем в российских?",
+        "options": [
+          "Потому что художники-авангардисты отказывались оставлять произведения в советской России",
+          "Потому что многие работы были проданы или вывезены за рубеж в трудные советские годы",
+          "Потому что советское государство намеренно экспортировало их для распространения революционного искусства",
+          "Потому что российские музеи не признают авангард законным национальным искусством"
+        ],
+        "answer": 1,
+        "explanation": "Русский авангард лучше представлен в МоМА, Центре Помпиду и других зарубежных музеях, потому что многие произведения были проданы или вывезены художниками или институциями в трудные советские годы. Это рассеянное наследие — источник напряжённости в российско-западных культурных отношениях."
+      },
+      {
+        "question": "Какое немецкое художественное движение испытало сильное влияние русского авангарда?",
+        "options": [
+          "Немецкий экспрессионизм",
+          "Новая объективность",
+          "Баухаус",
+          "Дадаизм"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "Немецкий Баухаус (1919–1933) испытал сильное влияние русского конструктивизма — в философии соединения искусства и промышленного дизайна, в методах преподавания и визуальных формах. Прямые связи между русскими художниками и преподавателями Баухауса существовали, в частности через Кандинского, преподававшего там."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Какой русский художник XIX века известен прежде всего «Бурлаками на Волге»?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Василий Суриков",
+          "Илья Репин",
+          "Иван Шишкин",
+          "Николай Ге"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
-      },
-      {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
-        "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
-        ],
-        "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
-      },
-      {
-        "question": "Какой главный разлом структурирует современное российское общество?",
-        "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
-        ],
-        "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "Илья Репин (1844–1930) — крупнейший представитель русского социального реализма. Его Бурлаки на Волге (1873) — изображение каторжников, тянущих баржи против течения, — стало одним из самых известных произведений русской живописи. Ему принадлежит и Иван Грозный и сын его Иван (1885)."
       }
     ]
   }

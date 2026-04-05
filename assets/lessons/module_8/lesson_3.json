@@ -8,288 +8,292 @@
     "difficulty": "intermédiaire",
     "sources": [
       {
-        "label": "Encyclopædia Universalis — Russie",
+        "label": "Encyclopædia Universalis — Ballet russe",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "Théâtre Bolchoï — Histoire et archives",
+        "url": "https://www.bolshoi.ru/"
       }
     ]
   },
   "fr": {
     "module_title": "Arts & Littérature",
     "lesson_title": "Le Ballet Russe — l'art de la perfection",
-    "lesson_subtitle": "Bolchoï, Mariinski, Lac des Cygnes",
-    "intro": "Cette leçon explore le ballet russe — l'art de la perfection dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "lesson_subtitle": "Bolchoï, Kirov, Lac des Cygnes",
+    "intro": "Le ballet russe est peut-être la contribution artistique la plus universellement reconnue de la Russie à la culture mondiale. De Tchaïkovski aux Ballets Russes de Diaghilev, du Bolchoï aux étoiles contemporaines comme Noureev et Barychnikov, la danse classique russe a défini les standards mondiaux pendant plus d'un siècle. Comprendre le ballet russe, c'est comprendre à la fois la grandeur artistique de la Russie et les mécanismes d'une institution qui a survécu à l'Empire, à l'URSS et aux bouleversements contemporains.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de le ballet russe — l'art de la perfection",
-        "body": "La thématique de le ballet russe — l'art de la perfection s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "De la cour impériale au Bolchoï soviétique",
+        "body": "Le ballet en Russie arrive d'Europe au XVIIIe siècle — importé par Pierre le Grand et ses successeurs comme signe de modernisation et de culture européenne. Les premiers maîtres de ballet sont français et italiens, et la langue du ballet en Russie reste longtemps le français. Mais c'est en Russie que le ballet académique atteint sa perfection technique et artistique maximale, sous la direction de maîtres comme Marius Petipa (1818-1910), chorégraphe français qui a passé toute sa carrière à Saint-Pétersbourg.\n\nC'est Petipa qui a chorégraphié les grands ballets de Tchaïkovski : Le Lac des Cygnes (version définitive, 1895), La Belle au bois dormant (1890), Casse-Noisette (1892). Ces trois œuvres ont défini ce qu'on entend par «ballet classique» dans le monde entier. La collaboration entre Tchaïkovski (qui élevait la musique de ballet au niveau symphonique) et Petipa (qui transformait la danse en narration visuelle totale) est un des grands moments de l'histoire artistique.\n\nLes Ballets Russes de Sergueï Diaghilev (1909-1929) ont ensuite révolutionné le ballet mondial en faisant de la compagnie une synthèse des arts : Stravinsky composait, Picasso, Matisse et Bakst créaient les décors et costumes, Nijinski et Karsavina dansaient. Le scandale du Sacre du printemps (1913), dont la première à Paris a déclenché une émeute dans la salle, est l'un des événements fondateurs de l'art moderne."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Bolchoï, Mariinski et les grandes scènes russes",
+        "body": "Le Bolchoï (Большой — «grand») à Moscou et le Mariinski (anciennement Kirov) à Saint-Pétersbourg sont les deux temples du ballet russe — et parmi les plus grands opéras du monde. Leur rivalité artistique et institutionnelle est ancienne : le Mariinski est l'héritier de la tradition impériale de Saint-Pétersbourg, plus conservateur et formel ; le Bolchoï représente la tradition moscovite, souvent décrite comme plus spectaculaire et théâtrale.\n\nCette dualité géographique se reflète dans les styles de danse : l'école de Saint-Pétersbourg (Vaganova) est réputée pour sa pureté technique, sa verticalité et son élégance ; l'école de Moscou pour sa puissance, sa virtuosité acrobatique et son expressivité dramatique. Les deux écoles ont produit des danseurs extraordinaires qui ont rayonné dans le monde entier.\n\nIl existe d'autres grandes compagnies de ballet en Russie — à Novosibirsk, Perm, Ekaterinbourg, Kazan — qui maintiennent des niveaux techniques remarquables et forment des danseurs qui alimentent les grandes compagnies russes et internationales. La géographie décentralisée du ballet russe est une force : elle diffuse l'excellence bien au-delà de Moscou et Saint-Pétersbourg."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de le ballet russe — l'art de la perfection est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "Le ballet entre prestige d'État et liberté artistique",
+        "body": "Sous l'URSS, le Bolchoï était une vitrine politique de premier plan : y être reçu comme dignitaire étranger était une marque de prestige diplomatique, et les tournées à l'étranger des compagnies soviétiques étaient des opérations de soft power soigneusement orchestrées. Le Bolchoï représentait la supériorité culturelle soviétique — un argument que même les détracteurs du régime avaient du mal à contester.\n\nCette position privilégiée créait aussi une pression permanente sur les artistes. Les danseurs devaient être techniquement parfaits, politiquement dociles et disponibles pour les obligations diplomatiques. Les défections à l'Ouest de Noureev (1961), Makarova (1970) et Barychnikov (1974) ont été des chocs politiques autant qu'artistiques — et ont prouvé que même la meilleure formation au monde ne garantissait pas la fidélité politique.\n\nAujourd'hui, le Bolchoï continue d'être soutenu massivement par l'État russe et reste un instrument de prestige national. Mais il fait face à de nouvelles tensions : entre répertoire traditionnel et création contemporaine, entre ouverture internationale et repli nationaliste, entre standardisation technique et liberté interprétative. Ces tensions sont le miroir des ambivalences plus larges de la Russie contemporaine."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de le ballet russe — l'art de la perfection, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "La formation au ballet : une institution totale",
+        "body": "L'École académique chorégraphique de Moscou (rattachée au Bolchoï) et l'Académie Vaganova de Saint-Pétersbourg sont deux des institutions de formation les plus exigeantes qui existent. Les élèves y entrent à 10 ans après une sélection physique rigoureuse et y passent huit à neuf ans dans un système d'internat qui structure entièrement leur vie. Cette immersion totale — cours de danse, cours généraux, discipline physique, musicale et théâtrale — produit des danseurs d'une polyvalence et d'une technique exceptionnelles.\n\nLa formation est gratuite en Russie (pour les meilleurs élèves) et constitue une voie d'ascension sociale réelle — notamment pour des enfants de régions pauvres ou de familles modestes. Cette dimension sociale du ballet russe est souvent oubliée dans les représentations occidentales : le ballet n'est pas seulement une affaire d'élite, mais aussi un outil de mobilité.\n\nLes salaires des danseurs du Bolchoï varient considérablement selon le statut : les étoiles gagnent bien, mais les corps de ballet reçoivent des salaires modestes malgré des années d'entraînement intensif. Cette inégalité interne est une tension permanente dans les grandes compagnies russes."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre le ballet russe — l'art de la perfection. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "Le Lac des Cygnes : un symbole national",
+        "body": "Le Lac des Cygnes est devenu bien plus qu'un ballet : c'est un symbole culturel russe chargé d'une signification politique particulière. Lors du coup d'État manqué d'août 1991, alors que Gorbatchev était retenu en Crimée, les télévisions soviétiques ont diffusé en boucle le Lac des Cygnes — signal immédiatement compris par tous les Soviétiques comme signe d'une crise grave. Cette association entre le Lac des Cygnes et les crises politiques est entrée dans la culture collective russe.\n\nLe rôle de la «double rôle» d'Odette et Odile (le cygne blanc vertueux et le cygne noir maléfique, dansés par la même ballerine) est considéré comme le test ultime d'une grande ballerine — plus exigeant techniquement et dramatiquement que tout autre rôle dans le répertoire. Les grandes interprètes de ce double rôle — Maya Plissetskaya, Natalia Makarova, Ulyana Lopatkina — sont des légendes nationales.\n\nLes ballets de Tchaïkovski — Lac des Cygnes, La Belle au bois dormant, Casse-Noisette — forment une triade culturelle dont les mélodies sont connues de presque tous les habitants de la planète, souvent sans savoir qu'elles sont russes. Cette diffusion mondiale invisible de la culture russe est l'un des phénomènes culturels les plus fascinants du XXe siècle."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à le ballet russe — l'art de la perfection à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Le ballet dans la vie sociale russe",
+        "body": "Aller au Bolchoï ou au Mariinski est un événement social de premier ordre en Russie — une occasion de s'habiller élégamment, de voir et d'être vu, de démontrer une culture et un raffinement. Le prix des billets varie énormément : de billets accessibles pour les places les moins bonnes à des tarifs élevés pour les premières et les premières loges. Le marché des revendeurs (spéculanty, спекулянты) a longtemps été la seule voie d'accès aux grandes soirées.\n\nLe rituel du Bolchoï inclut des codes spécifiques : on apporte des fleurs à offrir à la ballerine après la représentation (tradition très vivante — des bouquets lancés sur scène ou offerts à la sortie des artistes), on se retrouve au buffet pendant les entractes, on commente la performance avec la précision d'un connaisseur.\n\nPour un voyageur étranger, assister à une représentation au Bolchoï ou au Mariinski est une expérience irremplaçable — même sans connaître le ballet, la beauté de la salle, la perfection technique des danseurs et l'émotion du public russe constituent quelque chose de particulier. Réservez longtemps à l'avance et habillez-vous en conséquence."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil du Voyageur",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder le ballet russe — l'art de la perfection avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Réservez au Bolchoï ou au Mariinski.** C'est une expérience incontournable de tout séjour à Moscou ou Saint-Pétersbourg. Le Bolchoï propose des billets sur son site officiel — réservez plusieurs semaines à l'avance pour les grandes productions. Le Mariinski propose aussi des représentations dans sa deuxième salle moderne.\n\n**Apportez des fleurs.** La tradition d'offrir des fleurs aux danseurs après une représentation est vivante — un bouquet modeste est largement apprécié. C'est un des rituels qui différencient le public russe du public occidental.\n\n**Connaissez Le Lac des Cygnes.** Avant d'aller voir une représentation, écoutez la musique de Tchaïkovski et regardez quelques extraits vidéo pour reconnaître les grands moments. Cela transformera l'expérience : vous apprécierez les interprétations là où un non-initié verra juste de la danse."
     },
     "glossary": [
       {
-        "term": "Le Ballet Russe — l'art de la perfection",
-        "definition": "Concept central de cette leçon — le ballet russe — l'art de la perfection dans le contexte de la Russie contemporaine."
+        "term": "Bolchoï (Большой)",
+        "definition": "Littéralement «grand» — Grand Théâtre de Moscou, l'une des institutions artistiques les plus prestigieuses du monde, symbole de la culture russe depuis le XVIIIe siècle."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Mariinski (Мариинский)",
+        "definition": "Grand Théâtre de Saint-Pétersbourg (anciennement Kirov) — héritier de la tradition impériale, considéré comme le temple de la pureté technique du ballet classique russe."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Vaganova (Ваганова)",
+        "definition": "Agrippina Vaganova (1879-1951) — pédagogue légendaire du ballet russe dont la méthode d'enseignement, codifiée dans son manuel, reste la base de la formation à l'Académie de Saint-Pétersbourg."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Ballets Russes (Русский балет)",
+        "definition": "Compagnie créée par Diaghilev (1909-1929) — a révolutionné le ballet mondial en le fusionnant avec les avant-gardes artistiques (Stravinsky, Picasso, Nijinski)."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Noureev (Нуреев)",
+        "definition": "Rudolf Noureev (1938-1993) — danseur soviétique légendaire qui a défecté à l'Ouest en 1961, symbole à la fois de la perfection du ballet russe et du prix de la liberté artistique."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Odette-Odile",
+        "definition": "Double rôle du Lac des Cygnes — la même ballerine danse le cygne blanc vertueux et le cygne noir maléfique. Test ultime de toute grande ballerine classique."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Spékulanty (Спекулянты)",
+        "definition": "Revendeurs de billets — phénomène autour des grandes institutions culturelles russes, où la demande dépasse souvent l'offre officielle."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Sacre du printemps (Весна священная)",
+        "definition": "Ballet de Stravinsky chorégraphié par Nijinski, créé à Paris en 1913 — la première a provoqué une émeute dans la salle et est considérée comme un moment fondateur de l'art moderne."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Le Ballet Russe — l'art de la perfection'. Quel est le salaire médian en Russie ?",
+        "question": "Qui a chorégraphié les grandes versions définitives des ballets de Tchaïkovski (Lac des Cygnes, Belle au bois dormant, Casse-Noisette) ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
-        ],
-        "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
-      },
-      {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
-        "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Rudolf Noureev",
+          "Marius Petipa",
+          "Sergueï Diaghilev",
+          "Agrippina Vaganova"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
+        "explanation": "Marius Petipa (1818-1910), maître de ballet français qui a passé toute sa carrière à Saint-Pétersbourg, est le chorégraphe des versions définitives des trois grands ballets de Tchaïkovski. Sa collaboration avec Tchaïkovski a défini le ballet classique académique tel qu'on le conçoit mondialement."
       },
       {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
+        "question": "Quel événement politique russe a été illustré par la diffusion en boucle du Lac des Cygnes à la télévision ?",
         "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
+          "La mort de Staline en 1953",
+          "Le coup d'État manqué d'août 1991",
+          "La dissolution de l'URSS en décembre 1991",
+          "L'élection de Boris Eltsine en 1991"
         ],
         "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
+        "explanation": "Lors du coup d'État manqué d'août 1991 contre Gorbatchev, les chaînes soviétiques ont diffusé en boucle le Lac des Cygnes — signal immédiatement compris comme signe d'une crise grave. Cette association est entrée dans la mémoire collective russe : «le Lac des Cygnes passe à la télé» est devenu une expression signifiant que quelque chose de grave se passe."
       },
       {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
+        "question": "Quel scandale artistique le Sacre du printemps a-t-il provoqué à Paris en 1913 ?",
         "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
+          "Il a été interdit de diffusion par la censure française",
+          "Sa première a déclenché une émeute dans la salle du Théâtre des Champs-Élysées",
+          "Il a été boycotté par la critique musicale qui refusait de le reconnaître comme ballet",
+          "Stravinsky a été expulsé de France suite aux protestations du public"
         ],
         "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "La première du Sacre du printemps le 29 mai 1913 au Théâtre des Champs-Élysées à Paris a déclenché une émeute dans la salle : les spectateurs sifflaient, criaient et se battaient entre partisans et opposants. Cet événement est considéré comme un moment fondateur de la rupture avec les traditions artistiques du XIXe siècle."
+      },
+      {
+        "question": "Quelle est la différence généralement reconnue entre les styles de l'école de Saint-Pétersbourg et de l'école de Moscou ?",
+        "options": [
+          "Saint-Pétersbourg se spécialise dans le ballet contemporain, Moscou dans le classique",
+          "Saint-Pétersbourg est réputé pour la pureté technique et l'élégance, Moscou pour la puissance et l'expressivité dramatique",
+          "Saint-Pétersbourg produit surtout des danseuses, Moscou surtout des danseurs masculins",
+          "Les deux écoles sont identiques depuis la standardisation soviétique des années 1930"
+        ],
+        "answer": 1,
+        "explanation": "L'école de Saint-Pétersbourg (Vaganova) est réputée pour sa pureté technique, sa verticalité et son élégance classique. L'école de Moscou est connue pour sa puissance physique, sa virtuosité acrobatique et son expressivité dramatique plus marquée. Cette distinction reste reconnue dans le monde du ballet."
+      },
+      {
+        "question": "Quelle est la signification sociale du double rôle d'Odette-Odile dans Le Lac des Cygnes ?",
+        "options": [
+          "Il permet à deux ballerines de partager le travail lors des longues séries de représentations",
+          "Il est considéré comme le test ultime d'une grande ballerine, exigeant deux personnalités opposées dans le même corps",
+          "Il représente symboliquement la dualité de la nature russe entre Orient et Occident",
+          "Il a été créé pour permettre aux directeurs de compagnie de former deux ballerines simultanément"
+        ],
+        "answer": 1,
+        "explanation": "Le double rôle d'Odette (cygne blanc, pur et tragique) et Odile (cygne noir, maléfique et séducteur) — dansés par la même ballerine dans le même spectacle — est considéré comme le test suprême d'une grande ballerine classique. Il requiert une maîtrise technique et dramatique que peu d'interprètes réalisent pleinement."
       }
     ]
   },
   "ru": {
     "module_title": "Искусство и литература",
     "lesson_title": "Русский балет — искусство совершенства",
-    "lesson_subtitle": "Большой, Мариинский, Лебединое озеро",
-    "intro": "Этот урок посвящён теме «Русский балет — искусство совершенства» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "lesson_subtitle": "Большой, Кировский, Лебединое озеро",
+    "intro": "Русский балет — пожалуй, наиболее повсеместно признанный художественный вклад России в мировую культуру. От Чайковского до Русского балета Дягилева, от Большого до таких звёзд, как Нуреев и Барышников, русский классический танец задавал мировые стандарты более века. Понять русский балет — значит понять и художественное величие России, и механизмы института, пережившего Империю, СССР и современные потрясения.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Русский балет — искусство совершенства»",
-        "body": "Тема «Русский балет — искусство совершенства» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "От императорского двора к советскому Большому",
+        "body": "Балет пришёл в Россию из Европы в XVIII веке — завезён Петром Великим и его преемниками как знак модернизации и европейской культуры. Первые балетмейстеры были французами и итальянцами, и языком балета в России долго оставался французский. Но именно в России академический балет достиг максимального технического и художественного совершенства под руководством таких мастеров, как Мариус Петипа (1818–1910) — французский хореограф, проведший всю карьеру в Санкт-Петербурге.\n\nИменно Петипа поставил великие балеты Чайковского: Лебединое озеро (окончательная редакция, 1895), Спящая красавица (1890), Щелкунчик (1892). Эти три произведения определили само понятие «классический балет» во всём мире. Сотрудничество Чайковского (поднявшего балетную музыку до симфонического уровня) и Петипа (превратившего танец в полное визуальное повествование) — один из великих моментов истории искусства.\n\nРусский балет Сергея Дягилева (1909–1929) затем революционизировал мировой балет, превратив труппу в синтез искусств: Стравинский сочинял, Пикассо, Матисс и Бакст создавали декорации и костюмы, Нижинский и Карсавина танцевали. Скандал на премьере Весны священной (1913) в Париже, вызвавшей беспорядки в зале, — один из основополагающих событий современного искусства."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Большой, Мариинский и великие русские сцены",
+        "body": "Большой («большой») в Москве и Мариинский (бывший Кировский) в Санкт-Петербурге — два храма русского балета и одни из крупнейших оперных театров мира. Их художественное и институциональное соперничество давнее: Мариинский — наследник петербургской императорской традиции, более консервативный и формальный; Большой воплощает московскую традицию, нередко описываемую как более зрелищная и театральная.\n\nЭта географическая дуальность отражается в стилях танца: петербургская школа (Вагановой) славится технической чистотой, вертикальностью и элегантностью; московская — мощью, акробатической виртуозностью и драматической выразительностью. Обе школы взрастили выдающихся танцовщиков, покоривших весь мир.\n\nВ России есть и другие крупные балетные труппы — в Новосибирске, Перми, Екатеринбурге, Казани, — поддерживающие замечательный технический уровень и готовящие танцовщиков для ведущих российских и международных компаний. Децентрализованная география русского балета — его сила: она распространяет мастерство далеко за пределы Москвы и Петербурга."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Русский балет — искусство совершенства» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Балет между государственным престижем и художественной свободой",
+        "body": "В СССР Большой был первостепенной политической витриной: принять иностранного сановника в его стенах — знак дипломатического престижа, а зарубежные гастроли советских трупп — тщательно выверенные операции мягкой силы. Большой олицетворял советское культурное превосходство — аргумент, который даже критики режима оспаривали с трудом.\n\nЭто привилегированное положение создавало и постоянное давление на артистов. Танцовщики должны были быть технически безупречны, политически послушны и доступны для дипломатических обязательств. Побеги на Запад Нуреева (1961), Макаровой (1970) и Барышникова (1974) были политическими потрясениями не меньше, чем художественными, — и доказали, что даже лучшая в мире подготовка не гарантирует политической лояльности.\n\nСегодня Большой по-прежнему щедро поддерживается российским государством и остаётся инструментом национального престижа. Но он сталкивается с новыми противоречиями: между традиционным репертуаром и современным творчеством, между международной открытостью и националистическим замыканием, между технической стандартизацией и интерпретационной свободой. Эти противоречия — зеркало более широких амбивалентностей современной России."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Русский балет — искусство совершенства» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Балетное образование: тотальный институт",
+        "body": "Московская академия хореографии (при Большом) и Академия Вагановой в Санкт-Петербурге — одни из наиболее взыскательных образовательных институтов в мире. Ученики поступают в 10 лет после строгого физического отбора и проводят восемь-девять лет в системе пансиона, полностью определяющей их жизнь. Это полное погружение — уроки танца, общеобразовательные предметы, физическая, музыкальная и театральная подготовка — формирует танцовщиков исключительной разносторонности и техники.\n\nОбразование бесплатно для лучших учеников и является реальным социальным лифтом — особенно для детей из бедных регионов или скромных семей. Эта социальная составляющая русского балета часто забыта в западных представлениях: балет — не только дело элиты, но и инструмент мобильности.\n\nЗарплаты танцовщиков Большого сильно разнятся в зависимости от статуса: солисты зарабатывают хорошо, но кордебалет получает скромное жалованье вопреки годам интенсивной подготовки. Это внутреннее неравенство — постоянная напряжённость в крупных российских труппах."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Русский балет — искусство совершенства». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Лебединое озеро: национальный символ",
+        "body": "Лебединое озеро стало гораздо больше, чем балет: это культурный символ России, несущий особое политическое значение. Во время провалившегося путча в августе 1991 года, когда Горбачёв был задержан в Крыму, советское телевидение непрерывно показывало Лебединое озеро — сигнал, немедленно понятый всеми советскими людьми как знак серьёзного кризиса. Эта связь между Лебединым озером и политическими кризисами вошла в коллективную культурную память.\n\nДвойная роль Одетты и Одиллии (добродетельного белого лебедя и злого чёрного, исполняемых одной балериной) считается главным испытанием великой балерины — технически и драматически более требовательным, чем любая другая роль в репертуаре. Великие исполнительницы этого двойного образа — Майя Плисецкая, Наталья Макарова, Ульяна Лопаткина — национальные легенды.\n\nБалеты Чайковского — Лебединое озеро, Спящая красавица, Щелкунчик — образуют культурную триаду, чьи мелодии знакомы почти каждому жителю планеты, нередко не подозревающему об их русском происхождении. Это невидимое мировое распространение русской культуры — один из самых захватывающих культурных феноменов XX века."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Русский балет — искусство совершенства» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Балет в социальной жизни России",
+        "body": "Поход в Большой или Мариинский — первоклассное светское событие в России: повод нарядиться, увидеть и быть увиденным, продемонстрировать культуру и изысканность. Цены на билеты сильно варьируются: от доступных на худшие места до очень высоких на премьеры и первые ложи. Рынок перекупщиков (спекулянтов) долго был единственным путём к крупным вечерам.\n\nРитуал Большого включает особые коды: приносят цветы для подношения балерине после спектакля (традиция очень живая — букеты бросают на сцену или вручают у артистического выхода), встречаются в буфете в антрактах, обсуждают исполнение с точностью знатока.\n\nДля иностранного путешественника спектакль в Большом или Мариинском — незаменимый опыт: даже без знания балета красота зала, техническое совершенство танцовщиков и эмоция русской публики создают нечто особенное. Бронируйте заранее и одевайтесь соответственно."
       }
     ],
     "conseil_ami": {
       "title": "Совет путешественника",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Русский балет — искусство совершенства» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Купите билет в Большой или Мариинский.** Это обязательный опыт любого пребывания в Москве или Санкт-Петербурге. Большой продаёт билеты на официальном сайте — бронируйте за несколько недель до крупных постановок. Мариинский также предлагает спектакли на своей новой современной сцене.\n\n**Принесите цветы.** Традиция дарить цветы танцовщикам после спектакля живёт — скромный букет будет тепло принят. Это один из ритуалов, отличающих русскую публику от западной.\n\n**Знайте Лебединое озеро.** Перед походом на спектакль послушайте музыку Чайковского и посмотрите несколько видеофрагментов, чтобы узнавать ключевые моменты. Это преобразит опыт: вы оцените интерпретации там, где неподготовленный зритель увидит просто танец."
     },
     "glossary": [
       {
-        "term": "Русский балет — искусство совершенства",
-        "definition": "Центральное понятие этого урока — русский балет — искусство совершенства в контексте современной России."
+        "term": "Большой",
+        "definition": "Большой театр Москвы — один из самых престижных художественных институтов мира, символ русской культуры с XVIII века."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Мариинский",
+        "definition": "Большой театр Санкт-Петербурга (бывший Кировский) — наследник императорской традиции, храм технической чистоты русского классического балета."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Ваганова",
+        "definition": "Агриппина Ваганова (1879–1951) — легендарный педагог русского балета, чья методика, изложенная в учебнике, остаётся основой обучения в петербургской Академии."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Русский балет",
+        "definition": "Труппа Дягилева (1909–1929), революционизировавшая мировой балет, соединив его с художественным авангардом (Стравинский, Пикассо, Нижинский)."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Нуреев",
+        "definition": "Рудольф Нуреев (1938–1993) — легендарный советский танцовщик, бежавший на Запад в 1961 году — символ как совершенства русского балета, так и цены художественной свободы."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Одетта-Одиллия",
+        "definition": "Двойная роль в Лебедином озере — одна балерина исполняет белого добродетельного лебедя и чёрного злого. Высшее испытание великой классической балерины."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Спекулянты",
+        "definition": "Перекупщики билетов — явление вокруг крупных российских культурных институтов, где спрос нередко превышает официальное предложение."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Весна священная",
+        "definition": "Балет Стравинского с хореографией Нижинского, поставленный в Париже в 1913 году — премьера спровоцировала беспорядки в зале и считается основополагающим событием современного искусства."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Русский балет — искусство совершенства». Какова медианная зарплата в России?",
+        "question": "Кто поставил окончательные версии балетов Чайковского (Лебединое озеро, Спящая красавица, Щелкунчик)?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
-        ],
-        "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
-      },
-      {
-        "question": "Сколько часовых поясов занимает Россия?",
-        "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Рудольф Нуреев",
+          "Мариус Петипа",
+          "Сергей Дягилев",
+          "Агриппина Ваганова"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
+        "explanation": "Мариус Петипа (1818–1910), французский балетмейстер, проведший всю карьеру в Санкт-Петербурге, поставил окончательные редакции трёх великих балетов Чайковского. Его сотрудничество с Чайковским определило академический классический балет в том виде, каким его понимают во всём мире."
       },
       {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
+        "question": "Какое политическое событие в России сопровождалось непрерывным показом Лебединого озера по телевидению?",
         "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
+          "Смерть Сталина в 1953 году",
+          "Провалившийся путч в августе 1991 года",
+          "Распад СССР в декабре 1991 года",
+          "Выборы Бориса Ельцина в 1991 году"
         ],
         "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
+        "explanation": "Во время провалившегося путча в августе 1991 года, когда Горбачёв был задержан в Крыму, советские телеканалы непрерывно показывали Лебединое озеро — сигнал, немедленно понятый как знак серьёзного кризиса. Эта связь вошла в коллективную память: «Лебединое озеро по телевизору» стало означать, что происходит что-то важное."
       },
       {
-        "question": "Какой главный разлом структурирует современное российское общество?",
+        "question": "Какой художественный скандал вызвала Весна священная в Париже в 1913 году?",
         "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
+          "Французская цензура запретила её показ",
+          "Премьера вызвала беспорядки в зале Театра Елисейских полей",
+          "Музыкальная критика отказалась признать её балетом",
+          "Стравинский был выслан из Франции из-за протестов публики"
         ],
         "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "Премьера Весны священной 29 мая 1913 года в Театре Елисейских полей в Париже вызвала беспорядки: зрители освистывали, кричали и дрались, разделившись на сторонников и противников. Это событие считается основополагающим в разрыве с художественными традициями XIX века."
+      },
+      {
+        "question": "Какое общепризнанное различие существует между стилями петербургской и московской балетных школ?",
+        "options": [
+          "Петербург специализируется на современном балете, Москва — на классическом",
+          "Петербург славится технической чистотой и элегантностью, Москва — мощью и драматической выразительностью",
+          "Петербург готовит преимущественно балерин, Москва — танцовщиков",
+          "Обе школы одинаковы после советской стандартизации 1930-х годов"
+        ],
+        "answer": 1,
+        "explanation": "Петербургская школа (Вагановой) славится технической чистотой, вертикальностью и классической элегантностью. Московская известна физической мощью, акробатической виртуозностью и более выраженной драматической экспрессией. Это различие по-прежнему признаётся в балетном мире."
+      },
+      {
+        "question": "Каково значение двойной роли Одетты-Одиллии в Лебедином озере?",
+        "options": [
+          "Она позволяет двум балеринам разделить работу при длинных сериях спектаклей",
+          "Она считается высшим испытанием великой балерины: два противоположных образа в одном теле",
+          "Она символически воплощает двойственность русской природы между Востоком и Западом",
+          "Она была создана, чтобы дирекция могла одновременно готовить двух балерин"
+        ],
+        "answer": 1,
+        "explanation": "Двойная роль Одетты (белый лебедь, чистый и трагический) и Одиллии (чёрный лебедь, злой и соблазнительный) — исполняемых одной балериной в одном спектакле — считается высшим испытанием великой классической балерины. Она требует технического и драматического мастерства, которого достигают немногие."
       }
     ]
   }

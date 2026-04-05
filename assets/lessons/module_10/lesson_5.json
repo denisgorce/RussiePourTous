@@ -4,12 +4,20 @@
     "lesson_id": 5,
     "module_icon": "🤝",
     "lesson_icon": "🌉",
-    "estimated_minutes": 12,
+    "estimated_minutes": 14,
     "difficulty": "intermédiaire",
     "sources": [
       {
         "label": "Encyclopædia Universalis — Russie",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "France Diplomatie — Russie",
+        "url": "https://www.diplomatie.gouv.fr/fr/dossiers-pays/russie/"
+      },
+      {
+        "label": "Institut Français de Russie",
+        "url": "https://www.institutfrancais-russie.com/"
       }
     ]
   },
@@ -17,139 +25,139 @@
     "module_title": "Codes Sociaux & Savoir-Vivre",
     "lesson_title": "Construire des Liens franco-russes",
     "lesson_subtitle": "Relations culturelles et amicales durables",
-    "intro": "Cette leçon explore construire des liens franco-russes dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "Vous voilà au terme de RussiePourTous. Cette dernière leçon n'est pas un résumé — c'est une invitation. Après dix modules de découverte, vous disposez des outils pour engager des relations franco-russes authentiques, durables et mutuellement enrichissantes. Mais des outils ne suffisent pas : il faut une philosophie de la rencontre interculturelle. C'est ce que cette leçon vous propose.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de construire des liens franco-russes",
-        "body": "La thématique de construire des liens franco-russes s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "Histoire des relations franco-russes",
+        "body": "La France et la Russie entretiennent des relations depuis plus de mille ans — marquées par des moments de grande proximité et par des périodes de tension extrême. La tsarine française (non — mais presque) : **Anne de Kiev** (*Anna Kievskaya*, Анна Киевская), fille du grand prince de Kiev Yaroslav le Sage, épouse en 1051 le roi de France **Henri Ier** — apportant dans ses bagages une Bible en cyrillique qui servit à certains sacres royaux français. C'est une des premières connexions documentées entre les deux pays.\n\nAu XVIIIe siècle, les tsarines **Catherine la Grande** et **Élisabeth** sont profondément francophiles — le français est la langue de la cour russe. **Voltaire** correspond abondamment avec Catherine. La bibliothèque de Voltaire est achetée par Catherine après sa mort et se trouve encore à l'Ermitage à Saint-Pétersbourg.\n\nAu XIXe siècle, la France accueille une immense diaspora russe après la révolution de 1917 — écrivains, artistes, philosophes, militaires. **Ivan Bounine** reçoit le prix Nobel de littérature à Paris en 1933. Les Ballets Russes de **Diaghilev** révolutionnent les arts vivants en France. Cette diaspora blanche a laissé des traces durables dans la culture française — dans les arts, la gastronomie (restaurant russe, produits d'importation), la mode."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Les points communs France-Russie",
+        "body": "La relation franco-russe est unique parce qu'elle repose sur des résonances culturelles profondes — bien plus nombreuses que les différences.\n\n**L'amour de la culture** : les deux pays considèrent la culture nationale (littérature, musique, cinéma, gastronomie) comme une affaire d'État et une composante de l'identité nationale. La France a son ministère de la Culture, la Russie finance son cinéma et ses théâtres d'État. Cette valorisation commune de la culture haute crée une langue partagée.\n\n**Le rapport à l'État** : France et Russie sont toutes deux des États centralisés avec une longue tradition d'interventionnisme étatique — contra l'anglo-saxonnisme libéral. Cette méfiance commune envers le «tout-marché» et la valorisation d'un rôle actif de l'État dans l'économie et la société est une résonance profonde.\n\n**Le goût de la conversation profonde** : les deux cultures valorisent la discussion philosophique, le débat intellectuel, les «grandes questions». Un Français et un Russe peuvent passer une nuit entière à débattre de libre arbitre, de morale politique ou de la définition du bonheur — sans que cela soit inhabituel pour aucun des deux.\n\n**La gastronomie comme valeur** : les deux pays ont des gastronomies nationales d'une richesse et d'une profondeur remarquables, et partagent la conviction que bien manger est un art de vivre et non un simple besoin biologique."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de construire des liens franco-russes est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "Construire une amitié franco-russe durable",
+        "body": "Les amitiés franco-russes les plus profondes partagent certaines caractéristiques. Elles sont fondées sur une curiosité mutuelle réelle — pas sur une fascination exotique (le Russe «mystérieux», le Français «romantique») qui s'épuise vite, mais sur un intérêt authentique pour l'autre en tant que personne complexe.\n\nElles passent par des **expériences partagées** : voyager ensemble, cuisiner ensemble, écouter de la musique ensemble, traverser des situations difficiles ensemble. Les Russes font confiance à ceux qu'ils ont «vus sous pression» — une amitié née dans l'adversité (un voyage compliqué, une nuit blanche, une conversation difficile) est plus solide qu'une amitié née dans le confort.\n\nElles résistent aux **turbulences politiques** : depuis 2022, maintenir des amitiés franco-russes demande une clarté sur ce qui est personnel et ce qui est politique. Un ami russe n'est pas responsable de la politique de son gouvernement — tout autant qu'un ami américain n'est pas responsable de la politique étrangère des États-Unis. Cette séparation entre l'amitié personnelle et les désaccords politiques est la condition d'une relation durable.\n\nElles s'entretiennent **dans la durée** : les amitiés russes s'approfondissent avec le temps. Une relation de 10 ans avec un Russe est d'une nature complètement différente d'une relation de 6 mois — la confiance s'est construite, la franchise est totale, la réciprocité est absolue."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de construire des liens franco-russes, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "Les ressources pour continuer l'apprentissage",
+        "body": "RussiePourTous vous a donné des bases — mais la découverte de la Russie est un voyage sans fin. Voici des ressources pour continuer.\n\n**Livres en français** : «La Russie de Poutine» de Thomas Gomart (IFRI) ; «Russie : comprendre le monde» de Jean de Gliniasty ; les romans de **Dostoïevski** (commencez par L'Idiot ou Crime et Châtiment), **Tolstoï** (Guerre et Paix ou Anna Karénine), **Tchekhov** (les Nouvelles), **Boulgakov** (Le Maître et Marguerite).\n\n**Films à voir** : Leto (Serebrennikov, 2018), Léviathan (Zviaguintsev, 2014), Stalker (Tarkovski, 1979), Va et vois (Klimov, 1985) — filmographie complète en leçon 9.\n\n**Podcasts et médias** : France Culture diffuse régulièrement des émissions sur la Russie ; la **Revue des Deux Mondes** publie des analyses de fond ; **Meduza** (en anglais) pour l'information russe indépendante.\n\n**Apprentissage du russe** : même quelques mots de russe changent radicalement votre expérience en Russie et votre relation avec les Russes. L'alphabet cyrillique s'apprend en 2-3 heures. Les applications **Duolingo** (pour commencer), **Anki** (pour le vocabulaire), et les cours de l'**Alliance Française** pour le niveau avancé."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre construire des liens franco-russes. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "La Russie au-delà des clichés — une conclusion",
+        "body": "Après dix modules, vous avez rencontré une Russie qui ne ressemble pas aux clichés — ni à la «Russie ennemie» des médias occidentaux, ni à la «Russie héroïque» de la propagande russe. Vous avez rencontré une Russie complexe, contradictoire, déchirée entre des aspirations profondes à la dignité, à la liberté et à la beauté — et une histoire, une géographie et un système politique qui rendent ces aspirations difficiles à accomplir.\n\nLes Russes que vous rencontrerez ne sont pas des abstractions géopolitiques. Ce sont des personnes qui aiment leurs familles, qui se passionnent pour la littérature et la musique, qui ont peur du lendemain, qui souffrent de la toska — cette mélancolie-aspiration sans objet — et qui cherchent, comme tout être humain, à vivre dignement et à être compris.\n\nLa relation franco-russe a un avenir précisément parce qu'elle repose sur des fondations culturelles et humaines qui transcendent les vicissitudes politiques. Les politiques changent. Les amitiés, la littérature, la musique, la gastronomie — ces ponts-là résistent.\n\n**Za nas — pour nous** : Français et Russes qui choisissons de nous comprendre plutôt que de nous ignorer, même quand c'est difficile."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à construire des liens franco-russes à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Un dernier repas — les meilleurs plats franco-russes à partager",
+        "body": "Pour conclure RussiePourTous, voici une liste de moments gastronomiques franco-russes à vivre — des ponts savoureux entre deux cultures.\n\n**Le bortsch et la baguette** : servez un bortsch maison avec de la pain français — la combinaison fonctionne parfaitement. La smetana (crème aigre) peut être remplacée par de la crème fraîche épaisse française.\n\n**Les blinis et le champagne** : préparez des blinis avec du caviar rouge et un verre de champagne français (ou de crémant). C'est le mariage parfait entre les deux gastronomies — une entrée de réconciliation.\n\n**Le bœuf Stroganov et le vin de Bourgogne** : plat russe par excellence, préparé avec un bon vin rouge bourguignon en guise d'accompagnement. L'accord est remarquable.\n\n**Les pelmeni fait maison** : invitez des amis russes et des amis français à faire des pelmeni ensemble. Préparer des raviolis ensemble est une expérience universellement conviviale — et les pelmeni, comme les raviolis italiens ou les dim sum chinois, font partie du patrimoine culinaire de l'humanité.\n\nLa cuisine est peut-être le meilleur passeport de toutes les cultures — elle franchit les frontières, elle réunit ceux que la politique éloigne, elle transforme les étrangers en amis. **Priyatnogo appetita !** (Приятного аппетита ! — Bon appétit !)"
       }
     ],
     "conseil_ami": {
-      "title": "Le Conseil du Voyageur",
+      "title": "Le Conseil du Voyageur 🤝",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder construire des liens franco-russes avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "Vous avez terminé RussiePourTous. Ce n'est pas une fin — c'est un commencement. Les outils sont là, la curiosité est là. Il ne reste qu'à rencontrer des Russes — en Russie, dans votre ville, par les livres, les films et la musique.\n\nUne dernière suggestion : avant de fermer cette application, notez 3 choses que vous voulez faire dans les 3 prochains mois : 1) Regarder un film russe (Leto, Léviathan ou Stalker) ; 2) Cuisiner un plat russe (bortsch, pelmeni ou blinis) ; 3) Engager une vraie conversation avec un Russe que vous connaissez ou allez rencontrer.\n\nPriyatnogo appetita, i do vstrechi — Bon appétit, et à bientôt."
     },
     "glossary": [
       {
-        "term": "Construire des Liens franco-russes",
-        "definition": "Concept central de cette leçon — construire des liens franco-russes dans le contexte de la Russie contemporaine."
+        "term": "Anne de Kiev (Анна Киевская)",
+        "definition": "Princesse de Kiev (1024-1075) épouse d'Henri Ier de France. Un des premiers liens documentés entre France et Russie."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Diaghilev (Дягилев)",
+        "definition": "Sergueï Diaghilev — impresario des Ballets Russes, révolutionna les arts en France dans les années 1910-1920."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
-      },
-      {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
-      },
-      {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
-      },
-      {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
-      },
-      {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Ivan Bounine (Иван Бунин)",
+        "definition": "Premier écrivain russe Prix Nobel de littérature (Paris, 1933). Exilé après la révolution, il représente la diaspora russe en France."
       },
       {
         "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "definition": "Mélancolie-aspiration russe sans équivalent — vide douloureux, nostalgie d'on-ne-sait-quoi. L'émotion la plus russe selon Nabokov."
+      },
+      {
+        "term": "Bibliothèque de Voltaire",
+        "definition": "Achetée par Catherine la Grande après la mort du philosophe. Conservée à l'Ermitage de Saint-Pétersbourg — symbole des liens intellectuels franco-russes."
+      },
+      {
+        "term": "Meduza (Медуза)",
+        "definition": "Principal média d'information russe indépendant, basé à Riga. Accessible en anglais — référence pour comprendre la Russie contemporaine."
+      },
+      {
+        "term": "Priyatnogo appetita (Приятного аппетита !)",
+        "definition": "Bon appétit en russe. La dernière formule de RussiePourTous — un pont savoureux entre deux cultures."
+      },
+      {
+        "term": "Za nas (За нас !)",
+        "definition": "Toast à nous — Français et Russes qui choisissons de nous comprendre. Le toast de clôture de RussiePourTous."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Construire des Liens franco-russes'. Quel est le salaire médian en Russie ?",
+        "question": "Qui est Anne de Kiev et quelle est son importance dans les relations franco-russes ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
-        ],
-        "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
-      },
-      {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
-        "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Une tsarine qui envoya des soldats en France",
+          "Une princesse de Kiev épouse du roi Henri Ier de France — un des premiers liens documentés entre les deux pays",
+          "Une espionne russe à la cour de Louis XIV",
+          "Une poétesse russe traduite en français au XIXe siècle"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
+        "explanation": "Anne de Kiev (1024-1075) est la fille du prince de Kiev Yaroslav le Sage. Elle épouse Henri Ier de France en 1051 et introduit la langue et la culture slaves à la cour française — un des premiers ponts documentés entre France et Russie."
       },
       {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
+        "question": "Quel point commun fondamental unit la France et la Russie dans leur rapport à l'État ?",
         "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
+          "Les deux pays ont une tradition de démocratie directe",
+          "Les deux pays sont des États centralisés avec une longue tradition d'interventionnisme étatique — méfiance commune envers le tout-marché",
+          "Les deux pays ont adopté la même constitution après 1991",
+          "Les deux pays ont des armées de taille équivalente"
         ],
         "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
+        "explanation": "France et Russie sont toutes deux des États centralisés avec une longue tradition d'intervention de l'État dans l'économie et la société — contra le libéralisme anglo-saxon. Cette résonnance est profonde et souvent sous-estimée."
       },
       {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
+        "question": "Pourquoi les amitiés franco-russes sont-elles particulièrement résistantes selon cette leçon ?",
         "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
+          "Parce que la France et la Russie sont toujours alliées politiquement",
+          "Parce qu'elles reposent sur des fondations culturelles et humaines qui transcendent les vicissitudes politiques",
+          "Parce que les Français et les Russes ont les mêmes valeurs politiques",
+          "Parce que les deux pays ont signé un accord d'amitié perpétuelle"
         ],
         "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "Les amitiés franco-russes reposent sur des fondations culturelles profondes — goût de la culture, rapport à l'État, amour de la conversation profonde, gastronomie comme valeur — qui transcendent les turbulences politiques. Les politiques changent, ces ponts résistent."
+      },
+      {
+        "question": "Quelle expérience gastronomique franco-russe par excellence propose cette leçon ?",
+        "options": [
+          "Manger un croissant avec de la confiture russe",
+          "Faire des pelmeni ensemble — expérience conviviale universelle qui réunit Français et Russes",
+          "Boire de la vodka avec du vin de Bordeaux",
+          "Commander un plateau de fromages français dans un restaurant moscovite"
+        ],
+        "answer": 1,
+        "explanation": "Faire des pelmeni ensemble est une expérience conviviale universelle — comme faire des raviolis ou des dim sum. C'est l'image parfaite du pont franco-russe : partager le geste de la cuisine ensemble transcende les différences culturelles et politiques."
+      },
+      {
+        "question": "Quel est le dernier toast de RussiePourTous ?",
+        "options": [
+          "Za Rossiyu ! (À la Russie !)",
+          "Za nas ! (À nous — Français et Russes qui choisissons de nous comprendre !)",
+          "Za pobedou ! (À la victoire !)",
+          "Za zdorovye ! (À la santé !)"
+        ],
+        "answer": 1,
+        "explanation": "'Za nas !' (À nous !) est le toast de clôture de RussiePourTous — un toast à tous ceux, Français et Russes, qui choisissent de se comprendre plutôt que de s'ignorer, même quand c'est difficile."
       }
     ]
   },
@@ -157,139 +165,139 @@
     "module_title": "Социальные коды и этикет",
     "lesson_title": "Строить французско-российские связи",
     "lesson_subtitle": "Долгосрочные культурные и дружеские связи",
-    "intro": "Этот урок посвящён теме «Строить французско-российские связи» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Вы у конца RussiePourTous. Этот последний урок — не резюме, а приглашение. После десяти модулей открытий у вас есть инструменты для подлинных, долгосрочных и взаимно обогащающих французско-российских отношений. Но инструментов недостаточно: нужна философия межкультурной встречи. Именно это предлагает этот урок.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Строить французско-российские связи»",
-        "body": "Тема «Строить французско-российские связи» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "История французско-российских отношений",
+        "body": "Франция и Россия поддерживают отношения более тысячи лет — отмеченных моментами большой близости и периодами крайней напряжённости. Почти французская царица: **Анна Киевская** (*Anna Kievskaya*), дочь великого князя киевского Ярослава Мудрого, в 1051 году выходит замуж за французского короля **Генриха I** — привозя с собой Библию на кириллице, служившую при некоторых французских коронованиях. Одна из первых задокументированных связей между двумя странами.\n\nВ XVIII веке царицы **Екатерина Великая** и **Елизавета** глубоко франкофильны: французский — язык русского двора. **Вольтер** обильно переписывается с Екатериной. Библиотека Вольтера куплена Екатериной после его смерти и хранится в Эрмитаже.\n\nВ XIX–XX веках Франция принимает огромную российскую диаспору после революции 1917 года: писатели, художники, философы, военные. **Иван Бунин** получает Нобелевскую премию по литературе в Париже в 1933-м. **Русские балеты** Дягилева революционизируют сценические искусства Франции."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Точки соприкосновения Франции и России",
+        "body": "Французско-российские отношения уникальны, потому что опираются на глубокие культурные резонансы — значительно более многочисленные, чем различия.\n\n**Любовь к культуре**: обе страны считают национальную культуру (литературу, музыку, кино, гастрономию) государственным делом и компонентом национальной идентичности. Эта общая ценность высокой культуры создаёт разделяемый язык.\n\n**Отношение к государству**: Франция и Россия — обе централизованные государства с долгой традицией государственного интервенционизма. Эта общая настороженность к «тотальному рынку» и ценность активной роли государства — глубокий резонанс.\n\n**Вкус к глубокому разговору**: обе культуры ценят философскую дискуссию, интеллектуальный спор. Француз и россиянин могут провести целую ночь в споре о свободе воли, политической морали или определении счастья — для обоих это не исключительно.\n\n**Гастрономия как ценность**: обе страны обладают богатой и глубокой национальной кухней и разделяют убеждение, что хорошо есть — искусство жизни, а не просто биологическая потребность."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Строить французско-российские связи» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Строить долгосрочную французско-российскую дружбу",
+        "body": "Самые глубокие французско-российские дружбы имеют общие черты. Они основаны на подлинном взаимном любопытстве — не на экзотическом очаровании (загадочный россиянин, романтичный француз), быстро иссякающем, а на искреннем интересе к другому как сложной личности.\n\nОни строятся на **совместном опыте**: путешествовать вместе, готовить вместе, слушать музыку вместе, преодолевать трудности вместе. Россияне доверяют тем, кого «видели под давлением»: дружба, рождённая в трудностях (сложное путешествие, бессонная ночь, трудный разговор) крепче дружбы, рождённой в комфорте.\n\nОни выдерживают **политические потрясения**: с 2022 года поддерживать французско-российские дружбы требует чёткости в разграничении личного и политического. Российский друг не отвечает за политику своего правительства — так же, как американский друг не отвечает за внешнюю политику США.\n\nОни поддерживаются **в долгосрочной перспективе**: российские дружбы углубляются со временем. Отношения длиной в 10 лет с россиянином качественно иные, чем полугодовые: доверие выстроено, откровенность полная, взаимность абсолютна."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Строить французско-российские связи» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Ресурсы для продолжения обучения",
+        "body": "RussiePourTous дал вам основу — но открытие России — это бесконечное путешествие. Ресурсы для продолжения.\n\n**Книги на русском**: романы **Достоевского** (начните с «Идиота» или «Преступления и наказания»), **Толстого** («Война и мир» или «Анна Каренина»), **Чехова** (рассказы), **Булгакова** («Мастер и Маргарита»). Современные: **Улицкая**, **Прилепин**, **Пелевин**.\n\n**Фильмы**: «Лето» (Серебренников, 2018), «Левиафан» (Звягинцев, 2014), «Сталкер» (Тарковский, 1979), «Иди и смотри» (Климов, 1985).\n\n**Подкасты и медиа**: «Медуза» (для независимых российских новостей); Кинопоиск для стриминга российского кино.\n\n**Изучение французского**: даже несколько слов по-русски радикально меняют ваш опыт во Франции. Кириллицу можно выучить за 2–3 часа. Приложения **Duolingo** (для начала), **Anki** (для словарного запаса)."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Строить французско-российские связи». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Россия по ту сторону клише — заключение",
+        "body": "После десяти модулей вы встретили Россию, не похожую на клише — ни на «Россию-врага» западных СМИ, ни на «Россию-героя» российской пропаганды. Вы встретили Россию сложную, противоречивую, разрываемую между глубокими устремлениями к достоинству, свободе и красоте — и историей, географией и политической системой, делающими эти устремления трудноосуществимыми.\n\nРоссияне, которых вы встретите, — не геополитические абстракции. Это люди, любящие своих близких, увлечённые литературой и музыкой, боящиеся завтрашнего дня, страдающие от тоски — этой меланхолии-томления без предмета — и ищущие, как всякий человек, жить с достоинством и быть понятыми.\n\nФранко-российские отношения имеют будущее именно потому, что опираются на культурные и человеческие основания, превосходящие политические перипетии. Политики меняются. Дружба, литература, музыка, гастрономия — эти мосты устоят.\n\n**За нас** — французов и россиян, выбирающих понимать, а не игнорировать друг друга, даже когда это трудно."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Строить французско-российские связи» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Последний ужин — лучшие французско-российские блюда на двоих",
+        "body": "В завершение RussiePourTous — список гастрономических французско-российских моментов: вкусные мосты между двумя культурами.\n\n**Борщ и багет**: подайте домашний борщ с французским хлебом — сочетание работает прекрасно. Сметану можно заменить густой французской крème fraîche.\n\n**Блины и шампанское**: приготовьте блины с красной икрой и бокалом французского шампанского (или креманa). Идеальный союз двух гастрономий — примирительная закуска.\n\n**Бефстроганов и бургундское**: классическое русское блюдо, приготовленное с хорошим бургундским в качестве сопровождения. Сочетание замечательное.\n\n**Пельмени из рук в руки**: пригласите российских и французских друзей лепить пельмени вместе. Лепить пельмени сообща — универсально дружелюбный опыт: как итальянские равиоли или китайские дим-сам, они часть кулинарного наследия человечества.\n\nКухня — возможно, лучший паспорт всех культур: пересекает границы, объединяет тех, кого разводит политика, превращает чужих в друзей. **Приятного аппетита!**"
       }
     ],
     "conseil_ami": {
-      "title": "Совет путешественника",
+      "title": "Совет путешественника 🤝",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Строить французско-российские связи» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "Вы завершили RussiePourTous. Это не конец — это начало. Инструменты есть, любопытство есть. Осталось только встречать россиян — в России, в вашем городе, через книги, фильмы и музыку.\n\nПоследнее предложение: прежде чем закрыть приложение, запишите 3 вещи, которые хотите сделать в ближайшие 3 месяца: 1) Посмотреть российский фильм («Лето», «Левиафан» или «Сталкер»); 2) Приготовить российское блюдо (борщ, пельмени или блины); 3) Завязать настоящий разговор с россиянином, которого знаете или ещё встретите.\n\nПриятного аппетита, и до встречи!"
     },
     "glossary": [
       {
-        "term": "Строить французско-российские связи",
-        "definition": "Центральное понятие этого урока — строить французско-российские связи в контексте современной России."
+        "term": "Анна Киевская",
+        "definition": "Киевская княжна (1024–1075), жена французского короля Генриха I. Одна из первых задокументированных связей между Францией и Россией."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Дягилев",
+        "definition": "Сергей Дягилев — импресарио Русских балетов, революционизировавший искусства во Франции в 1910–1920-е годы."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
-      },
-      {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
-      },
-      {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
-      },
-      {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
-      },
-      {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Иван Бунин",
+        "definition": "Первый российский лауреат Нобелевской премии по литературе (Париж, 1933). Эмигрант после революции, представлявший российскую диаспору во Франции."
       },
       {
         "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "definition": "Русская меланхолия-томление без аналога — мучительная пустота, ностальгия по непонятно чему. Самая русская эмоция по Набокову."
+      },
+      {
+        "term": "Библиотека Вольтера",
+        "definition": "Куплена Екатериной Великой после смерти философа. Хранится в Эрмитаже в Санкт-Петербурге — символ французско-российских интеллектуальных связей."
+      },
+      {
+        "term": "Медуза",
+        "definition": "Главное независимое российское информационное издание, базирующееся в Риге. Доступно на английском — эталон для понимания современной России."
+      },
+      {
+        "term": "Приятного аппетита !",
+        "definition": "Bon appétit по-русски. Последняя формула RussiePourTous — вкусный мост между двумя культурами."
+      },
+      {
+        "term": "За нас !",
+        "definition": "Тост за нас — французов и россиян, выбирающих понимать друг друга. Заключительный тост RussiePourTous."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Строить французско-российские связи». Какова медианная зарплата в России?",
+        "question": "Кто такая Анна Киевская и каково её значение в французско-российских отношениях?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
-        ],
-        "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
-      },
-      {
-        "question": "Сколько часовых поясов занимает Россия?",
-        "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Царица, направившая солдат во Францию",
+          "Киевская княжна, жена французского короля Генриха I — одна из первых задокументированных связей между двумя странами",
+          "Российская шпионка при дворе Людовика XIV",
+          "Российская поэтесса, переводимая на французский в XIX веке"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
+        "explanation": "Анна Киевская (1024–1075) — дочь киевского князя Ярослава Мудрого. В 1051 году она выходит замуж за французского короля Генриха I и привносит в французский двор славянский язык и культуру — один из первых задокументированных мостов между Францией и Россией."
       },
       {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
+        "question": "Какой фундаментальный общий принцип объединяет Францию и Россию в их отношении к государству?",
         "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
+          "Обе страны имеют традицию прямой демократии",
+          "Обе страны — централизованные государства с долгой традицией государственного интервенционизма: общая настороженность к тотальному рынку",
+          "Обе страны приняли одинаковую конституцию после 1991 года",
+          "Обе страны имеют армии эквивалентного размера"
         ],
         "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
+        "explanation": "Франция и Россия — обе централизованные государства с долгой традицией государственного вмешательства в экономику и общество: противовес англосаксонскому либерализму. Этот резонанс глубок и нередко недооценивается."
       },
       {
-        "question": "Какой главный разлом структурирует современное российское общество?",
+        "question": "Почему французско-российские дружбы особенно устойчивы, согласно этому уроку?",
         "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
+          "Потому что Франция и Россия всегда политически союзны",
+          "Потому что они опираются на культурные и человеческие основания, превосходящие политические перипетии",
+          "Потому что французы и россияне разделяют одинаковые политические ценности",
+          "Потому что обе страны подписали соглашение о вечной дружбе"
         ],
         "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "Французско-российские дружбы опираются на глубокие культурные основания — любовь к культуре, отношение к государству, вкус к глубоким разговорам, гастрономия как ценность — превосходящие политические потрясения. Политики меняются, эти мосты устоят."
+      },
+      {
+        "question": "Какой гастрономический опыт французско-российского сближения предлагает этот урок?",
+        "options": [
+          "Есть круассан с русским вареньем",
+          "Лепить пельмени вместе — универсально дружелюбный опыт, объединяющий французов и россиян",
+          "Пить водку с бордо",
+          "Заказать тарелку французских сыров в московском ресторане"
+        ],
+        "answer": 1,
+        "explanation": "Лепить пельмени вместе — универсально дружелюбный опыт, как делать равиоли или дим-сам. Идеальный образ французско-российского моста: разделить кулинарный жест вместе превосходит культурные и политические различия."
+      },
+      {
+        "question": "Каков заключительный тост RussiePourTous?",
+        "options": [
+          "За Россию!",
+          "За нас! — французов и россиян, выбирающих понимать друг друга!",
+          "За победу!",
+          "За здоровье!"
+        ],
+        "answer": 1,
+        "explanation": "«За нас!» — заключительный тост RussiePourTous: за всех, французов и россиян, выбирающих понимать, а не игнорировать друг друга — даже когда это трудно."
       }
     ]
   }

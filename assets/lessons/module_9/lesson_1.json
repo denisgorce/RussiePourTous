@@ -4,292 +4,300 @@
     "lesson_id": 1,
     "module_icon": "🎵",
     "lesson_icon": "🎻",
-    "estimated_minutes": 12,
+    "estimated_minutes": 13,
     "difficulty": "intermédiaire",
     "sources": [
       {
-        "label": "Encyclopædia Universalis — Russie",
-        "url": "https://www.universalis.fr/"
+        "label": "Encyclopædia Universalis — Musique russe",
+        "url": "https://www.universalis.fr/encyclopedie/musique-russe/"
+      },
+      {
+        "label": "France Culture — Cinéma russe",
+        "url": "https://www.franceculture.fr/"
+      },
+      {
+        "label": "Le Monde — Culture russe contemporaine",
+        "url": "https://www.lemonde.fr/culture/"
       }
     ]
   },
   "fr": {
     "module_title": "Musique & Cinéma",
-    "lesson_title": "Tchaïkovski et la Musique classique",
-    "lesson_subtitle": "Lac des Cygnes, Casse-Noisette, Symphonies",
-    "intro": "Cette leçon explore tchaïkovski et la musique classique dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "lesson_title": "Tchaïkovski et la Musique classique russe",
+    "lesson_subtitle": "Symphonies, ballets et âme russe",
+    "intro": "La musique classique russe est l'une des contributions les plus importantes de la Russie à la civilisation mondiale. En l'espace d'un siècle à peine — du milieu du XIXe au milieu du XXe — la Russie a produit une constellation de compositeurs qui ont transformé la musique mondiale : Glinka, Tchaïkovski, Moussorgski, Rimski-Korsakov, Rachmaninov, Stravinski, Prokofiev, Chostakovitch. Comprendre cette musique, c'est comprendre une part essentielle de l'âme russe.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de tchaïkovski et la musique classique",
-        "body": "La thématique de tchaïkovski et la musique classique s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "Glinka et la naissance de la musique nationale russe",
+        "body": "Avant **Mikhail Glinka** (1804-1857), la musique de cour russe est essentiellement italienne et allemande — les empereurs importent des compositeurs et des chanteurs d'opéra d'Europe. Glinka est le premier à créer une musique véritablement russe : son opéra **«La Vie pour le Tsar»** (*Zhizn' za Tsarya*, 1836) est le premier opéra russe majeur à utiliser des thèmes populaires russes authentiques.\n\nSon œuvre fonde la tradition musicale nationale russe et inspire directement le groupe des «**Cinq**» (*Moguchaya Kuchka* — Могучая Кучка, littéralement «la Puissante Petite Bande») : Balakirev, Cui, Moussorgski, Rimski-Korsakov et Borodine. Ces compositeurs, tous amateurs au départ (ingénieur militaire, chimiste, officier de marine), revendiquent une musique russe ancrée dans le folklore, les chants populaires et l'histoire nationale — contre la domination académique allemande.\n\n**Moussorgski** est peut-être le plus radical du groupe. Ses «**Tableaux d'une exposition**» (*Kartinki s Vystavki*, 1874) — suite de pièces pour piano inspirées par des aquarelles de son ami Hartmann — sont si novateurs que Ravel les orchestrera en 1922, créant l'une des pièces orchestrales les plus jouées du répertoire mondial."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Tchaïkovski — le génie universel",
+        "body": "**Piotr Ilitch Tchaïkovski** (1840-1893) est le compositeur russe le plus connu et le plus aimé dans le monde. Ses trois ballets — **«Le Lac des Cygnes»** (*Lebedinoye Ozero*, 1876), **«La Belle au Bois Dormant»** (*Spyashchaya Krasavitsa*, 1890) et **«Casse-Noisette»** (*Shchelkunchik*, 1892) — sont les ballets les plus représentés au monde, joués chaque année dans des centaines de théâtres.\n\nSes symphonies (notamment les 4e, 5e et 6e) et ses concertos pour piano (le 1er est l'un des plus connus du répertoire) allient la forme classique européenne à une intensité émotionnelle et une mélancolie profondément russes. Le premier mouvement de son Concerto pour piano n°1 est peut-être la mélodie classique la plus universellement reconnue.\n\nTchaïkovski est aussi une figure tragique. Homosexuel dans une société qui réprimait violemment cette orientation, il vécut une vie personnelle marquée par la souffrance. Sa mort mystérieuse à 53 ans — officiellement le choléra, mais peut-être un suicide forcé par une cour d'honneur — reste un des grands mystères de l'histoire de la musique. Cette dimension tragique donne à son œuvre une profondeur qui transcende le simple divertissement."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de tchaïkovski et la musique classique est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "Rachmaninov et l'émigration musicale",
+        "body": "**Sergueï Rachmaninov** (1873-1943) représente l'âme russe dans ce qu'elle a de plus mélancolique et de plus intense. Ses deux premiers concertos pour piano et ses Études-Tableaux sont des œuvres d'une densité émotionnelle extraordinaire — la musique qui vous prend par l'âme et ne vous lâche plus.\n\nAprès la révolution de 1917, Rachmaninov quitte la Russie pour ne plus jamais y revenir. Il s'installe aux États-Unis, devient l'un des pianistes les plus célèbres du monde, mais souffre profondément de la séparation d'avec sa patrie. Cette nostalgie (*toska za Rodinoy* — тоска за Родиной) se reflète dans son œuvre post-révolutionnaire — plus austère, plus sombre.\n\nL'émigration musicale russe après 1917 est un phénomène considérable. **Stravinski** (Paris, puis États-Unis), **Prokofiev** (revenu en URSS en 1936 pour y être persécuté), **Horowitz** (pianiste légendaire), de nombreux solistes — la diaspora musicale russe a enrichi la vie musicale mondiale tout au long du XXe siècle. Aujourd'hui, une nouvelle diaspora musicale russe se constitue après 2022."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de tchaïkovski et la musique classique, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "Chostakovitch — la musique sous la terreur",
+        "body": "**Dmitri Chostakovitch** (1906-1975) est l'un des compositeurs les plus fascinants et les plus tragiques du XXe siècle — celui qui a composé sous la menace constante du régime stalinien. Sa relation avec le pouvoir soviétique est le sujet de débats infinis : collaborateur contraint ? Résistant codé ? Les deux à la fois ?\n\nSa **Symphonie n°5** (1937) est le cas d'école. Elle est créée après que Staline a quitté furieux une représentation de son opéra «Lady Macbeth du District de Mtsensk» — et que la *Pravda* a publié un article dévastateur intitulé «Le chaos au lieu de la musique». La 5e Symphonie est-elle une reddition sincère à la critique soviétique ? Ou une œuvre qui feint la réconciliation tout en conservant une ironie secrète ? Le public soviétique la comprit-il comme une œuvre de résistance ?\n\nSa **Symphonie n°7 «Leningrad»** (1941), composée pendant le siège, fut jouée dans la ville assiégée en 1942 — un moment de résistance culturelle extraordinaire. Sa **Symphonie n°13 «Babi Yar»** (1962), sur des poèmes d'Evtouchenko commémorant le massacre de Juifs à Kiev, provoqua une crise politique majeure."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre tchaïkovski et la musique classique. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "La musique classique dans la culture russe contemporaine",
+        "body": "La musique classique occupe en Russie une place sociale unique — bien plus intégrée à la vie quotidienne qu'en France. La **philharmonique de Moscou** et celle de Saint-Pétersbourg sont des institutions nationales avec des abonnements très accessibles (billets à partir de quelques centaines de roubles). Assister à un concert est une sortie normale pour les classes moyennes russes — pas un événement exceptionnel réservé aux élites.\n\nLe **Concours International Tchaïkovski** (Международный конкурс Чайковского), créé en 1958, est l'un des concours de musique classique les plus prestigieux du monde — avec Cliburn, Reine Elisabeth et Leeds. Il révèle régulièrement des talents de rang mondial : le pianiste américain Van Cliburn y remporta le 1er prix en 1958 (en pleine Guerre froide), et ce triomphe fut accueilli en héros aux États-Unis.\n\nLe **pianiste Denis Matsuev** et le **violoniste Maxim Vengerov** représentent la génération actuelle des grands solistes russes — reconnus et admirés internationalement. La formation musicale russe reste une des plus rigoureuses et des plus complètes au monde."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à tchaïkovski et la musique classique à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Les plats du concert — manger avant et après la musique",
+        "body": "La culture des concerts en Russie inclut des rituels gastronomiques spécifiques. L'**entracte** (*antrackt*, антракт) d'un concert ou d'un opéra est une occasion sociale majeure — pas seulement une pause. Le buffet de la **Philharmonique de Moscou** ou du **Mariinski** est fréquenté pour ses champagnes soviétiques (*sovetskoe shampanskoye*, советское шампанское — mousseux russe au goût caractéristique), ses sandwichs au saumon fumé et ses petits-fours.\n\nLe **«champagne soviétique»** (*Советское шампанское*, abrégé Sovetskoye) est un mousseux demi-sec produit selon une méthode industrialisée depuis 1937. Moins fin qu'un champagne français, il est associé aux célébrations et aux sorties culturelles — une madeleine de Proust pour toute une génération de Russes. Il se boit très frais, à la flûte, et accompagne aussi bien les concerts que les mariages et les fêtes du Nouvel An.\n\nLa tradition de **«l'après-concert»** dans un restaurant ou chez des amis est vivante dans les grandes villes russes. Les discussions sur la performance du soliste, le tempo du chef d'orchestre et les mérites comparés des interprétations sont des sujets de conversation prisés dans les cercles musicophiles russes — avec une intensité et une compétence que peu de pays peuvent égaler."
       }
     ],
     "conseil_ami": {
-      "title": "Le Conseil du Voyageur",
+      "title": "Le Conseil du Voyageur 🤝",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder tchaïkovski et la musique classique avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Allez à un concert en Russie si vous en avez l'occasion.** Le prix des billets est très accessible — quelques centaines de roubles pour une philharmonique de rang mondial. L'atmosphère est différente de la France : public très attentif, applaudissements entre les mouvements parfois (contrairement à l'étiquette française), mais passion authentique.\n\n**Lors de l'entracte**, demandez un verre de «sovetskoe shampanskoye» — l'expérience culturelle fait partie intégrante du concert. C'est souvent là que se nouent les conversations les plus intéressantes avec les mélomanes russes.\n\n**Pour briser la glace** : mentionner le Lac des Cygnes ou le 1er Concerto de Rachmaninov est une entrée en matière universelle. Pour les plus cultivés, évoquer l'énigme de la 5e Symphonie de Chostakovitch — résistance ou capitulation ? — ouvre une conversation d'une richesse infinie."
     },
     "glossary": [
       {
-        "term": "Tchaïkovski et la Musique classique",
-        "definition": "Concept central de cette leçon — tchaïkovski et la musique classique dans le contexte de la Russie contemporaine."
+        "term": "Moguchaya Kuchka (Могучая кучка)",
+        "definition": "'La Puissante Petite Bande' — groupe des Cinq compositeurs russes nationalistes (Balakirev, Cui, Moussorgski, Rimski-Korsakov, Borodine)."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Tableaux d'une exposition",
+        "definition": "Suite pour piano de Moussorgski (1874), orchestrée par Ravel en 1922. Une des pièces orchestrales les plus jouées au monde."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Lac des Cygnes (Лебединое озеро)",
+        "definition": "Ballet de Tchaïkovski (1876). Le ballet le plus joué au monde. Associé par les Russes aux changements de régime politique (diffusé à la TV lors des crises)."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Concours Tchaïkovski",
+        "definition": "Concours international de musique classique, créé en 1958. Un des plus prestigieux du monde — piano, violon, violoncelle, chant."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Champagne soviétique (Советское шампанское)",
+        "definition": "Mousseux russe demi-sec produit depuis 1937. Associé aux sorties culturelles et fêtes. Moins fin qu'un champagne français mais très populaire."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Symphonie Leningrad (7e de Chostakovitch)",
+        "definition": "Composée pendant le siège de Leningrad (1941-44). Jouée dans la ville assiégée en 1942. Symbole de résistance culturelle."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Rachmaninov (Рахманинов)",
+        "definition": "Compositeur et pianiste (1873-1943). Quitta la Russie après 1917. Ses concertos pour piano sont parmi les plus joués du répertoire mondial."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Van Cliburn",
+        "definition": "Pianiste américain, vainqueur du 1er Concours Tchaïkovski en 1958 — en pleine Guerre froide. Sa victoire fut célébrée comme un pont culturel entre USA et URSS."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Tchaïkovski et la Musique classique'. Quel est le salaire médian en Russie ?",
+        "question": "Quel compositeur russe a créé la première musique classique véritablement nationale ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
-        ],
-        "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
-      },
-      {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
-        "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Tchaïkovski",
+          "Glinka",
+          "Rachmaninov",
+          "Chostakovitch"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
+        "explanation": "Mikhail Glinka (1804-1857) est le fondateur de la musique nationale russe — son opéra 'La Vie pour le Tsar' (1836) est le premier à utiliser des thèmes populaires russes authentiques. Il inspire directement le groupe des Cinq."
       },
       {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
+        "question": "Quels sont les trois ballets de Tchaïkovski les plus joués au monde ?",
         "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
+          "Giselle, Coppélia, Don Quichotte",
+          "Le Lac des Cygnes, La Belle au Bois Dormant, Casse-Noisette",
+          "Roméo et Juliette, Cendrillon, Spartacus",
+          "Onegin, La Bayadère, Swan Lake"
         ],
         "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
+        "explanation": "Les trois ballets de Tchaïkovski — Le Lac des Cygnes (1876), La Belle au Bois Dormant (1890) et Casse-Noisette (1892) — sont les ballets les plus représentés au monde, joués dans des centaines de théâtres chaque année."
       },
       {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
+        "question": "Pourquoi 'Le Lac des Cygnes' est-il associé aux changements politiques en Russie ?",
         "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
+          "Il a été composé après la Révolution de 1917",
+          "Les chaînes d'État diffusaient le ballet lorsque les dirigeants soviétiques mouraient ou lors des crises de pouvoir",
+          "Il était l'œuvre préférée de Staline",
+          "C'est le ballet joué lors des élections présidentielles"
         ],
         "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "Dans la culture politique russe, la diffusion du Lac des Cygnes sur les chaînes d'État est devenue un signal codé de crise : c'est ce que les chaînes passaient quand Brejnev, Andropov ou Tchernenko mouraient — et en août 1991 pendant le coup d'État."
+      },
+      {
+        "question": "Quel pianiste américain a remporté le 1er Concours Tchaïkovski en 1958, en pleine Guerre froide ?",
+        "options": [
+          "Arthur Rubinstein",
+          "Van Cliburn",
+          "Vladimir Horowitz",
+          "Glenn Gould"
+        ],
+        "answer": 1,
+        "explanation": "Van Cliburn, pianiste américain de 23 ans, remporta le 1er Concours Tchaïkovski en 1958. Sa victoire fut accueillie en héros aux États-Unis et symbolisa un moment de détente culturelle entre USA et URSS malgré la Guerre froide."
+      },
+      {
+        "question": "Qu'est-ce que le 'champagne soviétique' dans la culture des concerts russes ?",
+        "options": [
+          "Du champagne français importé pour l'élite soviétique",
+          "Un mousseux russe demi-sec produit depuis 1937, associé aux sorties culturelles et célébrations",
+          "De la vodka aromatisée au raisin",
+          "Un cocktail créé au Bolchoï dans les années 1950"
+        ],
+        "answer": 1,
+        "explanation": "Le champagne soviétique (Советское шампанское) est un mousseux demi-sec produit depuis 1937. Moins fin qu'un champagne français, il est la boisson emblématique des entractes de concert, mariages et fêtes du Nouvel An — une madeleine de Proust pour les Russes."
       }
     ]
   },
   "ru": {
     "module_title": "Музыка и кино",
-    "lesson_title": "Чайковский и классическая музыка",
-    "lesson_subtitle": "Лебединое озеро, Щелкунчик, симфонии",
-    "intro": "Этот урок посвящён теме «Чайковский и классическая музыка» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "lesson_title": "Чайковский и русская классическая музыка",
+    "lesson_subtitle": "Симфонии, балеты и русская душа",
+    "intro": "Русская классическая музыка — один из важнейших вкладов России в мировую цивилизацию. За неполное столетие — с середины XIX до середины XX — Россия произвела созвездие композиторов, преобразивших мировую музыку: Глинка, Чайковский, Мусоргский, Римский-Корсаков, Рахманинов, Стравинский, Прокофьев, Шостакович. Понять эту музыку — значит понять существенную часть русской души.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Чайковский и классическая музыка»",
-        "body": "Тема «Чайковский и классическая музыка» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Глинка и рождение русской национальной музыки",
+        "body": "До **Михаила Глинки** (1804–1857) придворная музыка в России была преимущественно итальянской и немецкой. Глинка первым создал подлинно русскую музыку: его опера **«Жизнь за царя»** (1836) — первая крупная русская опера, использующая подлинные народные темы.\n\nЕго творчество закладывает основы национальной музыкальной традиции и непосредственно вдохновляет группу «**Могучая кучка**»: Балакирев, Кюи, Мусоргский, Римский-Корсаков и Бородин. Эти композиторы, поначалу любители (военный инженер, химик, морской офицер), отстаивают русскую музыку, укоренённую в фольклоре, народных песнях и национальной истории.\n\n**Мусоргский** — пожалуй, наиболее радикальный из группы. Его «**Картинки с выставки**» (1874) — цикл фортепианных пьес, вдохновлённых акварелями друга Гартмана — настолько новаторски, что Равель оркеструет их в 1922 году, создавая одно из наиболее исполняемых оркестровых произведений в мире."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Чайковский — универсальный гений",
+        "body": "**Пётр Ильич Чайковский** (1840–1893) — самый известный и любимый в мире русский композитор. Его три балета — **«Лебединое озеро»** (1876), **«Спящая красавица»** (1890) и **«Щелкунчик»** (1892) — самые исполняемые балеты мира, ежегодно идущие в сотнях театров.\n\nЕго симфонии (особенно 4-я, 5-я и 6-я) и фортепианные концерты (1-й — один из самых известных в репертуаре) сочетают европейскую классическую форму с глубоко русской эмоциональной интенсивностью и меланхолией.\n\nЧайковский — и трагическая фигура. Гомосексуал в обществе, жестоко подавлявшем это влечение, он прожил личную жизнь, отмеченную страданием. Его загадочная смерть в 53 года — официально холера, но, возможно, вынужденное самоубийство по решению суда чести — остаётся одной из главных загадок истории музыки. Эта трагическая составляющая придаёт его творчеству глубину, выходящую за рамки простого развлечения."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Чайковский и классическая музыка» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Рахманинов и музыкальная эмиграция",
+        "body": "**Сергей Рахманинов** (1873–1943) воплощает русскую душу в её наиболее меланхоличном и интенсивном измерении. Его первые два фортепианных концерта и Этюды-картины — произведения исключительной эмоциональной насыщенности: музыка, берущая за душу и не отпускающая.\n\nПосле революции 1917 года Рахманинов покидает Россию, чтобы никогда не вернуться. Он обосновывается в США, становится одним из самых знаменитых пианистов мира, но глубоко страдает от разлуки с Родиной. Эта тоска по Родине отражается в его послереволюционном творчестве — более суровом, более тёмном.\n\nМузыкальная эмиграция после 1917 года — значительное явление. **Стравинский** (Париж, затем США), **Прокофьев** (вернувшийся в СССР в 1936-м, чтобы быть там преследуемым), **Горовиц** (легендарный пианист) — русская музыкальная диаспора обогащала мировую музыкальную жизнь на протяжении всего XX века. Сегодня после 2022 года складывается новая российская музыкальная диаспора."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Чайковский и классическая музыка» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Шостакович — музыка под террором",
+        "body": "**Дмитрий Шостакович** (1906–1975) — один из самых захватывающих и трагических композиторов XX века: он сочинял под постоянной угрозой сталинского режима. Его отношения с советской властью — предмет бесконечных дискуссий: вынужденный коллаборационист? Закодированный диссидент? И то, и другое одновременно?\n\nЕго **Симфония №5** (1937) — хрестоматийный случай. Написана после того, как Сталин в ярости покинул представление его оперы «Леди Макбет Мценского уезда», а «Правда» напечатала разгромную статью «Сумбур вместо музыки». 5-я симфония — искренняя капитуляция перед советской критикой? Или произведение, лишь притворяющееся примирением, втайне сохраняя иронию?\n\nЕго **Симфония №7 «Ленинградская»** (1941), написанная в осаждённом городе, была исполнена там в 1942 году — исключительный момент культурного сопротивления. Его **Симфония №13 «Бабий Яр»** (1962) на стихи Евтушенко, посвящённые памяти евреев Киева, вызвала крупный политический кризис."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Чайковский и классическая музыка». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Классическая музыка в современной российской культуре",
+        "body": "Классическая музыка занимает в России уникальное социальное место — куда более интегрированное в повседневную жизнь, чем во Франции. **Московская и Петербургская филармонии** — национальные институты с очень доступными абонементами. Посетить концерт — обычный выход для российского среднего класса, а не исключительное событие для элиты.\n\n**Международный конкурс имени Чайковского** (с 1958 года) — один из самых престижных в мире. Американский пианист Ван Клиберн завоевал первую премию в 1958-м (в разгар холодной войны) — и вернулся домой как герой.\n\n**Пианист Денис Мацуев** и **скрипач Максим Венгеров** представляют нынешнее поколение великих российских солистов — признанных и восхищаемых в мире. Российская музыкальная педагогика по-прежнему одна из наиболее строгих и полных в мире."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Чайковский и классическая музыка» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Блюда концерта — еда до и после музыки",
+        "body": "Культура концертов в России включает специфические гастрономические ритуалы. **Антракт** — важный социальный момент, не просто пауза. Буфет **Московской филармонии** или **Мариинского** посещают ради советского шампанского, сэндвичей с лососем и пирожных.\n\n**«Советское шампанское»** (*Советское шампанское*) — полусухое игристое, производимое по промышленному методу с 1937 года. Менее изящное, чем французское, оно ассоциируется с праздниками и культурными выходами — мадлен Пруста для целого поколения россиян. Пьётся очень холодным в бокале-флейте и сопровождает как концерты, так и свадьбы и новогодние праздники.\n\nТрадиция **«после концерта»** в ресторане или у друзей жива в крупных российских городах. Обсуждения исполнения солиста, темпа дирижёра и сравнительных достоинств интерпретаций — любимые темы в российских меломанских кругах, с интенсивностью и компетентностью, которую мало какая страна может превзойти."
       }
     ],
     "conseil_ami": {
-      "title": "Совет путешественника",
+      "title": "Совет путешественника 🤝",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Чайковский и классическая музыка» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Сходите на концерт в России, если представится возможность.** Стоимость билетов очень доступна — несколько сотен рублей за концерт в филармонии мирового уровня. Атмосфера отличается от французской: очень внимательная публика, иногда аплодисменты между частями (вопреки французскому этикету), но подлинная страсть.\n\n**В антракте** попросите бокал «Советского шампанского» — культурный опыт неотделим от концерта. Именно здесь нередко завязываются самые интересные разговоры с российскими меломанами.\n\n**Чтобы начать беседу**: упоминание «Лебединого озера» или 1-го Концерта Рахманинова — универсальный вход. Для более знатоков — загадка 5-й симфонии Шостаковича (сопротивление или капитуляция?) — открывает бесконечно богатый разговор."
     },
     "glossary": [
       {
-        "term": "Чайковский и классическая музыка",
-        "definition": "Центральное понятие этого урока — чайковский и классическая музыка в контексте современной России."
+        "term": "Могучая кучка",
+        "definition": "«Пять» российских национальных композиторов (Балакирев, Кюи, Мусоргский, Римский-Корсаков, Бородин). Отстаивали музыку, укоренённую в русском фольклоре."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Картинки с выставки",
+        "definition": "Фортепианный цикл Мусоргского (1874), оркестрованный Равелем в 1922 году. Одно из наиболее исполняемых оркестровых произведений."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Лебединое озеро",
+        "definition": "Балет Чайковского (1876). Самый исполняемый балет в мире. Ассоциируется у россиян со сменами власти — транслировался по ТВ в периоды политических кризисов."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Конкурс Чайковского",
+        "definition": "Международный музыкальный конкурс, основанный в 1958 году. Один из самых престижных в мире — фортепиано, скрипка, виолончель, вокал."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Советское шампанское",
+        "definition": "Российское полусухое игристое, производимое с 1937 года. Ассоциируется с культурными выходами и праздниками. Менее изящное, чем французское шампанское, но очень популярное."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Ленинградская симфония (7-я Шостаковича)",
+        "definition": "Написана в период блокады Ленинграда (1941–44). Исполнена в осаждённом городе в 1942 году. Символ культурного сопротивления."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Рахманинов",
+        "definition": "Композитор и пианист (1873–1943). Покинул Россию после 1917 года. Его фортепианные концерты — среди наиболее исполняемых в мировом репертуаре."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Ван Клиберн",
+        "definition": "Американский пианист, победитель 1-го Конкурса Чайковского в 1958 году — в разгар холодной войны. Его победа была отпразднована как культурный мост между США и СССР."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Чайковский и классическая музыка». Какова медианная зарплата в России?",
+        "question": "Какой российский композитор создал первую подлинно национальную классическую музыку?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
-        ],
-        "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
-      },
-      {
-        "question": "Сколько часовых поясов занимает Россия?",
-        "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Чайковский",
+          "Глинка",
+          "Рахманинов",
+          "Шостакович"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
+        "explanation": "Михаил Глинка (1804–1857) — основатель русской национальной музыки: его опера «Жизнь за царя» (1836) первой использует подлинные народные темы. Он непосредственно вдохновил «Могучую кучку»."
       },
       {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
+        "question": "Какие три балета Чайковского наиболее исполняются в мире?",
         "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
+          "Жизель, Коппелия, Дон Кихот",
+          "Лебединое озеро, Спящая красавица, Щелкунчик",
+          "Ромео и Джульетта, Золушка, Спартак",
+          "Онегин, Баядерка, Лебединое озеро"
         ],
         "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
+        "explanation": "Три балета Чайковского — «Лебединое озеро» (1876), «Спящая красавица» (1890) и «Щелкунчик» (1892) — самые исполняемые в мире, ежегодно идущие в сотнях театров."
       },
       {
-        "question": "Какой главный разлом структурирует современное российское общество?",
+        "question": "Почему «Лебединое озеро» ассоциируется в России со сменами власти?",
         "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
+          "Оно написано после Революции 1917 года",
+          "Госканалы транслировали балет, когда умирали советские вожди или в периоды политических кризисов",
+          "Это было любимое произведение Сталина",
+          "Это балет, исполняемый во время президентских выборов"
         ],
         "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "В российской политической культуре трансляция «Лебединого озера» на госканалах стала закодированным сигналом кризиса: именно его показывали, когда умирали Брежнев, Андропов, Черненко — и в августе 1991-го во время путча."
+      },
+      {
+        "question": "Какой американский пианист завоевал первую премию на 1-м Конкурсе Чайковского в 1958 году, в разгар холодной войны?",
+        "options": [
+          "Артур Рубинштейн",
+          "Ван Клиберн",
+          "Владимир Горовиц",
+          "Гленн Гульд"
+        ],
+        "answer": 1,
+        "explanation": "Ван Клиберн, 23-летний американский пианист, завоевал первую премию на 1-м Конкурсе Чайковского в 1958 году. Его победа была встречена как героическая в США и символизировала культурную оттепель в отношениях США–СССР вопреки холодной войне."
+      },
+      {
+        "question": "Что такое «Советское шампанское» в культуре российских концертов?",
+        "options": [
+          "Импортное французское шампанское для советской элиты",
+          "Российское полусухое игристое, производимое с 1937 года, ассоциируемое с культурными выходами и праздниками",
+          "Ароматизированная виноградом водка",
+          "Коктейль, созданный в Большом театре в 1950-х"
+        ],
+        "answer": 1,
+        "explanation": "Советское шампанское — полусухое игристое, производимое с 1937 года. Менее изящное, чем французское, оно — эмблематический напиток антрактов, свадеб и новогодних праздников: мадлен Пруста для россиян."
       }
     ]
   }

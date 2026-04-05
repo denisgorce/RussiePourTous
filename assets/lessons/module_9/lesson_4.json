@@ -4,292 +4,296 @@
     "lesson_id": 4,
     "module_icon": "🎵",
     "lesson_icon": "🎬",
-    "estimated_minutes": 12,
+    "estimated_minutes": 13,
     "difficulty": "intermédiaire",
     "sources": [
       {
-        "label": "Encyclopædia Universalis — Russie",
+        "label": "Encyclopædia Universalis — Cinéma soviétique",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "Cahiers du Cinéma — Cinéma russe",
+        "url": "https://www.cahiersducinema.com/"
       }
     ]
   },
   "fr": {
     "module_title": "Musique & Cinéma",
     "lesson_title": "Eisenstein et le Cinéma soviétique",
-    "lesson_subtitle": "Potemkine, Tarkovski, langage cinématographique",
-    "intro": "Cette leçon explore eisenstein et le cinéma soviétique dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "lesson_subtitle": "Le Cuirassé Potemkine, Tarkovski, langage cinématographique",
+    "intro": "Le cinéma soviétique est l'une des contributions les plus importantes de la Russie à la civilisation du XXe siècle. Eisenstein, Poudovkine, Vertov ont inventé des techniques cinématographiques — notamment le montage — que toute l'industrie mondiale a adoptées. Puis Tarkovski a créé un cinéma d'une poésie et d'une profondeur métaphysique uniques. Ces deux traditions — le cinéma comme outil politique et le cinéma comme exploration de l'âme — définissent le rapport russe au septième art.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de eisenstein et le cinéma soviétique",
-        "body": "La thématique de eisenstein et le cinéma soviétique s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "Eisenstein et l'invention du montage",
+        "body": "Sergueï Eisenstein (1898-1948) est l'un des cinéastes les plus influents de l'histoire du cinéma. Son film Le Cuirassé Potemkine (Броненосец Потёмкин, 1925) — commandé pour le 20e anniversaire de la révolution de 1905 — est régulièrement classé parmi les plus grands films de tous les temps par les sondages professionnels internationaux.\n\nL'apport fondamental d'Eisenstein est la théorie du montage dialectique : deux images mises en séquence produisent un sens qui dépasse la simple addition de leurs significations individuelles. La célèbre scène de l'escalier d'Odessa — les soldats qui descendent inexorablement, le landau qui dévale les marches, les visages terrifiés — est l'exemple le plus connu de cette technique qui influence encore Hollywood aujourd'hui.\n\nEisenstein travaille dans un paradoxe douloureux : génie créateur sous la tutelle du Parti communiste. Ses films Alexander Nevski (1938, avec la musique de Prokofiev) et Ivan le Terrible (1944-1958) sont des commandes politiques qu'il transforme en chefs-d'oeuvre artistiques — tout en subissant la censure et la suspicion permanente de Staline."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Tarkovski — le poète du cinéma",
+        "body": "Andreï Tarkovski (1932-1986) est universellement considéré comme l'un des plus grands cinéastes de tous les temps — et le cinéaste russe le plus admiré dans le monde. Ses films sont des expériences de méditation visuelle et spirituelle d'une profondeur sans équivalent.\n\nSon oeuvre principale : L'Enfance d'Ivan (Иваново Детство, 1962 — Lion d'Or à Venise), Andreï Roublev (1966 — sur le peintre d'icônes médiéval, censuré jusqu'en 1971), Solaris (Солярис, 1972 — adaptation du roman de Lem), Le Miroir (Зеркало, 1975 — film autobiographique d'une beauté formelle absolue), Stalker (Сталкер, 1979 — œuvre-manifeste sur la foi et la création), Nostalghia (Ностальгия, 1983 — tourné en Italie après son exil), Le Sacrifice (Жертвоприношение, 1986 — son dernier film, réalisé en Suède).\n\nTarkovski est bouddhiste-orthodoxe, mystique, profondément spirituel. Pour lui, le cinéma est un art de la mémoire et du temps — il cherche à capturer la texture du temps qui passe plutôt qu'à raconter une histoire. Ses films exigent du spectateur une disponibilité et une patience que peu de cinémas demandent."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de eisenstein et le cinéma soviétique est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "Le cinéma soviétique comme outil politique",
+        "body": "Lénine a dit : «Le cinéma est pour nous le plus important des arts» — une phrase qui définit le statut particulier du cinéma dans l'URSS. Le cinéma soviétique est à la fois un art financé et contrôle par l'État, et un espace où des cinéastes exceptionnels ont réussi à créer malgré — ou parfois grâce — aux contraintes.\n\nLes grandes époques du cinéma soviétique : l'avant-garde des années 1920 (Eisenstein, Vertov, Poudovkine — les grandes expériences formelles) ; le réalisme socialiste des années 1930-50 (films de propagande monumentaux) ; le Dégel de Khrouchtchev (années 1956-1968 — renaissance artistique, films humanistes comme La Grue et les Canards, Ivanovo Detstvo) ; la stagnation brejnévienne (films de comédie populaires, films d'auteur marginalisés) ; la Glasnost et Perestroïka (explosion créatrice des années 1985-1991).\n\nLe film de guerre soviétique est un genre à part entière. La Grande Guerre patriotique fournit le matériau de centaines de films — de la propagande la plus basique aux chefs-d'oeuvre humanistes comme Aliocha (Иди и смотри — Va et regarde, 1985 d'Elem Klimov) — considéré par beaucoup comme le film de guerre le plus bouleversant jamais réalisé."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de eisenstein et le cinéma soviétique, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "Le cinéma russe des années 1990-2010",
+        "body": "L'effondrement de l'URSS provoque une crise du cinéma russe : l'État cesse de financer, les studios se vident, les talents partent. Les années 1990 sont une décennie creuse pour le cinéma russe — mais aussi une période d'expérimentation libre sans précédent.\n\nLa renaissance commence dans les années 2000. Andreï Zviaguintsev (Андрей Звягинцев) s'impose comme le successeur de Tarkovski avec Le Retour (Возвращение, 2003 — Lion d'Or à Venise) et surtout Léviathan (Левиафан, 2014 — César du meilleur film étranger, Palme d'or de la mise en scène). Ce film — sur un homme dont l'État corrompu détruit la maison — est la critique artistique la plus percutante de la Russie poutinienne. Après 2022, Zviaguintsev, gravement malade, a quitté la Russie.\n\nAlexander Soukorov (Александр Сокуров) — auteur d'Arche russe (Русский ковчег, 2002 — film tourné en un seul plan séquence de 87 minutes dans l'Ermitage) et de Faust (2011 — Lion d'Or à Venise) — représente la tradition la plus exigeante et la plus intellectuelle du cinéma russe contemporain."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre eisenstein et le cinéma soviétique. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "Le cinéma russe contemporain — après 2022",
+        "body": "L'invasion de 2022 a profondément perturbé le cinéma russe. Beaucoup de cinéastes ont quitté la Russie : Kirill Serebrennikov (déjà en exil), Maria Kochetchkova, Ivan Tverdovsky. Les festivals internationaux ont retiré les films russes ou complexifié leur participation.\n\nEn Russie même, le cinéma officiel s'est largement aligné sur le discours patriotique. Des films sur la guerre en Ukraine ont été produits rapidement mais avec des résultats artistiques généralement faibles — la propagande cinématographique est difficile à rendre convaincante quand elle est trop explicite.\n\nLa résistance artistique continue cependant. Des films tournés avant 2022 continuent de circuler dans les festivals mondiaux. De jeunes cinéastes russes en exil commencent à produire depuis l'étranger — une nouvelle diaspora cinématographique dans la tradition de Tarkovski et Soukorov."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à eisenstein et le cinéma soviétique à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Le cinéma russe à la maison — la culture du visionnage",
+        "body": "La Russie a une culture très forte du visionnage de films à la maison. Les soirées cinéma (vetcherinki s kino, вечеринки с кино) — regarder un film ensemble, souvent avec des amis — sont une forme de sociabilité très commune. Commenter le film pendant le visionnage est plus accepté qu'en France — les réactions verbales spontanées font partie du rituel.\n\nLe cinéma russe est fortement présent sur les plateformes de streaming — Kinopoisk (кинопоиск, plateforme de Yandex équivalente d'IMDB et Netflix), IVI (ИВИ), Okko (Окко). Kinopoisk HD est le Netflix russe — avec un catalogue très riche de cinéma russe et soviétique.\n\nL'accompagnement gastronomique du cinéma à la maison : les semetchki (семечки — graines de tournesol grillées) sont le snack cinéma par excellence en Russie — équivalent des popcorns. On les grignote en les décoquillant dans la main, en petite quantité, tout au long du film. Offrir des semetchki lors d'une soirée cinéma chez des Russes est un geste gastronomique parfaitement culturel."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil du Voyageur",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder eisenstein et le cinéma soviétique avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "Pour découvrir le grand cinéma russe, commencez par 3 films essentiels : 1) Le Cuirassé Potemkine (1925) — 20 minutes seulement pour la scène de l'escalier suffisent pour comprendre l'invention du montage ; 2) Stalker de Tarkovski (1979) — une experience unique, regarder de nuit seul ou avec des amis proches ; 3) Leviathan de Zviaguintsev (2014) — la Russie contemporaine vue de l'interieur avec une lucidite bouleversante.\n\nMentionner Tarkovski avec des Russes cultives provoque souvent une discussion passionnante. Le rapport a son oeuvre revele beaucoup : ceux qui l'aiment sont souvent les plus attaches a la tradition humaniste russe et les plus critiques du present.\n\nSur les semetchki : si vous etes invite a une soiree cinema chez des Russes, apporter un grand sachet de semetchki est un geste culturellement parfait — simple, bon marche et immediatement apprecie."
     },
     "glossary": [
       {
-        "term": "Eisenstein et le Cinéma soviétique",
-        "definition": "Concept central de cette leçon — eisenstein et le cinéma soviétique dans le contexte de la Russie contemporaine."
+        "term": "Eisenstein (Эйзенштейн)",
+        "definition": "Cinéaste soviétique (1898-1948). Inventeur du montage dialectique. Le Cuirassé Potemkine est classé parmi les plus grands films de l'histoire."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Montage dialectique",
+        "definition": "Technique d'Eisenstein : deux images en séquence produisent un sens supérieur à leur somme. Fondement de toute la grammaire cinématographique moderne."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Cuirassé Potemkine (Броненосец Потёмкин)",
+        "definition": "Film d'Eisenstein (1925). La scène de l'escalier d'Odessa est l'une des plus célèbres de l'histoire du cinéma."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Tarkovski (Тарковский)",
+        "definition": "Cinéaste russe (1932-1986). Considéré comme l'un des plus grands de l'histoire. Solaris, Le Miroir, Stalker, Nostalghia."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Va et vois (Иди и смотри)",
+        "definition": "Film de guerre d'Elem Klimov (1985). Considéré par beaucoup comme le film de guerre le plus bouleversant jamais réalisé."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Léviathan (Левиафан)",
+        "definition": "Film de Zviaguintsev (2014). César du meilleur film étranger. La critique artistique la plus percutante de la Russie poutinienne."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Kinopoisk (Кинопоиск)",
+        "definition": "Plateforme streaming russe (Yandex) — le Netflix russe. Riche catalogue de cinéma russe et soviétique."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Semetchki (Семечки)",
+        "definition": "Graines de tournesol grillées — snack cinéma par excellence en Russie, équivalent du popcorn."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Eisenstein et le Cinéma soviétique'. Quel est le salaire médian en Russie ?",
+        "question": "Quelle est la contribution technique majeure d'Eisenstein au cinéma mondial ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "L'invention de la caméra couleur soviétique",
+          "La théorie du montage dialectique — deux images produisent un sens supérieur à leur somme",
+          "L'invention du son synchronisé",
+          "La technique du plan séquence"
+        ],
+        "answer": 1,
+        "explanation": "Eisenstein a théorisé et pratiqué le montage dialectique : deux images mises en séquence produisent un sens qui dépasse leurs significations individuelles. Cette théorie fonde la grammaire cinématographique moderne."
+      },
+      {
+        "question": "Quel film de Tarkovski est une adaptation du roman de science-fiction de Stanislaw Lem ?",
+        "options": [
+          "Stalker",
+          "Solaris",
+          "Le Miroir",
+          "L'Enfance d'Ivan"
+        ],
+        "answer": 1,
+        "explanation": "Solaris (1972) est l'adaptation par Tarkovski du roman de SF de l'écrivain polonais Stanislaw Lem. Tarkovski transforme un roman de SF en méditation philosophique sur la mémoire, le deuil et la nature de la réalité."
+      },
+      {
+        "question": "Quelle phrase de Lénine définit le statut du cinéma en URSS ?",
+        "options": [
+          "'L'art appartient au peuple'",
+          "'Le cinéma est pour nous le plus important des arts'",
+          "'Le film est l'arme la plus puissante du Parti'",
+          "'Sans cinéma, pas de révolution'"
+        ],
+        "answer": 1,
+        "explanation": "Lénine a dit 'Le cinéma est pour nous le plus important des arts' — phrase qui justifie l'investissement massif de l'État soviétique dans le cinéma et son contrôle politique."
+      },
+      {
+        "question": "Quel film de Zviaguintsev a reçu le César du meilleur film étranger ?",
+        "options": [
+          "Le Retour (Vozvrashcheniye)",
+          "Elena",
+          "Léviathan (Leviafan)",
+          "Faute d'amour (Nelyubov)"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "Léviathan (2014) a reçu le César du meilleur film étranger et le Prix de la mise en scène au Festival de Cannes. Ce film sur la corruption et la destruction d'un individu par l'État est la critique artistique la plus percutante de la Russie poutinienne."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Quel est le snack cinéma russe équivalent du popcorn français ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Les piroshki froids",
+          "Les semetchki (graines de tournesol grillées)",
+          "Les baranki (petits pains en anneau)",
+          "Le chocolat fondu"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
-      },
-      {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
-        "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
-        ],
-        "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
-      },
-      {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
-        "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
-        ],
-        "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "Les semetchki (грузинских семена de tournesol grillées) sont le snack cinéma par excellence en Russie — on les grignote en décoquillant dans la main tout au long du film."
       }
     ]
   },
   "ru": {
     "module_title": "Музыка и кино",
     "lesson_title": "Эйзенштейн и советское кино",
-    "lesson_subtitle": "Потёмкин, Тарковский, язык кино",
-    "intro": "Этот урок посвящён теме «Эйзенштейн и советское кино» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "lesson_subtitle": "Броненосец Потёмкин, Тарковский, язык кино",
+    "intro": "Советское кино — один из важнейших вкладов России в цивилизацию XX века. Эйзенштейн, Пудовкин, Вертов изобрели кинематографические техники — прежде всего монтаж, — принятые всей мировой индустрией. Затем Тарковский создал кино исключительной поэзии и метафизической глубины. Эти две традиции — кино как политический инструмент и кино как исследование души — определяют российское отношение к седьмому искусству.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Эйзенштейн и советское кино»",
-        "body": "Тема «Эйзенштейн и советское кино» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Эйзенштейн и изобретение монтажа",
+        "body": "Сергей Эйзенштейн (1898–1948) — один из наиболее влиятельных режиссёров в истории кино. Его фильм «Броненосец Потёмкин» (1925) — заказанный к 20-летию революции 1905 года — регулярно входит в международные рейтинги величайших фильмов всех времён.\n\nФундаментальный вклад Эйзенштейна — теория диалектического монтажа: два изображения, поставленных в последовательность, порождают смысл, превосходящий простую сумму их индивидуальных значений. Знаменитая сцена на одесской лестнице — неотвратимо спускающиеся солдаты, катящаяся коляска, ужасающиеся лица — наиболее известный пример этой техники, по сей день влияющей на Голливуд.\n\nЭйзенштейн работает в мучительном парадоксе: творческий гений под опекой Коммунистической партии. Его фильмы «Александр Невский» (1938, музыка Прокофьева) и «Иван Грозный» (1944–1958) — политические заказы, которые он превращает в художественные шедевры, испытывая при этом цензуру и постоянное подозрение Сталина."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Тарковский — поэт кино",
+        "body": "Андрей Тарковский (1932–1986) повсеместно признан одним из величайших режиссёров всех времён — и наиболее восхищаемым российским кинематографистом в мире. Его фильмы — опыт визуальной и духовной медитации беспрецедентной глубины.\n\nЕго главные работы: «Иваново детство» (1962 — «Золотой лев» Венеции), «Андрей Рублёв» (1966 — о средневековом иконописце, запрещённый до 1971-го), «Солярис» (1972 — экранизация Лема), «Зеркало» (1975 — автобиографический фильм абсолютной формальной красоты), «Сталкер» (1979 — манифест о вере и творчестве), «Ностальгия» (1983 — снятая в Италии после эмиграции), «Жертвоприношение» (1986 — последний фильм, снятый в Швеции).\n\nТарковский — буддо-православный мистик. Для него кино — искусство памяти и времени: он стремится запечатлеть фактуру текущего времени, а не рассказать историю. Его фильмы требуют от зрителя открытости и терпения, которых мало какой кинематограф требует."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Эйзенштейн и советское кино» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Советское кино как политический инструмент",
+        "body": "Ленин сказал: «Кино для нас важнейшее из искусств» — фраза, определяющая особый статус кино в СССР. Советское кино — одновременно искусство, финансируемое и контролируемое государством, и пространство, где исключительные режиссёры умели творить вопреки — или порой благодаря — ограничениям.\n\nВеликие эпохи советского кино: авангард 1920-х (Эйзенштейн, Вертов, Пудовкин — великие формальные эксперименты); социалистический реализм 1930–50-х (монументальные пропагандистские фильмы); хрущёвская «Оттепель» (1956–1968 — художественное возрождение); брежневский застой (народные комедии, маргинализированное авторское кино); гласность и Перестройка (творческий взрыв 1985–1991).\n\nСоветский военный фильм — самостоятельный жанр. Великая Отечественная война дала материал сотням фильмов — от примитивной пропаганды до гуманистических шедевров, как «Иди и смотри» (1985) Элема Климова — считающийся многими самым потрясающим военным фильмом из когда-либо снятых."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Эйзенштейн и советское кино» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Российское кино 1990–2010-х",
+        "body": "Крах СССР вызывает кризис российского кино: государство прекращает финансирование, студии пустеют, таланты уходят. 1990-е — провальное десятилетие, но и период беспрецедентного свободного экспериментирования.\n\nВозрождение начинается в 2000-е. Андрей Звягинцев утверждается как наследник Тарковского с «Возвращением» (2003 — «Золотой лев» Венеции) и особенно «Левиафаном» (2014 — «Сезар» лучшему иностранному фильму). Этот фильм — о человеке, чей дом уничтожает коррумпированное государство — наиболее острая художественная критика путинской России.\n\nАлександр Сокуров — автор «Русского ковчега» (2002 — фильм, снятый одним планом длиной 87 минут в Эрмитаже) и «Фауста» (2011 — «Золотой лев» Венеции) — представляет наиболее взыскательную и интеллектуальную традицию современного российского кино."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Эйзенштейн и советское кино». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Современное российское кино — после 2022 года",
+        "body": "Вторжение 2022 года глубоко потрясло российское кино. Многие кинематографисты покинули Россию: Кирилл Серебренников (уже в эмиграции), другие. Международные фестивали отказывались от российских фильмов или усложняли их участие.\n\nВнутри России официальное кино в значительной мере выровнялось по патриотическому дискурсу. Фильмы о войне на Украине снимались быстро, но с, как правило, слабыми художественными результатами.\n\nХудожественное сопротивление, однако, продолжается. Снятые до 2022 года фильмы продолжают циркулировать на мировых фестивалях. Молодые российские режиссёры в эмиграции начинают снимать из-за рубежа — новая кинематографическая диаспора в традиции Тарковского и Сокурова."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Эйзенштейн и советское кино» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Российское кино дома — культура просмотра",
+        "body": "В России очень сильная культура домашнего просмотра. Кино-вечеринки — смотреть фильм вместе, нередко с друзьями — весьма распространённая форма социальности. Комментировать фильм во время просмотра здесь допустимее, чем во Франции: спонтанные словесные реакции — часть ритуала.\n\nРоссийское кино широко представлено на стриминговых платформах — Кинопоиск (платформа Яндекса, аналог IMDB и Netflix), ИВИ, Окко. Кинопоиск HD — российский Netflix с богатым каталогом российского и советского кино.\n\nГастрономическое сопровождение домашнего кино: **семечки** (жареные семена подсолнечника) — главный кино-перекус в России, аналог попкорна. Их щёлкают, шелуша в руке, понемногу на протяжении всего фильма. Принести семечки на кино-вечеринку к россиянам — культурно безупречный гастрономический жест."
       }
     ],
     "conseil_ami": {
       "title": "Совет путешественника",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Эйзенштейн и советское кино» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "Чтобы открыть для себя великое российское кино, начните с трёх основополагающих фильмов: 1) «Броненосец Потёмкин» (1925) — даже 20 минут сцены на лестнице достаточно, чтобы понять изобретение монтажа; 2) «Сталкер» Тарковского (1979) — уникальный опыт, смотреть ночью в одиночестве или с близкими друзьями; 3) «Левиафан» Звягинцева (2014) — современная Россия изнутри с потрясающей прямотой.\n\nУпоминание Тарковского с образованными россиянами нередко запускает страстную дискуссию. Отношение к его творчеству многое говорит: те, кто его любят, как правило, наиболее привержены гуманистической русской традиции и наиболее критичны к настоящему.\n\nО семечках: если вас приглашают на кино-вечеринку к россиянам — принести большой пакет семечек культурно безупречно: просто, дёшево и немедленно оценено."
     },
     "glossary": [
       {
-        "term": "Эйзенштейн и советское кино",
-        "definition": "Центральное понятие этого урока — эйзенштейн и советское кино в контексте современной России."
+        "term": "Эйзенштейн",
+        "definition": "Советский режиссёр (1898–1948). Изобретатель диалектического монтажа. «Броненосец Потёмкин» в числе величайших фильмов истории."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Диалектический монтаж",
+        "definition": "Техника Эйзенштейна: два изображения в последовательности порождают смысл, превосходящий их сумму. Основа всей современной кинограмматики."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Броненосец Потёмкин",
+        "definition": "Фильм Эйзенштейна (1925). Сцена на одесской лестнице — одна из самых знаменитых в истории кино."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Тарковский",
+        "definition": "Российский режиссёр (1932–1986). Признан одним из величайших в истории. «Солярис», «Зеркало», «Сталкер», «Ностальгия»."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Иди и смотри",
+        "definition": "Военный фильм Элема Климова (1985). Многими считается самым потрясающим военным фильмом из когда-либо снятых."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Левиафан",
+        "definition": "Фильм Звягинцева (2014). «Сезар» лучшему иностранному фильму. Наиболее острая художественная критика путинской России."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Кинопоиск",
+        "definition": "Российская стриминговая платформа (Яндекс) — российский Netflix. Богатый каталог российского и советского кино."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Семечки",
+        "definition": "Жареные семена подсолнечника — главный кино-перекус в России, аналог попкорна."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Эйзенштейн и советское кино». Какова медианная зарплата в России?",
+        "question": "Каков главный технический вклад Эйзенштейна в мировое кино?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "Изобретение советской цветной камеры",
+          "Теория диалектического монтажа — два изображения порождают смысл, превосходящий их сумму",
+          "Изобретение синхронного звука",
+          "Техника длинного плана"
+        ],
+        "answer": 1,
+        "explanation": "Эйзенштейн теоретически обосновал и практиковал диалектический монтаж: два изображения в последовательности порождают смысл, превосходящий их индивидуальные значения. Эта теория лежит в основе современной кинограмматики."
+      },
+      {
+        "question": "Какой фильм Тарковского является экранизацией научно-фантастического романа Станислава Лема?",
+        "options": [
+          "Сталкер",
+          "Солярис",
+          "Зеркало",
+          "Иваново детство"
+        ],
+        "answer": 1,
+        "explanation": "«Солярис» (1972) — экранизация Тарковским фантастического романа польского писателя Станислава Лема. Тарковский превращает фантастический роман в философскую медитацию о памяти, утрате и природе реальности."
+      },
+      {
+        "question": "Какая фраза Ленина определяет статус кино в СССР?",
+        "options": [
+          "«Искусство принадлежит народу»",
+          "«Кино для нас важнейшее из искусств»",
+          "«Фильм — самое мощное оружие партии»",
+          "«Без кино нет революции»"
+        ],
+        "answer": 1,
+        "explanation": "Ленин сказал «Кино для нас важнейшее из искусств» — фраза, обосновывающая масштабные государственные инвестиции в советское кино и его политический контроль."
+      },
+      {
+        "question": "Какой фильм Звягинцева получил «Сезар» лучшему иностранному фильму?",
+        "options": [
+          "Возвращение",
+          "Елена",
+          "Левиафан",
+          "Нелюбовь"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "«Левиафан» (2014) получил «Сезар» лучшему иностранному фильму и приз за режиссуру в Каннах. Этот фильм о коррупции и разрушении человека государством — наиболее острая художественная критика путинской России."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Что является российским аналогом французского попкорна в кино?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Холодные пирожки",
+          "Семечки (жареные семена подсолнечника)",
+          "Баранки",
+          "Растопленный шоколад"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
-      },
-      {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
-        "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
-        ],
-        "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
-      },
-      {
-        "question": "Какой главный разлом структурирует современное российское общество?",
-        "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
-        ],
-        "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "Семечки (жареные семена подсолнечника) — главный кино-перекус в России: их щёлкают, шелуша в руке, на протяжении всего фильма."
       }
     ]
   }

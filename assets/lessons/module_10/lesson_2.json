@@ -4,12 +4,16 @@
     "lesson_id": 2,
     "module_icon": "🤝",
     "lesson_icon": "🥂",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "estimated_minutes": 13,
+    "difficulty": "débutant",
     "sources": [
       {
         "label": "Encyclopædia Universalis — Russie",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "Routard — Russie pratique",
+        "url": "https://www.routard.com/guide/russie/"
       }
     ]
   },
@@ -17,139 +21,139 @@
     "module_title": "Codes Sociaux & Savoir-Vivre",
     "lesson_title": "Toasts et Rituels de Table",
     "lesson_subtitle": "L'art du toast à la russe",
-    "intro": "Cette leçon explore toasts et rituels de table dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "Le toast (*tost*, тост) est une forme d'art oral en Russie. Bien plus qu'une simple formule de politesse, le toast russe est une occasion d'exprimer sa personnalité, sa sagesse, ses sentiments — une mini-discours qui peut durer de 30 secondes à 5 minutes. Maîtriser l'art du toast, c'est s'intégrer profondément dans la culture conviviale russe.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de toasts et rituels de table",
-        "body": "La thématique de toasts et rituels de table s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "Histoire du toast russe — des tsars au XXIe siècle",
+        "body": "La tradition du toast (*tost*) est ancienne en Russie. Sous les tsars, les banquets officiels étaient structurés par une série de toasts rituels en l'honneur de la famille impériale, de l'armée, des alliés. Cette tradition formelle s'est démocratisée au fil du temps pour devenir la pratique informelle et chaleureuse des repas familiaux russes d'aujourd'hui.\n\nLa tradition soviétique a joué un rôle important : dans une époque où la parole publique était censurée, le toast privé (*chastniy tost*) devenait l'un des rares espaces de parole authentique. Autour d'une table de cuisine ou d'une table de datcha, on pouvait dire des choses impossibles dans la vie publique — avec ironie, humour, ou une sincérité désarmante.\n\nAujourd'hui, le toast russe conserve cette double nature : il peut être très formel (lors d'un banquet de mariage, chaque toast suit un ordre et un contenu prédéfinis) ou très intime et spontané (entre amis, chaque toast révèle la personnalité de celui qui le porte). L'art est de savoir quel registre s'impose selon la situation."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "L'ordre traditionnel des toasts",
+        "body": "En Russie, les toasts suivent un ordre traditionnel bien établi, notamment lors des repas familiaux ou des célébrations. Le respecter montre votre connaissance de la culture.\n\n**Premier toast** : à la santé des présents ou à l'occasion célébrée (*Za zdorovye !* — За здоровье ! — À la santé !). C'est le toast d'ouverture, le plus court et le plus universel.\n\n**Deuxième toast** : à l'amour, à la famille, aux relations entre les personnes présentes. Plus personnel que le premier.\n\n**Troisième toast** : aux absents — amis, proches qui ne sont pas là, ceux qui sont décédés. C'est souvent le toast le plus chargé émotionnellement. Il est parfois dit debout et bu en silence total.\n\nLes toasts suivants sont plus libres — à la jeunesse, à la santé des parents, à la réussite du projet en cours, à la France et à la Russie (si vous êtes l'invité étranger), à la femme du maître de maison...\n\n**Règle d'or** : ne boire jamais entre les toasts sans que quelqu'un ait porté un toast — c'est perçu comme de la goinferie ou du manque de respect pour le rituel collectif."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de toasts et rituels de table est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "Comment porter un bon toast russe",
+        "body": "Un bon toast russe a plusieurs caractéristiques. Il n'est pas trop court (moins de 20 secondes suggère un manque d'investissement) ni trop long (plus de 5 minutes fatigue l'assemblée). Il est sincère — même si formellement construit, il doit avoir une dimension personnelle et authentique.\n\nStructure classique d'un toast réussi : **une histoire ou une anecdote** liée à la personne ou l'occasion ; **une réflexion** ou une citation (proverbe russe, ligne de poème — Pouchkine est toujours bien reçu) ; **une conclusion** qui revient à la santé ou au bonheur des présents.\n\nExemple de toast simple pour un étranger : «En France, nous avons un proverbe : la vie est courte, le vin est bon. En Russie, vous avez quelque chose de similaire mais en plus profond. Je bois à nos deux pays, à nos amis communs, et surtout à vous qui m'avez accueilli ce soir avec tant de chaleur. Za vas !» (*Za vas !* — À vous !)\n\nLes toasts en russe, même approximatifs, sont toujours très appréciés. Apprendre quelques formules de base : «Za zdorovye !» (santé), «Za druzhbu !» (à l'amitié), «Za lyubov' !» (à l'amour), «Za vstrechu !» (à notre rencontre) — ces quatre toasts couvrent 80% des situations."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de toasts et rituels de table, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "La vodka — mythes et réalités",
+        "body": "Il est impossible de parler des rituels de table russes sans aborder la vodka (*vodka*, водка). Mais commençons par démythifier : les Russes ne sont pas tous des buveurs effrénés de vodka. Cette image caricaturale, née en partie des statistiques réelles de consommation d'alcool (réelles et préoccupantes — voir module 6 sur la démographie), masque une réalité plus nuancée.\n\nLa vodka (*vodka* — diminutif de *voda*, eau) est effectivement la boisson nationale historique — produite depuis le XVe siècle, elle est neutre, forte (40% minimum légal), et se boit traditionnellement cul-sec (*zalp'*, залпом — d'un trait) plutôt qu'à petites gorgées. La bouteille se partage autour d'une table, jamais seul.\n\nAujourd'hui, la consommation de vodka en Russie a significativement diminué depuis les années 1990. La bière est devenue la boisson alcoolisée la plus consommée. Le vin, longtemps marginal, gagne du terrain dans les classes moyennes urbaines. Dans les restaurants de Moscou, il est parfaitement normal de ne pas commander d'alcool fort — contrairement à ce que certains clichés laissent croire.\n\n**Comment refuser poliment la vodka** : «Ne bois pas, ne conduis pas» (*Ne p'yu — za rulem* — Не пью — за рулём) est la formule universellement acceptée. Vous pouvez aussi dire que vous avez des médicaments (*prinimay lekarstvo* — принимаю лекарство). Ces raisons sont respectées sans insistance."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre toasts et rituels de table. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "Les proverbes de table — sagesse populaire russe",
+        "body": "Les proverbes russes liés à la table et aux repas sont nombreux et révèlent la philosophie populaire russe sur la nourriture, l'amitié et la vie. En connaître quelques-uns enrichit considérablement vos toasts et conversations.\n\n«**Shchi da kasha — pishcha nasha**» (Щи да каша — пища наша — Soupe au chou et bouillie, voilà notre nourriture) : orgueil de la simplicité culinaire populaire.\n\n«**Appetit prikhodit vo vremya edy**» (Аппетит приходит во время еды — L'appétit vient en mangeant) : proverbe identique au français, ce qui surprend toujours agréablement les Russes.\n\n«**Gost' na porog — schastye v dom**» (Гость на порог — счастье в дом — Un hôte sur le seuil, c'est le bonheur dans la maison) : valeur de l'hospitalité.\n\n«**Za stol sadis' s druzyami, vstavay s nimi zhe**» (За стол садись с друзьями, вставай с ними же — Assieds-toi à table avec des amis, lève-toi avec eux aussi) : l'importance de partager le repas de l'entrée à la fin.\n\n«**Kto k nam s mechom priydyot, tot ot mecha i pogibnet**» (Кто к нам с мечом придёт, от меча и погибнет — Qui viendra avec une épée périra par l'épée) — phrase souvent attribuée à Alexandre Nevski, citation emblématique de la résistance russe."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à toasts et rituels de table à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Le repas russe — de l'entrée au dessert",
+        "body": "Un grand repas russe suit une structure bien établie qui peut surprendre par son abondance. Le repas russe de cérémonie se compose typiquement de : **zakouski** (закуски — hors-d'oeuvre froids : salade Olivier, hareng sous manteau, radis au beurre, caviar rouge, charcuteries) ; **soupe chaude** (solianka, bortsch, ou rassolnik) ; **plat principal** (rôti, poisson, kasha accompagnée) ; **dessert** (gâteau Napoleon, medovik — gâteau au miel, tarte Sacher ou biscuits).\n\nEntre chaque service, des toasts sont portés. Chaque toast est suivi d'un cul-sec (vodka) ou d'une gorgée (vin, bière) selon ce qu'on boit. La table ne se débarrasse pas entièrement entre chaque service — les plats s'accumulent.\n\nLe **«pas manger entre les toasts»** est une règle non-écrite : on mange, on s'arrête pour un toast, on boit, on reprend de la nourriture. Ce rythme donne au repas russe sa texture sociale particulière — la nourriture et la conversation alternent plutôt que de coexister simultanément comme dans un repas français."
       }
     ],
     "conseil_ami": {
-      "title": "Le Conseil du Voyageur",
+      "title": "Le Conseil du Voyageur 🤝",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder toasts et rituels de table avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "Apprenez au minimum ces 4 toasts en russe avant tout repas avec des Russes : 'Za zdorovye !' (santé), 'Za drouzhbu !' (amitié), 'Za lyubov' !' (amour), 'Za nas !' (à nous). Prononcez-les avec conviction et un verre levé — l'effet est toujours positif et déclenche généralement des sourires et de la chaleur.\n\nSi vous voulez faire un vrai toast russe : commencez par une micro-histoire sur votre rapport avec votre hôte ou la Russie, faites-la durer 30-40 secondes, concluez avec 'Za vas !' (À vous !) et buvez. Simple, sincère, efficace.\n\nEt si vous devez retenir une seule règle gastronomique de tout le module : ne boire jamais entre les toasts. Ce respect du rituel collectif sera remarqué et apprécié bien davantage que n'importe quelle connaissance culinaire sophistiquée."
     },
     "glossary": [
       {
-        "term": "Toasts et Rituels de Table",
-        "definition": "Concept central de cette leçon — toasts et rituels de table dans le contexte de la Russie contemporaine."
+        "term": "Za zdorovye ! (За здоровье !)",
+        "definition": "Toast le plus universel — 'À la santé !' Premier toast de tout repas russe."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Za druzhbu ! (За дружбу !)",
+        "definition": "Toast à l'amitié. Très courant en contexte interculturel."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Za lyubov' ! (За любовь !)",
+        "definition": "Toast à l'amour. Deuxième ou troisième toast classique."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Tost (Тост)",
+        "definition": "Le toast russe — mini-discours oral avec histoire, réflexion et conclusion. Plus long et plus élaboré que le toast français."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Zalp'om / Cul-sec (Залпом)",
+        "definition": "Boire d'un trait — façon traditionnelle de boire la vodka lors des toasts."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Zakouski (Закуски)",
+        "definition": "Hors-d'oeuvre froids — première étape du grand repas russe : salade Olivier, hareng, caviar, charcuteries."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Medovik (Медовик)",
+        "definition": "Gâteau russe au miel — des couches de biscuit et crème de miel. Un des desserts les plus aimés de Russie."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Ne p'yu — za rulem (Не пью — за рулём)",
+        "definition": "'Je ne bois pas — je conduis.' Formule passe-partout pour refuser poliment la vodka sans offenser."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Toasts et Rituels de Table'. Quel est le salaire médian en Russie ?",
+        "question": "Quel est le premier toast traditionnellement porté lors d'un repas russe ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
-        ],
-        "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
-      },
-      {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
-        "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Za lyubov' ! (À l'amour)",
+          "Za zdorovye ! (À la santé)",
+          "Za drouzhbu ! (À l'amitié)",
+          "Za pobedou ! (À la victoire)"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
+        "explanation": "'Za zdorovye !' (À la santé !) est le premier toast de tout repas russe — le plus court, le plus universel, l'ouverture obligatoire de tout festin."
       },
       {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
+        "question": "Quel est le troisième toast traditionnel, souvent le plus chargé émotionnellement ?",
         "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
+          "Aux enfants de la famille",
+          "Aux absents — amis et proches qui ne sont pas là",
+          "Au président de la Russie",
+          "Aux femmes présentes"
         ],
         "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
+        "explanation": "Le troisième toast traditionnel est aux absents — amis, proches et défunts qui ne peuvent être là. C'est souvent le toast le plus émouvant, parfois bu debout et en silence."
       },
       {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
+        "question": "Quelle formule permet de refuser poliment la vodka ?",
         "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
+          "Je suis végétarien",
+          "Ne p'yu — za rulem (Je ne bois pas — je conduis)",
+          "Je suis allergique à l'alcool",
+          "Mon médecin m'interdit la fête"
         ],
         "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "'Ne p'yu — za rulem' (Je ne bois pas — je conduis) est la formule universellement respectée pour décliner la vodka sans offenser. Elle est comprise et acceptée sans insistance par tous les Russes."
+      },
+      {
+        "question": "Comment s'appelle la façon traditionnelle de boire la vodka lors des toasts ?",
+        "options": [
+          "À petites gorgées régulières",
+          "Zalp'om — cul-sec, d'un trait",
+          "En deux fois égales",
+          "En mélange avec du jus de tomate"
+        ],
+        "answer": 1,
+        "explanation": "La vodka se boit traditionnellement 'zalp'om' — d'un trait, cul-sec. Cette façon de boire est liée au rituel du toast : on porte le toast, on répond 'Za vas !' et on boit d'un coup."
+      },
+      {
+        "question": "Quel dessert russe au miel est l'un des plus aimés du pays ?",
+        "options": [
+          "La tarte aux pommes (Yablochniy pirog)",
+          "Le Medovik (gâteau au miel en couches)",
+          "Le Napoléon (mille-feuille russe)",
+          "Les blinis au chocolat"
+        ],
+        "answer": 1,
+        "explanation": "Le medovik est un gâteau de couches de biscuits secs et crème au miel — un des desserts les plus aimés de Russie, présent dans tous les grands repas familiaux."
       }
     ]
   },
@@ -157,139 +161,139 @@
     "module_title": "Социальные коды и этикет",
     "lesson_title": "Тосты и застольные ритуалы",
     "lesson_subtitle": "Искусство русского тоста",
-    "intro": "Этот урок посвящён теме «Тосты и застольные ритуалы» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Тост — форма устного искусства в России. Гораздо больше, чем простая формула вежливости, русский тост — повод выразить свою личность, мудрость, чувства: мини-речь длиной от 30 секунд до 5 минут. Владеть искусством тоста — значит глубоко интегрироваться в российскую культуру застолья.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Тосты и застольные ритуалы»",
-        "body": "Тема «Тосты и застольные ритуалы» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "История русского тоста — от царей до XXI века",
+        "body": "Традиция тоста в России давняя. При царях официальные банкеты структурировались рядом ритуальных тостов в честь императорской семьи, армии, союзников. Со временем эта формальная традиция демократизировалась, став неформальной и тёплой практикой семейных застолий.\n\nСоветская традиция сыграла важную роль: в эпоху, когда публичная речь подвергалась цензуре, частный тост становился одним из немногих пространств подлинного высказывания. За кухонным или дачным столом можно было говорить то, что было невозможно в публичной жизни — с иронией, юмором или обезоруживающей искренностью.\n\nСегодня русский тост сохраняет эту двойственную природу: может быть очень формальным (на свадебном банкете каждый тост следует предопределённому порядку и содержанию) или очень интимным и спонтанным (между друзьями каждый тост обнажает личность произносящего)."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Традиционный порядок тостов",
+        "body": "В России тосты следуют устоявшемуся традиционному порядку — особенно на семейных застольях или торжествах. Соблюдать его — значит показать знание культуры.\n\n**Первый тост**: за здоровье присутствующих или по случаю торжества («За здоровье!»). Это открывающий тост — самый краткий и универсальный.\n\n**Второй тост**: за любовь, семью, отношения между присутствующими. Более личный, чем первый.\n\n**Третий тост**: за отсутствующих — друзей, близких, кого нет рядом, ушедших. Нередко самый эмоционально нагруженный. Порой произносится стоя и выпивается в полном молчании.\n\nПоследующие тосты свободнее — за молодость, за здоровье родителей, за успех текущего проекта, за Францию и Россию (если вы иностранный гость), за хозяйку дома...\n\n**Золотое правило**: никогда не пить между тостами без того, чтобы кто-то его произнёс — это воспринимается как обжорство или неуважение к коллективному ритуалу."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Тосты и застольные ритуалы» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Как произнести хороший русский тост",
+        "body": "Хороший русский тост имеет несколько характеристик. Не слишком краткий (менее 20 секунд говорит о недостатке вложенности) и не слишком длинный (более 5 минут утомляет). Искренний — даже при формальном построении должен иметь личное и подлинное измерение.\n\nКлассическая структура удавшегося тоста: **история или анекдот**, связанные с человеком или случаем; **размышление** или цитата (русская поговорка, строка стихотворения — Пушкин всегда хорошо принимается); **заключение**, возвращающееся к здоровью или счастью присутствующих.\n\nПример простого тоста для иностранца: «Во Франции есть поговорка: жизнь коротка, вино хорошее. В России есть нечто похожее, но глубже. Я пью за наши две страны, наших общих друзей и прежде всего за вас, принявших меня этим вечером с такой теплотой. За вас!»\n\nТосты по-русски, даже приблизительные, всегда очень ценятся. Выучить несколько базовых формул: «За здоровье!», «За дружбу!», «За любовь!», «За встречу!» — эти четыре тоста покрывают 80% ситуаций."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Тосты и застольные ритуалы» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Водка — мифы и реальность",
+        "body": "Говорить о застольных ритуалах без водки невозможно. Но начнём с развенчания мифов: не все россияне — неудержимые любители водки. Этот карикатурный образ, отчасти подкреплённый реальной и тревожной статистикой потребления алкоголя, скрывает более тонкую реальность.\n\nВодка (*водка* — уменьшительное от *вода*) действительно является исторически национальным напитком — производится с XV века, нейтральна, крепкая (минимум 40% по закону), традиционно выпивается залпом, а не маленькими глотками. Бутылка делится за столом в компании, никогда в одиночку.\n\nСегодня потребление водки в России значительно снизилось с 1990-х. Пиво стало самым потребляемым алкоголем. Вино, долго остававшееся маргинальным, набирает позиции в городском среднем классе.\n\n**Как вежливо отказаться от водки**: «Не пью — за рулём» — универсально принимаемая формула. Можно также сказать «принимаю лекарство». Эти причины уважают без настояния."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Тосты и застольные ритуалы». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Застольные пословицы — народная мудрость",
+        "body": "Русских пословиц, связанных со столом и едой, множество, и они раскрывают народную российскую философию в отношении еды, дружбы и жизни. Знать хотя бы несколько значительно обогатит ваши тосты и разговоры.\n\n«Щи да каша — пища наша»: гордость народной кулинарной простоты.\n\n«Аппетит приходит во время еды»: пословица, идентичная французской, что всегда приятно удивляет россиян.\n\n«Гость на порог — счастье в дом»: ценность гостеприимства.\n\n«За стол садись с друзьями, вставай с ними же»: важность разделять трапезу от начала до конца.\n\n«Кто к нам с мечом придёт, от меча и погибнет»: фраза, часто приписываемая Александру Невскому, эмблематическая цитата российского сопротивления."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Тосты и застольные ритуалы» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Русский стол — от закуски до десерта",
+        "body": "Большое русское застолье следует устоявшейся структуре, способной удивить обилием. Торжественный русский ужин типично включает: **закуски** (холодные: салат оливье, сельдь под шубой, редис с маслом, красная икра, колбасы); **горячий суп** (солянка, борщ или рассольник); **второе** (жаркое, рыба, каша с гарниром); **десерт** (торт «Наполеон», медовик, «Захер» или печенье).\n\nМежду блюдами произносят тосты. Каждый тост сопровождается залпом (водка) или глотком (вино, пиво) в зависимости от напитка. Стол не убирается полностью между блюдами — они накапливаются.\n\nПравило «не есть между тостами» — неписаное: едят, останавливаются на тост, выпивают, снова берутся за еду. Этот ритм придаёт русскому застолью особую социальную текстуру: еда и разговор чередуются, а не сосуществуют одновременно, как на французском обеде."
       }
     ],
     "conseil_ami": {
-      "title": "Совет путешественника",
+      "title": "Совет путешественника 🤝",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Тосты и застольные ритуалы» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "Выучите минимум эти 4 тоста по-русски перед любым застольем с россиянами: «За здоровье!», «За дружбу!», «За любовь!», «За нас!». Произносите с убеждённостью и поднятым бокалом — эффект всегда позитивный и неизменно вызывает улыбки и тепло.\n\nЕсли хотите произнести настоящий русский тост: начните с микроистории о ваших отношениях с хозяином или с Россией, растяните её на 30–40 секунд, завершите «За вас!» и выпейте. Просто, искренне, эффективно.\n\nЕсли нужно запомнить одно гастрономическое правило из всего модуля: никогда не пейте между тостами. Это уважение к коллективному ритуалу будет замечено и оценено значительно больше любого изощрённого кулинарного знания."
     },
     "glossary": [
       {
-        "term": "Тосты и застольные ритуалы",
-        "definition": "Центральное понятие этого урока — тосты и застольные ритуалы в контексте современной России."
+        "term": "За здоровье !",
+        "definition": "Самый универсальный тост. Первый тост любого русского застолья."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "За дружбу !",
+        "definition": "Тост за дружбу. Очень распространён в межкультурном контексте."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "За любовь !",
+        "definition": "Тост за любовь. Классический второй или третий тост."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Тост",
+        "definition": "Русский тост — устная мини-речь с историей, размышлением и заключением. Длиннее и разработаннее французского."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Залпом",
+        "definition": "Выпить залпом — традиционный способ пить водку во время тостов."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Закуски",
+        "definition": "Холодные закуски — первый этап большого русского застолья: оливье, сельдь, икра, колбасы."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Медовик",
+        "definition": "Российский медовый торт — слои печенья и медового крема. Один из самых любимых десертов в России."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Не пью — за рулём",
+        "definition": "«Не пью — за рулём.» Универсальная формула для вежливого отказа от водки без обиды."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Тосты и застольные ритуалы». Какова медианная зарплата в России?",
+        "question": "Какой тост традиционно произносится первым на русском застолье?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
-        ],
-        "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
-      },
-      {
-        "question": "Сколько часовых поясов занимает Россия?",
-        "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "За любовь!",
+          "За здоровье!",
+          "За дружбу!",
+          "За победу!"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
+        "explanation": "«За здоровье!» — первый тост любого русского застолья: самый краткий, самый универсальный, обязательное открытие любого праздника."
       },
       {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
+        "question": "Каков третий традиционный тост, нередко наиболее эмоционально нагруженный?",
         "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
+          "За детей семьи",
+          "За отсутствующих — друзей и близких, которых нет рядом",
+          "За Президента России",
+          "За присутствующих женщин"
         ],
         "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
+        "explanation": "Третий традиционный тост — за отсутствующих: друзей, близких и ушедших, которых не может быть рядом. Нередко самый трогательный, порой выпивается стоя и в молчании."
       },
       {
-        "question": "Какой главный разлом структурирует современное российское общество?",
+        "question": "Какая формула позволяет вежливо отказаться от водки?",
         "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
+          "Я вегетарианец",
+          "Не пью — за рулём",
+          "У меня аллергия на алкоголь",
+          "Врач запретил мне праздновать"
         ],
         "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "«Не пью — за рулём» — универсально уважаемая формула для отказа от водки без обиды. Принимается и соблюдается без настояния всеми россиянами."
+      },
+      {
+        "question": "Как называется традиционный способ пить водку во время тостов?",
+        "options": [
+          "Маленькими регулярными глотками",
+          "Залпом — одним махом",
+          "В два равных глотка",
+          "В смеси с томатным соком"
+        ],
+        "answer": 1,
+        "explanation": "Водку традиционно пьют «залпом»: этот способ питья связан с ритуалом тоста: произносят тост, отвечают «За вас!» и выпивают одним махом."
+      },
+      {
+        "question": "Какой российский медовый десерт является одним из самых любимых в стране?",
+        "options": [
+          "Яблочный пирог",
+          "Медовик (слоёный медовый торт)",
+          "Торт «Наполеон» (русский мильфёй)",
+          "Блины с шоколадом"
+        ],
+        "answer": 1,
+        "explanation": "Медовик — торт из слоёв сухого печенья и медового крема: один из самых любимых десертов в России, присутствующий на всех больших семейных застольях."
       }
     ]
   }

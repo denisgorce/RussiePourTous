@@ -8,8 +8,12 @@
     "difficulty": "intermédiaire",
     "sources": [
       {
-        "label": "Encyclopædia Universalis — Russie",
+        "label": "Encyclopædia Universalis — Pouchkine et Tchekhov",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "Musée Pouchkine de Moscou",
+        "url": "https://www.pushkinmuseum.art/"
       }
     ]
   },
@@ -17,139 +21,139 @@
     "module_title": "Arts & Littérature",
     "lesson_title": "Tchekhov, Pouchkine et la Poésie",
     "lesson_subtitle": "Théâtre, vers et âme russe",
-    "intro": "Cette leçon explore tchekhov, pouchkine et la poésie dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "Si Tolstoï et Dostoïevski sont les géants du roman, Pouchkine est le père fondateur de la littérature russe moderne — «notre tout», comme l'appellent les Russes — et Tchekhov a révolutionné le théâtre mondial avec une économie de moyens qui influence encore les dramaturges contemporains. Ces deux auteurs incarnent deux dimensions essentielles de l'âme russe : la beauté poétique et la mélancolie douce-amère du quotidien.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de tchekhov, pouchkine et la poésie",
-        "body": "La thématique de tchekhov, pouchkine et la poésie s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "Pouchkine : le fondateur de la langue russe moderne",
+        "body": "Alexandre Pouchkine (1799-1837) est considéré par les Russes comme leur plus grand écrivain — non pas parce qu'il a écrit les œuvres les plus volumineuses ou les plus complexes, mais parce qu'il a fondé la langue littéraire russe moderne. Avant Pouchkine, la littérature russe cultivée s'écrivait en français ou dans un russe slavisant très éloigné de la langue parlée. Pouchkine a créé une synthèse : une langue littéraire à la fois populaire et raffinée, héritière du russe vernaculaire et de la tradition classique européenne.\n\nEugène Onéguine (1823-1831), son roman en vers, est une des œuvres les plus citées de toute la littérature russe. La Fille du capitaine, Boris Godounov, Le Cavalier de bronze, les contes en vers — Pouchkine a touché à tous les genres avec une maîtrise extraordinaire. Il est mort à 37 ans des suites d'un duel pour l'honneur de sa femme, un dénouement qui a immédiatement créé un mythe national.\n\nAnton Tchekhov (1860-1904) est le maître de la nouvelle et du théâtre. Sa vie est marquée par la tuberculose qui l'emporte à 44 ans et par une pratique simultanée de la médecine. «La médecine est ma femme légitime et la littérature ma maîtresse», disait-il. Son théâtre — La Mouette, Oncle Vania, Trois Sœurs, La Cerisaie — a révolutionné la dramaturgie en refusant les péripéties spectaculaires et en montrant la vie ordinaire dans sa complexité silencieuse."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Les lieux pouchkiniens et tchékhoviens",
+        "body": "Pouchkine est profondément lié à plusieurs géographies russes. Saint-Pétersbourg est sa ville de naissance et de mort — sa maison sur le quai des Moïka est aujourd'hui un musée. La propriété de Mikhailovskoïe dans la région de Pskov, où il passa deux ans en exil (1824-1826), est un lieu de pèlerinage poétique majeur. Les Russes lui ont élevé des monuments dans presque toutes les grandes villes.\n\nTchekhov est intimement associé à deux géographies : Taganrog, sa ville natale dans le sud de la Russie (ancienne colonie grecque sur la mer d'Azov) et Ialta en Crimée, où il passa ses dernières années pour soigner sa tuberculose. La Maison blanche de Tchekhov à Ialta — avec son célèbre jardin où fut planté le cerisier qui inspira sa dernière pièce — est un des sites littéraires les plus émouvants de Russie.\n\nMelikhovo, sa propriété dans la région de Moscou où il vécut de 1892 à 1899, était aussi le lieu où il exerçait la médecine pour les paysans locaux, construisait des écoles et luttait contre le choléra. Cette combinaison d'écriture et d'engagement pratique est caractéristique de l'éthique tchékhovienne."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de tchekhov, pouchkine et la poésie est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "La littérature comme espace de liberté",
+        "body": "Pouchkine a eu des relations tendues avec l'État tsariste tout au long de sa vie. Ses poèmes libertaires de jeunesse lui ont valu une première surveillance policière et un exil au Caucase. Le tsar Nicolas Ier, tout en admirant son talent, l'a maintenu sous surveillance et lui a refusé le droit de voyager à l'étranger. Pouchkine est mort dans des conditions suspectes — beaucoup de Russes ont longtemps pensé que le duel était arrangé par des agents du tsar jaloux de son honneur.\n\nTchekhov est politiquement plus discret — il se méfiait des idéologies et des intellectuels qui théorisaient sans agir. Mais ses nouvelles sont des critiques sociales redoutables de la Russie de son temps : la bureaucratie (Le Caméléon), le provincialisme (La Steppe), la condition féminine (La Dame au petit chien). Son engagement le plus spectaculaire reste son voyage à Sakhaline (1890) pour documenter les conditions des bagnards — un acte journalistique et humaniste avant l'heure.\n\nLa poésie russe en général a joué un rôle politique particulier en Russie : dans les périodes d'oppression (période tsariste tardive, époque soviétique), elle était le seul espace où les vérités interdites pouvaient s'exprimer de manière voilée. Les poètes de l'Âge d'argent (Akhmatova, Tsvétaïeva, Mandelstam, Pasternak) qui succèdent à Pouchkine ont payé ce privilège de leur liberté, de leur vie ou de leur exil."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de tchekhov, pouchkine et la poésie, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "La poésie dans la vie quotidienne russe",
+        "body": "La place de la poésie dans la vie culturelle russe est sans équivalent occidental. Les Russes récitent des poèmes par cœur avec une facilité qui surprend souvent les étrangers — des vers de Pouchkine, d'Akhmatova ou de Tsvetaïeva, appris à l'école et mémorisés définitivement. Les réunions de poésie (vechera poezii) ont été des événements culturels de masse en URSS : en 1962, une lecture de poèmes par Evgueni Evtouchenko au Stade Lujniki a réuni 80 000 personnes.\n\nCette culture de la mémorisation poétique est encore vivace : dans les milieux intellectuels et bourgeois, citer un vers de Pouchkine ou d'Akhmatova à propos d'une situation est un signe de culture et de raffinement. Les enfants russes apprennent encore des poèmes en classe — une tradition scolaire qui survit aux réformes éducatives.\n\nLe théâtre russe est aussi une institution culturelle importante. Le Théâtre d'Art de Moscou (MKhAT), fondé par Stanislavski et Nemirovitch-Dantchenko en 1898, est né d'une collaboration directe avec Tchekhov. Le «système Stanislavski» — la méthode de jeu qui a révolutionné le théâtre occidental et influencé le cinéma américain via l'Actor's Studio — a Tchekhov au centre de sa pédagogie."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre tchekhov, pouchkine et la poésie. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "L'influence mondiale de Tchekhov",
+        "body": "Le théâtre tchékhovien a influencé pratiquement tous les dramaturges du XXe siècle. Sa technique de «l'action indirecte» — ce qui compte n'est pas ce qui est dit mais ce qui n'est pas dit — est au cœur du théâtre de Samuel Beckett, Harold Pinter, Eugène Ionesco et d'une grande partie du cinéma d'auteur. Les metteurs en scène du monde entier continuent de monter ses pièces parce qu'elles sont à la fois très russes et universellement humaines.\n\nSes nouvelles — plus de 600 en tout — ont transformé la forme du récit court. La nouvelle tchékhovienne est caractérisée par l'absence de conclusion morale explicite, l'ambiguïté des personnages et une fin ouverte qui laisse le lecteur dans un état de mélancolie légère et indéfinie. Cette technique «moderne» a influencé Mansfield, Joyce, Carver, Cheever.\n\nPouchkine est beaucoup plus difficile à exporter — sa langue est intraduisible selon la majorité des traducteurs, sa musicalité unique. Nabokov, qui a traduit Eugène Onéguine en anglais, a renoncé à toute tentative de rendre sa poésie pour se concentrer sur le sens littéral, au prix d'une œuvre qui ressemble peu à de la poésie. C'est peut-être pour cela que Pouchkine reste si exclusivement russe : il est la preuve que certaines grandeurs littéraires ne peuvent exister que dans leur langue natale."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à tchekhov, pouchkine et la poésie à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Pouchkine et Tchekhov dans les conversations russes",
+        "body": "«Pouchkine notre tout» (Pouchkine — nashe vsyo) est une expression de Vissarion Belinski qui est devenue un proverbe culturel. Dans les conversations russes, Pouchkine est la référence suprême — son nom est invoqué pour tout : un beau coucher de soleil, une déclaration d'amour, un moment de bonheur inattendu. Connaître quelques vers de Pouchkine est le signe culturel minimum.\n\nTchekhov est plus souvent cité pour ses réflexions philosophiques courtes — ses «aphorismes» — que pour ses pièces. Des phrases comme «Si tu as peur de la solitude, ne te marie pas» ou «L'homme doit travailler» sont des mèmes culturels russes récurrents. Ses personnages — le médecin de province, l'intellectuel qui rêve mais n'agit pas, la femme enfermée dans une vie médiocre — sont des archétypes que les Russes reconnaissent dans leur entourage.\n\nLes adaptations modernes de Tchekhov sont un signal culturel important. Un Russe qui va voir une nouvelle mise en scène de La Cerisaie ou des Trois Sœurs est signalant son appartenance à une certaine culture intellectuelle. Le théâtre reste en Russie un lieu de distinction sociale et de débat culturel d'une manière qui a en grande partie disparu en France."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil du Voyageur",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder tchekhov, pouchkine et la poésie avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Apprenez un vers de Pouchkine.** Un seul quatrain de Pouchkine appris par cœur — et prononcé en russe même approximativement — produira un effet extraordinaire dans une conversation. Essayez avec les premières lignes d'«Я помню чудное мгновенье» (Je me souviens de cet instant merveilleux) — l'un des poèmes d'amour les plus connus.\n\n**Voyez une pièce de Tchekhov au MKhAT.** Si vous êtes à Moscou, assister à une représentation au Théâtre d'Art de Moscou (même sans comprendre le russe) est une expérience culturelle incomparable. La mise en scène tchekhov­ienne russe a une tradition et une atmosphère qui n'existent nulle part ailleurs.\n\n**Posez la question de la Cerisaie.** «La Cerisaie représente la fin de quelle époque selon vous ?» est une question qui peut générer une conversation inépuisable avec n'importe quel Russe cultivé. Chaque génération répond différemment."
     },
     "glossary": [
       {
-        "term": "Tchekhov, Pouchkine et la Poésie",
-        "definition": "Concept central de cette leçon — tchekhov, pouchkine et la poésie dans le contexte de la Russie contemporaine."
+        "term": "Pouchkine notre tout (Пушкин — наше всё)",
+        "definition": "Expression de Belinski devenue proverbe culturel — désigne Pouchkine comme fondateur absolu de la littérature et de la langue littéraire russes modernes."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Eugène Onéguine (Евгений Онегин)",
+        "definition": "Roman en vers de Pouchkine (1823-1831) — chef-d'œuvre de la littérature russe et monument de la langue, souvent cité comme le texte fondateur de la culture russe moderne."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "La Cerisaie (Вишнёвый сад)",
+        "definition": "Dernière pièce de Tchekhov (1904) — métaphore de la fin du monde aristocratique russe, universellement interprétée comme prémonition de la révolution."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "MKhAT (МХАТ)",
+        "definition": "Théâtre d'Art de Moscou fondé en 1898 par Stanislavski et Nemirovitch-Dantchenko — berceau du réalisme psychologique au théâtre, né en collaboration directe avec Tchekhov."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Système Stanislavski (Система Станиславского)",
+        "definition": "Méthode de jeu d'acteur développée par Konstantin Stanislavski — a révolutionné le théâtre mondial et donné naissance à l'Actor's Studio américain."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Âge d'argent (Серебряный век)",
+        "definition": "Période de la poésie russe (1890-1930) qui succède à l'Âge d'or — Akhmatova, Tsvétaïeva, Mandelstam, Pasternak — floraison suivie de répression stalinienne."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Vechera poezii (Вечера поэзии)",
+        "definition": "Soirées de poésie — événements culturels de masse en URSS où des dizaines de milliers de personnes venaient écouter des poètes lire leurs œuvres."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Sakhaline (Сахалин)",
+        "definition": "Île pénitentiaire à l'extrême est de la Russie — Tchekhov y voyage seul en 1890 pour documenter les conditions des bagnards, publiant un rapport accablant."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Tchekhov, Pouchkine et la Poésie'. Quel est le salaire médian en Russie ?",
+        "question": "Pourquoi les Russes appellent-ils Pouchkine «notre tout» ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "Parce qu'il a écrit les romans les plus longs de la littérature russe",
+          "Parce qu'il a fondé la langue littéraire russe moderne en synthétisant langue populaire et tradition classique",
+          "Parce qu'il était le poète officiel de la cour impériale",
+          "Parce qu'il a été le premier écrivain russe traduit en français"
+        ],
+        "answer": 1,
+        "explanation": "Pouchkine est appelé «notre tout» parce qu'il a fondé la langue littéraire russe moderne — avant lui, la littérature cultivée s'écrivait en français ou dans un russe archaïsant. Il a créé une synthèse entre langue populaire et tradition classique qui définit encore le russe littéraire."
+      },
+      {
+        "question": "Quelle expérience humaniste majeure a accompli Tchekhov en dehors de la littérature ?",
+        "options": [
+          "Il a financé la construction d'un hôpital à Moscou",
+          "Il a entrepris un voyage à l'île-bagne de Sakhaline pour documenter les conditions des prisonniers",
+          "Il a fondé la première école publique de Russie dans sa région natale",
+          "Il a organisé des distributions de nourriture lors de la grande famine de 1891"
+        ],
+        "answer": 1,
+        "explanation": "En 1890, Tchekhov voyage seul jusqu'à l'île de Sakhaline à l'extrême est de la Russie pour documenter les conditions des bagnards. Il en ramène un rapport accablant publié en 1895 — un acte journalistique et humaniste remarquable pour un romancier."
+      },
+      {
+        "question": "Quel mouvement théâtral américain est directement issu du système Stanislavski ?",
+        "options": [
+          "Le Théâtre du Soleil",
+          "Le Berliner Ensemble",
+          "L'Actor's Studio",
+          "Le Living Theatre"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "L'Actor's Studio, fondé à New York en 1947, est directement issu du système Stanislavski transmis via Lee Strasberg. Des acteurs comme Marlon Brando, Al Pacino et Dustin Hoffman ont été formés dans cette tradition qui repose sur la méthode développée avec Tchekhov au MKhAT."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Combien de personnes ont assisté à une lecture de poèmes d'Evtouchenko au Stade Lujniki en 1962 ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "8 000",
+          "25 000",
+          "80 000",
+          "200 000"
         ],
         "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
+        "explanation": "En 1962, une lecture de poèmes par Evgueni Evtouchenko au Stade Lujniki de Moscou a réuni 80 000 personnes — une démonstration extraordinaire de la place que la poésie occupait dans la vie culturelle soviétique, sans équivalent en Occident."
       },
       {
-        "question": "Que désigne le 'blat' dans la société russe ?",
+        "question": "Pourquoi Pouchkine est-il considéré comme pratiquement intraduisible ?",
         "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Parce qu'il utilisait un vieux russe incompréhensible même pour les Russes contemporains",
+          "Parce que sa musicalité unique et sa maîtrise de la langue ne peuvent être rendues dans d'autres langues",
+          "Parce que ses œuvres sont protégées par des droits d'auteur stricts",
+          "Parce que ses thèmes sont trop spécifiquement russes pour intéresser d'autres cultures"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
-      },
-      {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
-        "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
-        ],
-        "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
-      },
-      {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
-        "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
-        ],
-        "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "Pouchkine est considéré intraduisible parce que sa grandeur réside essentiellement dans la musicalité, la concision et la perfection formelle de sa langue. Nabokov, dans sa traduction d'Eugène Onéguine, a renoncé à la poésie pour le sens littéral — au prix d'un texte qui ne ressemble plus à de la poésie."
       }
     ]
   },
@@ -157,139 +161,139 @@
     "module_title": "Искусство и литература",
     "lesson_title": "Чехов, Пушкин и поэзия",
     "lesson_subtitle": "Театр, стихи и русская душа",
-    "intro": "Этот урок посвящён теме «Чехов, Пушкин и поэзия» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Если Толстой и Достоевский — гиганты романа, то Пушкин — основатель современной русской литературы, «наше всё», как называют его русские, — а Чехов революционизировал мировой театр лаконизмом, до сих пор влияющим на современных драматургов. Оба воплощают два существенных измерения русской души: поэтическую красоту и горько-сладкую меланхолию повседневного.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Чехов, Пушкин и поэзия»",
-        "body": "Тема «Чехов, Пушкин и поэзия» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Пушкин: основатель современного русского языка",
+        "body": "Александр Пушкин (1799–1837) считается русскими своим величайшим писателем — не потому, что создал самые объёмные или сложные произведения, а потому, что основал современный русский литературный язык. До Пушкина образованная словесность писалась по-французски или на архаичном церковнославянском, далёком от разговорного. Пушкин создал синтез: литературный язык, одновременно народный и изысканный, наследующий живому русскому и классической европейской традиции.\n\nЕвгений Онегин (1823–1831), его роман в стихах, — одно из наиболее цитируемых произведений всей русской литературы. Капитанская дочка, Борис Годунов, Медный всадник, сказки в стихах — Пушкин с выдающимся мастерством работал во всех жанрах. Он погиб в 37 лет на дуэли из-за чести жены — развязка, мгновенно создавшая национальный миф.\n\nАнтон Чехов (1860–1904) — мастер рассказа и драмы. Его жизнь отмечена туберкулёзом, унёсшим его в 44 года, и параллельной врачебной практикой. «Медицина — моя законная жена, а литература — любовница», — говорил он. Его театр — Чайка, Дядя Ваня, Три сестры, Вишнёвый сад — совершил переворот в драматургии, отказавшись от эффектных перипетий и показав обыденную жизнь в её молчаливой сложности."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Пушкинские и чеховские места",
+        "body": "Пушкин глубоко связан с несколькими российскими географиями. Санкт-Петербург — его город рождения и смерти: дом на набережной Мойки ныне музей. Михайловское в Псковской области, где он провёл два года в ссылке (1824–1826), — главное поэтическое паломничество. Памятники ему стоят почти во всех крупных городах России.\n\nЧехов тесно связан с двумя географиями: Таганрогом — его родным городом на юге России (древняя греческая колония на Азовском море) — и Ялтой в Крыму, где он провёл последние годы, леча туберкулёз. Белая дача Чехова в Ялте с её знаменитым садом, где был посажен вишнёвый сад, вдохновивший последнюю пьесу, — одно из самых трогательных литературных мест России.\n\nМелихово в Подмосковье, где он жил с 1892 по 1899 год, было также местом врачебной практики среди крестьян, строительства школ и борьбы с холерой. Это сочетание творчества и практического участия характерно для чеховской этики."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Чехов, Пушкин и поэзия» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Литература как пространство свободы",
+        "body": "Пушкин всю жизнь имел напряжённые отношения с царским государством. Его вольнолюбивые юношеские стихи навлекли первую полицейскую слежку и ссылку на Кавказ. Царь Николай I, восхищаясь его талантом, держал его под надзором и запрещал выезд за рубеж. Пушкин погиб при подозрительных обстоятельствах — многие русские долго считали, что дуэль была подстроена агентами ревнивого царя.\n\nЧехов политически сдержаннее: он не доверял идеологиям и интеллектуалам, теоретизировавшим без действий. Но его рассказы — острая социальная критика России своего времени: бюрократия (Хамелеон), провинциализм (Степь), положение женщины (Дама с собачкой). Самый яркий его гражданский поступок — поездка на Сахалин (1890) для документирования условий содержания каторжан: журналистский и гуманистический акт опережая время.\n\nРусская поэзия в целом играла особую политическую роль: в периоды гнёта (поздний царизм, советская эпоха) она была единственным пространством, где запретные истины могли звучать завуалированно. Поэты Серебряного века (Ахматова, Цветаева, Мандельштам, Пастернак) заплатили за эту привилегию свободой, жизнью или эмиграцией."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Чехов, Пушкин и поэзия» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Поэзия в повседневной жизни русских",
+        "body": "Место поэзии в российской культурной жизни не имеет западных аналогов. Русские декламируют стихи наизусть с лёгкостью, нередко удивляющей иностранцев, — строки Пушкина, Ахматовой или Цветаевой, выученные в школе и запомненные навсегда. Вечера поэзии в СССР были событиями массовой культуры: в 1962 году чтение стихов Евгением Евтушенко на стадионе «Лужники» собрало 80 000 человек.\n\nЭта культура поэтической памяти жива: в интеллигентских и образованных кругах процитировать к случаю строку Пушкина или Ахматовой — знак культуры и тонкости. Русские дети по-прежнему учат стихи в школе — традиция, пережившая образовательные реформы.\n\nРусский театр — тоже важный культурный институт. МХАТим — Московский художественный театр, основанный Станиславским и Немировичем-Данченко в 1898 году, — родился из прямого сотрудничества с Чеховым. «Система Станиславского» — метод актёрской игры, революционизировавший западный театр и повлиявший на американское кино через Актёрскую студию, — имеет Чехова в центре своей педагогики."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Чехов, Пушкин и поэзия». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Мировое влияние Чехова",
+        "body": "Чеховский театр повлиял практически на всех драматургов XX века. Его техника «косвенного действия» — важно не то, что сказано, а то, что не сказано, — лежит в основе театра Беккета, Пинтера, Ионеско и значительной части авторского кино. Режиссёры всего мира продолжают ставить его пьесы, потому что они одновременно очень русские и универсально человеческие.\n\nЕго рассказы — более 600 — преобразили форму короткой прозы. Чеховский рассказ характерен отсутствием явного морального вывода, двойственностью персонажей и открытым финалом, оставляющим читателя в лёгкой неопределённой меланхолии. Эта «модернистская» техника повлияла на Мэнсфилд, Джойса, Карвера, Чивера.\n\nПушкина переводить значительно труднее — его язык, по мнению большинства переводчиков, непереводим, его музыкальность уникальна. Набоков, переводя Евгения Онегина на английский, отказался от любой попытки передать поэзию ради буквального смысла — ценой текста, мало напоминающего стихи. Вероятно, поэтому Пушкин остаётся столь исключительно русским: он доказывает, что некоторые литературные величия могут существовать только на родном языке."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Чехов, Пушкин и поэзия» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Пушкин и Чехов в русских разговорах",
+        "body": "«Пушкин — наше всё» — выражение Белинского, ставшее культурной пословицей. В разговорах с русскими Пушкин — высшая ссылка: его имя поминают по любому поводу — красивый закат, объяснение в любви, нечаянная радость. Знать несколько строк Пушкина — культурный минимум.\n\nЧехова чаще цитируют за краткие философские высказывания — «афоризмы», — чем за пьесы. Фразы вроде «Если боишься одиночества, не женись» или «Человек должен трудиться» — устойчивые культурные мемы. Его персонажи — провинциальный врач, интеллигент, мечтающий, но не действующий, женщина, заточённая в медиоcрной жизни, — архетипы, которых русские узнают в своём окружении.\n\nСовременные постановки Чехова — важный культурный сигнал. Русский, идущий на новую постановку Вишнёвого сада или Трёх сестёр, демонстрирует принадлежность к определённой интеллектуальной культуре. Театр остаётся в России пространством социального различия и культурных дискуссий в той мере, которая во Франции во многом утрачена."
       }
     ],
     "conseil_ami": {
       "title": "Совет путешественника",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Чехов, Пушкин и поэзия» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Выучите строфу Пушкина.** Одно четверостишие Пушкина, произнесённое наизусть — пусть даже с акцентом, — произведёт в разговоре удивительный эффект. Попробуйте с первых строк «Я помню чудное мгновенье» — одного из самых известных любовных стихотворений.\n\n**Сходите на спектакль во МХАТ.** В Москве поход на спектакль в Художественный театр (даже без знания русского) — несравнимый культурный опыт. Русская чеховская режиссура имеет традицию и атмосферу, которых нет нигде больше.\n\n**Задайте вопрос о Вишнёвом саде.** «Конец какой эпохи, по-вашему, воплощает Вишнёвый сад?» — вопрос, способный дать неиссякаемый разговор с любым образованным русским. Каждое поколение отвечает по-своему."
     },
     "glossary": [
       {
-        "term": "Чехов, Пушкин и поэзия",
-        "definition": "Центральное понятие этого урока — чехов, пушкин и поэзия в контексте современной России."
+        "term": "Пушкин — наше всё",
+        "definition": "Выражение Белинского, ставшее культурной пословицей — обозначает Пушкина как абсолютного основателя современной русской литературы и литературного языка."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Евгений Онегин",
+        "definition": "Роман в стихах Пушкина (1823–1831) — шедевр русской литературы и памятник языка, часто называемый основополагающим текстом современной русской культуры."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Вишнёвый сад",
+        "definition": "Последняя пьеса Чехова (1904) — метафора конца аристократического мира России, повсеместно читаемая как предчувствие революции."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "МХАТ",
+        "definition": "Московский художественный театр, основанный в 1898 году Станиславским и Немировичем-Данченко — колыбель психологического реализма в театре, созданного в прямом сотрудничестве с Чеховым."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Система Станиславского",
+        "definition": "Метод актёрской игры Константина Станиславского — революционизировал мировой театр и породил американскую Актёрскую студию."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Серебряный век",
+        "definition": "Период русской поэзии (1890–1930), наследующий Золотому веку: Ахматова, Цветаева, Мандельштам, Пастернак — расцвет, за которым последовали сталинские репрессии."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Вечера поэзии",
+        "definition": "Поэтические вечера — массовые культурные события в СССР, собиравшие десятки тысяч слушателей."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Сахалин",
+        "definition": "Каторжный остров на крайнем востоке России — Чехов отправился туда в одиночку в 1890 году документировать условия содержания каторжников, опубликовав обвинительный доклад."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Чехов, Пушкин и поэзия». Какова медианная зарплата в России?",
+        "question": "Почему русские называют Пушкина «наше всё»?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "Потому что он написал самые длинные романы в русской литературе",
+          "Потому что он основал современный русский литературный язык, соединив народную речь и классическую традицию",
+          "Потому что он был официальным поэтом императорского двора",
+          "Потому что он был первым русским писателем, переведённым на французский"
+        ],
+        "answer": 1,
+        "explanation": "Пушкина называют «наше всё», потому что он основал современный русский литературный язык — до него образованная литература писалась по-французски или на архаичном русском. Он создал синтез народного и классического, определивший литературный русский язык."
+      },
+      {
+        "question": "Какой крупный гуманистический поступок совершил Чехов помимо литературы?",
+        "options": [
+          "Финансировал строительство больницы в Москве",
+          "Совершил путешествие на каторжный остров Сахалин, чтобы задокументировать условия содержания заключённых",
+          "Основал первую публичную школу в своём регионе",
+          "Организовал раздачу продовольствия во время голода 1891 года"
+        ],
+        "answer": 1,
+        "explanation": "В 1890 году Чехов в одиночку отправился на Сахалин на крайний восток России документировать условия жизни каторжан. Он опубликовал обвинительный доклад в 1895 году — замечательный журналистский и гуманистический акт для романиста."
+      },
+      {
+        "question": "Какое американское театральное движение прямо восходит к системе Станиславского?",
+        "options": [
+          "Театр дю Солей",
+          "Берлинский ансамбль",
+          "Актёрская студия",
+          "Ливинг-театр"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "Актёрская студия, основанная в Нью-Йорке в 1947 году, прямо восходит к системе Станиславского, переданной через Ли Страсберга. Марлон Брандо, Аль Пачино, Дастин Хоффман прошли эту школу, в центре педагогики которой — метод, разработанный с Чеховым во МХАТе."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Сколько человек пришли на чтение стихов Евтушенко на стадионе «Лужники» в 1962 году?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "8 000",
+          "25 000",
+          "80 000",
+          "200 000"
         ],
         "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
+        "explanation": "В 1962 году чтение стихов Евгением Евтушенко на Лужниках собрало 80 000 человек — поразительное свидетельство места поэзии в советской культурной жизни, не имеющего аналогов на Западе."
       },
       {
-        "question": "Что означает «блат» в российском обществе?",
+        "question": "Почему Пушкин считается практически непереводимым?",
         "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Потому что он использовал старорусский язык, непонятный даже современным русским",
+          "Потому что его уникальная музыкальность и владение языком не поддаются передаче на других языках",
+          "Потому что его произведения защищены строгими авторскими правами",
+          "Потому что его темы слишком специфически русские, чтобы заинтересовать другие культуры"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
-      },
-      {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
-        "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
-        ],
-        "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
-      },
-      {
-        "question": "Какой главный разлом структурирует современное российское общество?",
-        "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
-        ],
-        "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "Пушкин считается непереводимым, потому что его величие — прежде всего в музыкальности, лаконизме и формальном совершенстве языка. Набоков, переводя Онегина на английский, отказался от поэзии ради буквального смысла — ценой текста, уже не похожего на стихи."
       }
     ]
   }

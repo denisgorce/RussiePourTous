@@ -4,12 +4,16 @@
     "lesson_id": 5,
     "module_icon": "📚",
     "lesson_icon": "🏛️",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "estimated_minutes": 10,
+    "difficulty": "débutant",
     "sources": [
       {
-        "label": "Encyclopædia Universalis — Russie",
+        "label": "Encyclopædia Universalis — Architecture russe",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "Patrimoine mondial UNESCO — Sites russes",
+        "url": "https://whc.unesco.org/"
       }
     ]
   },
@@ -17,139 +21,139 @@
     "module_title": "Arts & Littérature",
     "lesson_title": "Architecture — du Kremlin au Constructivisme",
     "lesson_subtitle": "Styles, époques, symboles",
-    "intro": "Cette leçon explore architecture — du kremlin au constructivisme dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "L'architecture russe est une succession de révolutions stylistiques qui reflètent les grands tournants de l'histoire : l'architecture en bois des premières cités slaves, l'architecture religieuse byzantine importée avec le christianisme, l'architecture baroque et néoclassique de l'empire des Romanov, le constructivisme soviétique révolutionnaire, le «style stalinien» monumental et enfin l'architecture contemporaine chaotique du capitalisme post-soviétique. Chaque époque a laissé des marques dans le paysage urbain russe que l'on peut encore lire aujourd'hui.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de architecture — du kremlin au constructivisme",
-        "body": "La thématique de architecture — du kremlin au constructivisme s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "Dix siècles d'architecture russe",
+        "body": "L'architecture russe traditionnelle est fondamentalement une architecture en bois. Les maisons paysannes (izba), les premiers temples, les tours de guet — tout était construit en bois dans les vastes forêts russes. Cette tradition a produit des techniques de construction en rondins d'une sophistication remarquable, notamment les assemblages d'angles (oblo, v ostatk) qui permettaient de construire des structures solides sans clous.\n\nL'adoption du christianisme en 988 apporte l'architecture byzantine — d'abord dans les grandes cathédrales de Kiev (Sainte-Sophie), puis à Moscou et Vladimir. La cathédrale de l'Assomption du Kremlin (1479) et la cathédrale Saint-Basile sur la Place Rouge (1561) — avec ses bulbes polychromes caractéristiques — sont les monuments les plus iconiques de cette synthèse russo-byzantine.\n\nL'époque impériale (XVIIIe-XIXe siècles) marque une rupture radicale avec la tradition : Pierre le Grand crée Saint-Pétersbourg comme une ville européenne entièrement planifiée, avec des palais baroques et néoclassiques conçus par des architectes italiens et français. Rastelli (Palais d'hiver), Quarenghi (Institut Smolny), Rossi (Palais des Arts) — les grandes constructions de Saint-Pétersbourg sont des œuvres d'architectes européens qui ont créé une ville sans équivalent dans le monde."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Moscou et Saint-Pétersbourg : deux villes-palimpsestes",
+        "body": "Moscou et Saint-Pétersbourg sont deux palimpsestes urbains où se lisent toutes les couches de l'histoire russe. Moscou, fondée au XIIe siècle, a été reconstruite plusieurs fois (après les invasions mongoles, l'incendie de 1812, les grands travaux soviétiques des années 1930-1950) et présente aujourd'hui un paysage hétérogène : le Kremlin médiéval côtoie les gratte-ciel staliniens de l'ère de la reconstruction, les immeubles soviétiques des années 1960 (khrouchtchyovki) et les tours de verre contemporaines de la City de Moscou.\n\nSaint-Pétersbourg est unique en Europe par sa cohérence architecturale : construite en moins d'un siècle sur un plan directeur, elle offre des perspectives urbanistiques d'une régularité exceptionnelle. La Perspective Nevski, les canaux, les palais et les musées forment un ensemble baroque-néoclassique qui justifie son inscription au patrimoine mondial de l'UNESCO.\n\nDans les villes de province, l'architecture soviétique domine : des alignements interminables d'immeubles préfabriqués (panelki, панельки) construits dans les années 1960-1980 pour loger rapidement une population en expansion. Ces ensembles — souvent monotones mais fonctionnels — sont la réalité architecturale quotidienne de la majorité des Russes, loin des palais de Moscou et Saint-Pétersbourg."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de architecture — du kremlin au constructivisme est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "L'architecture comme instrument politique",
+        "body": "L'architecture russe a été un instrument politique constant depuis les tsars jusqu'à Poutine. Pierre le Grand a construit Saint-Pétersbourg comme déclaration d'appartenance à l'Europe et de rupture avec la Russie moscovite traditionnelle. Staline a imposé le style «empire stalinien» — des gratte-ciel néo-gothiques monumentaux (les «sœurs de Staline» à Moscou) et des palais du peuple écrasants — pour matérialiser la grandeur soviétique dans le paysage urbain.\n\nLe constructivisme révolutionnaire des années 1920 est peut-être l'exemple le plus fascinant d'architecture comme projet politique total : des architectes comme Melnikov, Leonidov ou les frères Vesnine concevaient des bâtiments qui devaient transformer les modes de vie — clubs ouvriers avec des salles polyvalentes, maisons communes (dom kommuna) où la cuisine et le ménage seraient collectivisés. Ces utopies architecturales ont été stoppées net par le réalisme socialiste stalinien.\n\nAujourd'hui, les grands projets architecturaux de la Russie de Poutine (le Centre Lakhta de Gazprom à Saint-Pétersbourg, la reconstruction de l'Université de Moscou, les grands stades de la Coupe du monde 2018) ont une dimension politique évidente — ils affirment la modernité, la puissance et les ambitions du pays sur la scène internationale."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de architecture — du kremlin au constructivisme, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "Vivre dans l'architecture soviétique",
+        "body": "Pour la majorité des Russes, la réalité architecturale quotidienne est celle des immeubles soviétiques. Les khrouchtchyovki — petits immeubles de cinq étages sans ascenseur construits à la hâte sous Khrouchtchev dans les années 1960 — représentent encore une part importante du parc immobilier russe. Ces appartements, souvent de 30 à 50 m², avec des pièces petites et une isolation médiocre, ont cependant permis à des millions de familles soviétiques d'avoir pour la première fois un logement indépendant.\n\nLes appartements russes ont souvent été transformés et personnalisés de manière créative dans des espaces contraints — ce phénomène d'adaptation des logements soviétiques à des styles de vie changeants est un sujet d'étude fascinant pour les sociologues et les architectes. Les «rénovations» (remonty, ремонты) sont une obsession nationale — les Russes investissent considérablement dans l'amélioration de leurs intérieurs quand ils n'ont pas les moyens de changer de logement.\n\nDepuis les années 2000, de nouveaux quartiers résidentiels ont été construits en périphérie des grandes villes — des tours de 20 à 30 étages en béton et verre qui définissent un nouveau paysage urbain. La qualité de ces constructions est variable, et leur éloignement des centres-villes crée des problèmes de mobilité et de qualité de vie qui alimentent un débat public croissant."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre architecture — du kremlin au constructivisme. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "Le Kremlin et les grands symboles architecturaux",
+        "body": "Le Kremlin de Moscou est le symbole architectural le plus chargé de Russie — et l'un des ensembles médiévaux les mieux conservés d'Europe. Ses murs de briques rouges, ses tours crénelées et ses cathédrales à bulbes dorés forment un ensemble qui résume mille ans d'histoire russe. Le Kremlin est à la fois la citadelle historique, la résidence présidentielle et le principal monument national — une polyvalence qui n'a pas d'équivalent dans aucune autre capitale du monde.\n\nSaint-Basile-le-Bienheureux sur la Place Rouge est l'édifice le plus photographié de Russie et l'image la plus immédiatement associée à ce pays dans le monde. Ses huit coupoles polychromes disposées autour d'une tour centrale ont une originalité radicale qui n'a aucun équivalent dans l'architecture mondiale — ni byzantine, ni gothique, ni baroque, la cathédrale Saint-Basile est une invention architecturale proprement russe.\n\nLe métro de Moscou mérite une mention particulière : construit sous Staline comme «palais pour le peuple», ses stations sont décorées de mosaïques, de fresques, de lustres de cristal et de sculptures qui en font un musée d'art soviétique souterrain. Le métro de Moscou est l'un des systèmes de transport les plus fréquentés et les plus beaux du monde — une visite impérative pour tout voyageur à Moscou."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à architecture — du kremlin au constructivisme à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "L'architecture comme conversation",
+        "body": "Les Russes ont un rapport affectif fort à leur environnement architectural. Les discussions sur les projets de démolition ou de rénovation des bâtiments soviétiques — comme le controversé programme de démolition des khrouchtchyovki à Moscou — déclenchent des débats passionnés sur la mémoire, l'identité et la modernisation. L'architecture est un sujet de conversation politique autant qu'esthétique.\n\nLe sentiment de fierté nationale est fortement associé aux grands monuments architecturaux. Mentionner à un Russe que vous avez été impressionné par le Kremlin, par les palais de Saint-Pétersbourg ou par le métro de Moscou est toujours un moyen efficace de créer une connexion positive. Ces monuments sont perçus comme des preuves concrètes de la grandeur civilisationnelle russe.\n\nConversement, les critiques de l'architecture soviétique (les immeubles gris, la monotonie des banlieues, la dégradation des espaces publics) sont souvent ressenties comme des attaques contre la Russie elle-même — même par des Russes qui partagent ces critiques en privé. Le registre de la critique architecturale exige donc une certaine délicatesse culturelle."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil du Voyageur",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder architecture — du kremlin au constructivisme avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Descendez dans le métro de Moscou.** Même si vous n'avez pas besoin de vous déplacer, descendez dans les stations Komsomolskaïa, Maïakhovskaïa ou Novoslobodkaïa — elles sont parmi les plus décorées et constituent une expérience architecturale et artistique unique. Le métro de Moscou est l'une des merveilles architecturales cachées du monde.\n\n**Prenez le temps sur la Place Rouge.** Ne vous contentez pas de photographier Saint-Basile — regardez l'ensemble : le Kremlin, le mausolée de Lénine (toujours en place), les boutiques du GUM, l'hôtel Moskva. La Place Rouge est une accumulation de symboles politiques et culturels de sept siècles d'histoire russe.\n\n**Demandez à vos hôtes où ils habitent.** «Vous êtes dans quelle partie de la ville ?» est une question qui ouvre souvent une conversation riche sur l'histoire urbaine, les projets de rénovation et le rapport personnel à l'espace urbain. Les Russes parlent volontiers de leur quartier et de ses transformations."
     },
     "glossary": [
       {
-        "term": "Architecture — du Kremlin au Constructivisme",
-        "definition": "Concept central de cette leçon — architecture — du kremlin au constructivisme dans le contexte de la Russie contemporaine."
+        "term": "Kremlin (Кремль)",
+        "definition": "Citadelle fortifiée — terme générique pour les enceintes fortifiées au centre des villes russes. Le Kremlin de Moscou est le plus célèbre : résidence présidentielle et monument national."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Izba (Изба)",
+        "definition": "Maison paysanne russe traditionnelle en rondins — architecture vernaculaire qui a dominé le paysage rural russe jusqu'au XXe siècle."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Khrouchtchyovki (Хрущёвки)",
+        "definition": "Immeubles de cinq étages construits sous Khrouchtchev dans les années 1960 — solution rapide au manque de logement qui a logé des millions de familles soviétiques dans des appartements modestes."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Panelki (Панельки)",
+        "definition": "Immeubles préfabriqués en panneaux de béton — la réalité architecturale quotidienne de la majorité des Russes vivant en ville."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Sœurs de Staline (Сталинские высотки)",
+        "definition": "Les sept gratte-ciel néo-gothiques construits sous Staline à Moscou — symboles de la puissance soviétique et du «style empire stalinien» qui définit encore la skyline de Moscou."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Dom kommuna (Дом-коммуна)",
+        "definition": "Maison commune — projet utopique de l'architecture constructiviste soviétique où la cuisine, la salle à manger et les services domestiques seraient collectivisés pour libérer les individus."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Remont (Ремонт)",
+        "definition": "Rénovation d'appartement — activité nationale quasi-obsessionnelle en Russie, signe que les habitants investissent dans leur intérieur faute de pouvoir changer de logement."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Cathédrale Saint-Basile (Собор Василия Блаженного)",
+        "definition": "Cathédrale de l'Intercession sur la Place Rouge à Moscou (1561) — chef-d'œuvre de l'architecture russe avec ses huit coupoles polychromes, image internationale la plus associée à la Russie."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Architecture — du Kremlin au Constructivisme'. Quel est le salaire médian en Russie ?",
+        "question": "Par qui les grands palais de Saint-Pétersbourg ont-ils été principalement conçus ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
-        ],
-        "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
-      },
-      {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
-        "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Par des architectes russes de tradition moscovite",
+          "Par des architectes italiens et français invités par les tsars",
+          "Par des architectes allemands en hommage à Pierre le Grand",
+          "Par une école d'architecture impériale russe fondée par Pierre le Grand"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
+        "explanation": "Les grandes constructions de Saint-Pétersbourg ont été conçues par des architectes européens — italiens et français principalement : Rastelli (Palais d'hiver), Quarenghi (Institut Smolny), Rossi (Palais des Arts). Pierre le Grand voulait créer une ville radicalement européenne, et il a fait appel aux meilleurs architectes d'Europe pour y parvenir."
       },
       {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
+        "question": "Qu'était une «dom kommuna» dans l'architecture soviétique des années 1920 ?",
         "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
+          "Un immeuble municipal réservé aux fonctionnaires du Parti",
+          "Un projet utopique de maison commune où cuisine et ménage seraient collectivisés",
+          "Un grand ensemble de logements sociaux avec cours intérieures partagées",
+          "Un type d'immeuble préfabriqué standard diffusé dans toute l'URSS"
         ],
         "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
+        "explanation": "La dom kommuna (maison commune) était un projet utopique de l'architecture constructiviste des années 1920 : des immeubles où les fonctions domestiques (cuisine, lavanderie, crèche) seraient collectivisées pour libérer les individus — notamment les femmes — des tâches ménagères. Ces projets ont été abandonnés sous le stalinisme."
       },
       {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
+        "question": "Pourquoi le métro de Moscou est-il architecturalement remarquable ?",
         "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
+          "Parce qu'il est le plus ancien métro du monde, construit en 1880",
+          "Parce que ses stations sont décorées comme des palais — mosaïques, fresques, lustres en cristal",
+          "Parce qu'il est entièrement souterrain et n'a aucune station aérienne",
+          "Parce qu'il utilise une architecture futuriste moderniste unique au monde"
         ],
         "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "Le métro de Moscou, construit sous Staline comme «palais pour le peuple», est célèbre pour ses stations richement décorées : mosaïques représentant des scènes soviétiques, fresques, lustres de cristal, sculptures. Des stations comme Komsomolskaïa ou Maïakhovskaïa sont considérées comme des chefs-d'œuvre de l'art soviétique."
+      },
+      {
+        "question": "Qu'est-ce que les «khrouchtchyovki» dans le paysage urbain russe ?",
+        "options": [
+          "Les gratte-ciel staliniens monumentaux construits dans les années 1950",
+          "Les petits immeubles de cinq étages construits rapidement sous Khrouchtchev dans les années 1960",
+          "Les datchas collectives construites pour les travailleurs soviétiques",
+          "Les bâtiments administratifs régionaux du système soviétique"
+        ],
+        "answer": 1,
+        "explanation": "Les khrouchtchyovki sont de petits immeubles de cinq étages (sans ascenseur) construits à la hâte sous Khrouchtchev dans les années 1960 pour résoudre rapidement la crise du logement soviétique. Avec des appartements de 30 à 50 m², ils ont permis à des millions de familles d'avoir pour la première fois un logement indépendant."
+      },
+      {
+        "question": "Qu'est-ce qui rend la cathédrale Saint-Basile architecturalement unique dans le monde ?",
+        "options": [
+          "C'est la plus grande cathédrale orthodoxe du monde par sa superficie",
+          "Ses huit coupoles polychromes représentent une invention architecturale proprement russe sans équivalent mondial",
+          "Elle est construite entièrement en marbre blanc importé d'Italie",
+          "C'est le seul édifice religieux russe classé au patrimoine mondial de l'UNESCO"
+        ],
+        "answer": 1,
+        "explanation": "La cathédrale Saint-Basile (1561) est unique parce que ses huit coupoles polychromes disposées autour d'une tour centrale ne ressemblent à aucun autre style architectural — ni byzantine, ni gothique, ni baroque. C'est une invention architecturale proprement russe qui n'a aucun précédent ni équivalent dans l'architecture mondiale."
       }
     ]
   },
@@ -157,139 +161,139 @@
     "module_title": "Искусство и литература",
     "lesson_title": "Архитектура — от Кремля до конструктивизма",
     "lesson_subtitle": "Стили, эпохи, символы",
-    "intro": "Этот урок посвящён теме «Архитектура — от Кремля до конструктивизма» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Русская архитектура — череда стилистических революций, отражающих крупнейшие повороты истории: деревянное зодчество первых славянских городов, религиозная византийская архитектура, привезённая с христианством, барокко и неоклассицизм Романовской империи, революционный советский конструктивизм, монументальный «сталинский стиль» и наконец хаотичная современная архитектура постсоветского капитализма. Каждая эпоха оставила следы в российском городском пейзаже, читаемые по сей день.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Архитектура — от Кремля до конструктивизма»",
-        "body": "Тема «Архитектура — от Кремля до конструктивизма» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Десять веков русской архитектуры",
+        "body": "Традиционная русская архитектура — по существу деревянная. Крестьянские избы, первые храмы, сторожевые башни — всё строилось из дерева в бескрайних русских лесах. Эта традиция выработала замечательно сложные методы рубленого строительства — угловые врубки (в обло, в остаток), позволявшие возводить прочные конструкции без гвоздей.\n\nПринятие христианства в 988 году принесло византийскую архитектуру — сначала в великих соборах Киева (Святая София), затем в Москве и Владимире. Успенский собор Московского Кремля (1479) и Собор Василия Блаженного на Красной площади (1561) с характерными разноцветными луковичными куполами — самые знаковые памятники этого русско-византийского синтеза.\n\nИмператорская эпоха (XVIII–XIX века) ознаменовала радикальный разрыв с традицией: Пётр Великий создал Санкт-Петербург как полностью спланированный европейский город с барочными и неоклассическими дворцами, спроектированными итальянскими и французскими архитекторами. Растрелли (Зимний дворец), Кваренги (Смольный институт), Росси (Дворцы искусств) — великие постройки Петербурга принадлежат европейским архитекторам, создавшим город, не имеющий аналогов в мире."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Москва и Санкт-Петербург: два города-палимпсеста",
+        "body": "Москва и Санкт-Петербург — два городских палимпсеста, в которых прочитываются все слои русской истории. Москва, основанная в XII веке, неоднократно перестраивалась (после монгольских нашествий, пожара 1812 года, великих советских преобразований 1930–1950-х) и сегодня представляет неоднородный пейзаж: средневековый Кремль соседствует со сталинскими высотками, хрущёвками 1960-х и современными стеклянными башнями Москва-Сити.\n\nСанкт-Петербург уникален в Европе своей архитектурной цельностью: возведённый меньше чем за столетие по генеральному плану, он предлагает урбанистические перспективы исключительной регулярности. Невский проспект, каналы, дворцы и музеи образуют барочно-неоклассический ансамбль, обосновавший включение города в список Всемирного наследия ЮНЕСКО.\n\nВ провинциальных городах господствует советская архитектура: бесконечные ряды панельных домов (панелек), построенных в 1960–1980-е годы для быстрого расселения растущего населения. Эти кварталы — нередко монотонные, но функциональные — архитектурная повседневность большинства россиян, далёкая от дворцов Москвы и Петербурга."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Архитектура — от Кремля до конструктивизма» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Архитектура как политический инструмент",
+        "body": "Русская архитектура неизменно служила политическим инструментом — от царей до Путина. Пётр Великий построил Санкт-Петербург как декларацию принадлежности Европе и разрыва с традиционной московской Русью. Сталин навязал «сталинский ампир» — монументальные неоготические небоскрёбы (московские «сталинские высотки») и давящие дворцы народа, — чтобы материализовать советское величие в городском пейзаже.\n\nРеволюционный конструктивизм 1920-х годов — пожалуй, самый захватывающий пример архитектуры как тотального политического проекта: такие архитекторы, как Мельников, Леонидов или братья Веснины, проектировали здания, призванные преобразить образ жизни, — рабочие клубы с многофункциональными залами, дома-коммуны с коллективными кухнями и прачечными. Эти архитектурные утопии были резко прерваны сталинским социалистическим реализмом.\n\nСегодня крупные архитектурные проекты путинской России (башня Газпрома «Лахта-центр» в Санкт-Петербурге, реконструкция МГУ, стадионы чемпионата мира по футболу 2018 года) несут очевидное политическое измерение: они утверждают современность, мощь и международные амбиции страны."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Архитектура — от Кремля до конструктивизма» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Жизнь в советской архитектуре",
+        "body": "Для большинства россиян архитектурная повседневность — это советские дома. Хрущёвки — небольшие пятиэтажки без лифта, наспех возведённые при Хрущёве в 1960-е, — по-прежнему составляют значительную долю российского жилого фонда. Эти квартиры, нередко по 30–50 кв. м, с маленькими комнатами и плохой теплоизоляцией, тем не менее впервые дали миллионам советских семей отдельное жильё.\n\nРусские квартиры нередко творчески переделывались в стеснённых условиях — это явление адаптации советского жилья к меняющемуся образу жизни представляет захватывающий предмет исследования для социологов и архитекторов. «Ремонты» — национальная навязчивая идея: россияне вкладывают значительные средства в улучшение интерьера, когда не могут сменить жильё.\n\nС 2000-х годов на окраинах крупных городов строятся новые жилые кварталы — бетонно-стеклянные башни в 20–30 этажей, формирующие новый городской пейзаж. Качество этих строений неравномерно, а удалённость от центров создаёт проблемы с транспортом и качеством жизни, питающие растущую общественную дискуссию."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Архитектура — от Кремля до конструктивизма». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Кремль и великие архитектурные символы",
+        "body": "Московский Кремль — наиболее исторически насыщенный архитектурный символ России и один из лучше всего сохранившихся средневековых ансамблей Европы. Его красные кирпичные стены, зубчатые башни и соборы с золотыми куполами образуют ансамбль, вмещающий тысячу лет русской истории. Кремль одновременно — историческая цитадель, президентская резиденция и главный национальный памятник: такая многофункциональность не имеет аналогов ни в одной другой столице мира.\n\nСобор Василия Блаженного на Красной площади — самое фотографируемое здание России и образ, наиболее непосредственно ассоциируемый с ней в мире. Его восемь разноцветных куполов, расположенных вокруг центральной башни, обладают радикальным своеобразием, не имеющим аналогов в мировой архитектуре: ни византийский, ни готический, ни барочный — Василий Блаженный есть подлинно русское архитектурное изобретение.\n\nМосковское метро заслуживает особого упоминания: построенное при Сталине как «дворец для народа», его станции украшены мозаиками, фресками, хрустальными люстрами и скульптурами, превращающими его в подземный музей советского искусства. Московское метро — одна из самых оживлённых и красивых систем транспорта в мире, обязательная для посещения."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Архитектура — от Кремля до конструктивизма» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Архитектура как предмет разговора",
+        "body": "У русских сильная эмоциональная связь с архитектурной средой. Дискуссии о сносе или реновации советских зданий — как спорная программа сноса хрущёвок в Москве — вызывают страстные споры о памяти, идентичности и модернизации. Архитектура — одновременно политическая и эстетическая тема.\n\nЧувство национальной гордости тесно связано с великими архитектурными памятниками. Сказать русскому, что вас впечатлил Кремль, петербургские дворцы или московское метро, — всегда верный способ создать позитивный контакт. Эти памятники воспринимаются как конкретные свидетельства российского цивилизационного величия.\n\nИ напротив, критика советской архитектуры (серые дома, монотонность пригородов, деградация общественных пространств) нередко воспринимается как нападение на Россию саму по себе — даже теми русскими, кто разделяет эту критику в частных разговорах. Регистр архитектурной критики требует определённой культурной деликатности."
       }
     ],
     "conseil_ami": {
       "title": "Совет путешественника",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Архитектура — от Кремля до конструктивизма» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Спуститесь в московское метро.** Даже если вам никуда не нужно ехать, спуститесь на станции Комсомольская, Маяковская или Новослободская — они в числе самых нарядных и представляют уникальный архитектурный и художественный опыт. Московское метро — одно из скрытых архитектурных чудес мира.\n\n**Не торопитесь на Красной площади.** Не ограничивайтесь фотографией Василия Блаженного — посмотрите на ансамбль в целом: Кремль, мавзолей Ленина (по-прежнему на месте), магазины ГУМ, гостиница «Москва». Красная площадь — напластование политических и культурных символов семи веков русской истории.\n\n**Спросите хозяев, где они живут.** «В каком районе вы живёте?» — вопрос, нередко открывающий богатый разговор об истории города, планах реновации и личном отношении к городскому пространству. Русские охотно рассказывают о своём районе и его преобразованиях."
     },
     "glossary": [
       {
-        "term": "Архитектура — от Кремля до конструктивизма",
-        "definition": "Центральное понятие этого урока — архитектура — от кремля до конструктивизма в контексте современной России."
+        "term": "Кремль",
+        "definition": "Укреплённая цитадель — общее название крепостных ансамблей в центрах русских городов. Московский Кремль — самый известный: президентская резиденция и главный национальный памятник."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Изба",
+        "definition": "Традиционный русский крестьянский бревенчатый дом — народное зодчество, господствовавшее в русском сельском пейзаже до XX века."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Хрущёвки",
+        "definition": "Пятиэтажные дома, наспех возведённые при Хрущёве в 1960-е годы, — быстрое решение жилищного вопроса, давшее миллионам советских семей первое отдельное жильё."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Панельки",
+        "definition": "Крупнопанельные дома из бетонных блоков — архитектурная повседневность большинства горожан в России."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Сталинские высотки",
+        "definition": "Семь неоготических небоскрёбов, построенных при Сталине в Москве, — символы советского могущества и «сталинского ампира», по-прежнему определяющего силуэт Москвы."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Дом-коммуна",
+        "definition": "Советский утопический архитектурный проект — здание с коллективными кухнями, столовой и бытовыми службами, призванное освободить жильцов от домашнего труда."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Ремонт",
+        "definition": "Ремонт квартиры — общенациональное увлечение в России: жильцы вкладывают значительные средства в интерьер, не имея возможности сменить жильё."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Собор Василия Блаженного",
+        "definition": "Покровский собор на Красной площади в Москве (1561) — шедевр русской архитектуры с восемью разноцветными куполами, самый узнаваемый символ России в мире."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Архитектура — от Кремля до конструктивизма». Какова медианная зарплата в России?",
+        "question": "Кем были спроектированы главные дворцы Санкт-Петербурга?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
-        ],
-        "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
-      },
-      {
-        "question": "Сколько часовых поясов занимает Россия?",
-        "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Русскими архитекторами московской традиции",
+          "Итальянскими и французскими архитекторами, приглашёнными царями",
+          "Немецкими архитекторами в честь Петра Великого",
+          "Императорской архитектурной школой, основанной Петром Великим"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
+        "explanation": "Великие постройки Санкт-Петербурга проектировали европейские архитекторы — прежде всего итальянцы и французы: Растрелли (Зимний дворец), Кваренги (Смольный институт), Росси (дворцы). Пётр Великий хотел создать радикально европейский город и пригласил для этого лучших архитекторов Европы."
       },
       {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
+        "question": "Что такое «дом-коммуна» в советской архитектуре 1920-х?",
         "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
+          "Муниципальный дом, закреплённый за партийными чиновниками",
+          "Утопический проект общего дома с коллективными кухнями и бытовыми службами",
+          "Большой жилой массив с общими внутренними дворами",
+          "Стандартный панельный дом, тиражированный по всему СССР"
         ],
         "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
+        "explanation": "Дом-коммуна — утопический проект конструктивистской архитектуры 1920-х годов: здания с коллективными кухнями, прачечными, яслями, которые должны были освободить жильцов — прежде всего женщин — от домашнего труда. Эти проекты были свёрнуты при сталинизме."
       },
       {
-        "question": "Какой главный разлом структурирует современное российское общество?",
+        "question": "Чем примечательно московское метро в архитектурном отношении?",
         "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
+          "Это старейшее метро в мире, построенное в 1880 году",
+          "Его станции украшены как дворцы — мозаики, фрески, хрустальные люстры",
+          "Оно полностью подземное и не имеет наземных станций",
+          "В нём используется уникальная в мире футуристическая модернистская архитектура"
         ],
         "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "Московское метро, построенное при Сталине как «дворец для народа», знаменито богатым убранством станций: мозаики с советскими сюжетами, фрески, хрустальные люстры, скульптуры. Станции Комсомольская и Маяковская считаются шедеврами советского искусства."
+      },
+      {
+        "question": "Что такое «хрущёвки» в российском городском пейзаже?",
+        "options": [
+          "Монументальные сталинские небоскрёбы 1950-х годов",
+          "Небольшие пятиэтажные дома, наспех построенные при Хрущёве в 1960-е",
+          "Коллективные дачи для советских рабочих",
+          "Региональные административные здания советской системы"
+        ],
+        "answer": 1,
+        "explanation": "Хрущёвки — пятиэтажные дома (без лифта), наспех построенные при Хрущёве в 1960-е для быстрого решения советского жилищного кризиса. С квартирами по 30–50 кв. м они впервые дали миллионам семей отдельное жильё."
+      },
+      {
+        "question": "Что делает Собор Василия Блаженного уникальным в мире?",
+        "options": [
+          "Это самый большой православный собор в мире по площади",
+          "Его восемь разноцветных куполов — подлинно русское архитектурное изобретение, не имеющее аналогов",
+          "Он построен целиком из белого мрамора, привезённого из Италии",
+          "Это единственный российский культовый памятник в списке Всемирного наследия ЮНЕСКО"
+        ],
+        "answer": 1,
+        "explanation": "Собор Василия Блаженного (1561) уникален тем, что его восемь разноцветных куполов вокруг центральной башни не напоминают ни один другой архитектурный стиль — ни византийский, ни готический, ни барочный. Это подлинно русское архитектурное изобретение, не имеющее ни предшественников, ни аналогов."
       }
     ]
   }

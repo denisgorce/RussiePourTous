@@ -4,292 +4,296 @@
     "lesson_id": 3,
     "module_icon": "🎵",
     "lesson_icon": "🎤",
-    "estimated_minutes": 12,
+    "estimated_minutes": 13,
     "difficulty": "intermédiaire",
     "sources": [
       {
-        "label": "Encyclopædia Universalis — Russie",
+        "label": "Encyclopædia Universalis",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "France Culture",
+        "url": "https://www.franceculture.fr/"
       }
     ]
   },
   "fr": {
     "module_title": "Musique & Cinéma",
     "lesson_title": "Pop, Rap et Musique contemporaine",
-    "lesson_subtitle": "Scène musicale d'aujourd'hui",
-    "intro": "Cette leçon explore pop, rap et musique contemporaine dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "lesson_subtitle": "Oxxxymiron, Morgenshtern et la scène d'aujourd'hui",
+    "intro": "La musique populaire russe contemporaine est un miroir fascinant d'une société en tension. Entre la pop patriotique sponsorisée par l'État, le rap underground qui touche des dizaines de millions de jeunes, et une scène électronique de premier rang, la musique russe d'aujourd'hui révèle les fractures et les aspirations d'un pays en transformation.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de pop, rap et musique contemporaine",
-        "body": "La thématique de pop, rap et musique contemporaine s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "La pop soviétique et post-soviétique",
+        "body": "La musique populaire soviétique (*estrada*, эстрада — variété de cabaret) a produit des figures iconiques qui restent célébrées en Russie. **Alla Pougatcheva** (Алла Пугачёва) — surnommée la «Diva» ou la «Primadonna», née en 1949 — est la chanteuse la plus aimée de l'histoire russe. Ses ballades des années 1970-80 sont connues de chaque Russe, et son aura est telle qu'elle a pu critiquer ouvertement la guerre en Ukraine en 2022 depuis son exil volontaire en Israël, créant une onde de choc dans l'opinion.\n\nLes années 1990-2000 voient l'émergence de la pop russophone commerciale — les groupes Hands Up! (Руки вверх!), Via Gra (ВИА Гра), les boys bands comme Иванушки International — une pop festive et légère qui correspond au moment de consommation et de légèreté post-soviétique.\n\nLa pop russe actuelle oscille entre artistes pro-pouvoir (Shaman — Шаман, chantre officieux du nationalisme patriotique depuis 2022) et artistes en exil ou en retrait politique."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Le rap russe — naissance d'une scène mondiale",
+        "body": "Le rap russe est l'une des grandes révélations musicales des années 2010. Parti d'un underground confidentiel dans les années 1990, il est devenu la musique la plus écoutée par les jeunes russes — dépassant en streaming la pop et le rock.\n\n**Oxxxymiron** (Мирон Янович Фёдоров, né à Leningrad en 1985, élevé à Londres) est le figure centrale du rap russe. Sa biographie est symbolique : éduqué en Angleterre (Oxford), il choisit de rapper en russe avec une densité littéraire exceptionnelle. Son album «Gorgorod» (Горгород, 2015) est un opéra-rap dystopique en 13 titres — une fresque sur la corruption, la conformité et la résistance créatrice. Il a refusé de se produire en Russie après 2022 et milite activement contre la guerre.\n\n**Morgenshtern** (Алишер Тагирович Моргенштерн, né à Oufa en 1998) représente la génération suivante — plus commerciale, plus provocatrice, mêlant rap, pop et EDM. Ses clips accumulent des centaines de millions de vues sur YouTube. Après avoir été une figure clivante (scandales, controverses), il a quitté la Russie en 2022."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de pop, rap et musique contemporaine est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "La scène électronique russe",
+        "body": "La Russie a une scène de musique électronique de premier rang mondial, largement méconnue en France. Les clubs moscovites **Treehouse** et **Mutabor** et pétersbourgeois **Sosebar** et **Etazhi** ont été pendant les années 2010 parmi les clubs les plus courus du monde électronique international.\n\nLe label **Hyperboloid** (Гиперболоид) représente l'avant-garde de la techno russe expérimentale. Des DJ comme **SPFDJ**, **Interalia** et la scène de **Resident Advisor** russophone ont acquis une reconnaissance internationale.\n\nCette scène électronique était un espace de liberté particulier — notamment pour la communauté LGBTQ+ russe, qui y trouvait des espaces semi-protégés. Depuis 2022, beaucoup de ces clubs ont fermé ou ont perdu leurs artistes et publics internationaux. La scène continue mais sous contraintes — l'ambiance festive de la décennie précédente est difficile à recréer dans le contexte actuel."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de pop, rap et musique contemporaine, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "La musique comme business — l'industrie du streaming",
+        "body": "La Russie est l'un des marchés de streaming musical les plus importants d'Europe. **Yandex.Music** domine le marché avec environ 15 millions d'abonnés — devant Spotify (présent en Russie jusqu'en 2022) et VK Music. Ces plateformes ont transformé l'économie musicale : les revenus des streams sont devenus la principale source de revenus des artistes, remplaçant les ventes de disques.\n\nLes chiffres du streaming russe révèlent les goûts réels du public. Les genres les plus écoutés en 2021-2022 : le rap (premier position), la pop russophone, puis l'électronique et le rock. La musique classique et le folk traditionnel sont très minoritaires dans les écoutes — mais très présents dans l'identité culturelle déclarée.\n\nDepuis 2022, Spotify a quitté la Russie. Les Russes utilisent massivement des VPN pour continuer à accéder aux catalogues internationaux. Yandex.Music et VK Music sont devenus les principales plateformes légales, avec des catalogues partiellement limités."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre pop, rap et musique contemporaine. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "La chanson russe traditionnelle — le fond culturel",
+        "body": "Sous les couches du rap, de la pop et du rock, il y a un fond de **chanson traditionnelle russe** (*russkaya pesnya*, русская песня) qui structure l'identité musicale commune. Ces chansons folkloriques — de table, de marche, d'amour, de nostalgie — sont connues de tous les Russes et constituent le répertoire commun qui ressurgit aux fêtes familiales.\n\nLes **chansons populaires** les plus universelles : «Kalinka» (Калинка — chanson de danse), «Katyusha» (Катюша — chanson de la Seconde Guerre mondiale), «Podmoskovnye Vechera» (Подмосковные вечера — Soirées des environs de Moscou, 1956) — cette dernière est probablement la chanson russe la plus connue internationalement.\n\nLes **«chansons de barde»** (*bardovskaya pesnya*, бардовская песня) — tradition d'auteurs-compositeurs avec une guitare acoustique, héritière de la tradition poétique russe — est représentée par **Bulat Okoudjava** (Булат Окуджава, 1924-1997) et **Vladimir Vyssotski** (Владимир Высоцкий, 1938-1980). Vyssotski est une figure nationale comparable à Brel ou Brassens en France — acteur, poète, chanteur, personnage mythique mort jeune (à 42 ans d'une overdose)."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à pop, rap et musique contemporaine à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Chanter ensemble — karaoké et culture musicale sociale",
+        "body": "La Russie a une forte culture du chant collectif qui n'a pas d'équivalent en France. Chanter ensemble à table est une pratique normale — pas réservée aux personnes talentueuses. Lors d'un zastolye réussi, quelqu'un sort une guitare ou met de la musique et tout le monde chante — les chansons connues de la «valise commune» : Okoudjava, Vyssotski, les chansons soviétiques, les hits de chaque génération.\n\nLe **karaoké** (*karaoke*, карaoке) est très populaire en Russie — peut-être plus qu'en France. Des bars-karaoké existent dans toutes les grandes villes, et louer une salle privée pour un groupe est une sortie festive courante. Le karaoké russe n'est pas une compétition ou un spectacle — c'est un espace de désinhibition collective et de partage.\n\nChanter avec des Russes est l'une des façons les plus efficaces de rompre la glace et de créer des liens. Si vous connaissez même quelques mots d'une chanson russe connue — «Podmoskovnye Vechera», «Katyusha» — et que vous les fredonnez, l'effet est immédiat et chaleureux."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil du Voyageur",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder pop, rap et musique contemporaine avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "Apprendre quelques mots de 'Podmoskovnye Vechera' ou de 'Katyusha' avant un voyage en Russie vous ouvrira des portes inattendues. Ces chansons font partie du patrimoine commun de tous les Russes — les fredonnez-les à table et l'atmosphère changera immédiatement.\n\nSur le rap : si vous discutez de musique avec des jeunes Russes (20-35 ans), demandez-leur 'tu connais Oxxxymiron ?' La question révèle souvent des positions politiques et culturelles — la plupart des fans d'Oxxxymiron ont une vision critique du gouvernement.\n\nSi vous avez accès à Yandex.Music via un compte russe ou un VPN, explorez la playlist 'Хиты России' (Hits de Russie) — vous aurez un panorama immédiat de ce que les Russes écoutent réellement."
     },
     "glossary": [
       {
-        "term": "Pop, Rap et Musique contemporaine",
-        "definition": "Concept central de cette leçon — pop, rap et musique contemporaine dans le contexte de la Russie contemporaine."
+        "term": "Alla Pougatcheva (Алла Пугачёва)",
+        "definition": "Diva de la pop russe (née 1949). La chanteuse la plus aimée de l'histoire russe. A critiqué la guerre depuis son exil israélien en 2022."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Oxxxymiron",
+        "definition": "Rappeur russe (Miron Fedorov, né 1985 à Leningrad, éduqué à Oxford). Figure centrale du rap russe. En exil et militant anti-guerre depuis 2022."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Gorgorod (Горгород)",
+        "definition": "Album-rap dystopique d'Oxxxymiron (2015). 13 titres formant une fresque sur la corruption et la résistance. Chef-d'oeuvre du rap russophone."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Vladimir Vyssotski (Владимир Высоцкий)",
+        "definition": "Barde, acteur et poète (1938-1980). La figure de la chanson russe la plus mythique — comparé à Brel ou Brassens en France."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Podmoskovnye Vechera (Подмосковные вечера)",
+        "definition": "'Soirées des environs de Moscou' (1956). Probablement la chanson russe la plus connue internationalement."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Katyusha (Катюша)",
+        "definition": "Chanson patriotique soviétique (1938). Une des plus connues du répertoire russe — et nom d'un lance-roquettes militaire russe."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Bardovskaya pesnya (Бардовская песня)",
+        "definition": "Tradition de chanson d'auteur russe avec guitare acoustique — Okoudjava, Vyssotski. Héritière de la poésie russe."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Yandex.Music (Яндекс.Музыка)",
+        "definition": "Principale plateforme de streaming musical russe (~15M abonnés). A remplacé Spotify qui a quitté la Russie en 2022."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Pop, Rap et Musique contemporaine'. Quel est le salaire médian en Russie ?",
+        "question": "Quelle chanteuse russe a critiqué ouvertement la guerre en Ukraine en 2022 depuis son exil ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "Zemfira",
+          "Alla Pougatcheva",
+          "Monetochka",
+          "Via Gra"
+        ],
+        "answer": 1,
+        "explanation": "Alla Pougatcheva — la 'Primadonna' du pop russe — a critiqué ouvertement la guerre depuis son exil volontaire en Israël en 2022. Son statut iconique a rendu cette prise de position particulièrement significative."
+      },
+      {
+        "question": "Qu'est-ce que l'album 'Gorgorod' d'Oxxxymiron ?",
+        "options": [
+          "Un album de rap de fête commerciale",
+          "Une fresque dystopique en 13 titres sur la corruption et la résistance créatrice",
+          "Un album de chansons traditionnelles russes revisitées",
+          "Un album de collaboration avec des artistes occidentaux"
+        ],
+        "answer": 1,
+        "explanation": "'Gorgorod' (2015) est un opéra-rap dystopique en 13 titres — une des oeuvres les plus ambitieuses et les plus littéraires du rap russophone. Il a fait d'Oxxxymiron une référence internationale."
+      },
+      {
+        "question": "Quel est le genre musical le plus écouté par les jeunes Russes en streaming ?",
+        "options": [
+          "La musique classique",
+          "Le rock soviétique",
+          "Le rap",
+          "La pop en anglais"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "Le rap est devenu le genre musical le plus écouté par les jeunes Russes en streaming, dépassant la pop et le rock. La scène rap russophone est une des plus dynamiques au monde."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Quelle chanson soviétique de 1956 est probablement la plus connue au monde ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Katyusha",
+          "Podmoskovnye Vechera (Soirées des environs de Moscou)",
+          "Kalinka",
+          "Ochi Chornya (Les yeux noirs)"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
+        "explanation": "'Podmoskovnye Vechera' (Soirées des environs de Moscou, 1956) est probablement la chanson russe la plus connue internationalement — reprise par des musiciens du monde entier."
       },
       {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
+        "question": "Qui est Vladimir Vyssotski dans la culture russe ?",
         "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
+          "Un général soviétique devenu chanteur folklorique",
+          "Un acteur-barde-poète mythique (1938-1980), comparé à Brel ou Brassens",
+          "Le fondateur du rock soviétique à Moscou",
+          "Un dissident politique qui chantait clandestinement"
         ],
         "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
-      },
-      {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
-        "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
-        ],
-        "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "Vladimir Vyssotski (1938-1980) est une figure nationale comparable à Brel ou Brassens — acteur du Théâtre Taganka, poète, barde d'une intensité brute. Mort à 42 ans d'une overdose, son statut de mythe n'a cessé de croître."
       }
     ]
   },
   "ru": {
     "module_title": "Музыка и кино",
     "lesson_title": "Поп, рэп и современная музыка",
-    "lesson_subtitle": "Современная музыкальная сцена",
-    "intro": "Этот урок посвящён теме «Поп, рэп и современная музыка» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "lesson_subtitle": "Oxxxymiron, Моргенштерн и сегодняшняя сцена",
+    "intro": "Современная российская популярная музыка — захватывающее зеркало общества в напряжении. Между государственной патриотической поп-музыкой, андеграундным рэпом, охватывающим десятки миллионов молодых, и первоклассной электронной сценой, российская музыка сегодня обнажает разломы и устремления страны в трансформации.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Поп, рэп и современная музыка»",
-        "body": "Тема «Поп, рэп и современная музыка» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Советская и постсоветская поп-музыка",
+        "body": "Советская эстрада породила иконические фигуры, по-прежнему почитаемые в России. **Алла Пугачёва** — «Дива» и «Примадонна», родилась в 1949 году — самая любимая певица в истории России. Её баллады 1970–80-х знает каждый россиянин. Её аура такова, что она позволила себе открыто критиковать войну на Украине в 2022 году из добровольной израильской эмиграции — создав волновой эффект в общественном мнении.\n\n1990–2000-е принесли коммерческую русскоязычную поп-музыку — «Руки вверх!», «ВИА Гра», бой-бэнды вроде «Иванушек International» — праздничный и лёгкий поп, соответствующий постсоветскому моменту потребления.\n\nСовременная российская поп-музыка колеблется между проправительственными артистами (Shaman — официозный певец патриотизма с 2022 года) и артистами в эмиграции или политическом отступлении."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Российский рэп — рождение мировой сцены",
+        "body": "Российский рэп — одно из главных музыкальных открытий 2010-х. Начав с конфиденциального андеграунда в 1990-е, он стал самой прослушиваемой музыкой молодых россиян — опередив в стриминге поп и рок.\n\n**Oxxxymiron** (Мирон Янович Фёдоров, родился в Ленинграде в 1985-м, вырос в Лондоне) — центральная фигура российского рэпа. Его биография символична: образованный в Англии (Оксфорд), он выбрал читать рэп по-русски с исключительной литературной насыщенностью. Его альбом «Горгород» (2015) — дистопическая рэп-опера в 13 треках. Он отказался выступать в России после 2022-го и активно борется против войны.\n\n**Моргенштерн** (Алишер Тагирович, родился в Уфе в 1998-м) представляет следующее поколение — более коммерческое, более провокационное, смешивающее рэп, поп и EDM. Его клипы набирают сотни миллионов просмотров. После 2022 года покинул Россию."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Поп, рэп и современная музыка» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Российская электронная сцена",
+        "body": "Россия обладает первоклассной электронной музыкальной сценой, широко неизвестной во Франции. Московские клубы Treehouse и Mutabor, петербургские Sosebar и Этажи в 2010-е входили в число наиболее посещаемых клубов международной электронной сцены.\n\nЛейбл Hyperboloid представляет авангард российской экспериментальной техно-музыки. Диджеи вроде SPFDJ и русскоязычная сцена Resident Advisor завоевали международное признание.\n\nЭта электронная сцена была особым пространством свободы — в том числе для российского ЛГБТК+-сообщества, находившего там полузащищённые пространства. С 2022 года многие клубы закрылись или потеряли международных артистов и аудиторию."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Поп, рэп и современная музыка» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Музыка как бизнес — индустрия стриминга",
+        "body": "Россия — один из крупнейших европейских рынков музыкального стриминга. Яндекс.Музыка доминирует с ~15 миллионами подписчиков. Эти платформы трансформировали музыкальную экономику: доходы от стримов стали главным источником заработка артистов.\n\nЦифры российского стриминга раскрывают реальные вкусы публики. Самые прослушиваемые жанры 2021–2022 годов: рэп (первое место), русскоязычный поп, затем электроника и рок. Классика и традиционный фолк — в меньшинстве по прослушиваниям, но очень присутствуют в декларируемой культурной идентичности.\n\nС 2022 года Spotify покинул Россию. Россияне активно используют VPN для доступа к международным каталогам. Яндекс.Музыка и VK Музыка стали главными легальными платформами."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Поп, рэп и современная музыка». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Традиционная русская песня — культурная подложка",
+        "body": "Под слоями рэпа, попа и рока — пласт **традиционной русской песни**, структурирующей общую музыкальную идентичность. Эти народные песни — застольные, маршевые, любовные, ностальгические — знает каждый россиянин; они всплывают на семейных праздниках.\n\nСамые универсальные: «Калинка» (танцевальная), «Катюша» (Вторая мировая), «Подмосковные вечера» (1956) — последняя, возможно, самая известная в мире русская песня.\n\n**Бардовская песня** — традиция авторской песни с акустической гитарой, наследница русской поэзии — представлена **Булатом Окуджавой** (1924–1997) и **Владимиром Высоцким** (1938–1980). Высоцкий — национальная фигура, сопоставимая с Брелем или Брассенсом: актёр, поэт, певец, мифический персонаж, умерший молодым (в 42 года от передозировки)."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Поп, рэп и современная музыка» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Петь вместе — культура совместного пения",
+        "body": "В России сильная культура совместного пения, не имеющая аналогов во Франции. Петь вместе за столом — обычная практика, не требующая таланта. На удавшемся застолье кто-то достаёт гитару или включает музыку, и все поют — песни из «общего чемодана»: Окуджаву, Высоцкого, советские хиты, песни каждого поколения.\n\n**Карaoke** очень популярно в России. Бары-карaoke есть во всех крупных городах, аренда частного зала — обычный праздничный выход. Российский карaoке — не соревнование, а пространство коллективной раскрепощённости.\n\nПеть с россиянами — один из самых эффективных способов растопить лёд. Если вы знаете хоть несколько слов известной русской песни — «Подмосковные вечера», «Катюша» — и затянёте их, эффект немедленный и тёплый."
       }
     ],
     "conseil_ami": {
       "title": "Совет путешественника",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Поп, рэп и современная музыка» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "Выучить несколько слов «Подмосковных вечеров» или «Катюши» перед поездкой в Россию откроет неожиданные двери. Эти песни — часть общего наследия всех россиян: запойте их за столом, и атмосфера изменится мгновенно.\n\nО рэпе: если говорите о музыке с молодыми россиянами (20–35 лет), спросите: «Знаешь Oxxxymiron?» Вопрос нередко раскрывает политические и культурные позиции — большинство поклонников Oxxxymiron критически настроены к правительству.\n\nЕсли у вас есть доступ к Яндекс.Музыке через российский аккаунт или VPN — изучите плейлист «Хиты России»: получите немедленный срез того, что россияне реально слушают."
     },
     "glossary": [
       {
-        "term": "Поп, рэп и современная музыка",
-        "definition": "Центральное понятие этого урока — поп, рэп и современная музыка в контексте современной России."
+        "term": "Алла Пугачёва",
+        "definition": "Дива российской поп-музыки (р. 1949). Самая любимая певица в истории России. Открыто критиковала войну из израильской эмиграции в 2022 году."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Oxxxymiron",
+        "definition": "Российский рэпер (Мирон Фёдоров, р. 1985 в Ленинграде, образование в Оксфорде). Центральная фигура российского рэпа. В эмиграции, борется против войны с 2022 года."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Горгород",
+        "definition": "Дистопический рэп-альбом Oxxxymiron (2015). 13 треков, образующих фреску о коррупции и сопротивлении. Шедевр русскоязычного рэпа."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Владимир Высоцкий",
+        "definition": "Бард, актёр и поэт (1938–1980). Самая мифическая фигура российской авторской песни — сопоставимый с Брелем или Брассенсом."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Подмосковные вечера",
+        "definition": "«Подмосковные вечера» (1956). Вероятно, самая известная в мире русская песня."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Катюша",
+        "definition": "Советская патриотическая песня (1938). Одна из самых известных в русском репертуаре — и имя российской военной реактивной системы залпового огня."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Бардовская песня",
+        "definition": "Традиция российской авторской песни с акустической гитарой — Окуджава, Высоцкий. Наследница русской поэзии."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Яндекс.Музыка",
+        "definition": "Главная российская платформа музыкального стриминга (~15 млн подписчиков). Заменила Spotify, покинувший Россию в 2022 году."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Поп, рэп и современная музыка». Какова медианная зарплата в России?",
+        "question": "Какая российская певица открыто критиковала войну на Украине в 2022 году из эмиграции?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "Земфира",
+          "Алла Пугачёва",
+          "Монеточка",
+          "ВИА Гра"
+        ],
+        "answer": 1,
+        "explanation": "Алла Пугачёва — «Примадонна» российского попа — открыто критиковала войну из добровольной израильской эмиграции в 2022 году. Её иконический статус сделал эту позицию особенно значимой."
+      },
+      {
+        "question": "Что такое альбом «Горгород» Oxxxymiron?",
+        "options": [
+          "Коммерческий праздничный рэп-альбом",
+          "Дистопическая фреска в 13 треках о коррупции и творческом сопротивлении",
+          "Альбом переосмысленных традиционных русских песен",
+          "Альбом в сотрудничестве с западными артистами"
+        ],
+        "answer": 1,
+        "explanation": "«Горгород» (2015) — дистопическая рэп-опера в 13 треках, одно из наиболее амбициозных и литературных произведений русскоязычного рэпа. Сделал Oxxxymiron международной точкой отсчёта."
+      },
+      {
+        "question": "Какой музыкальный жанр наиболее прослушиваемый молодыми россиянами в стриминге?",
+        "options": [
+          "Классическая музыка",
+          "Советский рок",
+          "Рэп",
+          "Поп на английском языке"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "Рэп стал самым прослушиваемым жанром среди молодых россиян в стриминге, опередив поп и рок. Русскоязычная рэп-сцена — одна из самых динамичных в мире."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Какая советская песня 1956 года, вероятно, наиболее известна в мире?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Катюша",
+          "Подмосковные вечера",
+          "Калинка",
+          "Очи чёрные"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
+        "explanation": "«Подмосковные вечера» (1956) — вероятно, самая известная в мире русская песня, исполнявшаяся музыкантами всего мира."
       },
       {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
+        "question": "Кто такой Владимир Высоцкий в российской культуре?",
         "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
+          "Советский генерал, ставший народным певцом",
+          "Мифический актёр-бард-поэт (1938–1980), сопоставимый с Брелем или Брассенсом",
+          "Основатель советского рока в Москве",
+          "Политический диссидент, певший подпольно"
         ],
         "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
-      },
-      {
-        "question": "Какой главный разлом структурирует современное российское общество?",
-        "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
-        ],
-        "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "Владимир Высоцкий (1938–1980) — национальная фигура, сопоставимая с Брелем или Брассенсом: актёр Театра на Таганке, поэт, бард беспощадной интенсивности. Умер в 42 года от передозировки; его мифический статус только нарастал."
       }
     ]
   }

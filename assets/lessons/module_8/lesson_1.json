@@ -4,12 +4,16 @@
     "lesson_id": 1,
     "module_icon": "📚",
     "lesson_icon": "📖",
-    "estimated_minutes": 12,
+    "estimated_minutes": 14,
     "difficulty": "intermédiaire",
     "sources": [
       {
-        "label": "Encyclopædia Universalis — Russie",
+        "label": "Encyclopædia Universalis — Littérature russe",
         "url": "https://www.universalis.fr/"
+      },
+      {
+        "label": "Bibliothèque nationale de Russie — Fonds littéraires",
+        "url": "https://www.nlr.ru/"
       }
     ]
   },
@@ -17,139 +21,139 @@
     "module_title": "Arts & Littérature",
     "lesson_title": "Tolstoï et Dostoïevski — les géants du roman",
     "lesson_subtitle": "Guerre et Paix, Crime et Châtiment",
-    "intro": "Cette leçon explore tolstoï et dostoïevski — les géants du roman dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "intro": "Tolstoï et Dostoïevski sont les deux sommets de la littérature russe du XIXe siècle — et parmi les plus grands romanciers de l'histoire mondiale. Ils incarnent deux visions radicalement différentes de l'homme et de la société russe, deux tempéraments opposés, deux héritages qui continuent de fasciner les lecteurs du monde entier. Pour comprendre la Russie profonde, il faut avoir lu — ou au moins connaître — ces deux géants.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le contexte historique de tolstoï et dostoïevski — les géants du roman",
-        "body": "La thématique de tolstoï et dostoïevski — les géants du roman s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
+        "title": "Le siècle d'or de la littérature russe",
+        "body": "Le XIXe siècle est le «siècle d'or» (zolotoy vek) de la littérature russe. En l'espace de quelques décennies, la Russie produit une constellation d'écrivains qui transforment la littérature mondiale : Pouchkine, Gogol, Tourgueniev, Tolstoï, Dostoïevski, Tchekhov. Ce foisonnement est intimement lié aux bouleversements historiques de l'époque — les guerres napoléoniennes, l'abolition du servage (1861), les mouvements révolutionnaires — qui nourrissent une réflexion intense sur l'identité russe et la condition humaine.\n\nLéon Tolstoï (1828-1910) est issu de la haute noblesse et a participé aux guerres du Caucase et de Crimée avant de se consacrer à l'écriture. Son œuvre monumentale — Guerre et Paix (1869), Anna Karénine (1878), Résurrection (1899) — explore la société russe de l'intérieur avec une précision psychologique et sociale sans précédent. Sur le tard, il développe une philosophie spirituelle non-violente qui inspire Gandhi et Tolstoï lui-même finit par renoncer à ses titres et propriétés.\n\nFiodor Dostoïevski (1821-1881) est d'une origine plus modeste, fils de médecin. Arrêté pour activités révolutionnaires en 1849, il est condamné à mort, gracié in extremis sur le lieu d'exécution et envoyé au bagne sibérien pendant quatre ans. Cette expérience traumatique — le faux-semblant d'exécution, les années de camp — est au cœur de toute son œuvre ultérieure : Crime et Châtiment (1866), L'Idiot (1869), Les Démons (1872), Les Frères Karamazov (1880)."
       },
       {
         "theme": "Géographie",
         "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
+        "title": "Moscou, Saint-Pétersbourg et la Russie des romans",
+        "body": "Les deux romanciers habitent des espaces géographiques et symboliques très différents. Tolstoï est l'écrivain de la campagne russe et des grandes propriétés nobles : sa datcha de Iasnaïa Poliana, dans le gouvernement de Toula, est le décor réel de nombreuses scènes et le lieu où il a passé l'essentiel de sa vie. La Russie de Tolstoï est celle des steppes, des champs de bataille et des salons de Moscou.\n\nDostoïevski est essentiellement l'écrivain de Saint-Pétersbourg — une ville qu'il décrit avec une précision hallucinée dans ses romans. Les ruelles sombres, les cours intérieures, les appartements misérables du quartier de Sennaya Plochtchad sont le cadre de Crime et Châtiment. Cette géographie urbaine, humide et oppressante, est inséparable de la psychologie tourmentée de ses personnages.\n\nAujourd'hui, les lieux tolstoïens (Iasnaïa Poliana) et dostoïevskiens (Saint-Pétersbourg) sont des pèlerinages littéraires majeurs. Des touristes du monde entier viennent marcher sur les traces de ces romanciers, et les Russes eux-mêmes considèrent ces sites comme des lieux de mémoire nationale fondamentaux."
       },
       {
         "theme": "Politique & Société",
         "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de tolstoï et dostoïevski — les géants du roman est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
+        "title": "Deux visions de la société russe",
+        "body": "Tolstoï et Dostoïevski incarnent deux positions politiques et philosophiques opposées, et leurs débats — parfois directs, souvent par œuvres interposées — ont façonné l'intelligentsia russe pendant des générations. Tolstoï est le grand réformateur social, dénonçant l'Église orthodoxe (qui finit par l'excommunier en 1901), l'État, la propriété privée et la violence sous toutes ses formes. Sa pensée humaniste universaliste a influencé des mouvements pacifistes et anticoloniaux dans le monde entier.\n\nDostoïevski, après son passage révolutionnaire de jeunesse, évolue vers un conservatisme slavophile profond. Il voit dans le peuple russe orthodoxe une mission spirituelle particulière pour l'humanité — une sorte de messianisme russe qui fait de la souffrance une voie de rédemption. Cette pensée, exprimée notamment dans Le Discours de Pouchkine (1880), influence directement le nationalisme russe du XXe siècle et continue d'être invoquée aujourd'hui.\n\nLes deux auteurs restent des références politiques vivantes en Russie. Des citations de Dostoïevski sont régulièrement utilisées par le pouvoir politique pour justifier une vision particulière de l'identité russe, tandis que les idées humanistes de Tolstoï sont plutôt invoquées par l'opposition libérale."
       },
       {
         "theme": "Économie & Vie quotidienne",
         "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de tolstoï et dostoïevski — les géants du roman, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
+        "title": "La vie quotidienne dans les romans russes",
+        "body": "Les romans de Tolstoï et Dostoïevski sont des documents sociologiques extraordinaires sur la Russie du XIXe siècle. Tolstoï décrit avec une précision minutieuse la vie des propriétaires nobles — leurs relations avec les serfs, leurs fêtes, leurs voyages à Moscou ou à l'étranger. Son tableau de la société russe avant et après l'abolition du servage est d'une richesse incomparable.\n\nDostoïevski s'intéresse au contraire aux classes humbles et aux laissés-pour-compte de la modernisation : les petits fonctionnaires, les étudiants pauvres, les prostituées, les repris de justice. Son analyse de la pauvreté urbaine à Saint-Pétersbourg — le loyer impayé, la nourriture insuffisante, les dettes — reste d'une actualité saisissante pour quiconque connaît les villes russes contemporaines en période de crise.\n\nLes deux romanciers ont aussi décrit avec une précision remarquable les prix, les salaires et les conditions économiques de leur époque. Pour les historiens de l'économie russe du XIXe siècle, leurs romans constituent des sources primaires irremplaçables sur le coût de la vie, les inégalités sociales et les stratégies de survie des différentes classes."
       },
       {
         "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre tolstoï et dostoïevski — les géants du roman. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
+        "title": "L'héritage mondial de la littérature russe",
+        "body": "L'influence de Tolstoï et Dostoïevski sur la littérature mondiale est immense. Dostoïevski est reconnu comme un précurseur de la psychologie moderne — Freud lui-même a consacré un essai à Dostoïevski et le parricide — et comme l'un des pères de l'existentialisme. Nietzsche, Kafka, Faulkner, Camus ont reconnu leur dette envers lui.\n\nTolstoï a influencé des auteurs aussi divers que Hemingway, qui admira sa précision stylistique, et Virginia Woolf, qui analysa son rapport au temps et à la conscience. Ses idées philosophiques ont inspiré Gandhi pour la résistance non-violente — une dette que Gandhi reconnaissait explicitement dans ses écrits.\n\nEn Russie, la réception de ces deux auteurs est complexe et évolutive. Pendant la période soviétique, Tolstoï était plus valorisé (ses critiques sociales pouvaient être réinterprétées comme proto-marxistes) tandis que Dostoïevski était plus ambigu. Depuis les années 1990, Dostoïevski connaît une renaissance spectaculaire, ses romans se vendant à des millions d'exemplaires et alimentant un débat intense sur l'identité nationale."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à tolstoï et dostoïevski — les géants du roman à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
+        "title": "Lire les Russes pour comprendre les Russes",
+        "body": "Connaître au moins les grandes lignes de Tolstoï et Dostoïevski est une clé d'accès précieuse dans les conversations avec des Russes éduqués. Mentionner que vous avez lu Guerre et Paix ou Crime et Châtiment — même partiellement — ouvre immédiatement des portes et génère un respect mutuel. Ces romans sont des références culturelles partagées que presque tous les Russes ont étudiées à l'école et qui structurent leur rapport à la littérature.\n\nLes Russes ont souvent une intimité particulière avec ces textes — ils peuvent citer des passages de mémoire, discuter des personnages comme de personnes réelles, et avoir des opinions très tranchées sur les adaptations cinématographiques ou théâtrales. Raskólnikov (Crime et Châtiment) et Prince Bolkonsky (Guerre et Paix) sont des noms aussi familiers que des membres de la famille.\n\nPour préparer votre voyage ou vos échanges avec des Russes, vous n'avez pas besoin de lire tous ces romans (certains font plus de 1000 pages), mais connaître leurs thèmes, personnages principaux et leur place dans la culture russe est indispensable. Les adaptations cinématographiques soviétiques et russes — notamment le Guerre et Paix de Bondartchouk (1966-1967), oscar du meilleur film étranger — sont d'excellentes portes d'entrée."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil du Voyageur",
       "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder tolstoï et dostoïevski — les géants du roman avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
+      "content": "**Lisez au moins les premières pages.** Avant un séjour en Russie ou une rencontre importante avec des Russes, lisez les premiers chapitres de Crime et Châtiment ou de Guerre et Paix. Même une lecture partielle vous donnera des références concrètes pour la conversation et montrera votre intérêt sincère pour la culture russe.\n\n**Ayez une opinion.** Les Russes ne veulent pas juste savoir si vous avez lu Dostoïevski — ils veulent savoir ce que vous en pensez. Préparez une opinion sincère sur un personnage ou un thème : cela ouvrira un dialogue bien plus riche qu'une simple confirmation de lecture.\n\n**Visitez Iasnaïa Poliana et les quartiers de Dostoïevski.** Si vous êtes à Moscou, la propriété tolstoïenne (à 200 km) est un pèlerinage magnifique. À Saint-Pétersbourg, le quartier de Sennaya Plochtchad mentionné dans Crime et Châtiment est encore reconnaissable et émouvant."
     },
     "glossary": [
       {
-        "term": "Tolstoï et Dostoïevski — les géants du roman",
-        "definition": "Concept central de cette leçon — tolstoï et dostoïevski — les géants du roman dans le contexte de la Russie contemporaine."
+        "term": "Zolotoy vek (Золотой век)",
+        "definition": "Siècle d'or — terme désignant la période de la littérature russe du XIXe siècle qui a produit Pouchkine, Tolstoï, Dostoïevski, Tchekhov."
       },
       {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
+        "term": "Iasnaïa Poliana (Ясная Поляна)",
+        "definition": "Propriété familiale de Tolstoï dans le gouvernement de Toula — lieu de vie, d'écriture et de mort du romancier, aujourd'hui musée national."
       },
       {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
+        "term": "Sennaya Plochtchad (Сенная площадь)",
+        "definition": "Quartier populaire de Saint-Pétersbourg — décor central de Crime et Châtiment, encore visible aujourd'hui malgré les transformations urbaines."
       },
       {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
+        "term": "Servage (Крепостное право)",
+        "definition": "Système d'asservissement des paysans russes aboli en 1861 — réalité sociale omniprésente dans les romans de Tolstoï qui décrit ses effets sur toute la société."
       },
       {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
+        "term": "Slavophiles (Славянофилы)",
+        "definition": "Courant intellectuel russe du XIXe siècle affirmant la supériorité spirituelle de la Russie orthodoxe sur l'Occident rationalisé — Dostoïevski en fut une figure majeure."
       },
       {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
+        "term": "Raskólnikov (Раскольников)",
+        "definition": "Personnage central de Crime et Châtiment — étudiant pauvre qui tue une usurière et explore les limites du raisonnement moral. L'un des personnages les plus étudiés de la littérature mondiale."
       },
       {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
+        "term": "Tolstoïsme (Толстовство)",
+        "definition": "Mouvement philosophique fondé sur les idées de Tolstoï : non-violence, résistance passive, vie simple — a directement influencé Gandhi."
       },
       {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
+        "term": "Intelligentsia (Интеллигенция)",
+        "definition": "Terme russe désignant la classe intellectuelle éduquée — son rapport conflictuel avec le pouvoir politique est un thème central de la littérature russe du XIXe siècle."
       }
     ],
     "quiz": [
       {
-        "question": "Cette leçon porte sur 'Tolstoï et Dostoïevski — les géants du roman'. Quel est le salaire médian en Russie ?",
+        "question": "Quelle expérience traumatique a profondément marqué l'œuvre de Dostoïevski ?",
         "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
+          "Sa participation à la guerre de Crimée comme officier",
+          "Son arrestation, fausse exécution et années de bagne sibérien",
+          "La mort de sa femme pendant l'écriture des Frères Karamazov",
+          "Son exil en Europe occidentale imposé par le Tsar"
+        ],
+        "answer": 1,
+        "explanation": "Arrêté en 1849, Dostoïevski est condamné à mort, gracié in extremis sur le lieu d'exécution (simulacre délibéré) puis envoyé au bagne sibérien pendant quatre ans. Cette expérience — la mort frôlée, les années de camp — est au cœur de toute son œuvre ultérieure."
+      },
+      {
+        "question": "Quel philosophe ou leader a été directement influencé par les idées non-violentes de Tolstoï ?",
+        "options": [
+          "Karl Marx",
+          "Friedrich Nietzsche",
+          "Mahatma Gandhi",
+          "Jean-Paul Sartre"
         ],
         "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
+        "explanation": "Gandhi reconnaissait explicitement sa dette envers Tolstoï pour le concept de résistance non-violente. Les deux hommes ont même correspondu dans les dernières années de la vie de Tolstoï. Le tolstoïsme (non-violence, désobéissance civile pacifique) a directement nourri la pensée gandhienne."
       },
       {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
+        "question": "Quelle ville est le cadre principal des romans de Dostoïevski ?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Moscou",
+          "Kiev",
+          "Saint-Pétersbourg",
+          "Novgorod"
         ],
         "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
+        "explanation": "Dostoïevski est essentiellement l'écrivain de Saint-Pétersbourg — ses ruelles sombres, ses cours intérieures et ses appartements misérables sont décrits avec une précision hallucinée. Le quartier de Sennaya Plochtchad dans Crime et Châtiment est encore reconnaissable aujourd'hui."
       },
       {
-        "question": "Que désigne le 'blat' dans la société russe ?",
+        "question": "Quelle sanction l'Église orthodoxe a-t-elle infligée à Tolstoï en 1901 ?",
         "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
+          "Une interdiction de publication de ses œuvres en Russie",
+          "Une excommunication officielle",
+          "Un exil forcé à l'étranger",
+          "Une condamnation pour blasphème devant un tribunal civil"
         ],
         "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
+        "explanation": "Tolstoï a été officiellement excommunié par l'Église orthodoxe russe en 1901 en raison de ses critiques répétées de l'institution ecclésiastique, de ses positions hétérodoxes sur le christianisme et de son refus des sacrements. Il continua à se définir comme chrétien, mais à sa manière."
       },
       {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
+        "question": "Quel film soviétique adapté de Tolstoï a remporté l'Oscar du meilleur film étranger ?",
         "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
+          "Anna Karénine de Alexandre Zarkhi (1967)",
+          "Guerre et Paix de Sergueï Bondartchouk (1966-1967)",
+          "Résurrection de Mikhaïl Schweitzer (1960)",
+          "La Sonate à Kreutzer de Mikhaïl Schweitzer (1987)"
         ],
         "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
-      },
-      {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
-        "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
-        ],
-        "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
+        "explanation": "Le Guerre et Paix de Sergueï Bondartchouk (1966-1967) est l'une des plus grandes superproductions de l'histoire du cinéma — tournée avec des dizaines de milliers de figurants, elle a remporté l'Oscar du meilleur film en langue étrangère en 1968. C'est une porte d'entrée magnifique dans l'univers tolstoïen."
       }
     ]
   },
@@ -157,139 +161,139 @@
     "module_title": "Искусство и литература",
     "lesson_title": "Толстой и Достоевский — гиганты романа",
     "lesson_subtitle": "Война и мир, Преступление и наказание",
-    "intro": "Этот урок посвящён теме «Толстой и Достоевский — гиганты романа» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "intro": "Толстой и Достоевский — два пика русской литературы XIX века и двое из величайших романистов мировой истории. Они воплощают радикально разные взгляды на человека и русское общество, противоположные темпераменты, два наследия, по-прежнему завораживающих читателей во всём мире. Чтобы понять глубинную Россию, нужно читать — или хотя бы знать — этих двух гигантов.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст темы «Толстой и Достоевский — гиганты романа»",
-        "body": "Тема «Толстой и Достоевский — гиганты романа» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
+        "title": "Золотой век русской литературы",
+        "body": "XIX век — «золотой век» русской литературы. За несколько десятилетий Россия рождает целое созвездие писателей, преобразивших мировую литературу: Пушкин, Гоголь, Тургенев, Толстой, Достоевский, Чехов. Этот расцвет неразрывно связан с историческими потрясениями эпохи — наполеоновскими войнами, отменой крепостного права (1861), революционными движениями, — питающими интенсивное осмысление русской идентичности и человеческого удела.\n\nЛев Толстой (1828–1910) вышел из высшего дворянства, участвовал в кавказских и крымских войнах, прежде чем посвятить себя литературе. Его монументальный труд — Война и мир (1869), Анна Каренина (1878), Воскресение (1899) — исследует русское общество изнутри с беспрецедентной психологической и социальной точностью. На склоне лет он развил духовно-ненасильственную философию, вдохновившую Ганди, и в итоге отрёкся от титулов и имений.\n\nФёдор Достоевский (1821–1881) был более скромного происхождения — сын врача. Арестованный за революционную деятельность в 1849 году, он был приговорён к смерти, помилован в последний момент на месте казни и отправлен на четыре года на сибирскую каторгу. Этот травматический опыт — инсценированная казнь, годы лагеря — лежит в основе всего его дальнейшего творчества: Преступление и наказание (1866), Идиот (1869), Бесы (1872), Братья Карамазовы (1880)."
       },
       {
         "theme": "География",
         "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
+        "title": "Москва, Санкт-Петербург и Россия романов",
+        "body": "Два романиста обитают в очень разных географических и символических пространствах. Толстой — писатель русской деревни и дворянских усадеб: его Ясная Поляна в Тульской губернии — реальный фон многих сцен и место, где он провёл большую часть жизни. Россия Толстого — это степи, поля сражений и московские салоны.\n\nДостоевский — прежде всего писатель Санкт-Петербурга, описывающий его с галлюцинаторной точностью. Тёмные переулки, дворы-колодцы, жалкие квартиры района Сенной площади — декорации Преступления и наказания. Эта городская, сырая и гнетущая география неотделима от терзаемой психологии его персонажей.\n\nСегодня «толстовские» места (Ясная Поляна) и «достоевские» (Санкт-Петербург) — крупные литературные паломничества. Читатели со всего мира приезжают пройти по следам этих романистов, а сами русские считают эти места фундаментальными местами национальной памяти."
       },
       {
         "theme": "Политика и общество",
         "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Толстой и Достоевский — гиганты романа» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
+        "title": "Два взгляда на русское общество",
+        "body": "Толстой и Достоевский воплощают противоположные политические и философские позиции, и их споры — порой прямые, чаще через произведения — формировали русскую интеллигенцию на протяжении поколений. Толстой — великий социальный реформатор, обличавший православную церковь (отлучившую его в 1901 году), государство, частную собственность и насилие в любых его формах. Его гуманистическая мысль повлияла на пацифистские и антиколониальные движения по всему миру.\n\nДостоевский после революционной юности эволюционировал к глубокому славянофильскому консерватизму. В православном русском народе он видел особую духовную миссию для человечества — своего рода русский мессианизм, превращающий страдание в путь искупления. Эта мысль, выраженная в «Пушкинской речи» (1880), прямо питает русский национализм XX века и продолжает звучать сегодня.\n\nОба автора остаются живыми политическими ссылками в России. Цитаты из Достоевского регулярно используются властью для обоснования особой концепции русской идентичности, тогда как гуманистические идеи Толстого скорее присваивает либеральная оппозиция."
       },
       {
         "theme": "Экономика и повседневная жизнь",
         "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Толстой и Достоевский — гиганты романа» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
+        "title": "Повседневная жизнь в русских романах",
+        "body": "Романы Толстого и Достоевского — удивительные социологические документы о России XIX века. Толстой с дотошной точностью описывает быт дворян-помещиков — их отношения с крепостными, праздники, поездки в Москву или за рубеж. Его картина русского общества до и после отмены крепостного права бесценна.\n\nДостоевский, напротив, обращается к низшим слоям и жертвам модернизации: мелким чиновникам, бедным студентам, проституткам, бывшим каторжникам. Его анализ городской бедности в Санкт-Петербурге — неоплаченная аренда, нехватка еды, долги — поразительно актуален для знающих российские города в периоды кризисов.\n\nОба романиста также замечательно точно описывали цены, жалованья и экономические условия своего времени. Для историков российской экономики XIX века их романы — незаменимые первоисточники о стоимости жизни, социальном неравенстве и стратегиях выживания разных классов."
       },
       {
         "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Толстой и Достоевский — гиганты романа». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
+        "title": "Мировое наследие русской литературы",
+        "body": "Влияние Толстого и Достоевского на мировую литературу огромно. Достоевский признан предтечей современной психологии — сам Фрейд посвятил ему эссе о Достоевском и отцеубийстве — и одним из отцов экзистенциализма. Ницше, Кафка, Фолкнер, Камю признавали свой долг перед ним.\n\nТолстой повлиял на таких разных авторов, как Хемингуэй, восхищавшийся его стилистической точностью, и Вирджиния Вулф, анализировавшая его отношение ко времени и сознанию. Его философские идеи вдохновили Ганди на ненасильственное сопротивление — долг, который Ганди прямо признавал в своих текстах.\n\nВ России рецепция этих двух авторов сложна и изменчива. В советский период Толстой ценился выше (его социальная критика могла быть переосмыслена как протомарксистская), тогда как Достоевский был более неоднозначен. С 1990-х годов Достоевский переживает впечатляющий ренессанс: его романы расходятся миллионными тиражами и питают острую дискуссию об идентичности."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Толстой и Достоевский — гиганты романа» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
+        "title": "Читать русских, чтобы понимать русских",
+        "body": "Знать хотя бы основное о Толстом и Достоевском — бесценный ключ к разговору с образованными русскими. Упоминание, что вы читали Войну и мир или Преступление и наказание — пусть даже частично, — немедленно открывает двери и порождает взаимное уважение. Эти романы — общие культурные ориентиры, которые почти все русские изучали в школе и которые структурируют их отношение к литературе.\n\nУ русских часто есть особая близость с этими текстами: они могут цитировать отрывки наизусть, обсуждать персонажей как реальных людей и иметь резкие суждения об экранизациях. Раскольников и князь Болконский — имена столь же привычные, как члены семьи.\n\nДля подготовки к поездке или общению с русскими не нужно читать все эти романы (некоторые превышают тысячу страниц), но знать их темы, главных персонажей и место в русской культуре — обязательно. Советские и российские экранизации — прежде всего «Война и мир» Бондарчука (1966–1967), удостоенная «Оскара» за лучший иностранный фильм, — великолепная точка входа."
       }
     ],
     "conseil_ami": {
       "title": "Совет путешественника",
       "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Толстой и Достоевский — гиганты романа» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
+      "content": "**Прочтите хотя бы первые страницы.** Перед поездкой в Россию или важной встречей с русскими прочтите первые главы Преступления и наказания или Войны и мира. Даже частичное чтение даст конкретные ориентиры для разговора и покажет искренний интерес к культуре.\n\n**Имейте собственное мнение.** Русских интересует не просто факт, что вы читали Достоевского, — им важно, что вы об этом думаете. Подготовьте искренний взгляд на персонажа или тему: это откроет куда более богатый диалог, чем простое подтверждение прочитанного.\n\n**Посетите Ясную Поляну и кварталы Достоевского.** Из Москвы усадьба Толстого (в 200 км) — прекрасное паломничество. В Санкт-Петербурге район Сенной площади, описанный в Преступлении и наказании, до сих пор узнаваем и производит глубокое впечатление."
     },
     "glossary": [
       {
-        "term": "Толстой и Достоевский — гиганты романа",
-        "definition": "Центральное понятие этого урока — толстой и достоевский — гиганты романа в контексте современной России."
+        "term": "Золотой век",
+        "definition": "Золотой век — термин, обозначающий период русской литературы XIX века, породивший Пушкина, Толстого, Достоевского, Чехова."
       },
       {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
+        "term": "Ясная Поляна",
+        "definition": "Родовое имение Толстого в Тульской губернии — место его жизни, творчества и смерти, ныне национальный музей."
       },
       {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
+        "term": "Сенная площадь",
+        "definition": "Народный район Санкт-Петербурга — главные декорации Преступления и наказания, узнаваемые по сей день."
       },
       {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
+        "term": "Крепостное право",
+        "definition": "Система закрепощения крестьян в России, отменённая в 1861 году. Всепроникающая социальная реальность в романах Толстого."
       },
       {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
+        "term": "Славянофилы",
+        "definition": "Интеллектуальное течение XIX века, утверждавшее духовное превосходство православной России над рационализированным Западом — Достоевский был одной из его ключевых фигур."
       },
       {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
+        "term": "Раскольников",
+        "definition": "Главный герой Преступления и наказания — бедный студент, убивающий ростовщицу и исследующий пределы морального рассудка. Один из наиболее изучаемых персонажей мировой литературы."
       },
       {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
+        "term": "Толстовство",
+        "definition": "Философское движение, основанное на идеях Толстого: ненасилие, пассивное сопротивление, простая жизнь — оказало прямое влияние на Ганди."
       },
       {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
+        "term": "Интеллигенция",
+        "definition": "Русский термин для образованного интеллектуального класса — его конфликтные отношения с политической властью составляют центральную тему литературы XIX века."
       }
     ],
     "quiz": [
       {
-        "question": "Этот урок посвящён теме «Толстой и Достоевский — гиганты романа». Какова медианная зарплата в России?",
+        "question": "Какой травматический опыт глубоко повлиял на творчество Достоевского?",
         "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
+          "Участие в Крымской войне офицером",
+          "Арест, инсценированная казнь и годы сибирской каторги",
+          "Смерть жены во время работы над Братьями Карамазовыми",
+          "Вынужденная эмиграция на Запад по указу царя"
+        ],
+        "answer": 1,
+        "explanation": "Арестованный в 1849 году, Достоевский был приговорён к смерти, помилован в последний момент на месте казни (намеренный розыгрыш) и отправлен на четыре года на сибирскую каторгу. Этот опыт — пережитая на грани смерть, годы лагеря — лежит в основе всего его дальнейшего творчества."
+      },
+      {
+        "question": "Кто из философов или лидеров прямо воспринял идеи ненасилия Толстого?",
+        "options": [
+          "Карл Маркс",
+          "Фридрих Ницше",
+          "Махатма Ганди",
+          "Жан-Поль Сартр"
         ],
         "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
+        "explanation": "Ганди прямо признавал свой долг перед Толстым в концепции ненасильственного сопротивления. Они даже переписывались в последние годы жизни Толстого. Толстовство (ненасилие, мирное гражданское неповиновение) непосредственно питало мысль Ганди."
       },
       {
-        "question": "Сколько часовых поясов занимает Россия?",
+        "question": "Какой город составляет главный фон романов Достоевского?",
         "options": [
-          "7",
-          "9",
-          "11",
-          "13"
+          "Москва",
+          "Киев",
+          "Санкт-Петербург",
+          "Новгород"
         ],
         "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
+        "explanation": "Достоевский — прежде всего писатель Санкт-Петербурга, описывающий его с галлюцинаторной точностью: тёмные переулки, дворы-колодцы и жалкие квартиры. Сенная площадь в Преступлении и наказании узнаваема до сих пор."
       },
       {
-        "question": "Что означает «блат» в российском обществе?",
+        "question": "Какое наказание Православная церковь вынесла Толстому в 1901 году?",
         "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
+          "Запрет публикаций его произведений в России",
+          "Официальное отлучение от церкви",
+          "Принудительная эмиграция за рубеж",
+          "Осуждение за богохульство в гражданском суде"
         ],
         "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
+        "explanation": "Толстой был официально отлучён от церкви Русской православной церковью в 1901 году за неоднократную критику церковного института, нетрадиционные взгляды на христианство и отказ от таинств. Он продолжал называть себя христианином — по-своему."
       },
       {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
+        "question": "Какой советский фильм по Толстому получил премию «Оскар» за лучший иностранный фильм?",
         "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
+          "«Анна Каренина» Александра Зархи (1967)",
+          "«Война и мир» Сергея Бондарчука (1966–1967)",
+          "«Воскресение» Михаила Швейцера (1960)",
+          "«Крейцерова соната» Михаила Швейцера (1987)"
         ],
         "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
-      },
-      {
-        "question": "Какой главный разлом структурирует современное российское общество?",
-        "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
-        ],
-        "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
+        "explanation": "«Война и мир» Сергея Бондарчука (1966–1967) — одна из величайших суперпродукций в истории кино, снятая с десятками тысяч статистов. Фильм получил «Оскар» за лучший иностранный фильм в 1968 году и остаётся прекрасной точкой входа в мир Толстого."
       }
     ]
   }

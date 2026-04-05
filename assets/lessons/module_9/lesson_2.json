@@ -1,296 +1,77 @@
 {
-  "meta": {
-    "module_id": 9,
-    "lesson_id": 2,
-    "module_icon": "🎵",
-    "lesson_icon": "🎸",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
-    "sources": [
-      {
-        "label": "Encyclopædia Universalis — Russie",
-        "url": "https://www.universalis.fr/"
-      }
-    ]
-  },
+  "meta": {"module_id": 9,"lesson_id": 2,"module_icon": "🎵","lesson_icon": "🎸","estimated_minutes": 13,"difficulty": "intermédiaire",
+    "sources": [{"label": "Encyclopædia Universalis — Rock soviétique","url": "https://www.universalis.fr/"},
+                {"label": "France Culture — Musique russe","url": "https://www.franceculture.fr/"}]},
   "fr": {
-    "module_title": "Musique & Cinéma",
-    "lesson_title": "Rock soviétique et Post-soviétique",
-    "lesson_subtitle": "Kino, DDT, Zemfira",
-    "intro": "Cette leçon explore rock soviétique et post-soviétique dans le contexte de la Russie contemporaine. Le sujet s'inscrit dans la compréhension globale de la société et de la culture russes, avec un regard comparatif franco-russe.",
+    "module_title": "Musique & Cinéma","lesson_title": "Rock soviétique et Post-soviétique","lesson_subtitle": "Kino, DDT, Zemfira — voix d'une génération",
+    "intro": "Le rock soviétique est l'une des grandes révolutions culturelles cachées du XXe siècle. Dans un régime qui censure la presse et surveille les mouvements, des jeunes musiciens ont créé — à partir des années 1970 — une musique de résistance douce, d'une beauté mélancolique et d'une profondeur poétique sans équivalent dans le rock occidental.",
     "sections": [
-      {
-        "theme": "Histoire",
-        "icon": "📜",
-        "title": "Le contexte historique de rock soviétique et post-soviétique",
-        "body": "La thématique de rock soviétique et post-soviétique s'enracine dans une histoire longue. La Russie a développé des approches distinctives liées à son héritage impérial, soviétique et post-soviétique. Comprendre cette dimension historique est indispensable pour saisir les réalités contemporaines.\n\nLes ruptures de 1917 et de 1991 ont restructuré profondément ce domaine. Entre la période soviétique qui a imposé ses normes collectives et la période post-soviétique qui a réintroduit des dynamiques de marché et d'individualisme, la réalité russe actuelle est le résultat de ces couches successives.\n\nLes voyageurs et observateurs français ont souvent une perception partielle de ce sujet, influencée par les représentations médiatiques. Cette leçon vise à offrir une compréhension plus nuancée et plus proche des réalités vécues par les Russes ordinaires."
-      },
-      {
-        "theme": "Géographie",
-        "icon": "🗺️",
-        "title": "La dimension géographique",
-        "body": "La géographie russe — 11 fuseaux horaires, des climates extrêmes, une diversité ethnique remarquable — influence directement cette thématique. Ce qui est vrai à Moscou ne l'est pas nécessairement à Irkoutsk, Kazan ou Vladivostok.\n\nLes disparités régionales sont particulièrement marquées. L'Extrême-Orient russe, la Sibérie, le Caucase et les grandes métropoles de l'Ouest ont des réalités très différentes dans ce domaine. Cette leçon essaie de tenir compte de cette diversité plutôt que de réduire la Russie à Moscou.\n\nLes grandes distances ont aussi des implications pratiques : ce qui est accessible dans les villes de plus d'un million d'habitants peut être difficile à trouver dans les villes de province. La Russie n'est pas une réalité uniforme."
-      },
-      {
-        "theme": "Politique & Société",
-        "icon": "⚖️",
-        "title": "Enjeux politiques et sociaux",
-        "body": "La thématique de rock soviétique et post-soviétique est traversée par des tensions politiques et sociales propres à la Russie contemporaine. Le régime politique, la relation entre État et société, les inégalités croissantes et les aspirations des différentes générations se reflètent dans ce domaine.\n\nLes jeunes Russes urbains et les Russes ruraux plus âgés ont souvent des visions très différentes de ce sujet — une fracture générationnelle et géographique qui structUre beaucoup de débats dans la société russe. Les événements de 2022 ont amplifié ces tensions et accéléré certaines évolutions.\n\nPour un observateur français, l'approche la plus féconde est de s'abstenir de jugements normatifs et de chercher à comprendre la logique interne de chaque position. Les Russes ont des raisons — historiques, culturelles, économiques — qui expliquent leurs attitudes, même lorsqu'elles diffèrent fortement des attitudes françaises."
-      },
-      {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "🏠",
-        "title": "Réalités économiques et quotidiennes",
-        "body": "Dans le domaine de rock soviétique et post-soviétique, les réalités économiques sont déterminantes. Le niveau de vie moyen en Russie (salaire médian ~55 000 roubles/mois, soit environ 600 euros) est un tiers de celui de la France, mais le coût de la vie est aussi bien inférieur pour certains postes (logement, transport, alimentation de base).\n\nCette réalité économique différente crée des comportements et des attentes différents. Le rapport au travail, à l'argent, à l'épargne et à la consommation en Russie est profondément influencé par l'héritage soviétique (sécurité de l'emploi garantie, logique collective) et les chocs des années 1990 (hyper-inflation, perte des économies).\n\nLe double marché — légal et informel — est encore très présent en Russie. Le «blat» (réseau de relations pour obtenir ce qu'on ne peut pas acheter) reste un outil économique réel, même si la montée du consumérisme depuis les années 2000 l'a partiellement remplacé."
-      },
-      {
-        "theme": "Culture & Arts",
-        "icon": "🎨",
-        "title": "Expression culturelle et artistique",
-        "body": "La culture russe — littérature, musique, cinéma, arts plastiques — offre les clés les plus profondes pour comprendre rock soviétique et post-soviétique. Les grandes oeuvres de la littérature russe (Dostoïevski, Tolstoï, Tchekhov, Boulgakov) traitent de ces questions avec une profondeur qui dépasse souvent l'analyse sociologique.\n\nLe cinéma russe contemporain est particulièrement riche sur ces sujets : des réalisateurs comme Andreï Zviaguintsev (Léviathan, Faute d'amour), Kirill Serebrennikov (Leto, Petrov's Flu) ou Boris Khlebnikov offrent des regards critiques sur la société russe contemporaine accessibles à un public français.\n\nLa musique populaire — du rock soviétique (Kino, DDT) au rap contemporain (Oxxxymiron, Morgenshtern) — est aussi un miroir des évolutions culturelles et générationnelles russes. Ces artistes touchent des dizaines de millions de Russes et reflètent des angoisses et des aspirations réelles."
-      },
-      {
-        "theme": "Gastronomie & Codes sociaux",
-        "icon": "🍲",
-        "title": "Codes gastronomiques et sociaux liés",
-        "body": "La gastronomie russe est profondément liée à rock soviétique et post-soviétique à travers les rituels de table et les codes sociaux qui l'entourent. En Russie, manger ensemble n'est pas seulement se nourrir — c'est une expression de confiance, de solidarité et de valeurs partagées.\n\nLes codes gastronomiques liés à ce sujet incluent les rituels de toast (premier verre = santé, deuxième = amour, troisième = absents), l'importance de la générosité de l'hôte (nakormit' do otvala — nourrir jusqu'à l'épuisement), et le rôle de la cuisine comme espace de conversation authentique.\n\nPour un voyageur français, observer comment les Russes mangent, boivent et conversent autour d'une table est l'un des meilleurs moyens de comprendre leur culture — bien plus efficacement qu'une lecture académique. La table russe est un livre ouvert sur l'âme russe."
-      }
+      {"theme": "Histoire","icon": "📜","title": "Les origines du rock soviétique — le roentgenizdat",
+       "body": "Le rock arrive en URSS par des voies clandestines dans les années 1960. Les disques des Beatles et des Rolling Stones circulent sous le manteau — copiés sur des radios de la BBC ou enregistrés sur de vieux rayons X hospitaliers (les fameux «disques sur côtes» ou roentgenizdat, рентгениздат). Cette technique ingénieuse est un symbole parfait de la culture de résistance soviétique.\n\nLes premiers groupes soviétiques jouent dans des caves, des appartements, des salles de sport — le réseau des «concerts de cuisine» est l'équivalent russe de la scène underground occidental. Les paroles sont soigneusement codées pour passer la censure.\n\nLa ville pionnière du rock soviétique est Leningrad / Saint-Pétersbourg. C'est là que naît le Leningrad Rock Club (1981) — premier club rock officiel d'URSS, créé paradoxalement avec l'approbation du KGB qui préférait surveiller les musiciens dans un lieu identifié."},
+      {"theme": "Géographie","icon": "🗺️","title": "Kino et Viktor Tsoi — le mythe fondateur",
+       "body": "Viktor Tsoi (Виктор Цой, 1962-1990) est le rocker le plus mythique de l'histoire russe. Fils d'un ingénieur coréen et d'une Russe de Leningrad, chanteur du groupe Kino (Кино — Cinéma), il est mort dans un accident de voiture à 28 ans, au sommet de sa gloire.\n\nSes chansons — «Nous attendons le changement» (Мы ждём перемен), «Sang de groupe» (Группа крови), «Étoile nommée Soleil» (Звезда по имени Солнце) — sont des hymnes d'une génération. Leurs paroles sont minimalistes et poétiques — pas de slogans politiques évidents, mais une atmosphère de liberté opprimée qui résonne parfaitement avec l'expérience soviétique de fin d'empire.\n\n«Nous attendons le changement» (1986) est devenue l'hymne officieux de la Perestroïka. Tsoi est mort avant de voir l'URSS s'effondrer ; son statut de mythe s'en est trouvé renforcé."},
+      {"theme": "Politique & Société","icon": "⚖️","title": "DDT et Shevtchouk — la conscience du rock russe",
+       "body": "Si Kino représente la mélancolie de fin d'empire, DDT (ДДТ) incarne la résistance engagée. Fondé par Yuri Shevtchouk à Oufa (Bachkirie) en 1980, DDT est le groupe de rock russe le plus politiquement explicite.\n\nShevtchouk est la conscience morale du rock russe. Arrêté sous Brejnev pour ses chansons, il a survécu à l'effondrement de l'URSS en maintenant une éthique artistique intransigeante. Sa participation à une question-réponse avec Poutine en 2010 — «Pensez-vous que la liberté soit meilleure que l'absence de liberté ?» — est un moment culturel emblématique.\n\nShevtchouk a ouvertement critiqué l'invasion de l'Ukraine en 2022 et a refusé de quitter la Russie — poursuivant une critique interne au prix de risques considérables. Il représente la tradition de l'artiste-citoyen qui n'abandonne pas son pays même quand il désapprouve ses dirigeants."},
+      {"theme": "Économie & Vie quotidienne","icon": "🏠","title": "Zemfira, Splean et les années 1990-2000",
+       "body": "Les années 1990 post-soviétiques produisent une nouvelle génération de rockeurs qui digèrent l'effondrement de l'URSS avec un mélange de liberté nouvelle, de désillusion et d'humour noir. Splean (Сплин) — fondé par Alexander Vassiliev à Saint-Pétersbourg — produit des textes d'une intelligence littéraire remarquable.\n\nZemfira (Земфира Рамазанова) est la grande voix féminine du rock russe des années 1990-2000. Originaire de Oufa (comme Shevtchouk), cette Tatare à la voix rauque a révolutionné le rock russe avec ses albums autobiographiques. Ses textes traitent de l'amour et de la solitude avec une brutalité poétique unique. Après 2022, elle a rejoint l'exil.\n\nNautilus Pompilius (groupe de la scène de Sverdlovsk des années 1980) avec son chanteur Vyatcheslav Butousov est une autre référence incontournable du rock russe."},
+      {"theme": "Culture & Arts","icon": "🎨","title": "Le rock russe contemporain et la diaspora",
+       "body": "Depuis 2022, la scène musicale russe a subi une transformation profonde. Beaucoup des artistes les plus engagés ont quitté la Russie : Zemfira est à Paris, le groupe Bi-2 en Australie, le rappeur Oxxxymiron en exil actif. Ces artistes continuent de produire depuis l'étranger et de toucher un public russe via les streaming et les VPN.\n\nEn Russie même, une scène continue d'exister mais sous contraintes croissantes. Les concerts anti-guerre sont impossibles. Certains artistes ont choisi de rester et de garder le silence politique — une posture délicate mais compréhensible.\n\nBoris Grebenschikov (БГ — fondateur du groupe Aquarium, аквариум), surnommé le «Dylan russe», représente 50 ans de création musicale indépendante fusionnant folk russe, psychédélisme et mysticisme oriental. Son humour cryptique et sa longévité artistique font de lui une figure de résistance douce unique."},
+      {"theme": "Gastronomie & Codes sociaux","icon": "🍲","title": "La culture des concerts rock — clubs et after",
+       "body": "La culture des concerts rock en Russie est très différente de la culture des concerts classiques. Dans les clubs de Moscou et Saint-Pétersbourg des années 1990-2000, l'alcool (bière, vodka) coule librement, le public est debout, les artistes jouent près du sol.\n\nLes clubs mythiques de Moscou — 16 Tons, Gogol pour le rock alternatif ; Strelka et Garage pour la scène électronique — sont les lieux où plusieurs générations de musiciens russes se sont formées. Ces espaces sont aussi des espaces de liberté sociale — on y rencontrait des gens d'horizons différents, on y débattait.\n\nLe «after» (after-party) fait partie intégrante de la culture des concerts rock russe — souvent chez des amis, avec vodka et conversations jusqu'à l'aube. C'est là que se nouent les amitiés les plus fortes et les discussions les plus honnêtes sur la musique, la politique et la vie."}
     ],
-    "conseil_ami": {
-      "title": "Le Conseil du Voyageur",
-      "icon": "💡",
-      "content": "**Curiosité sincère avant tout.** Aborder rock soviétique et post-soviétique avec des Russes requiert de l'humilité : évitez les généralisations et les comparaisons valorisantes pour la France. Chaque expérience russe est singulière.\n\n**Posez des questions ouvertes** : «Comment ça se passe chez vous ?», «Qu'est-ce qui a changé ces dernières années ?» Ces questions invitent à la confidence sans imposer de cadre.\n\n**Connectez par la culture** : Dostoïevski, Tchekhov, Tarkovski — montrer que vous connaissez la culture russe ouvre immédiatement des portes et crée une relation de respect mutuel."
-    },
+    "conseil_ami": {"title": "Le Conseil du Voyageur 🤝","icon": "💡","content": "Pour connecter avec des Russes de 35-55 ans, mentionnez Kino et Viktor Tsoi. Ces références sont universellement connues et profondément chargées émotionnellement. Pour les 20-35 ans : Zemfira, Monetochka, Oxxxymiron. Ces artistes correspondent à leur expérience générationnelle.\n\nUn conseil pratique : si vous voulez écouter du rock russe, commencez par la bande originale du film Leto (2018) de Kirill Serebrennikov — un biopic sur la scène rock leningrадaise des années 1980 autour de Viktor Tsoi. C'est une des plus belles introductions à la culture musicale russe de résistance.\n\nSi vous êtes invité à un concert de rock russe, venez préparé à rester debout toute la soirée et à rencontrer des gens spontanément. La culture rock russe est très ouverte aux étrangers — votre présence sera généralement très appréciée."},
     "glossary": [
-      {
-        "term": "Rock soviétique et Post-soviétique",
-        "definition": "Concept central de cette leçon — rock soviétique et post-soviétique dans le contexte de la Russie contemporaine."
-      },
-      {
-        "term": "Doushá (Душа)",
-        "definition": "L'âme russe — concept de l'intériorité profonde et de la générosité impulsive."
-      },
-      {
-        "term": "Narod (Народ)",
-        "definition": "Le peuple — communauté organique liée par une histoire et une âme communes."
-      },
-      {
-        "term": "Blat (Блат)",
-        "definition": "Système informel de relations et de faveurs mutuelles — clé d'accès aux ressources en Russie."
-      },
-      {
-        "term": "Zastolye (Застолье)",
-        "definition": "La table festive — espace de convivialité intense où l'âme s'exprime librement."
-      },
-      {
-        "term": "Drouzhba (Дружба)",
-        "definition": "Amitié — relation très intense et exclusive, réservée à un petit cercle."
-      },
-      {
-        "term": "Prostor (Простор)",
-        "definition": "Les grands espaces — sentiment de liberté expansive lié au paysage russe."
-      },
-      {
-        "term": "Toska (Тоска)",
-        "definition": "Mélancolie-aspiration russe — vide douloureux, nostalgie d'on-ne-sait-quoi."
-      }
+      {"term": "Kino (Кино)","definition": "Groupe de rock leningrادais fondé par Viktor Tsoi. Symbole de la résistance culturelle soviétique des années 1980."},
+      {"term": "Viktor Tsoi (Виктор Цой)","definition": "Chanteur-compositeur (1962-1990). Mort à 28 ans. Figure mythique du rock russe, dont les chansons restent des hymnes générationnels."},
+      {"term": "My zhdom peremen (Мы ждём перемен)","definition": "'Nous attendons le changement' — chanson-hymne de Kino (1986). Devenue l'hymne officieux de la Perestroïka."},
+      {"term": "DDT (ДДТ)","definition": "Groupe rock fondé par Yuri Shevtchouk à Oufa (1980). Le plus politiquement engagé du rock russe — critique ouverte de l'invasion de 2022."},
+      {"term": "Zemfira (Земфира)","definition": "Chanteuse rock tatare de Oufa (née 1976). Voix féminine majeure du rock russe des années 1990-2000. En exil depuis 2022."},
+      {"term": "Roentgenizdat (Рентгениздат)","definition": "Technique underground soviétique : enregistrement de musique occidentale sur de vieux rayons X hospitaliers pour contourner la censure."},
+      {"term": "Aquarium / Boris Grebenschikov (Аквариум / БГ)","definition": "Groupe fondé en 1972. Surnommé 'le Dylan russe'. 50 ans de création musicale indépendante."},
+      {"term": "Leningrad Rock Club (Ленинградский рок-клуб)","definition": "Premier club rock officiel d'URSS, fondé en 1981. Paradoxalement approuvé par le KGB pour surveiller les musiciens."}
     ],
     "quiz": [
-      {
-        "question": "Cette leçon porte sur 'Rock soviétique et Post-soviétique'. Quel est le salaire médian en Russie ?",
-        "options": [
-          "10 000 roubles (~110€)",
-          "35 000 roubles (~380€)",
-          "55 000 roubles (~600€)",
-          "120 000 roubles (~1 300€)"
-        ],
-        "answer": 2,
-        "explanation": "Le salaire médian en Russie est d'environ 55 000 roubles/mois (~600€) — environ un tiers du salaire médian français, mais le coût de la vie est aussi inférieur."
-      },
-      {
-        "question": "Combien de fuseaux horaires couvre la Russie ?",
-        "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires — de Kaliningrad sur la Baltique à Vladivostok sur le Pacifique."
-      },
-      {
-        "question": "Que désigne le 'blat' dans la société russe ?",
-        "options": [
-          "Un type de pain régional",
-          "Le système informel de relations et de faveurs pour accéder aux ressources",
-          "Un instrument de musique traditionnel",
-          "Une danse folklorique du Caucase"
-        ],
-        "answer": 1,
-        "explanation": "Le 'blat' désigne le réseau informel de relations personnelles permettant d'accéder à ce que les marchés officiels ne fournissent pas facilement. Héritage soviétique toujours présent."
-      },
-      {
-        "question": "Quelle est la clé pour comprendre la culture russe selon cette leçon ?",
-        "options": [
-          "Maîtriser la langue russe parfaitement",
-          "Observer les interactions sociales autour de la table — le zastolye",
-          "Lire les statistiques économiques officielles",
-          "Regarder la télévision russe"
-        ],
-        "answer": 1,
-        "explanation": "Le 'zastolye' — la table festive — est un des espaces sociaux les plus révélateurs de la culture russe : on y observe la générosité, les rituels, les relations humaines authentiques."
-      },
-      {
-        "question": "Quelle fracture principale structure la société russe contemporaine ?",
-        "options": [
-          "Entre riches et pauvres uniquement",
-          "Entre urbains/jeunes/éduqués et ruraux/âgés — division géographique et générationnelle",
-          "Entre orthodoxes et athées",
-          "Entre Russes ethniques et minorités"
-        ],
-        "answer": 1,
-        "explanation": "La principale fracture russe est géographique et générationnelle : Moscou/grandes villes vs province, jeunes urbains vs populations rurales âgées — avec des visions très différentes de la société et de l'avenir."
-      }
+      {"question": "Quelle technique les Soviétiques utilisaient-ils pour distribuer la musique rock occidentale clandestinement ?","options": ["Des cassettes cachées dans des livres","L'enregistrement sur de vieux rayons X (roentgenizdat)","La diffusion via des radios militaires clandestines","Le troc de vinyles sur les marchés noirs"],"answer": 1,"explanation": "Le roentgenizdat consistait à enregistrer la musique sur de vieux rayons X hospitaliers. Ces 'disques sur côtes' étaient bon marché et difficiles à identifier comme contrebande."},
+      {"question": "Qui est Viktor Tsoi ?","options": ["Un poète soviétique fusillé sous Staline","Le chanteur de Kino, mort à 28 ans — figure mythique du rock russe","Le fondateur du premier club rock d'URSS","Un compositeur d'opéra de Leningrad"],"answer": 1,"explanation": "Viktor Tsoi, chanteur de Kino, est mort dans un accident de voiture à 28 ans en 1990. Ses chansons sont des hymnes absolus du rock russe, chantés par des générations de Russes."},
+      {"question": "Quelle chanson de Kino est devenue l'hymne officieux de la Perestroïka ?","options": ["Gruppa krovi (Groupe sanguin)","My zhdom peremen (Nous attendons le changement)","Zvezda po imeni Solntse","Konchitsya leto"],"answer": 1,"explanation": "'Nous attendons le changement' (1986) a cristallisé le sentiment de toute une génération soviétique aspirant au changement."},
+      {"question": "Quel est le positionnement de Yuri Shevtchouk (DDT) face à l'invasion de 2022 ?","options": ["Il a soutenu l'invasion","Il a critiqué ouvertement l'invasion tout en refusant de quitter la Russie","Il a quitté la Russie et milite depuis l'étranger","Il garde le silence politique complet"],"answer": 1,"explanation": "Shevtchouk a critiqué ouvertement l'invasion et a refusé de partir — poursuivant une critique interne au prix de risques personnels considérables."},
+      {"question": "Quel surnom porte Boris Grebenschikov (Aquarium) ?","options": ["Le Lennon russe","Le Dylan russe","Le Bowie russe","Le Cohen russe"],"answer": 1,"explanation": "Boris Grebenschikov (БГ) est surnommé 'le Dylan russe' pour sa longévité artistique, ses textes poétiques cryptiques et 50 ans de création musicale indépendante."}
     ]
   },
   "ru": {
-    "module_title": "Музыка и кино",
-    "lesson_title": "Советский и постсоветский рок",
-    "lesson_subtitle": "Кино, ДДТ, Земфира",
-    "intro": "Этот урок посвящён теме «Советский и постсоветский рок» в контексте современной России. Тема вписывается в общее понимание российского общества и культуры со сравнительной французско-российской оптикой.",
+    "module_title": "Музыка и кино","lesson_title": "Советский и постсоветский рок","lesson_subtitle": "Кино, ДДТ, Земфира — голос поколения",
+    "intro": "Советский рок — одна из великих скрытых культурных революций XX века. В режиме, цензурирующем прессу и следящем за движениями, молодые музыканты создали — начиная с 1970-х — музыку мягкого сопротивления, меланхолической красоты и поэтической глубины, не имеющей аналогов в западном роке.",
     "sections": [
-      {
-        "theme": "История",
-        "icon": "📜",
-        "title": "Исторический контекст темы «Советский и постсоветский рок»",
-        "body": "Тема «Советский и постсоветский рок» уходит корнями в долгую историю. Россия выработала самобытные подходы, связанные с её имперским, советским и постсоветским наследием. Понять эту историческую составляющую необходимо для постижения современности.\n\nПереломы 1917 и 1991 годов коренным образом перестроили эту сферу. Между советским периодом с его коллективными нормами и постсоветским, вернувшим рыночные и индивидуалистические динамики, нынешняя российская реальность — результат этих последовательных пластов.\n\nФранцузские путешественники и наблюдатели нередко имеют частичное представление об этой теме, окрашенное медийными образами. Этот урок стремится предложить более взвешенное понимание, близкое к реалиям, которые переживают обычные россияне."
-      },
-      {
-        "theme": "География",
-        "icon": "🗺️",
-        "title": "Географическое измерение",
-        "body": "Российская география — 11 часовых поясов, экстремальные климаты, выдающееся этническое разнообразие — непосредственно влияет на эту тему. То, что верно для Москвы, не обязательно справедливо для Иркутска, Казани или Владивостока.\n\nРегиональные различия особенно выражены. Российский Дальний Восток, Сибирь, Кавказ и западные мегаполисы имеют в данной сфере совершенно разные реалии. Этот урок стремится учитывать это разнообразие, а не сводить Россию к Москве.\n\nОгромные расстояния имеют и практические последствия: то, что доступно в городах-миллионниках, может быть труdfunden в провинции."
-      },
-      {
-        "theme": "Политика и общество",
-        "icon": "⚖️",
-        "title": "Политические и социальные вызовы",
-        "body": "Тема «Советский и постсоветский рок» пронизана политическими и социальными противоречиями, свойственными современной России. Политический режим, отношения государства и общества, растущее неравенство и устремления разных поколений отражаются в этой сфере.\n\nМолодые городские россияне и старшие провинциалы нередко имеют очень разные взгляды — поколенческий и географический разлом, структурирующий многие дискуссии в российском обществе. События 2022 года усилили эти противоречия.\n\nДля французского наблюдателя самый плодотворный подход — воздержаться от нормативных суждений и стремиться понять внутреннюю логику каждой позиции."
-      },
-      {
-        "theme": "Экономика и повседневная жизнь",
-        "icon": "🏠",
-        "title": "Экономические реалии и повседневность",
-        "body": "В сфере «Советский и постсоветский рок» экономические реалии определяющие. Средний уровень жизни в России (медианная зарплата ~55 000 руб./мес., около 600 евро) составляет треть от французского, но и стоимость жизни по ряду статей значительно ниже (жильё, транспорт, базовые продукты).\n\nЭта иная экономическая реальность порождает иное поведение и иные ожидания. Отношение к труду, деньгам, сбережениям и потреблению в России глубоко определено советским наследием и потрясениями 1990-х.\n\nДвойной рынок — легальный и неформальный — по-прежнему ощутимо присутствует в России. «Блат» (сеть связей для получения недоступного за деньги) остаётся реальным экономическим инструментом, хотя потребительский бум 2000-х его частично вытеснил."
-      },
-      {
-        "theme": "Культура и искусство",
-        "icon": "🎨",
-        "title": "Культурное и художественное выражение",
-        "body": "Русская культура — литература, музыка, кино, изобразительные искусства — предлагает наиболее глубокие ключи к пониманию темы «Советский и постсоветский рок». Великие произведения русской литературы трактуют эти вопросы с глубиной, нередко превышающей социологический анализ.\n\nСовременное российское кино особенно богато в этом отношении: такие режиссёры, как Андрей Звягинцев, Кирилл Серебренников или Борис Хлебников предлагают критический взгляд на современное российское общество.\n\nПопулярная музыка — от советского рока (Кино, ДДТ) до современного рэпа (Oxxxymiron, Моргенштерн) — тоже зеркало российской культурной и поколенческой эволюции."
-      },
-      {
-        "theme": "Гастрономия и социальные коды",
-        "icon": "🍲",
-        "title": "Связанные гастрономические и социальные коды",
-        "body": "Русская гастрономия глубоко связана с темой «Советский и постсоветский рок» через застольные ритуалы и социальные коды. В России есть вместе — не просто питание: это выражение доверия, солидарности и общих ценностей.\n\nГастрономические коды по данной теме включают ритуалы тостов (первый тост — за здоровье, второй — за любовь, третий — за отсутствующих), важность щедрости хозяина (накормить до отвала) и роль кухни как пространства подлинного разговора.\n\nДля французского путешественника наблюдать за тем, как россияне едят, пьют и беседуют за столом — один из лучших способов понять их культуру. Русский стол — открытая книга о русской душе."
-      }
+      {"theme": "История","icon": "📜","title": "Истоки советского рока — рентгениздат",
+       "body": "Рок приходит в СССР подпольными путями в 1960-е. Пластинки The Beatles и Rolling Stones распространяются из-под полы — переписанные с радиоэфиров Би-би-си, или записанные на старых рентгеновских снимках (знаменитые «диски на костях», рентгениздат). Эта изобретательная техника — идеальный символ советской культуры сопротивления.\n\nПервые советские группы играют в подвалах, квартирах, спортзалах — сеть «кухонных концертов». Тексты тщательно закодированы или намеренно туманны.\n\nПионер советского рока — Ленинград / Санкт-Петербург. Здесь в 1981 году рождается Ленинградский рок-клуб — первый официальный рок-клуб в СССР, парадоксально созданный с одобрения КГБ, предпочитавшего следить за музыкантами в известном месте."},
+      {"theme": "География","icon": "🗺️","title": "Кино и Виктор Цой — основополагающий миф",
+       "body": "Виктор Цой (1962–1990) — самый мифический рокер в российской истории. Сын корейского инженера и ленинградской русской, солист группы Кино, он погиб в автомобильной катастрофе в 28 лет, в зените славы.\n\nЕго песни — «Мы ждём перемен», «Группа крови», «Звезда по имени Солнце» — гимны целого поколения. Тексты минималистичны и поэтичны: атмосфера подавленной свободы и меланхолии, идеально резонирующая с советским опытом конца империи.\n\n«Мы ждём перемен» (1986) стала неофициальным гимном Перестройки. Цой умер, не увидев краха СССР; это лишь усилило его мифический статус."},
+      {"theme": "Политика и общество","icon": "⚖️","title": "ДДТ и Шевчук — совесть русского рока",
+       "body": "Если Кино воплощает меланхолию конца империи, ДДТ — гражданское сопротивление. Основанный Юрием Шевчуком в Уфе (Башкирия) в 1980 году, ДДТ — наиболее политически откровенная группа русского рока.\n\nШевчук — нравственная совесть русского рока. Он был арестован при Брежневе за свои песни, пережил крах СССР, сохраняя бескомпромиссную художественную этику. Его диалог с Путиным в 2010-м — «Как вы думаете, свобода лучше несвободы?» — стал культурным событием.\n\nШевчук открыто критиковал вторжение в Украину в 2022 году и отказался покидать Россию. Он олицетворяет традицию художника-гражданина, не бросающего страну."},
+      {"theme": "Экономика и повседневная жизнь","icon": "🏠","title": "Земфира, Сплин и 1990–2000-е",
+       "body": "Постсоветские 1990-е рождают новое поколение рокеров, переваривающих крах СССР с сочетанием новой свободы, разочарования и чёрного юмора. Сплин (Александр Васильев) создаёт тексты замечательной литературной интеллигентности.\n\nЗемфира (Земфира Рамазанова) — главный женский голос русского рока 1990–2000-х. Уроженка Уфы (как и Шевчук), эта татарка с хриплым голосом революционизировала русский рок автобиографическими альбомами. Её тексты об любви и одиночестве обладают уникальной поэтической жёсткостью. После 2022 года — в эмиграции.\n\nNautilus Pompilius (свердловская сцена 1980-х) с Вячеславом Бутусовым — ещё одна обязательная точка отсчёта."},
+      {"theme": "Культура и искусство","icon": "🎨","title": "Современный российский рок и диаспора",
+       "body": "С 2022 года российская музыкальная сцена претерпела глубокую трансформацию. Многие ангажированные артисты покинули Россию: Земфира — в Париже, группа Би-2 — в Австралии, рэпер Oxxxymiron — в активной эмиграции. Они продолжают создавать из-за рубежа и охватывать аудиторию через стриминг и VPN.\n\nВнутри России сцена продолжает существовать при нарастающих ограничениях. Антивоенные концерты невозможны. Часть артистов выбрала остаться и хранить политическое молчание.\n\nБорис Гребенщиков (БГ — «Аквариум»), «русский Дилан», олицетворяет 50 лет независимого творчества: синтез русского фолка, психоделии и восточного мистицизма."},
+      {"theme": "Гастрономия и социальные коды","icon": "🍲","title": "Культура рок-концертов — клубы и афтерпати",
+       "body": "Культура рок-концертов в России сильно отличается от концертов классики. В московских и петербургских клубах 1990–2000-х алкоголь (пиво, водка) лился свободно, публика стояла, артисты играли близко к залу.\n\nМифические клубы Москвы — «16 Тонн», «Гоголь» для альтернативного рока; «Стрелка» и «Гараж» для электронной сцены — места, где формировались поколения российских музыкантов. Эти пространства были и пространствами социальной свободы.\n\nАфтерпати — неотъемлемая часть культуры российских рок-концертов: нередко у друзей, с водкой и разговорами до рассвета. Там завязываются самые крепкие дружбы и ведутся самые честные разговоры о музыке, политике и жизни."}
     ],
-    "conseil_ami": {
-      "title": "Совет путешественника",
-      "icon": "💡",
-      "content": "**Прежде всего — искреннее любопытство.** Подходить к теме «Советский и постсоветский рок» с россиянами требует смирения: избегайте обобщений и сравнений в пользу Франции.\n\n**Задавайте открытые вопросы**: «Как у вас это устроено?», «Что изменилось за последние годы?» Эти вопросы приглашают к откровенности, не навязывая рамок.\n\n**Соединяйтесь через культуру**: Достоевский, Чехов, Тарковский — знание русской культуры немедленно открывает двери и создаёт отношения взаимного уважения."
-    },
+    "conseil_ami": {"title": "Совет путешественника 🤝","icon": "💡","content": "Для контакта с россиянами 35–55 лет упомяните Кино и Виктора Цоя. Эти отсылки универсально известны и глубоко эмоционально заряжены. Для 20–35 лет: Земфира, Монеточка, Oxxxymiron.\n\nПрактический совет: если хотите слушать русский рок — начните с саундтрека фильма «Лето» (2018) Кирилла Серебренникова — байопик о ленинградской рок-сцене 1980-х вокруг Виктора Цоя. Один из прекраснейших вводных курсов в российскую музыкальную культуру сопротивления.\n\nЕсли вас приглашают на концерт российского рока — готовьтесь стоять весь вечер и знакомиться со случайными людьми. Культура российского рока очень открыта к иностранцам — ваше присутствие будет оценено."},
     "glossary": [
-      {
-        "term": "Советский и постсоветский рок",
-        "definition": "Центральное понятие этого урока — советский и постсоветский рок в контексте современной России."
-      },
-      {
-        "term": "Душа",
-        "definition": "Русская душа — понятие глубокой внутренней жизни и порывистой щедрости."
-      },
-      {
-        "term": "Народ",
-        "definition": "Народ — органическое сообщество, связанное общей историей и душой."
-      },
-      {
-        "term": "Блат",
-        "definition": "Неформальная система связей и взаимных услуг — ключ к ресурсам в России."
-      },
-      {
-        "term": "Застолье",
-        "definition": "Праздничный стол — пространство насыщенного общения, где душа говорит свободно."
-      },
-      {
-        "term": "Дружба",
-        "definition": "Дружба — очень интенсивные и эксклюзивные отношения, сохраняемые для узкого круга."
-      },
-      {
-        "term": "Простор",
-        "definition": "Бескрайние просторы — ощущение раскрытой свободы, связанное с российским пейзажем."
-      },
-      {
-        "term": "Тоска",
-        "definition": "Русская меланхолия-томление — мучительная пустота, ностальгия по непонятно чему."
-      }
+      {"term": "Кино","definition": "Ленинградская рок-группа, основанная Виктором Цоем. Символ советского культурного сопротивления 1980-х."},
+      {"term": "Виктор Цой","definition": "Певец и автор песен (1962–1990). Погиб в 28 лет. Мифическая фигура русского рока, чьи песни стали поколенческими гимнами."},
+      {"term": "Мы ждём перемен","definition": "Гимн-песня Кино (1986). Неофициальный гимн Перестройки."},
+      {"term": "ДДТ","definition": "Рок-группа, основанная Юрием Шевчуком в Уфе (1980). Наиболее политически ангажированная в русском роке."},
+      {"term": "Земфира","definition": "Татарская рок-певица из Уфы (р. 1976). Главный женский голос русского рока 1990–2000-х. В эмиграции с 2022 года."},
+      {"term": "Рентгениздат","definition": "Советская подпольная техника: запись западной музыки на старых рентгеновских снимках в обход цензуры."},
+      {"term": "Аквариум / БГ","definition": "Группа, основанная в 1972 году Борисом Гребенщиковым. «Русский Дилан». 50 лет независимого творчества."},
+      {"term": "Ленинградский рок-клуб","definition": "Первый официальный рок-клуб в СССР (1981). Парадоксально одобрен КГБ для наблюдения за музыкантами."}
     ],
     "quiz": [
-      {
-        "question": "Этот урок посвящён теме «Советский и постсоветский рок». Какова медианная зарплата в России?",
-        "options": [
-          "10 000 руб. (~110€)",
-          "35 000 руб. (~380€)",
-          "55 000 руб. (~600€)",
-          "120 000 руб. (~1 300€)"
-        ],
-        "answer": 2,
-        "explanation": "Медианная зарплата в России составляет около 55 000 руб./мес. (~600€) — примерно треть от французской медианы, но и стоимость жизни тоже ниже."
-      },
-      {
-        "question": "Сколько часовых поясов занимает Россия?",
-        "options": [
-          "7",
-          "9",
-          "11",
-          "13"
-        ],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
-      },
-      {
-        "question": "Что означает «блат» в российском обществе?",
-        "options": [
-          "Вид регионального хлеба",
-          "Неформальная система связей и услуг для доступа к ресурсам",
-          "Традиционный музыкальный инструмент",
-          "Кавказский народный танец"
-        ],
-        "answer": 1,
-        "explanation": "«Блат» обозначает неформальную сеть личных связей для доступа к тому, что официальные рынки не предоставляют легко. Советское наследие, присутствующее по сей день."
-      },
-      {
-        "question": "Что является ключом к пониманию русской культуры согласно этому уроку?",
-        "options": [
-          "Совершенное владение русским языком",
-          "Наблюдать за социальными взаимодействиями за столом — застольем",
-          "Читать официальную экономическую статистику",
-          "Смотреть российское телевидение"
-        ],
-        "answer": 1,
-        "explanation": "«Застолье» — праздничный стол — одно из самых показательных социальных пространств русской культуры: здесь наблюдаешь щедрость, ритуалы, подлинные человеческие отношения."
-      },
-      {
-        "question": "Какой главный разлом структурирует современное российское общество?",
-        "options": [
-          "Только между богатыми и бедными",
-          "Между городскими/молодыми/образованными и сельскими/пожилыми — географический и поколенческий раздел",
-          "Между православными и атеистами",
-          "Между этническими русскими и меньшинствами"
-        ],
-        "answer": 1,
-        "explanation": "Главный российский разлом — географический и поколенческий: Москва/крупные города против провинции, молодые горожане против пожилого сельского населения — с очень разными взглядами на общество и будущее."
-      }
+      {"question": "Какую технику советские люди использовали для подпольного распространения западного рока?","options": ["Кассеты, спрятанные в книгах","Запись на старых рентгеновских снимках (рентгениздат)","Трансляция через военные радиостанции","Обмен виниловыми пластинками на чёрных рынках"],"answer": 1,"explanation": "Рентгениздат — запись музыки на рентгеновские снимки. Дёшево в производстве, трудно опознать как контрабанду."},
+      {"question": "Кто такой Виктор Цой?","options": ["Советский поэт, расстрелянный при Сталине","Солист Кино, погибший в 28 лет — мифическая фигура русского рока","Основатель первого рок-клуба в СССР","Ленинградский оперный композитор"],"answer": 1,"explanation": "Виктор Цой, солист Кино, погиб в автокатастрофе в 28 лет в 1990 году. Его песни — абсолютные гимны русского рока."},
+      {"question": "Какая песня Кино стала неофициальным гимном Перестройки?","options": ["Группа крови","Мы ждём перемен","Звезда по имени Солнце","Кончится лето"],"answer": 1,"explanation": "«Мы ждём перемен» (1986) кристаллизовала ощущение целого советского поколения, стремившегося к переменам."},
+      {"question": "Какова политическая позиция Шевчука (ДДТ) по отношению к вторжению 2022 года?","options": ["Поддержал вторжение","Открыто критиковал вторжение, отказавшись покидать Россию","Уехал и ведёт активную деятельность из-за рубежа","Хранит полное политическое молчание"],"answer": 1,"explanation": "Шевчук открыто критиковал вторжение и отказался уезжать — продолжая внутреннюю критику с немалым личным риском."},
+      {"question": "Какое прозвище носит Борис Гребенщиков?","options": ["Русский Леннон","Русский Дилан","Русский Боуи","Русский Коэн"],"answer": 1,"explanation": "БГ прозван «русским Диланом» за художественное долголетие, криптичные поэтические тексты и 50 лет независимого творчества."}
     ]
   }
 }
