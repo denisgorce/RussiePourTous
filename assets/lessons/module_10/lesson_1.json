@@ -112,8 +112,8 @@
           "Toujours offrir plus de 10 fleurs",
           "Toujours offrir des fleurs blanches pour la pureté"
         ],
-        "answer": 1,
-        "explanation": "En Russie, offrir un bouquet avec un nombre pair de fleurs est réservé aux cérémonies funèbres. Cette règle est absolue et connue de tous — l'ignorer peut créer un malentendu grave."
+        "explanation": "En Russie, offrir un bouquet avec un nombre pair de fleurs est réservé aux cérémonies funèbres. Cette règle est absolue et connue de tous — l'ignorer peut créer un malentendu grave.",
+        "correct_index": 1
       },
       {
         "question": "Quelle est la logique de l'anniversaire russe, à l'inverse de la France ?",
@@ -123,8 +123,8 @@
           "L'anniversaire est fêté uniquement en famille",
           "On ne fête pas les anniversaires en Russie"
         ],
-        "answer": 1,
-        "explanation": "En Russie, c'est l'anniversaire qui offre — il prépare un repas pour ses amis et apporte des gâteaux au bureau. La logique est inverse de la France où l'anniversaire reçoit."
+        "explanation": "En Russie, c'est l'anniversaire qui offre — il prépare un repas pour ses amis et apporte des gâteaux au bureau. La logique est inverse de la France où l'anniversaire reçoit.",
+        "correct_index": 1
       },
       {
         "question": "Quel est le tabou lié aux objets tranchants (couteaux, ciseaux) offerts en cadeau ?",
@@ -134,8 +134,8 @@
           "Les couteaux doivent être emballés dans du papier rouge",
           "Il faut les offrir par paires pour équilibrer"
         ],
-        "answer": 1,
-        "explanation": "En Russie, offrir un objet tranchant seul coupe symboliquement l'amitié. Solution : demander à votre hôte de vous donner une pièce symbolique en échange — le cadeau devient un 'achat' et le tabou est contourné."
+        "explanation": "En Russie, offrir un objet tranchant seul coupe symboliquement l'amitié. Solution : demander à votre hôte de vous donner une pièce symbolique en échange — le cadeau devient un 'achat' et le tabou est contourné.",
+        "correct_index": 1
       },
       {
         "question": "Que faire si vous êtes en Russie le 31 décembre et invité pour le Nouvel An ?",
@@ -145,8 +145,8 @@
           "Vous arriverez précisément à minuit",
           "Vous apporterez des cadeaux uniquement pour les enfants"
         ],
-        "answer": 1,
-        "explanation": "Le Nouvel An (31 décembre) est la fête la plus importante de l'année russe — décliner une invitation est pratiquement inconcevable. On reste jusqu'à l'aube, on écoute le carillon du Kremlin à minuit, on boit du champagne et on fête jusqu'au matin."
+        "explanation": "Le Nouvel An (31 décembre) est la fête la plus importante de l'année russe — décliner une invitation est pratiquement inconcevable. On reste jusqu'à l'aube, on écoute le carillon du Kremlin à minuit, on boit du champagne et on fête jusqu'au matin.",
+        "correct_index": 1
       },
       {
         "question": "Pourquoi ne faut-il jamais serrer la main par-dessus un seuil de porte en Russie ?",
@@ -156,8 +156,8 @@
           "C'est réservé aux adieux, pas aux accueils",
           "La porte symbolise une barrière sociale à franchir seul"
         ],
-        "answer": 1,
-        "explanation": "En Russie, serrer la main par-dessus un seuil de porte est considéré comme un signe de discorde à venir. Il faut d'abord entrer dans l'appartement, puis saluer — règle respectée entre Russes eux-mêmes."
+        "explanation": "En Russie, serrer la main par-dessus un seuil de porte est considéré comme un signe de discorde à venir. Il faut d'abord entrer dans l'appartement, puis saluer — règle respectée entre Russes eux-mêmes.",
+        "correct_index": 1
       }
     ]
   },
@@ -252,8 +252,8 @@
           "Всегда дарить более 10 цветков",
           "Всегда дарить белые цветы в знак чистоты"
         ],
-        "answer": 1,
-        "explanation": "В России дарить букет с чётным числом цветов — для похоронных церемоний. Это абсолютное правило, известное всем: нарушить его — значит создать серьёзное недоразумение."
+        "explanation": "В России дарить букет с чётным числом цветов — для похоронных церемоний. Это абсолютное правило, известное всем: нарушить его — значит создать серьёзное недоразумение.",
+        "correct_index": 1
       },
       {
         "question": "Какова логика дня рождения в России, обратная французской?",
@@ -263,8 +263,8 @@
           "День рождения отмечают только в семье",
           "В России дни рождения не празднуют"
         ],
-        "answer": 1,
-        "explanation": "В России именинник угощает — готовит ужин для друзей и приносит пирожные на работу. Логика обратна французской, где именинник получает подарки."
+        "explanation": "В России именинник угощает — готовит ужин для друзей и приносит пирожные на работу. Логика обратна французской, где именинник получает подарки.",
+        "correct_index": 1
       },
       {
         "question": "Каково табу, связанное с острыми предметами (ножи, ножницы) в подарок?",
@@ -274,8 +274,8 @@
           "Ножи должны быть завёрнуты в красную бумагу",
           "Нужно дарить парами для баланса"
         ],
-        "answer": 1,
-        "explanation": "В России дарить острый предмет в одиночку символически режет дружбу. Решение: попросить хозяина дать монетку в обмен — подарок становится «покупкой» и табу обойдено."
+        "explanation": "В России дарить острый предмет в одиночку символически режет дружбу. Решение: попросить хозяина дать монетку в обмен — подарок становится «покупкой» и табу обойдено.",
+        "correct_index": 1
       },
       {
         "question": "Что делать, если вы в России 31 декабря и вас приглашают на Новый год?",
@@ -285,8 +285,8 @@
           "Прийдёте ровно в полночь",
           "Принесёте подарки только детям"
         ],
-        "answer": 1,
-        "explanation": "Новый год (31 декабря) — важнейший праздник в России: отказаться от приглашения практически немыслимо. Остаются до рассвета, слушают Кремлёвские куранты в полночь, пьют шампанское и празднуют до утра."
+        "explanation": "Новый год (31 декабря) — важнейший праздник в России: отказаться от приглашения практически немыслимо. Остаются до рассвета, слушают Кремлёвские куранты в полночь, пьют шампанское и празднуют до утра.",
+        "correct_index": 1
       },
       {
         "question": "Почему в России нельзя жать руку через порог?",
@@ -296,8 +296,8 @@
           "Это только для прощаний, не для встреч",
           "Дверь символизирует социальный барьер, который нужно преодолеть одному"
         ],
-        "answer": 1,
-        "explanation": "В России рукопожатие через порог считается знаком грядущей ссоры. Нужно сначала войти в квартиру, потом здороваться — это правило соблюдается и между самими россиянами."
+        "explanation": "В России рукопожатие через порог считается знаком грядущей ссоры. Нужно сначала войти в квартиру, потом здороваться — это правило соблюдается и между самими россиянами.",
+        "correct_index": 1
       }
     ]
   }

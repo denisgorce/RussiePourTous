@@ -7,10 +7,22 @@
     "estimated_minutes": 15,
     "difficulty": "débutant",
     "sources": [
-      {"label": "Larousse — Histoire de la Russie", "url": "https://www.larousse.fr/encyclopedie/divers/Russie/177779"},
-      {"label": "France Diplomatie — Russie", "url": "https://www.diplomatie.gouv.fr/fr/dossiers-pays/russie/"},
-      {"label": "Encyclopædia Universalis — Russie", "url": "https://www.universalis.fr/encyclopedie/russie/"},
-      {"label": "Le Monde — Dossier Russie", "url": "https://www.lemonde.fr/russie/"}
+      {
+        "label": "Larousse — Histoire de la Russie",
+        "url": "https://www.larousse.fr/encyclopedie/divers/Russie/177779"
+      },
+      {
+        "label": "France Diplomatie — Russie",
+        "url": "https://www.diplomatie.gouv.fr/fr/dossiers-pays/russie/"
+      },
+      {
+        "label": "Encyclopædia Universalis — Russie",
+        "url": "https://www.universalis.fr/encyclopedie/russie/"
+      },
+      {
+        "label": "Le Monde — Dossier Russie",
+        "url": "https://www.lemonde.fr/russie/"
+      }
     ]
   },
   "fr": {
@@ -62,45 +74,94 @@
       "content": "**Ne confondez pas froideur publique et hostilité.** Le Russe que vous croisez dans le métro de Moscou ne vous sourira probablement pas — ce n'est ni de la méchanceté ni du mépris. C'est simplement que sourire à des inconnus est considéré en Russie comme faux ou naïf. On réserve la chaleur aux gens qu'on connaît vraiment.\n\nEn revanche, si vous êtes invité chez des Russes, vous découvrirez une hospitalité déstabilisante pour un Français : on vous servira sans cesse, on insistera pour que vous mangiez encore, on sortira les meilleures bouteilles pour vous honorer. Cette dualité — froid en public, généreux en privé — est peut-être la première clé pour comprendre l'âme russe.\n\n**Apprenez 5 mots en russe avant de partir.** Здравствуйте (Zdravstvuyte — Bonjour formel), Спасибо (Spasibo — Merci), Пожалуйста (Pozhaluysta — S'il vous plaît/De rien), Да/Нет (Da/Net — Oui/Non), Извините (Izvinite — Excusez-moi). Ce simple effort sera reçu comme un immense signe de respect."
     },
     "glossary": [
-      {"term": "Tsar", "definition": "Titre des empereurs russes, du latin Caesar. Le dernier tsar, Nicolas II, fut renversé en 1917."},
-      {"term": "Дача (Datcha)", "definition": "Maison de campagne russe, souvent modeste. Lieu de ressourcement essentiel pour les Russes."},
-      {"term": "Vodka", "definition": "Eau-de-vie de céréales, environ 40° d'alcool. Mot signifiant «petite eau» (вода = voda, eau)."},
-      {"term": "URSS", "definition": "Union des Républiques Socialistes Soviétiques (1922–1991). État fédéral communiste fondé par Lénine."},
-      {"term": "FSB", "definition": "Service fédéral de sécurité, successeur du KGB soviétique. Service de contre-espionnage intérieur."},
-      {"term": "Oligarque", "definition": "Homme d'affaires russe ayant acquis une fortune considérable lors des privatisations des années 1990."},
-      {"term": "Zakouski (Закуски)", "definition": "Hors-d'œuvre froids servis au début des repas russes — caviar, harengs, salades, charcuteries."},
-      {"term": "Bortsch (Борщ)", "definition": "Soupe de betterave rouge, emblème de la cuisine slave. Servi chaud avec une cuillère de crème fraîche."}
+      {
+        "term": "Tsar",
+        "definition": "Titre des empereurs russes, du latin Caesar. Le dernier tsar, Nicolas II, fut renversé en 1917."
+      },
+      {
+        "term": "Дача (Datcha)",
+        "definition": "Maison de campagne russe, souvent modeste. Lieu de ressourcement essentiel pour les Russes."
+      },
+      {
+        "term": "Vodka",
+        "definition": "Eau-de-vie de céréales, environ 40° d'alcool. Mot signifiant «petite eau» (вода = voda, eau)."
+      },
+      {
+        "term": "URSS",
+        "definition": "Union des Républiques Socialistes Soviétiques (1922–1991). État fédéral communiste fondé par Lénine."
+      },
+      {
+        "term": "FSB",
+        "definition": "Service fédéral de sécurité, successeur du KGB soviétique. Service de contre-espionnage intérieur."
+      },
+      {
+        "term": "Oligarque",
+        "definition": "Homme d'affaires russe ayant acquis une fortune considérable lors des privatisations des années 1990."
+      },
+      {
+        "term": "Zakouski (Закуски)",
+        "definition": "Hors-d'œuvre froids servis au début des repas russes — caviar, harengs, salades, charcuteries."
+      },
+      {
+        "term": "Bortsch (Борщ)",
+        "definition": "Soupe de betterave rouge, emblème de la cuisine slave. Servi chaud avec une cuillère de crème fraîche."
+      }
     ],
     "quiz": [
       {
         "question": "En quelle année Riourik fonde-t-il la principauté qui donnera naissance à la Russie ?",
-        "options": ["862", "1147", "1547", "1917"],
-        "answer": 0,
-        "explanation": "En 862 après J.-C., le chef viking Riourik fonde la principauté de Novgorod — la première entité politique de la «Rus» qui donnera naissance à la Russie."
+        "options": [
+          "862",
+          "1147",
+          "1547",
+          "1917"
+        ],
+        "explanation": "En 862 après J.-C., le chef viking Riourik fonde la principauté de Novgorod — la première entité politique de la «Rus» qui donnera naissance à la Russie.",
+        "correct_index": 0
       },
       {
         "question": "Quel tsar a transformé la Russie en la modernisant à l'occidentale et fondant Saint-Pétersbourg ?",
-        "options": ["Ivan le Terrible", "Pierre le Grand", "Catherine II", "Alexandre II"],
-        "answer": 1,
-        "explanation": "Pierre le Grand (1682–1725) a fondé Saint-Pétersbourg, créé une marine permanente et modernisé la Russie en s'inspirant de l'Europe occidentale."
+        "options": [
+          "Ivan le Terrible",
+          "Pierre le Grand",
+          "Catherine II",
+          "Alexandre II"
+        ],
+        "explanation": "Pierre le Grand (1682–1725) a fondé Saint-Pétersbourg, créé une marine permanente et modernisé la Russie en s'inspirant de l'Europe occidentale.",
+        "correct_index": 1
       },
       {
         "question": "Combien de fuseaux horaires couvre la Russie ?",
-        "options": ["7", "9", "11", "13"],
-        "answer": 2,
-        "explanation": "La Russie s'étend sur 11 fuseaux horaires, de Kaliningrad sur la Baltique jusqu'à Vladivostok sur le Pacifique."
+        "options": [
+          "7",
+          "9",
+          "11",
+          "13"
+        ],
+        "explanation": "La Russie s'étend sur 11 fuseaux horaires, de Kaliningrad sur la Baltique jusqu'à Vladivostok sur le Pacifique.",
+        "correct_index": 2
       },
       {
         "question": "Qu'est-ce que la «verticale du pouvoir» en Russie ?",
-        "options": ["Le système fédéral des régions", "La concentration du pouvoir autour du Président", "L'organisation de l'Église orthodoxe", "Le système des promotions dans l'armée"],
-        "answer": 1,
-        "explanation": "La «verticale du pouvoir» désigne la forte concentration des décisions politiques autour du Président, avec des contre-pouvoirs affaiblis."
+        "options": [
+          "Le système fédéral des régions",
+          "La concentration du pouvoir autour du Président",
+          "L'organisation de l'Église orthodoxe",
+          "Le système des promotions dans l'armée"
+        ],
+        "explanation": "La «verticale du pouvoir» désigne la forte concentration des décisions politiques autour du Président, avec des contre-pouvoirs affaiblis.",
+        "correct_index": 1
       },
       {
         "question": "Pourquoi un Russe ne vous sourira-t-il pas spontanément dans le métro ?",
-        "options": ["Par hostilité envers les étrangers", "Parce que sourire aux inconnus est considéré comme faux ou naïf", "Par timidité culturelle", "C'est une règle du métro de Moscou"],
-        "answer": 1,
-        "explanation": "En Russie, sourire à des inconnus est considéré comme faux ou insincère. La chaleur et la générosité s'expriment dans le cercle privé, pas en public."
+        "options": [
+          "Par hostilité envers les étrangers",
+          "Parce que sourire aux inconnus est considéré comme faux ou naïf",
+          "Par timidité culturelle",
+          "C'est une règle du métro de Moscou"
+        ],
+        "explanation": "En Russie, sourire à des inconnus est considéré comme faux ou insincère. La chaleur et la générosité s'expriment dans le cercle privé, pas en public.",
+        "correct_index": 1
       }
     ]
   },
@@ -153,45 +214,94 @@
       "content": "**Не путайте публичную холодность с враждебностью.** Русский, которого вы встретите в московском метро, скорее всего не улыбнётся вам — это ни злоба, ни презрение. Просто улыбаться незнакомцам считается в России фальшью или наивностью.\n\nЗато если вас пригласят в гости к русским, вы откроете для себя гостеприимство, способное озадачить француза: вас будут угощать без конца, настаивать на добавке, доставать лучшие бутылки в вашу честь.\n\n**Выучите 5 слов по-русски перед поездкой.** Это будет воспринято как огромный знак уважения."
     },
     "glossary": [
-      {"term": "Царь", "definition": "Титул русских императоров. Последний царь Николай II был свергнут в 1917 году."},
-      {"term": "Дача", "definition": "Загородный дом, обычно скромный. Важное место отдыха и восстановления для русских."},
-      {"term": "Водка", "definition": "Зерновой дистиллят крепостью около 40°. Слово означает «маленькая вода»."},
-      {"term": "СССР", "definition": "Союз Советских Социалистических Республик (1922–1991). Коммунистическое федеративное государство, основанное Лениным."},
-      {"term": "ФСБ", "definition": "Федеральная служба безопасности, преемник советского КГБ. Служба внутренней контрразведки."},
-      {"term": "Олигарх", "definition": "Российский бизнесмен, приобретший огромное состояние в ходе приватизации 1990-х годов."},
-      {"term": "Закуски", "definition": "Холодные закуски, подаваемые в начале русской трапезы — икра, сельдь, салаты, колбасы."},
-      {"term": "Борщ", "definition": "Суп из красной свёклы — символ славянской кухни. Подаётся горячим со ложкой сметаны."}
+      {
+        "term": "Царь",
+        "definition": "Титул русских императоров. Последний царь Николай II был свергнут в 1917 году."
+      },
+      {
+        "term": "Дача",
+        "definition": "Загородный дом, обычно скромный. Важное место отдыха и восстановления для русских."
+      },
+      {
+        "term": "Водка",
+        "definition": "Зерновой дистиллят крепостью около 40°. Слово означает «маленькая вода»."
+      },
+      {
+        "term": "СССР",
+        "definition": "Союз Советских Социалистических Республик (1922–1991). Коммунистическое федеративное государство, основанное Лениным."
+      },
+      {
+        "term": "ФСБ",
+        "definition": "Федеральная служба безопасности, преемник советского КГБ. Служба внутренней контрразведки."
+      },
+      {
+        "term": "Олигарх",
+        "definition": "Российский бизнесмен, приобретший огромное состояние в ходе приватизации 1990-х годов."
+      },
+      {
+        "term": "Закуски",
+        "definition": "Холодные закуски, подаваемые в начале русской трапезы — икра, сельдь, салаты, колбасы."
+      },
+      {
+        "term": "Борщ",
+        "definition": "Суп из красной свёклы — символ славянской кухни. Подаётся горячим со ложкой сметаны."
+      }
     ],
     "quiz": [
       {
         "question": "В каком году Рюрик основывает княжество, давшее начало России?",
-        "options": ["862", "1147", "1547", "1917"],
-        "answer": 0,
-        "explanation": "В 862 году н.э. викинг Рюрик основывает Новгородское княжество — первое политическое образование Руси."
+        "options": [
+          "862",
+          "1147",
+          "1547",
+          "1917"
+        ],
+        "explanation": "В 862 году н.э. викинг Рюрик основывает Новгородское княжество — первое политическое образование Руси.",
+        "correct_index": 0
       },
       {
         "question": "Какой царь преобразил Россию, модернизировав её по западному образцу и основав Санкт-Петербург?",
-        "options": ["Иван Грозный", "Пётр Великий", "Екатерина II", "Александр II"],
-        "answer": 1,
-        "explanation": "Пётр Великий (1682–1725) основал Санкт-Петербург, создал постоянный флот и открыл Россию Западной Европе."
+        "options": [
+          "Иван Грозный",
+          "Пётр Великий",
+          "Екатерина II",
+          "Александр II"
+        ],
+        "explanation": "Пётр Великий (1682–1725) основал Санкт-Петербург, создал постоянный флот и открыл Россию Западной Европе.",
+        "correct_index": 1
       },
       {
         "question": "Сколько часовых поясов охватывает Россия?",
-        "options": ["7", "9", "11", "13"],
-        "answer": 2,
-        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане."
+        "options": [
+          "7",
+          "9",
+          "11",
+          "13"
+        ],
+        "explanation": "Россия занимает 11 часовых поясов — от Калининграда на Балтике до Владивостока на Тихом океане.",
+        "correct_index": 2
       },
       {
         "question": "Что означает «вертикаль власти» в России?",
-        "options": ["Федеральная система регионов", "Концентрация власти вокруг Президента", "Организация православной церкви", "Система воинских званий"],
-        "answer": 1,
-        "explanation": "«Вертикаль власти» обозначает сильную концентрацию политических решений вокруг Президента при ослабленных противовесах."
+        "options": [
+          "Федеральная система регионов",
+          "Концентрация власти вокруг Президента",
+          "Организация православной церкви",
+          "Система воинских званий"
+        ],
+        "explanation": "«Вертикаль власти» обозначает сильную концентрацию политических решений вокруг Президента при ослабленных противовесах.",
+        "correct_index": 1
       },
       {
         "question": "Почему русский, скорее всего, не улыбнётся вам в метро?",
-        "options": ["Из враждебности к иностранцам", "Потому что улыбаться незнакомцам считается фальшью", "Из культурной застенчивости", "Это правило московского метро"],
-        "answer": 1,
-        "explanation": "В России улыбаться незнакомцам считается неискренним. Тепло и щедрость проявляются в приватном кругу, а не публично."
+        "options": [
+          "Из враждебности к иностранцам",
+          "Потому что улыбаться незнакомцам считается фальшью",
+          "Из культурной застенчивости",
+          "Это правило московского метро"
+        ],
+        "explanation": "В России улыбаться незнакомцам считается неискренним. Тепло и щедрость проявляются в приватном кругу, а не публично.",
+        "correct_index": 1
       }
     ]
   }

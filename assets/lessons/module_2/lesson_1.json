@@ -7,10 +7,22 @@
     "estimated_minutes": 14,
     "difficulty": "débutant",
     "sources": [
-      {"label": "Mairie de Moscou — portail officiel", "url": "https://www.mos.ru/"},
-      {"label": "Encyclopædia Universalis — Moscou", "url": "https://www.universalis.fr/encyclopedie/moscou/"},
-      {"label": "Routard — Moscou pratique", "url": "https://www.routard.com/guide/moscou/"},
-      {"label": "Le Monde — Dossier Moscou", "url": "https://www.lemonde.fr/"}
+      {
+        "label": "Mairie de Moscou — portail officiel",
+        "url": "https://www.mos.ru/"
+      },
+      {
+        "label": "Encyclopædia Universalis — Moscou",
+        "url": "https://www.universalis.fr/encyclopedie/moscou/"
+      },
+      {
+        "label": "Routard — Moscou pratique",
+        "url": "https://www.routard.com/guide/moscou/"
+      },
+      {
+        "label": "Le Monde — Dossier Moscou",
+        "url": "https://www.lemonde.fr/"
+      }
     ]
   },
   "fr": {
@@ -62,45 +74,94 @@
       "content": "**Le métro de Moscou est un musée à lui seul** — avant même de visiter la Galerie Tretiakov ou le Kremlin, prenez 30 minutes pour faire le tour des stations les plus spectaculaires : Komsomolskaya (mosaïques dorées), Mayakovskaya (Art Déco soviétique, primée à l'Exposition universelle de New York 1939), Ploschad Revoliutsii (bronzes de soldats et ouvriers soviétiques). Toutes ces stations furent inaugurées dans les années 1930–1950 comme des «palais du peuple» — et elles le sont vraiment.\n\nPratiquement : achetez une **carte Troïka** (Тройка) rechargeable dès l'aéroport ou la gare. Elle fonctionne sur le métro, le bus et le tramway. Une course de métro coûte 57 roubles — l'un des transports publics les moins chers des grandes capitales mondiales.\n\n**Sécurité** : Moscou est globalement une ville sûre pour un touriste occidental en termes de criminalité ordinaire. Les pickpockets existent mais sont moins présents qu'à Paris ou Rome. Évitez en revanche tout commentaire politique en public — la prudence s'impose depuis 2022."
     },
     "glossary": [
-      {"term": "Kremlin (Кремль)", "definition": "Citadelle fortifiée au cœur de Moscou, siège du Président de Russie. Le mot 'kremlin' désigne en russe toute citadelle fortifiée."},
-      {"term": "Place Rouge (Красная площадь)", "definition": "Place centrale de Moscou face au Kremlin. 'Krasnaya' signifiait 'beau' en vieux russe, et non 'rouge'."},
-      {"term": "Garden Ring (Садовое кольцо)", "definition": "Second anneau de boulevards encerclant le centre de Moscou, tracé sur l'emplacement des anciens jardins de la ville."},
-      {"term": "GUM (ГУМ)", "definition": "Grand magasin d'État soviétique face au Kremlin, reconverti en galerie commerciale de luxe. Acronyme de 'Grand Magasin Universel'."},
-      {"term": "Bolchoï (Большой театр)", "definition": "Scène d'opéra et de ballet fondée en 1776. L'un des théâtres les plus prestigieux au monde, situé au centre de Moscou."},
-      {"term": "Galerie Tretiakov", "definition": "Plus grande collection d'art russe au monde (plus de 180 000 œuvres), fondée par Pavel Tretiakov en 1856."},
-      {"term": "Probki (Пробки)", "definition": "Bouchons de circulation, littéralement 'bouchons de bouteille'. Le fléau quotidien des Moscovites."},
-      {"term": "Carte Troïka (Тройка)", "definition": "Carte de transport rechargeable du réseau moscovite (métro, bus, tramway). Essentielle pour tout visiteur."}
+      {
+        "term": "Kremlin (Кремль)",
+        "definition": "Citadelle fortifiée au cœur de Moscou, siège du Président de Russie. Le mot 'kremlin' désigne en russe toute citadelle fortifiée."
+      },
+      {
+        "term": "Place Rouge (Красная площадь)",
+        "definition": "Place centrale de Moscou face au Kremlin. 'Krasnaya' signifiait 'beau' en vieux russe, et non 'rouge'."
+      },
+      {
+        "term": "Garden Ring (Садовое кольцо)",
+        "definition": "Second anneau de boulevards encerclant le centre de Moscou, tracé sur l'emplacement des anciens jardins de la ville."
+      },
+      {
+        "term": "GUM (ГУМ)",
+        "definition": "Grand magasin d'État soviétique face au Kremlin, reconverti en galerie commerciale de luxe. Acronyme de 'Grand Magasin Universel'."
+      },
+      {
+        "term": "Bolchoï (Большой театр)",
+        "definition": "Scène d'opéra et de ballet fondée en 1776. L'un des théâtres les plus prestigieux au monde, situé au centre de Moscou."
+      },
+      {
+        "term": "Galerie Tretiakov",
+        "definition": "Plus grande collection d'art russe au monde (plus de 180 000 œuvres), fondée par Pavel Tretiakov en 1856."
+      },
+      {
+        "term": "Probki (Пробки)",
+        "definition": "Bouchons de circulation, littéralement 'bouchons de bouteille'. Le fléau quotidien des Moscovites."
+      },
+      {
+        "term": "Carte Troïka (Тройка)",
+        "definition": "Carte de transport rechargeable du réseau moscovite (métro, bus, tramway). Essentielle pour tout visiteur."
+      }
     ],
     "quiz": [
       {
         "question": "En quelle année Moscou est-elle mentionnée pour la première fois dans les chroniques russes ?",
-        "options": ["862", "1147", "1380", "1547"],
-        "answer": 1,
-        "explanation": "Moscou apparaît dans les chroniques en 1147, fondée selon la tradition par le prince Youri Dolgorouki sur les rives de la rivière Moskva."
+        "options": [
+          "862",
+          "1147",
+          "1380",
+          "1547"
+        ],
+        "explanation": "Moscou apparaît dans les chroniques en 1147, fondée selon la tradition par le prince Youri Dolgorouki sur les rives de la rivière Moskva.",
+        "correct_index": 1
       },
       {
         "question": "Que signifie réellement le mot 'rouge' dans 'Place Rouge' (Красная площадь) ?",
-        "options": ["La couleur rouge des murs du Kremlin", "La révolution communiste", "'Beau' en vieux russe", "Le sang versé lors des révolutions"],
-        "answer": 2,
-        "explanation": "En vieux russe, 'krasnaya' signifiait 'beau/belle' et non la couleur rouge. La Place Rouge était donc la 'Belle Place' — son nom est bien antérieur à la révolution communiste."
+        "options": [
+          "La couleur rouge des murs du Kremlin",
+          "La révolution communiste",
+          "'Beau' en vieux russe",
+          "Le sang versé lors des révolutions"
+        ],
+        "explanation": "En vieux russe, 'krasnaya' signifiait 'beau/belle' et non la couleur rouge. La Place Rouge était donc la 'Belle Place' — son nom est bien antérieur à la révolution communiste.",
+        "correct_index": 2
       },
       {
         "question": "Qui a transféré la capitale de Moscou à Saint-Pétersbourg en 1712 ?",
-        "options": ["Ivan le Terrible", "Catherine la Grande", "Pierre le Grand", "Alexandre Ier"],
-        "answer": 2,
-        "explanation": "Pierre le Grand a transféré la capitale à Saint-Pétersbourg en 1712 pour rapprocher la Russie de l'Europe. Lénine la ramènera à Moscou en 1918."
+        "options": [
+          "Ivan le Terrible",
+          "Catherine la Grande",
+          "Pierre le Grand",
+          "Alexandre Ier"
+        ],
+        "explanation": "Pierre le Grand a transféré la capitale à Saint-Pétersbourg en 1712 pour rapprocher la Russie de l'Europe. Lénine la ramènera à Moscou en 1918.",
+        "correct_index": 2
       },
       {
         "question": "Quel pourcentage du PIB russe Moscou concentre-t-elle ?",
-        "options": ["5%", "10%", "20%", "35%"],
-        "answer": 2,
-        "explanation": "Moscou concentre environ 20% du PIB russe pour moins de 10% de la population — un centralisme économique extrême, héritage de l'organisation soviétique."
+        "options": [
+          "5%",
+          "10%",
+          "20%",
+          "35%"
+        ],
+        "explanation": "Moscou concentre environ 20% du PIB russe pour moins de 10% de la population — un centralisme économique extrême, héritage de l'organisation soviétique.",
+        "correct_index": 2
       },
       {
         "question": "Pour quoi les stations de métro de Moscou construites dans les années 1930-1950 sont-elles célèbres ?",
-        "options": ["Leur rapidité record", "Leur architecture somptueuse de 'palais du peuple'", "Leur profondeur exceptionnelle", "Leur réseau de Wi-Fi gratuit"],
-        "answer": 1,
-        "explanation": "Les stations de métro moscovites des années 1930-50 (Komsomolskaya, Mayakovskaya, etc.) furent conçues comme des 'palais du peuple' avec mosaïques, lustres et fresques — une vitrine du socialisme soviétique."
+        "options": [
+          "Leur rapidité record",
+          "Leur architecture somptueuse de 'palais du peuple'",
+          "Leur profondeur exceptionnelle",
+          "Leur réseau de Wi-Fi gratuit"
+        ],
+        "explanation": "Les stations de métro moscovites des années 1930-50 (Komsomolskaya, Mayakovskaya, etc.) furent conçues comme des 'palais du peuple' avec mosaïques, lustres et fresques — une vitrine du socialisme soviétique.",
+        "correct_index": 1
       }
     ]
   },
@@ -153,45 +214,94 @@
       "content": "**Московское метро — сам по себе музей**. Прежде чем идти в Третьяковскую галерею или Кремль, потратьте 30 минут на объезд самых впечатляющих станций: Комсомольская (золотые мозаики), Маяковская (советское ар-деко, удостоенное премии на Всемирной выставке в Нью-Йорке 1939 года), Площадь Революции (бронзовые фигуры солдат и рабочих). Эти станции 1930–50-х годов строились как «дворцы для народа» — и в самом деле являются таковыми.\n\nПрактически: купите **карту «Тройка»** (пополняемую) сразу в аэропорту или на вокзале. Она работает в метро, автобусе и трамвае. Одна поездка в метро стоит 57 рублей — один из самых дешёвых городских транспортов среди мировых столиц.\n\n**Безопасность**: Москва в целом безопасна для западного туриста с точки зрения обычной преступности. Карманники есть, но их меньше, чем в Париже или Риме. Однако избегайте любых политических комментариев в общественных местах — с 2022 года осторожность обязательна."
     },
     "glossary": [
-      {"term": "Кремль", "definition": "Укреплённая цитадель в центре Москвы, резиденция Президента России. Слово «кремль» означает по-русски любую укреплённую цитадель."},
-      {"term": "Красная площадь", "definition": "Центральная площадь Москвы у стен Кремля. «Красная» в древнерусском значило «красивая», а не цвет."},
-      {"term": "Садовое кольцо", "definition": "Второе кольцо бульваров, опоясывающее центр Москвы, проложённое на месте бывших садов."},
-      {"term": "ГУМ", "definition": "Главный универмаг у Кремля, превращённый в люксовую галерею. Аббревиатура — «Главный универсальный магазин»."},
-      {"term": "Большой театр", "definition": "Оперная и балетная сцена, основанная в 1776 году. Один из самых престижных театров мира в центре Москвы."},
-      {"term": "Третьяковская галерея", "definition": "Крупнейшее в мире собрание русского искусства (более 180 000 произведений), основанное Павлом Третьяковым в 1856 году."},
-      {"term": "Пробки", "definition": "Дорожные заторы, буквально «пробки от бутылок». Ежедневный бич москвичей."},
-      {"term": "Карта «Тройка»", "definition": "Пополняемая транспортная карта московской сети (метро, автобус, трамвай). Незаменима для любого гостя города."}
+      {
+        "term": "Кремль",
+        "definition": "Укреплённая цитадель в центре Москвы, резиденция Президента России. Слово «кремль» означает по-русски любую укреплённую цитадель."
+      },
+      {
+        "term": "Красная площадь",
+        "definition": "Центральная площадь Москвы у стен Кремля. «Красная» в древнерусском значило «красивая», а не цвет."
+      },
+      {
+        "term": "Садовое кольцо",
+        "definition": "Второе кольцо бульваров, опоясывающее центр Москвы, проложённое на месте бывших садов."
+      },
+      {
+        "term": "ГУМ",
+        "definition": "Главный универмаг у Кремля, превращённый в люксовую галерею. Аббревиатура — «Главный универсальный магазин»."
+      },
+      {
+        "term": "Большой театр",
+        "definition": "Оперная и балетная сцена, основанная в 1776 году. Один из самых престижных театров мира в центре Москвы."
+      },
+      {
+        "term": "Третьяковская галерея",
+        "definition": "Крупнейшее в мире собрание русского искусства (более 180 000 произведений), основанное Павлом Третьяковым в 1856 году."
+      },
+      {
+        "term": "Пробки",
+        "definition": "Дорожные заторы, буквально «пробки от бутылок». Ежедневный бич москвичей."
+      },
+      {
+        "term": "Карта «Тройка»",
+        "definition": "Пополняемая транспортная карта московской сети (метро, автобус, трамвай). Незаменима для любого гостя города."
+      }
     ],
     "quiz": [
       {
         "question": "В каком году Москва впервые упоминается в русских летописях?",
-        "options": ["862", "1147", "1380", "1547"],
-        "answer": 1,
-        "explanation": "Москва впервые упоминается в летописях в 1147 году, основанная по преданию князем Юрием Долгоруким на берегах реки Москвы."
+        "options": [
+          "862",
+          "1147",
+          "1380",
+          "1547"
+        ],
+        "explanation": "Москва впервые упоминается в летописях в 1147 году, основанная по преданию князем Юрием Долгоруким на берегах реки Москвы.",
+        "correct_index": 1
       },
       {
         "question": "Что в действительности означает слово «красная» в «Красной площади»?",
-        "options": ["Цвет стен Кремля", "Коммунистическую революцию", "«Красивая» на древнерусском языке", "Кровь, пролитую в революциях"],
-        "answer": 2,
-        "explanation": "На древнерусском языке «красная» означало «красивая», а не цвет. Красная площадь — «Красивая площадь»; это название значительно старше коммунистической революции."
+        "options": [
+          "Цвет стен Кремля",
+          "Коммунистическую революцию",
+          "«Красивая» на древнерусском языке",
+          "Кровь, пролитую в революциях"
+        ],
+        "explanation": "На древнерусском языке «красная» означало «красивая», а не цвет. Красная площадь — «Красивая площадь»; это название значительно старше коммунистической революции.",
+        "correct_index": 2
       },
       {
         "question": "Кто перенёс столицу из Москвы в Санкт-Петербург в 1712 году?",
-        "options": ["Иван Грозный", "Екатерина Великая", "Пётр Великий", "Александр I"],
-        "answer": 2,
-        "explanation": "Пётр Великий перенёс столицу в Санкт-Петербург в 1712 году, чтобы приблизить Россию к Европе. Ленин вернёт её в Москву в 1918 году."
+        "options": [
+          "Иван Грозный",
+          "Екатерина Великая",
+          "Пётр Великий",
+          "Александр I"
+        ],
+        "explanation": "Пётр Великий перенёс столицу в Санкт-Петербург в 1712 году, чтобы приблизить Россию к Европе. Ленин вернёт её в Москву в 1918 году.",
+        "correct_index": 2
       },
       {
         "question": "Какую долю российского ВВП концентрирует Москва?",
-        "options": ["5%", "10%", "20%", "35%"],
-        "answer": 2,
-        "explanation": "Москва концентрирует около 20% российского ВВП при менее чем 10% населения — крайний экономический централизм, унаследованный от советской организации."
+        "options": [
+          "5%",
+          "10%",
+          "20%",
+          "35%"
+        ],
+        "explanation": "Москва концентрирует около 20% российского ВВП при менее чем 10% населения — крайний экономический централизм, унаследованный от советской организации.",
+        "correct_index": 2
       },
       {
         "question": "Чем прославились станции московского метро, построенные в 1930–1950-х годах?",
-        "options": ["Рекордной скоростью", "Роскошной архитектурой «дворцов для народа»", "Исключительной глубиной залегания", "Бесплатным Wi-Fi"],
-        "answer": 1,
-        "explanation": "Станции московского метро 1930–50-х (Комсомольская, Маяковская и др.) создавались как «дворцы для народа» с мозаиками, люстрами и фресками — витрина советского социализма."
+        "options": [
+          "Рекордной скоростью",
+          "Роскошной архитектурой «дворцов для народа»",
+          "Исключительной глубиной залегания",
+          "Бесплатным Wi-Fi"
+        ],
+        "explanation": "Станции московского метро 1930–50-х (Комсомольская, Маяковская и др.) создавались как «дворцы для народа» с мозаиками, люстрами и фресками — витрина советского социализма.",
+        "correct_index": 1
       }
     ]
   }

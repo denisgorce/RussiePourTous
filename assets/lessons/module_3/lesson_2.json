@@ -7,10 +7,22 @@
     "estimated_minutes": 12,
     "difficulty": "intermédiaire",
     "sources": [
-      {"label": "OSCE — Rapports d'observation électorale en Russie", "url": "https://www.osce.org/odihr/elections/russia"},
-      {"label": "Levada Center — Sondages russes", "url": "https://www.levada.ru/en/"},
-      {"label": "IFRI — Partis politiques russes", "url": "https://www.ifri.org/fr/russie"},
-      {"label": "Le Monde — Élections en Russie", "url": "https://www.lemonde.fr/russie/"}
+      {
+        "label": "OSCE — Rapports d'observation électorale en Russie",
+        "url": "https://www.osce.org/odihr/elections/russia"
+      },
+      {
+        "label": "Levada Center — Sondages russes",
+        "url": "https://www.levada.ru/en/"
+      },
+      {
+        "label": "IFRI — Partis politiques russes",
+        "url": "https://www.ifri.org/fr/russie"
+      },
+      {
+        "label": "Le Monde — Élections en Russie",
+        "url": "https://www.lemonde.fr/russie/"
+      }
     ]
   },
   "fr": {
@@ -62,45 +74,94 @@
       "content": "**Résistez à la tentation de 'éduquer' des Russes sur la démocratie.** Beaucoup de Russes, y compris ceux qui critiquent leur gouvernement, ont une réaction défensive lorsque des étrangers leur expliquent ce qu'est la vraie démocratie — d'autant plus que les démocraties occidentales ont leurs propres scandales, conflits d'intérêt et défauts.\n\nUne approche plus féconde : poser des questions sur les **sujets qui mobilisent** réellement les Russes (corruption locale, accès aux services publics, inégalités) plutôt que sur les grands principes démocratiques. Ces questions touchent à des expériences concrètes et permettent des conversations sincères.\n\n**Une réalité souvent ignorée** : les sondages du Centre Levada montrent que parmi les valeurs les plus importantes pour les Russes figurent «la stabilité et la sécurité» et «un niveau de vie décent» — bien avant «la liberté de la presse» ou le «multipartisme». Ce n'est pas de la résignation — c'est une hiérarchie de valeurs forgée par l'expérience du chaos des années 90 et d'une histoire marquée par les ruptures violentes."
     },
     "glossary": [
-      {"term": "Russie Unie (Единая Россия)", "definition": "Parti au pouvoir depuis 2001, contrôlant la Douma. Surnommé 'la poche à vide' par ses détracteurs — appareil au service de l'exécutif plutôt que force idéologique."},
-      {"term": "Opposition domestique (Ручная оппозиция)", "definition": "Partis systémiques (LDPR, KPRF, Juste Russie) qui siègent à la Douma mais ne remettent pas en cause l'autorité présidentielle — une façade de pluralisme."},
-      {"term": "Centre Levada (Левада-Центр)", "definition": "Seul institut de sondages indépendant en Russie, régulièrement déclaré 'agent de l'étranger' par les autorités. Ses données restent la référence sur l'opinion publique russe."},
-      {"term": "Bolotnaya (Болотная)", "definition": "Place de Moscou qui donna son nom aux manifestations massives de décembre 2011-2012, les plus importantes depuis 1991, contre les fraudes électorales."},
-      {"term": "Karuseli (Карусели)", "definition": "Terme russe pour le vote multiple : des électeurs votent plusieurs fois dans différents bureaux grâce à des bulletins préorganisés. Pratique frauduleuse documentée."},
-      {"term": "Navalny (Навальный)", "definition": "Principal opposant à Poutine, fondateur du Fonds Anti-Corruption. Emprisonné à de multiples reprises, mort en détention en février 2024."},
-      {"term": "KVN (КВН)", "definition": "Club des Joyeux et Ingénieux — format de compétition humoristique télévisée. Autrefois espace de satire politique, progressivement autocensuré."},
-      {"term": "Voter avec ses pieds (Голосовать ногами)", "definition": "Expression russe pour l'abstention comme acte politique — refus de participer à un système jugé illégitime."}
+      {
+        "term": "Russie Unie (Единая Россия)",
+        "definition": "Parti au pouvoir depuis 2001, contrôlant la Douma. Surnommé 'la poche à vide' par ses détracteurs — appareil au service de l'exécutif plutôt que force idéologique."
+      },
+      {
+        "term": "Opposition domestique (Ручная оппозиция)",
+        "definition": "Partis systémiques (LDPR, KPRF, Juste Russie) qui siègent à la Douma mais ne remettent pas en cause l'autorité présidentielle — une façade de pluralisme."
+      },
+      {
+        "term": "Centre Levada (Левада-Центр)",
+        "definition": "Seul institut de sondages indépendant en Russie, régulièrement déclaré 'agent de l'étranger' par les autorités. Ses données restent la référence sur l'opinion publique russe."
+      },
+      {
+        "term": "Bolotnaya (Болотная)",
+        "definition": "Place de Moscou qui donna son nom aux manifestations massives de décembre 2011-2012, les plus importantes depuis 1991, contre les fraudes électorales."
+      },
+      {
+        "term": "Karuseli (Карусели)",
+        "definition": "Terme russe pour le vote multiple : des électeurs votent plusieurs fois dans différents bureaux grâce à des bulletins préorganisés. Pratique frauduleuse documentée."
+      },
+      {
+        "term": "Navalny (Навальный)",
+        "definition": "Principal opposant à Poutine, fondateur du Fonds Anti-Corruption. Emprisonné à de multiples reprises, mort en détention en février 2024."
+      },
+      {
+        "term": "KVN (КВН)",
+        "definition": "Club des Joyeux et Ingénieux — format de compétition humoristique télévisée. Autrefois espace de satire politique, progressivement autocensuré."
+      },
+      {
+        "term": "Voter avec ses pieds (Голосовать ногами)",
+        "definition": "Expression russe pour l'abstention comme acte politique — refus de participer à un système jugé illégitime."
+      }
     ],
     "quiz": [
       {
         "question": "Quelle manifestation massive a eu lieu à Moscou en décembre 2011 et pourquoi ?",
-        "options": ["Contre la guerre en Tchétchénie", "Contre les fraudes aux élections législatives", "Contre la hausse du prix de l'essence", "Pour réclamer la libération de prisonniers politiques"],
-        "answer": 1,
-        "explanation": "Les manifestations de Bolotnaya (décembre 2011) rassemblèrent des dizaines de milliers de personnes à Moscou pour dénoncer les fraudes massives aux élections législatives — les plus grandes manifestations en Russie depuis 1991."
+        "options": [
+          "Contre la guerre en Tchétchénie",
+          "Contre les fraudes aux élections législatives",
+          "Contre la hausse du prix de l'essence",
+          "Pour réclamer la libération de prisonniers politiques"
+        ],
+        "explanation": "Les manifestations de Bolotnaya (décembre 2011) rassemblèrent des dizaines de milliers de personnes à Moscou pour dénoncer les fraudes massives aux élections législatives — les plus grandes manifestations en Russie depuis 1991.",
+        "correct_index": 1
       },
       {
         "question": "Qu'est-ce que l'opposition 'domestique' (ручная оппозиция) en Russie ?",
-        "options": ["Les partis régionaux qui s'opposent à Moscou", "Les partis systémiques qui siègent à la Douma sans remettre en cause l'autorité présidentielle", "Les journalistes d'opposition des médias indépendants", "Les opposants vivant en exil à l'étranger"],
-        "answer": 1,
-        "explanation": "L'opposition 'domestique' ou 'à la main' désigne les partis systémiques (LDPR, KPRF, Juste Russie) qui participent aux élections et siègent à la Douma, mais ne remettent jamais fondamentalement en cause l'autorité du Président."
+        "options": [
+          "Les partis régionaux qui s'opposent à Moscou",
+          "Les partis systémiques qui siègent à la Douma sans remettre en cause l'autorité présidentielle",
+          "Les journalistes d'opposition des médias indépendants",
+          "Les opposants vivant en exil à l'étranger"
+        ],
+        "explanation": "L'opposition 'domestique' ou 'à la main' désigne les partis systémiques (LDPR, KPRF, Juste Russie) qui participent aux élections et siègent à la Douma, mais ne remettent jamais fondamentalement en cause l'autorité du Président.",
+        "correct_index": 1
       },
       {
         "question": "Quel organisme fournit les sondages d'opinion publique les plus indépendants en Russie ?",
-        "options": ["VTsIOM (centre gouvernemental)", "Centre Levada", "RBK (groupe médias)", "FOM (Fonds Opinion Publique gouvernemental)"],
-        "answer": 1,
-        "explanation": "Le Centre Levada est le seul grand institut de sondages indépendant en Russie. Régulièrement déclaré 'agent de l'étranger' par les autorités, ses données restent la référence internationale sur l'opinion publique russe."
+        "options": [
+          "VTsIOM (centre gouvernemental)",
+          "Centre Levada",
+          "RBK (groupe médias)",
+          "FOM (Fonds Opinion Publique gouvernemental)"
+        ],
+        "explanation": "Le Centre Levada est le seul grand institut de sondages indépendant en Russie. Régulièrement déclaré 'agent de l'étranger' par les autorités, ses données restent la référence internationale sur l'opinion publique russe.",
+        "correct_index": 1
       },
       {
         "question": "Que désignent les 'karuseli' (carrousels) dans le contexte électoral russe ?",
-        "options": ["Les défilés officiels des partis pendant les campagnes", "La pratique frauduleuse du vote multiple dans différents bureaux", "Les caravanes électorales en province", "Les meetings populaires dans les stades"],
-        "answer": 1,
-        "explanation": "Les 'karuseli' désignent la pratique frauduleuse où des électeurs organisés votent plusieurs fois dans différents bureaux — une forme documentée de fraude électorale en Russie."
+        "options": [
+          "Les défilés officiels des partis pendant les campagnes",
+          "La pratique frauduleuse du vote multiple dans différents bureaux",
+          "Les caravanes électorales en province",
+          "Les meetings populaires dans les stades"
+        ],
+        "explanation": "Les 'karuseli' désignent la pratique frauduleuse où des électeurs organisés votent plusieurs fois dans différents bureaux — une forme documentée de fraude électorale en Russie.",
+        "correct_index": 1
       },
       {
         "question": "Selon les sondages Levada, quelle valeur les Russes placent-ils au-dessus de la liberté de la presse dans leurs priorités ?",
-        "options": ["La liberté de circulation", "La stabilité et la sécurité", "Le droit de propriété", "L'indépendance judiciaire"],
-        "answer": 1,
-        "explanation": "Les sondages montrent que les Russes placent la 'stabilité et la sécurité' ainsi qu'un 'niveau de vie décent' bien au-dessus des libertés civiques formelles — une hiérarchie de valeurs façonnée par l'expérience du chaos des années 90."
+        "options": [
+          "La liberté de circulation",
+          "La stabilité et la sécurité",
+          "Le droit de propriété",
+          "L'indépendance judiciaire"
+        ],
+        "explanation": "Les sondages montrent que les Russes placent la 'stabilité et la sécurité' ainsi qu'un 'niveau de vie décent' bien au-dessus des libertés civiques formelles — une hiérarchie de valeurs façonnée par l'expérience du chaos des années 90.",
+        "correct_index": 1
       }
     ]
   },
@@ -153,45 +214,94 @@
       "content": "**Не поддавайтесь соблазну «просвещать» россиян о демократии.** Многие россияне, включая критиков власти, защитно реагируют, когда иностранцы объясняют им, что такое настоящая демократия, — тем более что западные демократии имеют собственные скандалы, конфликты интересов и изъяны.\n\nБолее плодотворный подход: расспрашивать о темах, реально волнующих россиян (местная коррупция, доступ к публичным услугам, неравенство), а не о высоких демократических принципах. Эти вопросы касаются конкретного опыта и открывают искренние разговоры.\n\n**Реальность, которую часто игнорируют**: опросы Левада-Центра показывают, что среди важнейших для россиян ценностей — «стабильность и безопасность» и «достойный уровень жизни» — значительно выше «свободы прессы» или «многопартийности». Это не покорность — это иерархия ценностей, выкованная опытом хаоса 90-х и историей, отмеченной насильственными переломами."
     },
     "glossary": [
-      {"term": "Единая Россия", "definition": "Правящая партия с 2001 года, контролирующая Думу. Прозвана критиками «партией жуликов и воров» — скорее административный аппарат, нежели идеологическая сила."},
-      {"term": "Ручная оппозиция", "definition": "Системные партии (ЛДПР, КПРФ, «Справедливая Россия»), заседающие в Думе, не оспаривающие президентский авторитет — фасад плюрализма."},
-      {"term": "Левада-Центр", "definition": "Единственный крупный независимый социологический институт России, регулярно признаваемый «иностранным агентом» властями. Его данные — международный эталон по российскому общественному мнению."},
-      {"term": "Болотная", "definition": "Московская площадь, давшая имя массовым протестам декабря 2011–2012 годов — крупнейшим с 1991 года — против фальсификации выборов."},
-      {"term": "Карусели", "definition": "Российский термин для многократного голосования: избиратели голосуют несколько раз на разных участках по заранее организованной схеме. Задокументированная практика мошенничества."},
-      {"term": "Навальный", "definition": "Главный оппонент Путина, основатель Фонда борьбы с коррупцией. Многократно заключался под стражу, скончался в заключении в феврале 2024 года."},
-      {"term": "КВН", "definition": "Клуб Весёлых и Находчивых — формат телевизионных юмористических соревнований. Некогда пространство политической сатиры, постепенно самоцензурировалось."},
-      {"term": "Голосовать ногами", "definition": "Российское выражение для абстенционизма как политического акта — отказа участвовать в системе, признанной нелегитимной."}
+      {
+        "term": "Единая Россия",
+        "definition": "Правящая партия с 2001 года, контролирующая Думу. Прозвана критиками «партией жуликов и воров» — скорее административный аппарат, нежели идеологическая сила."
+      },
+      {
+        "term": "Ручная оппозиция",
+        "definition": "Системные партии (ЛДПР, КПРФ, «Справедливая Россия»), заседающие в Думе, не оспаривающие президентский авторитет — фасад плюрализма."
+      },
+      {
+        "term": "Левада-Центр",
+        "definition": "Единственный крупный независимый социологический институт России, регулярно признаваемый «иностранным агентом» властями. Его данные — международный эталон по российскому общественному мнению."
+      },
+      {
+        "term": "Болотная",
+        "definition": "Московская площадь, давшая имя массовым протестам декабря 2011–2012 годов — крупнейшим с 1991 года — против фальсификации выборов."
+      },
+      {
+        "term": "Карусели",
+        "definition": "Российский термин для многократного голосования: избиратели голосуют несколько раз на разных участках по заранее организованной схеме. Задокументированная практика мошенничества."
+      },
+      {
+        "term": "Навальный",
+        "definition": "Главный оппонент Путина, основатель Фонда борьбы с коррупцией. Многократно заключался под стражу, скончался в заключении в феврале 2024 года."
+      },
+      {
+        "term": "КВН",
+        "definition": "Клуб Весёлых и Находчивых — формат телевизионных юмористических соревнований. Некогда пространство политической сатиры, постепенно самоцензурировалось."
+      },
+      {
+        "term": "Голосовать ногами",
+        "definition": "Российское выражение для абстенционизма как политического акта — отказа участвовать в системе, признанной нелегитимной."
+      }
     ],
     "quiz": [
       {
         "question": "Какая массовая акция прошла в Москве в декабре 2011 года и почему?",
-        "options": ["Против войны в Чечне", "Против фальсификации думских выборов", "Против роста цен на бензин", "За освобождение политзаключённых"],
-        "answer": 1,
-        "explanation": "Протесты на Болотной (декабрь 2011) собрали десятки тысяч человек в Москве в знак протеста против массовых фальсификаций на думских выборах — крупнейшие в России с 1991 года."
+        "options": [
+          "Против войны в Чечне",
+          "Против фальсификации думских выборов",
+          "Против роста цен на бензин",
+          "За освобождение политзаключённых"
+        ],
+        "explanation": "Протесты на Болотной (декабрь 2011) собрали десятки тысяч человек в Москве в знак протеста против массовых фальсификаций на думских выборах — крупнейшие в России с 1991 года.",
+        "correct_index": 1
       },
       {
         "question": "Что такое «ручная оппозиция» в России?",
-        "options": ["Региональные партии, противостоящие Москве", "Системные партии, заседающие в Думе и не оспаривающие президентский авторитет", "Журналисты-оппозиционеры в независимых СМИ", "Оппозиционеры в эмиграции"],
-        "answer": 1,
-        "explanation": "«Ручная оппозиция» — системные партии (ЛДПР, КПРФ, «Справедливая Россия»), участвующие в выборах и заседающие в Думе, но принципиально не оспаривающие президентскую власть."
+        "options": [
+          "Региональные партии, противостоящие Москве",
+          "Системные партии, заседающие в Думе и не оспаривающие президентский авторитет",
+          "Журналисты-оппозиционеры в независимых СМИ",
+          "Оппозиционеры в эмиграции"
+        ],
+        "explanation": "«Ручная оппозиция» — системные партии (ЛДПР, КПРФ, «Справедливая Россия»), участвующие в выборах и заседающие в Думе, но принципиально не оспаривающие президентскую власть.",
+        "correct_index": 1
       },
       {
         "question": "Какая организация проводит наиболее независимые социологические исследования в России?",
-        "options": ["ВЦИОМ (правительственный центр)", "Левада-Центр", "РБК (медиагруппа)", "ФОМ (правительственный Фонд общественного мнения)"],
-        "answer": 1,
-        "explanation": "Левада-Центр — единственный крупный независимый социологический институт России. Регулярно признаваемый «иностранным агентом» властями, его данные остаются международным эталоном по российскому общественному мнению."
+        "options": [
+          "ВЦИОМ (правительственный центр)",
+          "Левада-Центр",
+          "РБК (медиагруппа)",
+          "ФОМ (правительственный Фонд общественного мнения)"
+        ],
+        "explanation": "Левада-Центр — единственный крупный независимый социологический институт России. Регулярно признаваемый «иностранным агентом» властями, его данные остаются международным эталоном по российскому общественному мнению.",
+        "correct_index": 1
       },
       {
         "question": "Что означают «карусели» в контексте российских выборов?",
-        "options": ["Официальные партийные шествия в ходе кампании", "Мошенническая практика многократного голосования на разных участках", "Предвыборные поездки по провинции", "Массовые митинги на стадионах"],
-        "answer": 1,
-        "explanation": "«Карусели» — мошенническая практика, при которой организованные избиратели голосуют несколько раз на разных участках; задокументированная форма фальсификации на российских выборах."
+        "options": [
+          "Официальные партийные шествия в ходе кампании",
+          "Мошенническая практика многократного голосования на разных участках",
+          "Предвыборные поездки по провинции",
+          "Массовые митинги на стадионах"
+        ],
+        "explanation": "«Карусели» — мошенническая практика, при которой организованные избиратели голосуют несколько раз на разных участках; задокументированная форма фальсификации на российских выборах.",
+        "correct_index": 1
       },
       {
         "question": "Какую ценность россияне ставят выше свободы прессы, согласно опросам Левада-Центра?",
-        "options": ["Свободу передвижения", "Стабильность и безопасность", "Право собственности", "Независимость суда"],
-        "answer": 1,
-        "explanation": "Опросы показывают, что россияне ставят «стабильность и безопасность» и «достойный уровень жизни» значительно выше формальных гражданских свобод — иерархия ценностей, выкованная хаосом 90-х и историей насильственных переломов."
+        "options": [
+          "Свободу передвижения",
+          "Стабильность и безопасность",
+          "Право собственности",
+          "Независимость суда"
+        ],
+        "explanation": "Опросы показывают, что россияне ставят «стабильность и безопасность» и «достойный уровень жизни» значительно выше формальных гражданских свобод — иерархия ценностей, выкованная хаосом 90-х и историей насильственных переломов.",
+        "correct_index": 1
       }
     ]
   }

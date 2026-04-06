@@ -108,8 +108,8 @@
           "L'interdiction des importations de vodka étrangère",
           "La nationalisation des distilleries privées"
         ],
-        "answer": 1,
-        "explanation": "La politique anti-alcool de Gorbatchev (1985-1988) est souvent citée parmi les causes de la déstabilisation de l'URSS : elle a privé l'État de revenus fiscaux considérables (la vodka représentait une source majeure de revenus) et généré un mécontentement profond dans la population."
+        "explanation": "La politique anti-alcool de Gorbatchev (1985-1988) est souvent citée parmi les causes de la déstabilisation de l'URSS : elle a privé l'État de revenus fiscaux considérables (la vodka représentait une source majeure de revenus) et généré un mécontentement profond dans la population.",
+        "correct_index": 1
       },
       {
         "question": "Qu'est-ce que «zakousat'» (закусать) dans le contexte de la vodka ?",
@@ -119,8 +119,8 @@
           "Verser la vodka dans un verre à double paroi pour la garder froide",
           "Sentir la vodka avant de la boire pour en apprécier la qualité"
         ],
-        "answer": 1,
-        "explanation": "«Zakousat'» désigne le fait de manger quelque chose après chaque verre de vodka — un morceau de cornichon, de pain ou de hareng. C'est à la fois une règle de sécurité (ralentir l'absorption d'alcool) et une règle de politesse à table."
+        "explanation": "«Zakousat'» désigne le fait de manger quelque chose après chaque verre de vodka — un morceau de cornichon, de pain ou de hareng. C'est à la fois une règle de sécurité (ralentir l'absorption d'alcool) et une règle de politesse à table.",
+        "correct_index": 1
       },
       {
         "question": "Quelle est la boisson la plus consommée au quotidien en Russie ?",
@@ -130,8 +130,8 @@
           "Le thé (tchaï)",
           "Le kvas"
         ],
-        "answer": 2,
-        "explanation": "Le thé (tchaï) est de loin la boisson la plus consommée au quotidien en Russie. Introduit au XVIIe siècle via la Route des caravanes de Chine, il est devenu le symbole de l'hospitalité russe — offrir du thé est le premier geste d'accueil."
+        "explanation": "Le thé (tchaï) est de loin la boisson la plus consommée au quotidien en Russie. Introduit au XVIIe siècle via la Route des caravanes de Chine, il est devenu le symbole de l'hospitalité russe — offrir du thé est le premier geste d'accueil.",
+        "correct_index": 2
       },
       {
         "question": "Comment refuser poliment de boire de la vodka lors d'un toast russe ?",
@@ -141,8 +141,8 @@
           "Approcher le verre des lèvres sans boire — le geste symbolique est accepté",
           "Quitter la table pendant les toasts"
         ],
-        "answer": 2,
-        "explanation": "La formule la plus acceptée pour ne pas boire tout en participant au toast est d'approcher le verre des lèvres sans boire — le geste symbolique de participation est souvent suffisant. On peut aussi invoquer des raisons médicales, mais ce geste subtil fonctionne bien dans la plupart des situations."
+        "explanation": "La formule la plus acceptée pour ne pas boire tout en participant au toast est d'approcher le verre des lèvres sans boire — le geste symbolique de participation est souvent suffisant. On peut aussi invoquer des raisons médicales, mais ce geste subtil fonctionne bien dans la plupart des situations.",
+        "correct_index": 2
       },
       {
         "question": "Quel phénomène observe-t-on dans la consommation de vodka en Russie depuis les années 2000 ?",
@@ -152,8 +152,8 @@
           "Une baisse constante, remplacée par bière, vin et cocktails chez les jeunes urbains",
           "Un remplacement de la vodka par le whisky importé dans toutes les catégories"
         ],
-        "answer": 2,
-        "explanation": "Depuis les années 2000, la consommation de vodka est en baisse constante en Russie, surtout chez les jeunes générations urbaines qui lui préfèrent la bière, le vin et les cocktails. C'est un changement culturel majeur, encore en cours."
+        "explanation": "Depuis les années 2000, la consommation de vodka est en baisse constante en Russie, surtout chez les jeunes générations urbaines qui lui préfèrent la bière, le vin et les cocktails. C'est un changement culturel majeur, encore en cours.",
+        "correct_index": 2
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Запрет импортной водки",
           "Национализация частных винокурен"
         ],
-        "answer": 1,
-        "explanation": "Антиалкогольная кампания Горбачёва (1985–1988) нередко называется одной из причин дестабилизации СССР: она лишила государство значительных налоговых поступлений (водка была крупным источником доходов) и породила глубокое народное недовольство."
+        "explanation": "Антиалкогольная кампания Горбачёва (1985–1988) нередко называется одной из причин дестабилизации СССР: она лишила государство значительных налоговых поступлений (водка была крупным источником доходов) и породила глубокое народное недовольство.",
+        "correct_index": 1
       },
       {
         "question": "Что означает «закусать» в контексте употребления водки?",
@@ -259,8 +259,8 @@
           "Налить водку в бокал с двойными стенками для охлаждения",
           "Понюхать водку перед тем, как пить, чтобы оценить качество"
         ],
-        "answer": 1,
-        "explanation": "«Закусать» — съесть что-нибудь после каждой рюмки водки: огурчик, хлеб, сельдь. Это одновременно правило безопасности (замедлить всасывание алкоголя) и правило застольного этикета."
+        "explanation": "«Закусать» — съесть что-нибудь после каждой рюмки водки: огурчик, хлеб, сельдь. Это одновременно правило безопасности (замедлить всасывание алкоголя) и правило застольного этикета.",
+        "correct_index": 1
       },
       {
         "question": "Какой напиток пьют в России чаще всего в повседневной жизни?",
@@ -270,8 +270,8 @@
           "Чай",
           "Квас"
         ],
-        "answer": 2,
-        "explanation": "Чай — безусловно самый популярный повседневный напиток в России. Завезённый в XVII веке по Великому чайному пути из Китая, он стал символом русского гостеприимства: предложить чай гостю — первый жест приёма."
+        "explanation": "Чай — безусловно самый популярный повседневный напиток в России. Завезённый в XVII веке по Великому чайному пути из Китая, он стал символом русского гостеприимства: предложить чай гостю — первый жест приёма.",
+        "correct_index": 2
       },
       {
         "question": "Как вежливо отказаться от водки при тосте на русском застолье?",
@@ -281,8 +281,8 @@
           "Поднести бокал к губам, не отпивая — символический жест принимается",
           "Покинуть стол на время тостов"
         ],
-        "answer": 2,
-        "explanation": "Самый приемлемый способ не пить, участвуя в тосте, — поднести бокал к губам, не отпивая. Символический жест участия обычно достаточен. Можно также сослаться на медицинские причины — но этот тонкий жест работает в большинстве случаев."
+        "explanation": "Самый приемлемый способ не пить, участвуя в тосте, — поднести бокал к губам, не отпивая. Символический жест участия обычно достаточен. Можно также сослаться на медицинские причины — но этот тонкий жест работает в большинстве случаев.",
+        "correct_index": 2
       },
       {
         "question": "Какая тенденция наблюдается в потреблении водки в России с 2000-х годов?",
@@ -292,8 +292,8 @@
           "Устойчивое снижение: среди молодых горожан водку вытесняют пиво, вино и коктейли",
           "Повсеместная замена водки импортным виски"
         ],
-        "answer": 2,
-        "explanation": "С 2000-х годов потребление водки в России неуклонно снижается, особенно среди молодого городского населения, которое всё больше предпочитает пиво, вино и коктейли. Это крупный культурный сдвиг, ещё не завершённый."
+        "explanation": "С 2000-х годов потребление водки в России неуклонно снижается, особенно среди молодого городского населения, которое всё больше предпочитает пиво, вино и коктейли. Это крупный культурный сдвиг, ещё не завершённый.",
+        "correct_index": 2
       }
     ]
   }

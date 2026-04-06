@@ -7,10 +7,22 @@
     "estimated_minutes": 13,
     "difficulty": "intermédiaire",
     "sources": [
-      {"label": "Encyclopædia Universalis — Sibérie", "url": "https://www.universalis.fr/encyclopedie/siberie/"},
-      {"label": "CNRS — La Sibérie, ressources et enjeux", "url": "https://www.cnrs.fr/"},
-      {"label": "Routard — Transsibérien", "url": "https://www.routard.com/guide/transsiberien/"},
-      {"label": "National Geographic — Lac Baïkal", "url": "https://www.nationalgeographic.fr/"}
+      {
+        "label": "Encyclopædia Universalis — Sibérie",
+        "url": "https://www.universalis.fr/encyclopedie/siberie/"
+      },
+      {
+        "label": "CNRS — La Sibérie, ressources et enjeux",
+        "url": "https://www.cnrs.fr/"
+      },
+      {
+        "label": "Routard — Transsibérien",
+        "url": "https://www.routard.com/guide/transsiberien/"
+      },
+      {
+        "label": "National Geographic — Lac Baïkal",
+        "url": "https://www.nationalgeographic.fr/"
+      }
     ]
   },
   "fr": {
@@ -62,45 +74,94 @@
       "content": "**Le Transsibérien + lac Baïkal est le voyage d'une vie.** Si vous envisagez un voyage en Russie orienté découverte (hors contraintes politiques actuelles), l'itinéraire classique Moscou → Irkoutsk (en train, 3 nuits) → lac Baïkal → Vladivostok est l'expérience russe la plus complète qui existe. Préférez l'été (juillet–août) pour le Baïkal, ou février pour la surface gelée.\n\nUne curiosité culturelle : les Russes sont fascinés par leur propre immensité sibérienne, mais peu d'entre eux y ont réellement voyagé. Pour un Moscovite, la Sibérie est presque aussi exotique que pour un Français — c'est un pays dans le pays. Si vous avez voyagé au Baïkal ou sur le Transsibérien, vous aurez des conversations passionnantes qui dépasseront les clichés habituels.\n\n**En conversation** : ne jamais réduire la Sibérie à l'exil et au Goulag — même si cette dimension est réelle et importante. Pour les Russes d'aujourd'hui, la Sibérie est avant tout une source de fierté nationale immense : 'Nous possédons ce territoire, ces richesses, cette immensité'. C'est une identité."
     },
     "glossary": [
-      {"term": "Taïga (Тайга)", "definition": "Forêt boréale de conifères couvrant la majeure partie de la Sibérie. Représente 22% des forêts mondiales et est le plus grand biome terrestre."},
-      {"term": "Permafrost (Вечная мерзлота)", "definition": "Sol gelé en permanence recouvrant 65% du territoire russe. Son dégel sous l'effet du réchauffement climatique menace les infrastructures."},
-      {"term": "Lac Baïkal (Байкал)", "definition": "Lac le plus profond (1 642 m) et le plus ancien (25 M d'années) du monde. Contient 20% de l'eau douce mondiale non gelée."},
-      {"term": "Pelmeni (Пельмени)", "definition": "Raviolis sibériens à la viande hachée. Plat national de la Sibérie, nés selon la légende des provisions de chasse congelées."},
-      {"term": "Transsibérien", "definition": "Ligne ferroviaire de 9 289 km reliant Moscou à Vladivostok. La plus longue du monde, construite en 1891-1916."},
-      {"term": "Omoul (Омуль)", "definition": "Poisson blanc endémique du lac Baïkal, fumé ou grillé. Plat emblématique de la région d'Irkoutsk."},
-      {"term": "Yasak (Ясак)", "definition": "Tribut en fourrures imposé aux peuples autochtones sibériens lors de la colonisation russe du XVIe-XVIIe siècle."},
-      {"term": "Nerpa (Нерпа)", "definition": "Phoque d'eau douce endémique du lac Baïkal — seul représentant mondial de cette espèce en eau douce."}
+      {
+        "term": "Taïga (Тайга)",
+        "definition": "Forêt boréale de conifères couvrant la majeure partie de la Sibérie. Représente 22% des forêts mondiales et est le plus grand biome terrestre."
+      },
+      {
+        "term": "Permafrost (Вечная мерзлота)",
+        "definition": "Sol gelé en permanence recouvrant 65% du territoire russe. Son dégel sous l'effet du réchauffement climatique menace les infrastructures."
+      },
+      {
+        "term": "Lac Baïkal (Байкал)",
+        "definition": "Lac le plus profond (1 642 m) et le plus ancien (25 M d'années) du monde. Contient 20% de l'eau douce mondiale non gelée."
+      },
+      {
+        "term": "Pelmeni (Пельмени)",
+        "definition": "Raviolis sibériens à la viande hachée. Plat national de la Sibérie, nés selon la légende des provisions de chasse congelées."
+      },
+      {
+        "term": "Transsibérien",
+        "definition": "Ligne ferroviaire de 9 289 km reliant Moscou à Vladivostok. La plus longue du monde, construite en 1891-1916."
+      },
+      {
+        "term": "Omoul (Омуль)",
+        "definition": "Poisson blanc endémique du lac Baïkal, fumé ou grillé. Plat emblématique de la région d'Irkoutsk."
+      },
+      {
+        "term": "Yasak (Ясак)",
+        "definition": "Tribut en fourrures imposé aux peuples autochtones sibériens lors de la colonisation russe du XVIe-XVIIe siècle."
+      },
+      {
+        "term": "Nerpa (Нерпа)",
+        "definition": "Phoque d'eau douce endémique du lac Baïkal — seul représentant mondial de cette espèce en eau douce."
+      }
     ],
     "quiz": [
       {
         "question": "Quelle superficie couvre approximativement la Sibérie ?",
-        "options": ["3 millions km²", "6 millions km²", "9 millions km²", "12 millions km²"],
-        "answer": 2,
-        "explanation": "La Sibérie couvre environ 9 millions de km² — soit 17 fois la France ou l'équivalent de l'Europe entière — pour seulement 27 millions d'habitants."
+        "options": [
+          "3 millions km²",
+          "6 millions km²",
+          "9 millions km²",
+          "12 millions km²"
+        ],
+        "explanation": "La Sibérie couvre environ 9 millions de km² — soit 17 fois la France ou l'équivalent de l'Europe entière — pour seulement 27 millions d'habitants.",
+        "correct_index": 2
       },
       {
         "question": "Quel pourcentage de l'eau douce mondiale non gelée contient le lac Baïkal ?",
-        "options": ["5%", "10%", "20%", "30%"],
-        "answer": 2,
-        "explanation": "Le lac Baïkal contient à lui seul 20% de toute l'eau douce non gelée de la planète, dans ses eaux cristallines profondes de 1 642 mètres."
+        "options": [
+          "5%",
+          "10%",
+          "20%",
+          "30%"
+        ],
+        "explanation": "Le lac Baïkal contient à lui seul 20% de toute l'eau douce non gelée de la planète, dans ses eaux cristallines profondes de 1 642 mètres.",
+        "correct_index": 2
       },
       {
         "question": "Quel célèbre écrivain russe a été déporté en Sibérie (1849-1854), expérience qui marqua son œuvre ?",
-        "options": ["Tolstoï", "Dostoïevski", "Pouchkine", "Tchekhov"],
-        "answer": 1,
-        "explanation": "Dostoïevski fut déporté en Sibérie de 1849 à 1854 après sa condamnation pour activité révolutionnaire. Cette expérience nourrit profondément son œuvre, notamment 'Souvenirs de la maison des morts'."
+        "options": [
+          "Tolstoï",
+          "Dostoïevski",
+          "Pouchkine",
+          "Tchekhov"
+        ],
+        "explanation": "Dostoïevski fut déporté en Sibérie de 1849 à 1854 après sa condamnation pour activité révolutionnaire. Cette expérience nourrit profondément son œuvre, notamment 'Souvenirs de la maison des morts'.",
+        "correct_index": 1
       },
       {
         "question": "Quelle était la ressource économique qui motiva la conquête russe de la Sibérie au XVIe-XVIIe siècle ?",
-        "options": ["Le pétrole", "Les fourrures (zibeline, renard)", "L'or et les diamants", "Le charbon"],
-        "answer": 1,
-        "explanation": "Les fourrures sibériennes (zibeline, renard, castor) étaient aussi précieuses que les épices d'Orient. Les tsars en tiraient un tiers de leurs revenus — moteur économique de la colonisation."
+        "options": [
+          "Le pétrole",
+          "Les fourrures (zibeline, renard)",
+          "L'or et les diamants",
+          "Le charbon"
+        ],
+        "explanation": "Les fourrures sibériennes (zibeline, renard, castor) étaient aussi précieuses que les épices d'Orient. Les tsars en tiraient un tiers de leurs revenus — moteur économique de la colonisation.",
+        "correct_index": 1
       },
       {
         "question": "Combien de kilomètres mesure le Transsibérien, la plus longue ligne ferroviaire du monde ?",
-        "options": ["5 000 km", "7 200 km", "9 289 km", "11 500 km"],
-        "answer": 2,
-        "explanation": "Le Transsibérien mesure 9 289 km de Moscou à Vladivostok, nécessitant 7 jours de train. Construit entre 1891 et 1916, il reste la plus longue ligne ferroviaire du monde."
+        "options": [
+          "5 000 km",
+          "7 200 km",
+          "9 289 km",
+          "11 500 km"
+        ],
+        "explanation": "Le Transsibérien mesure 9 289 km de Moscou à Vladivostok, nécessitant 7 jours de train. Construit entre 1891 et 1916, il reste la plus longue ligne ferroviaire du monde.",
+        "correct_index": 2
       }
     ]
   },
@@ -153,45 +214,94 @@
       "content": "**Транссиб + Байкал — путешествие всей жизни.** Если вы планируете поездку в Россию с целью открытия (с учётом нынешних политических ограничений), классический маршрут Москва → Иркутск (поездом, 3 ночи) → Байкал → Владивосток — самый полный российский опыт из возможных. Для Байкала предпочтительнее лето (июль–август) или февраль — по замёрзшему льду.\n\nКультурный курьёз: русские завороженно говорят о своей необъятной Сибири, но немногие там бывали. Для москвича Сибирь почти такая же экзотика, как для француза — страна внутри страны. Если вы путешествовали на Байкал или по Транссибу, у вас получатся захватывающие разговоры, далеко выходящие за рамки привычных клише.\n\n**В разговоре**: никогда не сводите Сибирь к ссылке и ГУЛАГу — даже если эта сторона реальна и важна. Для сегодняшних россиян Сибирь — прежде всего источник огромной национальной гордости: «Мы владеем этой территорией, этими богатствами, этой необъятностью». Это идентичность."
     },
     "glossary": [
-      {"term": "Тайга", "definition": "Бореальный хвойный лес, покрывающий большую часть Сибири. Составляет 22% мировых лесов и является крупнейшим наземным биомом."},
-      {"term": "Вечная мерзлота", "definition": "Постоянно мёрзлый грунт, занимающий 65% территории России. Таяние под воздействием глобального потепления угрожает инфраструктуре."},
-      {"term": "Байкал", "definition": "Самое глубокое (1 642 м) и древнее (25 млн лет) озеро в мире. Содержит 20% мировых незамёрзших запасов пресной воды."},
-      {"term": "Пельмени", "definition": "Сибирские пирожки с мясным фаршем. Национальное блюдо Сибири, появившееся, по преданию, из дорожных замороженных запасов охотников."},
-      {"term": "Транссибирская магистраль", "definition": "Железная дорога протяжённостью 9 289 км от Москвы до Владивостока. Самая длинная в мире, построена в 1891–1916 годах."},
-      {"term": "Омуль", "definition": "Эндемичная байкальская рыба, копчёная или жареная. Символическое блюдо иркутского региона."},
-      {"term": "Ясак", "definition": "Пушной оброк, взимавшийся с коренных народов Сибири в ходе русской колонизации XVI–XVII веков."},
-      {"term": "Нерпа", "definition": "Пресноводный тюлень, эндемичный для Байкала — единственный в мире представитель этого вида в пресной воде."}
+      {
+        "term": "Тайга",
+        "definition": "Бореальный хвойный лес, покрывающий большую часть Сибири. Составляет 22% мировых лесов и является крупнейшим наземным биомом."
+      },
+      {
+        "term": "Вечная мерзлота",
+        "definition": "Постоянно мёрзлый грунт, занимающий 65% территории России. Таяние под воздействием глобального потепления угрожает инфраструктуре."
+      },
+      {
+        "term": "Байкал",
+        "definition": "Самое глубокое (1 642 м) и древнее (25 млн лет) озеро в мире. Содержит 20% мировых незамёрзших запасов пресной воды."
+      },
+      {
+        "term": "Пельмени",
+        "definition": "Сибирские пирожки с мясным фаршем. Национальное блюдо Сибири, появившееся, по преданию, из дорожных замороженных запасов охотников."
+      },
+      {
+        "term": "Транссибирская магистраль",
+        "definition": "Железная дорога протяжённостью 9 289 км от Москвы до Владивостока. Самая длинная в мире, построена в 1891–1916 годах."
+      },
+      {
+        "term": "Омуль",
+        "definition": "Эндемичная байкальская рыба, копчёная или жареная. Символическое блюдо иркутского региона."
+      },
+      {
+        "term": "Ясак",
+        "definition": "Пушной оброк, взимавшийся с коренных народов Сибири в ходе русской колонизации XVI–XVII веков."
+      },
+      {
+        "term": "Нерпа",
+        "definition": "Пресноводный тюлень, эндемичный для Байкала — единственный в мире представитель этого вида в пресной воде."
+      }
     ],
     "quiz": [
       {
         "question": "Какую площадь занимает приблизительно Сибирь?",
-        "options": ["3 млн км²", "6 млн км²", "9 млн км²", "12 млн км²"],
-        "answer": 2,
-        "explanation": "Сибирь занимает около 9 миллионов км² — в 17 раз больше Франции или равно всей Европе — при этом здесь живут лишь 27 миллионов человек."
+        "options": [
+          "3 млн км²",
+          "6 млн км²",
+          "9 млн км²",
+          "12 млн км²"
+        ],
+        "explanation": "Сибирь занимает около 9 миллионов км² — в 17 раз больше Франции или равно всей Европе — при этом здесь живут лишь 27 миллионов человек.",
+        "correct_index": 2
       },
       {
         "question": "Какой процент незамёрзших мировых запасов пресной воды содержит Байкал?",
-        "options": ["5%", "10%", "20%", "30%"],
-        "answer": 2,
-        "explanation": "Байкал единолично содержит 20% всех незамёрзших запасов пресной воды на Земле в своих кристально прозрачных водах глубиной 1 642 метра."
+        "options": [
+          "5%",
+          "10%",
+          "20%",
+          "30%"
+        ],
+        "explanation": "Байкал единолично содержит 20% всех незамёрзших запасов пресной воды на Земле в своих кристально прозрачных водах глубиной 1 642 метра.",
+        "correct_index": 2
       },
       {
         "question": "Какой знаменитый русский писатель был сослан в Сибирь (1849–1854), и этот опыт отметил его творчество?",
-        "options": ["Толстой", "Достоевский", "Пушкин", "Чехов"],
-        "answer": 1,
-        "explanation": "Достоевский был сослан в Сибирь с 1849 по 1854 год после осуждения за революционную деятельность. Этот опыт глубоко питал его творчество, прежде всего «Записки из Мёртвого дома»."
+        "options": [
+          "Толстой",
+          "Достоевский",
+          "Пушкин",
+          "Чехов"
+        ],
+        "explanation": "Достоевский был сослан в Сибирь с 1849 по 1854 год после осуждения за революционную деятельность. Этот опыт глубоко питал его творчество, прежде всего «Записки из Мёртвого дома».",
+        "correct_index": 1
       },
       {
         "question": "Какой ресурс двигал русское завоевание Сибири в XVI–XVII веках?",
-        "options": ["Нефть", "Пушнина (соболь, лиса)", "Золото и алмазы", "Уголь"],
-        "answer": 1,
-        "explanation": "Сибирская пушнина (соболь, лиса, бобёр) стоила столько же, сколько восточные пряности. Цари получали с неё треть доходов — экономический двигатель колонизации."
+        "options": [
+          "Нефть",
+          "Пушнина (соболь, лиса)",
+          "Золото и алмазы",
+          "Уголь"
+        ],
+        "explanation": "Сибирская пушнина (соболь, лиса, бобёр) стоила столько же, сколько восточные пряности. Цари получали с неё треть доходов — экономический двигатель колонизации.",
+        "correct_index": 1
       },
       {
         "question": "Какова протяжённость Транссибирской магистрали — самой длинной железной дороги в мире?",
-        "options": ["5 000 км", "7 200 км", "9 289 км", "11 500 км"],
-        "answer": 2,
-        "explanation": "Транссибирская магистраль насчитывает 9 289 км от Москвы до Владивостока — 7 дней в пути. Построена с 1891 по 1916 год, по-прежнему самая длинная в мире."
+        "options": [
+          "5 000 км",
+          "7 200 км",
+          "9 289 км",
+          "11 500 км"
+        ],
+        "explanation": "Транссибирская магистраль насчитывает 9 289 км от Москвы до Владивостока — 7 дней в пути. Построена с 1891 по 1916 год, по-прежнему самая длинная в мире.",
+        "correct_index": 2
       }
     ]
   }

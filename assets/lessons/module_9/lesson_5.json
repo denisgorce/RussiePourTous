@@ -108,8 +108,8 @@
           "Faute d'amour (Nelyubov)",
           "Le Retour"
         ],
-        "answer": 2,
-        "explanation": "Faute d'amour (Нелюбовь, 2017) de Zviaguintsev a reçu le Prix du Jury au Festival de Cannes. Ce film sur la disparition d'un enfant entre des parents en instance de divorce est une métaphore de l'indifférence sociale dans la Russie contemporaine."
+        "explanation": "Faute d'amour (Нелюбовь, 2017) de Zviaguintsev a reçu le Prix du Jury au Festival de Cannes. Ce film sur la disparition d'un enfant entre des parents en instance de divorce est une métaphore de l'indifférence sociale dans la Russie contemporaine.",
+        "correct_index": 2
       },
       {
         "question": "Dans quelles circonstances Kirill Serebrennikov a-t-il réalisé le film Leto (2018) ?",
@@ -119,8 +119,8 @@
           "En co-production avec la France",
           "Dans un studio européen après son départ de Russie"
         ],
-        "answer": 1,
-        "explanation": "Serebrennikov a réalisé Leto en partie depuis son assignation à résidence — il était sous des poursuites judiciaires largement considérées comme politiquement motivées. Le film a été présenté à Cannes alors qu'il ne pouvait pas quitter la Russie."
+        "explanation": "Serebrennikov a réalisé Leto en partie depuis son assignation à résidence — il était sous des poursuites judiciaires largement considérées comme politiquement motivées. Le film a été présenté à Cannes alors qu'il ne pouvait pas quitter la Russie.",
+        "correct_index": 1
       },
       {
         "question": "Sur quoi porte le film Leto de Serebrennikov ?",
@@ -130,8 +130,8 @@
           "La chute de Gorbatchev",
           "Le Goulag à l'époque de Staline"
         ],
-        "answer": 1,
-        "explanation": "Leto (L'Été, 2018) est un biopic sur la scène rock de Leningrad des années 1980 — notamment sur Viktor Tsoi (Kino) et Mike Naumenko (Zoopark). Un film d'une légèreté et d'une mélancolie rares sur la création sous contrainte."
+        "explanation": "Leto (L'Été, 2018) est un biopic sur la scène rock de Leningrad des années 1980 — notamment sur Viktor Tsoi (Kino) et Mike Naumenko (Zoopark). Un film d'une légèreté et d'une mélancolie rares sur la création sous contrainte.",
+        "correct_index": 1
       },
       {
         "question": "Sur quelle plateforme de streaming peut-on trouver un bon catalogue de cinéma russe et soviétique en France ?",
@@ -141,8 +141,8 @@
           "MUBI",
           "Canal+"
         ],
-        "answer": 2,
-        "explanation": "MUBI est une plateforme de streaming spécialisée dans le cinéma d'auteur avec un excellent catalogue de cinéma russe et soviétique — films de Tarkovski, Eisenstein, et cinéma contemporain."
+        "explanation": "MUBI est une plateforme de streaming spécialisée dans le cinéma d'auteur avec un excellent catalogue de cinéma russe et soviétique — films de Tarkovski, Eisenstein, et cinéma contemporain.",
+        "correct_index": 2
       },
       {
         "question": "Quel snack russe est recommandé pour accompagner une soirée cinéma russe ?",
@@ -152,8 +152,8 @@
           "De la vodka et du hareng",
           "Du caviar rouge et des blinis"
         ],
-        "answer": 1,
-        "explanation": "Les semetchki (graines de tournesol grillées) sont le snack cinéma par excellence en Russie, accompagnés d'un thé noir fort dans un verre. Ce duo simple et culturellement authentique est parfait pour une soirée cinéma russe."
+        "explanation": "Les semetchki (graines de tournesol grillées) sont le snack cinéma par excellence en Russie, accompagnés d'un thé noir fort dans un verre. Ce duo simple et culturellement authentique est parfait pour une soirée cinéma russe.",
+        "correct_index": 1
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Нелюбовь",
           "Возвращение"
         ],
-        "answer": 2,
-        "explanation": "«Нелюбовь» (2017) Звягинцева получила Приз жюри Каннского фестиваля. Этот фильм об исчезновении ребёнка между разводящимися родителями — метафора социального безразличия в современной России."
+        "explanation": "«Нелюбовь» (2017) Звягинцева получила Приз жюри Каннского фестиваля. Этот фильм об исчезновении ребёнка между разводящимися родителями — метафора социального безразличия в современной России.",
+        "correct_index": 2
       },
       {
         "question": "При каких обстоятельствах Серебренников снял фильм «Лето» (2018)?",
@@ -259,8 +259,8 @@
           "В совместном производстве с Францией",
           "В европейской студии после отъезда из России"
         ],
-        "answer": 1,
-        "explanation": "Серебренников снял «Лето» частично под домашним арестом — он был под уголовным преследованием, широко расцениваемым как политически мотивированное. Фильм был представлен в Каннах, тогда как он не мог покинуть Россию."
+        "explanation": "Серебренников снял «Лето» частично под домашним арестом — он был под уголовным преследованием, широко расцениваемым как политически мотивированное. Фильм был представлен в Каннах, тогда как он не мог покинуть Россию.",
+        "correct_index": 1
       },
       {
         "question": "О чём фильм «Лето» Серебренникова?",
@@ -270,8 +270,8 @@
           "Отставка Горбачёва",
           "ГУЛАГ при Сталине"
         ],
-        "answer": 1,
-        "explanation": "«Лето» (2018) — байопик о ленинградской рок-сцене 1980-х, в первую очередь о Викторе Цое («Кино») и Майке Науменко («Зоопарк»). Фильм редкой лёгкости и меланхолии о творчестве в условиях ограничений."
+        "explanation": "«Лето» (2018) — байопик о ленинградской рок-сцене 1980-х, в первую очередь о Викторе Цое («Кино») и Майке Науменко («Зоопарк»). Фильм редкой лёгкости и меланхолии о творчестве в условиях ограничений.",
+        "correct_index": 1
       },
       {
         "question": "На какой стриминговой платформе во Франции можно найти хороший каталог российского и советского кино?",
@@ -281,8 +281,8 @@
           "MUBI",
           "Canal+"
         ],
-        "answer": 2,
-        "explanation": "MUBI — стриминговая платформа, специализирующаяся на авторском кино, с превосходным каталогом российского и советского кино: фильмы Тарковского, Эйзенштейна и современное кино."
+        "explanation": "MUBI — стриминговая платформа, специализирующаяся на авторском кино, с превосходным каталогом российского и советского кино: фильмы Тарковского, Эйзенштейна и современное кино.",
+        "correct_index": 2
       },
       {
         "question": "Что рекомендуется подать к российскому кино-вечеру?",
@@ -292,8 +292,8 @@
           "Водка и сельдь",
           "Красная икра и блины"
         ],
-        "answer": 1,
-        "explanation": "Семечки — главный кино-перекус в России в сопровождении крепкого чёрного чая в стакане. Эта простая и культурно аутентичная пара идеальна для российского кино-вечера."
+        "explanation": "Семечки — главный кино-перекус в России в сопровождении крепкого чёрного чая в стакане. Эта простая и культурно аутентичная пара идеальна для российского кино-вечера.",
+        "correct_index": 1
       }
     ]
   }

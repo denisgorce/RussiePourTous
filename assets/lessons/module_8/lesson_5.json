@@ -108,8 +108,8 @@
           "Par des architectes allemands en hommage à Pierre le Grand",
           "Par une école d'architecture impériale russe fondée par Pierre le Grand"
         ],
-        "answer": 1,
-        "explanation": "Les grandes constructions de Saint-Pétersbourg ont été conçues par des architectes européens — italiens et français principalement : Rastelli (Palais d'hiver), Quarenghi (Institut Smolny), Rossi (Palais des Arts). Pierre le Grand voulait créer une ville radicalement européenne, et il a fait appel aux meilleurs architectes d'Europe pour y parvenir."
+        "explanation": "Les grandes constructions de Saint-Pétersbourg ont été conçues par des architectes européens — italiens et français principalement : Rastelli (Palais d'hiver), Quarenghi (Institut Smolny), Rossi (Palais des Arts). Pierre le Grand voulait créer une ville radicalement européenne, et il a fait appel aux meilleurs architectes d'Europe pour y parvenir.",
+        "correct_index": 1
       },
       {
         "question": "Qu'était une «dom kommuna» dans l'architecture soviétique des années 1920 ?",
@@ -119,8 +119,8 @@
           "Un grand ensemble de logements sociaux avec cours intérieures partagées",
           "Un type d'immeuble préfabriqué standard diffusé dans toute l'URSS"
         ],
-        "answer": 1,
-        "explanation": "La dom kommuna (maison commune) était un projet utopique de l'architecture constructiviste des années 1920 : des immeubles où les fonctions domestiques (cuisine, lavanderie, crèche) seraient collectivisées pour libérer les individus — notamment les femmes — des tâches ménagères. Ces projets ont été abandonnés sous le stalinisme."
+        "explanation": "La dom kommuna (maison commune) était un projet utopique de l'architecture constructiviste des années 1920 : des immeubles où les fonctions domestiques (cuisine, lavanderie, crèche) seraient collectivisées pour libérer les individus — notamment les femmes — des tâches ménagères. Ces projets ont été abandonnés sous le stalinisme.",
+        "correct_index": 1
       },
       {
         "question": "Pourquoi le métro de Moscou est-il architecturalement remarquable ?",
@@ -130,8 +130,8 @@
           "Parce qu'il est entièrement souterrain et n'a aucune station aérienne",
           "Parce qu'il utilise une architecture futuriste moderniste unique au monde"
         ],
-        "answer": 1,
-        "explanation": "Le métro de Moscou, construit sous Staline comme «palais pour le peuple», est célèbre pour ses stations richement décorées : mosaïques représentant des scènes soviétiques, fresques, lustres de cristal, sculptures. Des stations comme Komsomolskaïa ou Maïakhovskaïa sont considérées comme des chefs-d'œuvre de l'art soviétique."
+        "explanation": "Le métro de Moscou, construit sous Staline comme «palais pour le peuple», est célèbre pour ses stations richement décorées : mosaïques représentant des scènes soviétiques, fresques, lustres de cristal, sculptures. Des stations comme Komsomolskaïa ou Maïakhovskaïa sont considérées comme des chefs-d'œuvre de l'art soviétique.",
+        "correct_index": 1
       },
       {
         "question": "Qu'est-ce que les «khrouchtchyovki» dans le paysage urbain russe ?",
@@ -141,8 +141,8 @@
           "Les datchas collectives construites pour les travailleurs soviétiques",
           "Les bâtiments administratifs régionaux du système soviétique"
         ],
-        "answer": 1,
-        "explanation": "Les khrouchtchyovki sont de petits immeubles de cinq étages (sans ascenseur) construits à la hâte sous Khrouchtchev dans les années 1960 pour résoudre rapidement la crise du logement soviétique. Avec des appartements de 30 à 50 m², ils ont permis à des millions de familles d'avoir pour la première fois un logement indépendant."
+        "explanation": "Les khrouchtchyovki sont de petits immeubles de cinq étages (sans ascenseur) construits à la hâte sous Khrouchtchev dans les années 1960 pour résoudre rapidement la crise du logement soviétique. Avec des appartements de 30 à 50 m², ils ont permis à des millions de familles d'avoir pour la première fois un logement indépendant.",
+        "correct_index": 1
       },
       {
         "question": "Qu'est-ce qui rend la cathédrale Saint-Basile architecturalement unique dans le monde ?",
@@ -152,8 +152,8 @@
           "Elle est construite entièrement en marbre blanc importé d'Italie",
           "C'est le seul édifice religieux russe classé au patrimoine mondial de l'UNESCO"
         ],
-        "answer": 1,
-        "explanation": "La cathédrale Saint-Basile (1561) est unique parce que ses huit coupoles polychromes disposées autour d'une tour centrale ne ressemblent à aucun autre style architectural — ni byzantine, ni gothique, ni baroque. C'est une invention architecturale proprement russe qui n'a aucun précédent ni équivalent dans l'architecture mondiale."
+        "explanation": "La cathédrale Saint-Basile (1561) est unique parce que ses huit coupoles polychromes disposées autour d'une tour centrale ne ressemblent à aucun autre style architectural — ni byzantine, ni gothique, ni baroque. C'est une invention architecturale proprement russe qui n'a aucun précédent ni équivalent dans l'architecture mondiale.",
+        "correct_index": 1
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Немецкими архитекторами в честь Петра Великого",
           "Императорской архитектурной школой, основанной Петром Великим"
         ],
-        "answer": 1,
-        "explanation": "Великие постройки Санкт-Петербурга проектировали европейские архитекторы — прежде всего итальянцы и французы: Растрелли (Зимний дворец), Кваренги (Смольный институт), Росси (дворцы). Пётр Великий хотел создать радикально европейский город и пригласил для этого лучших архитекторов Европы."
+        "explanation": "Великие постройки Санкт-Петербурга проектировали европейские архитекторы — прежде всего итальянцы и французы: Растрелли (Зимний дворец), Кваренги (Смольный институт), Росси (дворцы). Пётр Великий хотел создать радикально европейский город и пригласил для этого лучших архитекторов Европы.",
+        "correct_index": 1
       },
       {
         "question": "Что такое «дом-коммуна» в советской архитектуре 1920-х?",
@@ -259,8 +259,8 @@
           "Большой жилой массив с общими внутренними дворами",
           "Стандартный панельный дом, тиражированный по всему СССР"
         ],
-        "answer": 1,
-        "explanation": "Дом-коммуна — утопический проект конструктивистской архитектуры 1920-х годов: здания с коллективными кухнями, прачечными, яслями, которые должны были освободить жильцов — прежде всего женщин — от домашнего труда. Эти проекты были свёрнуты при сталинизме."
+        "explanation": "Дом-коммуна — утопический проект конструктивистской архитектуры 1920-х годов: здания с коллективными кухнями, прачечными, яслями, которые должны были освободить жильцов — прежде всего женщин — от домашнего труда. Эти проекты были свёрнуты при сталинизме.",
+        "correct_index": 1
       },
       {
         "question": "Чем примечательно московское метро в архитектурном отношении?",
@@ -270,8 +270,8 @@
           "Оно полностью подземное и не имеет наземных станций",
           "В нём используется уникальная в мире футуристическая модернистская архитектура"
         ],
-        "answer": 1,
-        "explanation": "Московское метро, построенное при Сталине как «дворец для народа», знаменито богатым убранством станций: мозаики с советскими сюжетами, фрески, хрустальные люстры, скульптуры. Станции Комсомольская и Маяковская считаются шедеврами советского искусства."
+        "explanation": "Московское метро, построенное при Сталине как «дворец для народа», знаменито богатым убранством станций: мозаики с советскими сюжетами, фрески, хрустальные люстры, скульптуры. Станции Комсомольская и Маяковская считаются шедеврами советского искусства.",
+        "correct_index": 1
       },
       {
         "question": "Что такое «хрущёвки» в российском городском пейзаже?",
@@ -281,8 +281,8 @@
           "Коллективные дачи для советских рабочих",
           "Региональные административные здания советской системы"
         ],
-        "answer": 1,
-        "explanation": "Хрущёвки — пятиэтажные дома (без лифта), наспех построенные при Хрущёве в 1960-е для быстрого решения советского жилищного кризиса. С квартирами по 30–50 кв. м они впервые дали миллионам семей отдельное жильё."
+        "explanation": "Хрущёвки — пятиэтажные дома (без лифта), наспех построенные при Хрущёве в 1960-е для быстрого решения советского жилищного кризиса. С квартирами по 30–50 кв. м они впервые дали миллионам семей отдельное жильё.",
+        "correct_index": 1
       },
       {
         "question": "Что делает Собор Василия Блаженного уникальным в мире?",
@@ -292,8 +292,8 @@
           "Он построен целиком из белого мрамора, привезённого из Италии",
           "Это единственный российский культовый памятник в списке Всемирного наследия ЮНЕСКО"
         ],
-        "answer": 1,
-        "explanation": "Собор Василия Блаженного (1561) уникален тем, что его восемь разноцветных куполов вокруг центральной башни не напоминают ни один другой архитектурный стиль — ни византийский, ни готический, ни барочный. Это подлинно русское архитектурное изобретение, не имеющее ни предшественников, ни аналогов."
+        "explanation": "Собор Василия Блаженного (1561) уникален тем, что его восемь разноцветных куполов вокруг центральной башни не напоминают ни один другой архитектурный стиль — ни византийский, ни готический, ни барочный. Это подлинно русское архитектурное изобретение, не имеющее ни предшественников, ни аналогов.",
+        "correct_index": 1
       }
     ]
   }

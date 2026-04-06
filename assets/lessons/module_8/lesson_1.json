@@ -108,8 +108,8 @@
           "La mort de sa femme pendant l'écriture des Frères Karamazov",
           "Son exil en Europe occidentale imposé par le Tsar"
         ],
-        "answer": 1,
-        "explanation": "Arrêté en 1849, Dostoïevski est condamné à mort, gracié in extremis sur le lieu d'exécution (simulacre délibéré) puis envoyé au bagne sibérien pendant quatre ans. Cette expérience — la mort frôlée, les années de camp — est au cœur de toute son œuvre ultérieure."
+        "explanation": "Arrêté en 1849, Dostoïevski est condamné à mort, gracié in extremis sur le lieu d'exécution (simulacre délibéré) puis envoyé au bagne sibérien pendant quatre ans. Cette expérience — la mort frôlée, les années de camp — est au cœur de toute son œuvre ultérieure.",
+        "correct_index": 1
       },
       {
         "question": "Quel philosophe ou leader a été directement influencé par les idées non-violentes de Tolstoï ?",
@@ -119,8 +119,8 @@
           "Mahatma Gandhi",
           "Jean-Paul Sartre"
         ],
-        "answer": 2,
-        "explanation": "Gandhi reconnaissait explicitement sa dette envers Tolstoï pour le concept de résistance non-violente. Les deux hommes ont même correspondu dans les dernières années de la vie de Tolstoï. Le tolstoïsme (non-violence, désobéissance civile pacifique) a directement nourri la pensée gandhienne."
+        "explanation": "Gandhi reconnaissait explicitement sa dette envers Tolstoï pour le concept de résistance non-violente. Les deux hommes ont même correspondu dans les dernières années de la vie de Tolstoï. Le tolstoïsme (non-violence, désobéissance civile pacifique) a directement nourri la pensée gandhienne.",
+        "correct_index": 2
       },
       {
         "question": "Quelle ville est le cadre principal des romans de Dostoïevski ?",
@@ -130,8 +130,8 @@
           "Saint-Pétersbourg",
           "Novgorod"
         ],
-        "answer": 2,
-        "explanation": "Dostoïevski est essentiellement l'écrivain de Saint-Pétersbourg — ses ruelles sombres, ses cours intérieures et ses appartements misérables sont décrits avec une précision hallucinée. Le quartier de Sennaya Plochtchad dans Crime et Châtiment est encore reconnaissable aujourd'hui."
+        "explanation": "Dostoïevski est essentiellement l'écrivain de Saint-Pétersbourg — ses ruelles sombres, ses cours intérieures et ses appartements misérables sont décrits avec une précision hallucinée. Le quartier de Sennaya Plochtchad dans Crime et Châtiment est encore reconnaissable aujourd'hui.",
+        "correct_index": 2
       },
       {
         "question": "Quelle sanction l'Église orthodoxe a-t-elle infligée à Tolstoï en 1901 ?",
@@ -141,8 +141,8 @@
           "Un exil forcé à l'étranger",
           "Une condamnation pour blasphème devant un tribunal civil"
         ],
-        "answer": 1,
-        "explanation": "Tolstoï a été officiellement excommunié par l'Église orthodoxe russe en 1901 en raison de ses critiques répétées de l'institution ecclésiastique, de ses positions hétérodoxes sur le christianisme et de son refus des sacrements. Il continua à se définir comme chrétien, mais à sa manière."
+        "explanation": "Tolstoï a été officiellement excommunié par l'Église orthodoxe russe en 1901 en raison de ses critiques répétées de l'institution ecclésiastique, de ses positions hétérodoxes sur le christianisme et de son refus des sacrements. Il continua à se définir comme chrétien, mais à sa manière.",
+        "correct_index": 1
       },
       {
         "question": "Quel film soviétique adapté de Tolstoï a remporté l'Oscar du meilleur film étranger ?",
@@ -152,8 +152,8 @@
           "Résurrection de Mikhaïl Schweitzer (1960)",
           "La Sonate à Kreutzer de Mikhaïl Schweitzer (1987)"
         ],
-        "answer": 1,
-        "explanation": "Le Guerre et Paix de Sergueï Bondartchouk (1966-1967) est l'une des plus grandes superproductions de l'histoire du cinéma — tournée avec des dizaines de milliers de figurants, elle a remporté l'Oscar du meilleur film en langue étrangère en 1968. C'est une porte d'entrée magnifique dans l'univers tolstoïen."
+        "explanation": "Le Guerre et Paix de Sergueï Bondartchouk (1966-1967) est l'une des plus grandes superproductions de l'histoire du cinéma — tournée avec des dizaines de milliers de figurants, elle a remporté l'Oscar du meilleur film en langue étrangère en 1968. C'est une porte d'entrée magnifique dans l'univers tolstoïen.",
+        "correct_index": 1
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Смерть жены во время работы над Братьями Карамазовыми",
           "Вынужденная эмиграция на Запад по указу царя"
         ],
-        "answer": 1,
-        "explanation": "Арестованный в 1849 году, Достоевский был приговорён к смерти, помилован в последний момент на месте казни (намеренный розыгрыш) и отправлен на четыре года на сибирскую каторгу. Этот опыт — пережитая на грани смерть, годы лагеря — лежит в основе всего его дальнейшего творчества."
+        "explanation": "Арестованный в 1849 году, Достоевский был приговорён к смерти, помилован в последний момент на месте казни (намеренный розыгрыш) и отправлен на четыре года на сибирскую каторгу. Этот опыт — пережитая на грани смерть, годы лагеря — лежит в основе всего его дальнейшего творчества.",
+        "correct_index": 1
       },
       {
         "question": "Кто из философов или лидеров прямо воспринял идеи ненасилия Толстого?",
@@ -259,8 +259,8 @@
           "Махатма Ганди",
           "Жан-Поль Сартр"
         ],
-        "answer": 2,
-        "explanation": "Ганди прямо признавал свой долг перед Толстым в концепции ненасильственного сопротивления. Они даже переписывались в последние годы жизни Толстого. Толстовство (ненасилие, мирное гражданское неповиновение) непосредственно питало мысль Ганди."
+        "explanation": "Ганди прямо признавал свой долг перед Толстым в концепции ненасильственного сопротивления. Они даже переписывались в последние годы жизни Толстого. Толстовство (ненасилие, мирное гражданское неповиновение) непосредственно питало мысль Ганди.",
+        "correct_index": 2
       },
       {
         "question": "Какой город составляет главный фон романов Достоевского?",
@@ -270,8 +270,8 @@
           "Санкт-Петербург",
           "Новгород"
         ],
-        "answer": 2,
-        "explanation": "Достоевский — прежде всего писатель Санкт-Петербурга, описывающий его с галлюцинаторной точностью: тёмные переулки, дворы-колодцы и жалкие квартиры. Сенная площадь в Преступлении и наказании узнаваема до сих пор."
+        "explanation": "Достоевский — прежде всего писатель Санкт-Петербурга, описывающий его с галлюцинаторной точностью: тёмные переулки, дворы-колодцы и жалкие квартиры. Сенная площадь в Преступлении и наказании узнаваема до сих пор.",
+        "correct_index": 2
       },
       {
         "question": "Какое наказание Православная церковь вынесла Толстому в 1901 году?",
@@ -281,8 +281,8 @@
           "Принудительная эмиграция за рубеж",
           "Осуждение за богохульство в гражданском суде"
         ],
-        "answer": 1,
-        "explanation": "Толстой был официально отлучён от церкви Русской православной церковью в 1901 году за неоднократную критику церковного института, нетрадиционные взгляды на христианство и отказ от таинств. Он продолжал называть себя христианином — по-своему."
+        "explanation": "Толстой был официально отлучён от церкви Русской православной церковью в 1901 году за неоднократную критику церковного института, нетрадиционные взгляды на христианство и отказ от таинств. Он продолжал называть себя христианином — по-своему.",
+        "correct_index": 1
       },
       {
         "question": "Какой советский фильм по Толстому получил премию «Оскар» за лучший иностранный фильм?",
@@ -292,8 +292,8 @@
           "«Воскресение» Михаила Швейцера (1960)",
           "«Крейцерова соната» Михаила Швейцера (1987)"
         ],
-        "answer": 1,
-        "explanation": "«Война и мир» Сергея Бондарчука (1966–1967) — одна из величайших суперпродукций в истории кино, снятая с десятками тысяч статистов. Фильм получил «Оскар» за лучший иностранный фильм в 1968 году и остаётся прекрасной точкой входа в мир Толстого."
+        "explanation": "«Война и мир» Сергея Бондарчука (1966–1967) — одна из величайших суперпродукций в истории кино, снятая с десятками тысяч статистов. Фильм получил «Оскар» за лучший иностранный фильм в 1968 году и остаётся прекрасной точкой входа в мир Толстого.",
+        "correct_index": 1
       }
     ]
   }

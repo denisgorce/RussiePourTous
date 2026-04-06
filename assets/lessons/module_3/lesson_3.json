@@ -1,10 +1,28 @@
 {
-  "meta": {"module_id": 3, "lesson_id": 3, "module_icon": "🏛️", "lesson_icon": "⚖️", "estimated_minutes": 12, "difficulty": "intermédiaire",
+  "meta": {
+    "module_id": 3,
+    "lesson_id": 3,
+    "module_icon": "🏛️",
+    "lesson_icon": "⚖️",
+    "estimated_minutes": 12,
+    "difficulty": "intermédiaire",
     "sources": [
-      {"label": "Transparency International — Russie", "url": "https://www.transparency.org/en/countries/russia"},
-      {"label": "IFRI — Les forces de sécurité russes", "url": "https://www.ifri.org/fr/russie"},
-      {"label": "France Diplomatie — Armée russe", "url": "https://www.diplomatie.gouv.fr/"},
-      {"label": "Encyclopædia Universalis — FSB", "url": "https://www.universalis.fr/"}
+      {
+        "label": "Transparency International — Russie",
+        "url": "https://www.transparency.org/en/countries/russia"
+      },
+      {
+        "label": "IFRI — Les forces de sécurité russes",
+        "url": "https://www.ifri.org/fr/russie"
+      },
+      {
+        "label": "France Diplomatie — Armée russe",
+        "url": "https://www.diplomatie.gouv.fr/"
+      },
+      {
+        "label": "Encyclopædia Universalis — FSB",
+        "url": "https://www.universalis.fr/"
+      }
     ]
   },
   "fr": {
@@ -13,22 +31,40 @@
     "lesson_subtitle": "Les forces de l'État",
     "intro": "Pour comprendre comment fonctionne réellement la Russie, il faut comprendre ses trois bras coercitifs : une justice rendue au nom de l'État mais souvent instrumentalisée, des forces de l'ordre multiples et parfois concurrentes, et une armée dont le rôle social va bien au-delà de la défense. Ces institutions façonnent quotidiennement la vie des Russes — et leur rapport au pouvoir.",
     "sections": [
-      {"theme": "Histoire", "icon": "📜", "title": "Du Tsarisme au FSB — la continuité des services secrets",
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "Du Tsarisme au FSB — la continuité des services secrets",
         "body": "La Russie a une tradition ancienne de services secrets puissants. L'**Okhrana** (Охрана) tsariste surveillait les opposants politiques et infiltrait les mouvements révolutionnaires au XIXe siècle. Les bolchéviques créent en 1917 la **Tchéka** (ЧК, Commission Extraordinaire) — police politique impitoyable dirigée par Félix Dzerjinski, dont la statue trônait encore devant le FSB jusqu'en 1991.\n\nLa Tchéka devient successivement le GPU, OGPU, NKVD (sous Staline, responsable du Goulag et des purges), KGB (1954–1991). Le KGB soviétique était le service de sécurité le plus puissant de l'histoire moderne : renseignement extérieur, contre-espionnage, surveillance intérieure, frontières — tout en un.\n\nEn 1991, le KGB est dissous et ses fonctions redistribuées entre plusieurs agences. Le **FSB** (ФСБ — Федеральная служба безопасности) hérite de la sécurité intérieure, le **SVR** du renseignement extérieur, le **GRU** reste le renseignement militaire. Vladimir Poutine a dirigé le FSB de 1998 à 1999 — sa formation dans ces structures explique sa compréhension intime du système."
       },
-      {"theme": "Géographie", "icon": "🗺️", "title": "L'Armée russe — de la conscription au professionnel",
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "L'Armée russe — de la conscription au professionnel",
         "body": "L'armée russe (Вооружённые силы России) est la deuxième armée mondiale en termes de capacités conventionnelles et la première puissance nucléaire avec **6 257 ogives** (dont ~1 588 déployées). Elle dispose d'un budget d'environ **70 milliards de dollars** (contre 800 milliards pour les États-Unis) mais compense par une industrie d'armement nationale très développée.\n\nLa conscription (service militaire de 12 mois) est obligatoire pour les hommes de 18 à 27 ans, avec de nombreuses exemptions possibles (études, santé, famille). Dans les milieux urbains éduqués, l'évitement de la conscription via les exemptions ou la corruption était traditionnel — ce qui explique que la guerre de 2022 et surtout la mobilisation partielle de septembre 2022 ont créé un choc dans ces milieux.\n\nGéographiquement, les forces militaires russes sont déployées sur l'ensemble du territoire, avec des concentrations dans les **Districts militaires** (Ouest, Sud, Centre, Est). Les principales bases navales sont Sébastopol (mer Noire — dont le statut est contesté depuis 2014), Baltiysk (Baltique), Mourmansk (Arctique — base des sous-marins nucléaires)."
       },
-      {"theme": "Politique & Société", "icon": "⚖️", "title": "La justice instrumentalisée",
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "La justice instrumentalisée",
         "body": "L'indépendance judiciaire est formellement garantie par la Constitution russe — et massivement violée dans la pratique. Les **juges russes** sont nommés par le Président pour les cours supérieures, et exercent sous des pressions multiples (hiérarchiques, financières, sécuritaires) qui les rendent très dépendants de l'exécutif.\n\nLe taux d'**acquittement** en Russie est inférieur à **0,5%** — contre environ 20% en France et 17% aux États-Unis. Ce chiffre illustre la réalité : une fois renvoyé en jugement par le parquet, un accusé est quasiment condamné d'avance. Les procureurs savent qu'envoyer un dossier au tribunal sans être sûr de gagner est une faute professionnelle.\n\nLa justice est souvent utilisée comme outil politique : des exemples célèbres incluent l'affaire **Khodorkovsky** (oligarque le plus riche de Russie emprisonné 10 ans après avoir financé des partis d'opposition), l'affaire **Navalny** (multiples condamnations sur des chefs flous), les procès des manifestants de Bolotnaya. Pour les affaires ordinaires sans enjeu politique, la justice fonctionne de façon plus normale — mais la corruption et les pressions locales restent présentes."
       },
-      {"theme": "Économie & Vie quotidienne", "icon": "🏠", "title": "La police, la corruption et la vie quotidienne",
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "La police, la corruption et la vie quotidienne",
         "body": "La Russie dispose de plusieurs forces de l'ordre. La **Police nationale** (Полиция, *Politsiya*, réformée en 2011 — anciennement «Militsiya») gère la sécurité publique quotidienne. La **Garde nationale** (Росгвардия, *Rosgvardiya*, créée en 2016) est une force paramilitaire de 340 000 hommes, directement rattachée au Président — créée expressément pour réprimer les désordres intérieurs. Le **FSB** gère le contre-terrorisme et la sécurité nationale.\n\nLa **corruption policière** est un phénomène bien documenté et largement accepté. L'indice de perception de la corruption de Transparency International place la Russie autour de la **137e place** (sur 180 pays) — plus corrompue que le Kazakhstan, équivalente à la Somalie dans certaines mesures. Dans la pratique quotidienne, cela signifie que les **infractions routières** se règlent souvent en espèces sur le bord de la route, que certains services administratifs nécessitent des «facilitations», que les petites entreprises entretiennent des relations informelles avec l'inspection.\n\nCette réalité crée un cynisme envers les institutions tout en maintenant des accommodements pragmatiques. Les Russes ne sont pas naïfs sur la corruption de leur pays — ils la vivent quotidiennement et en parlent avec une franchise qui peut surprendre un Français."
       },
-      {"theme": "Culture & Arts", "icon": "🎨", "title": "La culture du service — l'armée dans l'imaginaire russe",
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "La culture du service — l'armée dans l'imaginaire russe",
         "body": "L'armée occupe une place symbolique très différente dans les imaginaires français et russe. En France, l'armée est une institution parmi d'autres. En Russie, **le service militaire et la défense de la patrie** sont des valeurs centrales de l'identité nationale, profondément ancrées par le souvenir de la Grande Guerre patriotique.\n\nLa figure du «**défenseur de la patrie**» (защитник Отечества, *zashchitnik Otechestva*) est célébrée chaque **23 février** (fête nationale des hommes, officiellement «Jour du Défenseur de la Patrie»). Ce jour est l'équivalent de la fête des mères pour les femmes — on offre des cadeaux aux hommes, aux pères, aux grands-pères. Ce rituel illustre comment la valeur militaire est inscrite dans la structure même de la vie familiale.\n\nLa littérature de guerre russe — de **Tolstoï** (*Sébastopol*) à **Cholokhov** (*Le Don paisible*) à **Grossman** (*Vie et Destin*, interdit puis publié après la chute de l'URSS) — est parmi les plus grandes du monde. Vassili Grossman, journaliste de guerre ayant couvert Stalingrad et Treblinka, produit avec *Vie et Destin* une fresque qui compare le nazisme et le stalinisme — un acte de courage artistique et moral exceptionnel."
       },
-      {"theme": "Gastronomie & Codes sociaux", "icon": "🍲", "title": "Armée et cuisine — la popote russe",
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "Armée et cuisine — la popote russe",
         "body": "La cuisine militaire russe a ses classiques qui débordent largement dans la cuisine civile. La **kasha** (каша) — bouillie de sarrasin, d'orge ou de millet — est l'aliment militaire par excellence depuis des siècles : nourrissant, peu cher, facile à préparer en grande quantité. L'expression «щи да каша — пища наша» (*shchi da kasha — pishcha nasha* — «soupe de chou et bouillie — voilà notre nourriture») est un dicton populaire qui illustre cette cuisine sobre et fonctionnelle.\n\nLe **«Zavtrak»** (завтрак — petit-déjeuner) russe typique dans l'armée et dans les familles comprend : kasha, œufs, pain noir, fromage ou saucisse, thé. Ce petit-déjeuner solide contraste avec le café-croissant français et correspond à une philosophie alimentaire : on se prépare à une journée difficile.\n\nLe rituel social militaire le plus important est la **«bania»** (баня — étuve russe similaire au sauna), particulièrement populaire dans les unités militaires où elle joue un rôle de cohésion sociale. La bania est à la fois hygiénique et sociale : on y discute, on s'y lie d'amitié, on y noue des relations de confiance. Si vous êtes invité à la bania par des Russes — militaires ou civils — c'est un signe de grande confiance et d'intégration au cercle intime."
       }
     ],
@@ -38,40 +74,94 @@
       "content": "**En cas de contact avec la police russe** : restez calme, poli et coopératif. Avoir votre passeport sur vous est obligatoire légalement (les étrangers doivent pouvoir présenter leurs papiers à tout moment). Si vous êtes interpellé, demandez la raison clairement mais sans agressivité. La plupart des policiers russes n'ont aucune hostilité particulière envers les touristes occidentaux en temps normal — les difficultés surgissent surtout dans des contextes spécifiques (manifestations, zones sensibles).\n\nSur la corruption : ne jamais proposer activement un pot-de-vin à un fonctionnaire ou un policier — vous risqueriez une arrestation pour tentative de corruption. Si un fonctionnaire suggère une «facilitation», c'est à vous de juger la situation. En cas d'infraction routière, connaître la procédure officielle peut vous éviter de vous faire rançonner.\n\n**Pour les conversations** : le sujet de l'armée et de la guerre est extrêmement sensible depuis 2022. De nombreuses familles ont des proches mobilisés ou disparus. Ne jamais plaisanter sur ces sujets ni exprimer d'opinions tranchées sur la guerre — vous toucheriez à des deuils très réels."
     },
     "glossary": [
-      {"term": "FSB (ФСБ)", "definition": "Service fédéral de sécurité, héritier du KGB. Chargé du contre-espionnage, contre-terrorisme et sécurité intérieure. Poutine en fut directeur 1998-99."},
-      {"term": "Rosgvardiya (Росгвардия)", "definition": "Garde nationale russe créée en 2016, force paramilitaire de 340 000 hommes directement rattachée au Président. Conçue pour réprimer les désordres intérieurs."},
-      {"term": "Tchéka (ЧК)", "definition": "Police politique bolchévique fondée en 1917 par Dzerjinski, ancêtre du KGB et du FSB. Son acronyme est entré dans le langage courant pour désigner la police secrète."},
-      {"term": "Taux d'acquittement", "definition": "Moins de 0,5% en Russie (contre ~20% en France). Indicateur emblématique du manque d'indépendance judiciaire — presque toute mise en accusation débouche sur une condamnation."},
-      {"term": "Khodorkovsky (Ходорковский)", "definition": "Oligarque et PDG de Ioukos, plus riche homme de Russie en 2003. Emprisonné 10 ans après avoir financé des partis d'opposition — exemple paradigmatique de la justice instrumentalisée."},
-      {"term": "23 février", "definition": "Fête nationale russe dite 'Jour du Défenseur de la Patrie'. Équivalent masculin de la fête des mères — on offre des cadeaux à tous les hommes."},
-      {"term": "Kasha (Каша)", "definition": "Bouillie de céréales (sarrasin, orge, millet) — aliment de base de la cuisine militaire et populaire russe depuis des siècles."},
-      {"term": "Bania (Баня)", "definition": "Étuve russe similaire au sauna finlandais. Lieu de cohésion sociale fondamental, dans les unités militaires comme dans la vie civile."}
+      {
+        "term": "FSB (ФСБ)",
+        "definition": "Service fédéral de sécurité, héritier du KGB. Chargé du contre-espionnage, contre-terrorisme et sécurité intérieure. Poutine en fut directeur 1998-99."
+      },
+      {
+        "term": "Rosgvardiya (Росгвардия)",
+        "definition": "Garde nationale russe créée en 2016, force paramilitaire de 340 000 hommes directement rattachée au Président. Conçue pour réprimer les désordres intérieurs."
+      },
+      {
+        "term": "Tchéka (ЧК)",
+        "definition": "Police politique bolchévique fondée en 1917 par Dzerjinski, ancêtre du KGB et du FSB. Son acronyme est entré dans le langage courant pour désigner la police secrète."
+      },
+      {
+        "term": "Taux d'acquittement",
+        "definition": "Moins de 0,5% en Russie (contre ~20% en France). Indicateur emblématique du manque d'indépendance judiciaire — presque toute mise en accusation débouche sur une condamnation."
+      },
+      {
+        "term": "Khodorkovsky (Ходорковский)",
+        "definition": "Oligarque et PDG de Ioukos, plus riche homme de Russie en 2003. Emprisonné 10 ans après avoir financé des partis d'opposition — exemple paradigmatique de la justice instrumentalisée."
+      },
+      {
+        "term": "23 février",
+        "definition": "Fête nationale russe dite 'Jour du Défenseur de la Patrie'. Équivalent masculin de la fête des mères — on offre des cadeaux à tous les hommes."
+      },
+      {
+        "term": "Kasha (Каша)",
+        "definition": "Bouillie de céréales (sarrasin, orge, millet) — aliment de base de la cuisine militaire et populaire russe depuis des siècles."
+      },
+      {
+        "term": "Bania (Баня)",
+        "definition": "Étuve russe similaire au sauna finlandais. Lieu de cohésion sociale fondamental, dans les unités militaires comme dans la vie civile."
+      }
     ],
     "quiz": [
-      {"question": "Quelle est la signification du taux d'acquittement inférieur à 0,5% en Russie ?",
-        "options": ["Les procureurs russes sont exceptionnellement compétents", "La justice est très dépendante de l'exécutif et presque toute mise en accusation aboutit à une condamnation", "La criminalité en Russie est très faible", "Les jurys populaires sont absents du système judiciaire"],
-        "answer": 1,
-        "explanation": "Un taux d'acquittement de 0,5% (contre 20% en France) révèle que la justice russe fonctionne comme un prolongement de l'exécutif — une fois renvoyé en jugement, un accusé est quasiment condamné d'avance."
+      {
+        "question": "Quelle est la signification du taux d'acquittement inférieur à 0,5% en Russie ?",
+        "options": [
+          "Les procureurs russes sont exceptionnellement compétents",
+          "La justice est très dépendante de l'exécutif et presque toute mise en accusation aboutit à une condamnation",
+          "La criminalité en Russie est très faible",
+          "Les jurys populaires sont absents du système judiciaire"
+        ],
+        "explanation": "Un taux d'acquittement de 0,5% (contre 20% en France) révèle que la justice russe fonctionne comme un prolongement de l'exécutif — une fois renvoyé en jugement, un accusé est quasiment condamné d'avance.",
+        "correct_index": 1
       },
-      {"question": "Qu'est-ce que la Rosgvardiya (Garde nationale russe) créée en 2016 ?",
-        "options": ["La police de frontière", "Une force paramilitaire de 340 000 hommes directement rattachée au Président", "Le service d'élite anti-terroriste", "La réserve militaire russe"],
-        "answer": 1,
-        "explanation": "La Rosgvardiya est une force paramilitaire créée en 2016, directement rattachée au Président (et non au gouvernement), conçue expressément pour réprimer les désordres intérieurs."
+      {
+        "question": "Qu'est-ce que la Rosgvardiya (Garde nationale russe) créée en 2016 ?",
+        "options": [
+          "La police de frontière",
+          "Une force paramilitaire de 340 000 hommes directement rattachée au Président",
+          "Le service d'élite anti-terroriste",
+          "La réserve militaire russe"
+        ],
+        "explanation": "La Rosgvardiya est une force paramilitaire créée en 2016, directement rattachée au Président (et non au gouvernement), conçue expressément pour réprimer les désordres intérieurs.",
+        "correct_index": 1
       },
-      {"question": "Qui était Mikhail Khodorkovsky et pourquoi son cas est-il emblématique ?",
-        "options": ["Un général militaire condamné pour trahison", "Le plus riche oligarque de Russie emprisonné 10 ans après avoir financé des partis d'opposition", "Un journaliste d'opposition assassiné", "Un opposant politique exilé à Londres"],
-        "answer": 1,
-        "explanation": "Khodorkovsky, PDG de Ioukos et homme le plus riche de Russie, fut emprisonné 10 ans à partir de 2003 après avoir financé des partis d'opposition — cas emblématique de l'utilisation de la justice comme outil politique."
+      {
+        "question": "Qui était Mikhail Khodorkovsky et pourquoi son cas est-il emblématique ?",
+        "options": [
+          "Un général militaire condamné pour trahison",
+          "Le plus riche oligarque de Russie emprisonné 10 ans après avoir financé des partis d'opposition",
+          "Un journaliste d'opposition assassiné",
+          "Un opposant politique exilé à Londres"
+        ],
+        "explanation": "Khodorkovsky, PDG de Ioukos et homme le plus riche de Russie, fut emprisonné 10 ans à partir de 2003 après avoir financé des partis d'opposition — cas emblématique de l'utilisation de la justice comme outil politique.",
+        "correct_index": 1
       },
-      {"question": "Que célèbre le 23 février en Russie ?",
-        "options": ["La fondation de l'armée soviétique", "Le Jour du Défenseur de la Patrie — fête de tous les hommes", "La victoire de Stalingrad", "La fin de la guerre en Afghanistan"],
-        "answer": 1,
-        "explanation": "Le 23 février est le Jour du Défenseur de la Patrie — une fête nationale où l'on offre des cadeaux à tous les hommes (pères, grands-pères, amis), illustrant la centralité de la valeur militaire dans la culture russe."
+      {
+        "question": "Que célèbre le 23 février en Russie ?",
+        "options": [
+          "La fondation de l'armée soviétique",
+          "Le Jour du Défenseur de la Patrie — fête de tous les hommes",
+          "La victoire de Stalingrad",
+          "La fin de la guerre en Afghanistan"
+        ],
+        "explanation": "Le 23 février est le Jour du Défenseur de la Patrie — une fête nationale où l'on offre des cadeaux à tous les hommes (pères, grands-pères, amis), illustrant la centralité de la valeur militaire dans la culture russe.",
+        "correct_index": 1
       },
-      {"question": "Dans quel contexte la bania joue-t-elle un rôle social particulier en Russie ?",
-        "options": ["Dans les cérémonies religieuses orthodoxes", "Comme lieu de cohésion sociale dans les unités militaires et les cercles proches", "Comme lieu de négociation politique officielle", "Uniquement dans les régions sibériennes"],
-        "answer": 1,
-        "explanation": "La bania joue un rôle de cohésion sociale fondamental dans les unités militaires et dans les cercles proches en général — on s'y lie d'amitié, on y noue des relations de confiance. Une invitation à la bania signifie une intégration au cercle intime."
+      {
+        "question": "Dans quel contexte la bania joue-t-elle un rôle social particulier en Russie ?",
+        "options": [
+          "Dans les cérémonies religieuses orthodoxes",
+          "Comme lieu de cohésion sociale dans les unités militaires et les cercles proches",
+          "Comme lieu de négociation politique officielle",
+          "Uniquement dans les régions sibériennes"
+        ],
+        "explanation": "La bania joue un rôle de cohésion sociale fondamental dans les unités militaires et dans les cercles proches en général — on s'y lie d'amitié, on y noue des relations de confiance. Une invitation à la bania signifie une intégration au cercle intime.",
+        "correct_index": 1
       }
     ]
   },
@@ -81,22 +171,40 @@
     "lesson_subtitle": "Силовые структуры",
     "intro": "Чтобы понять, как реально функционирует Россия, нужно понять три её принудительных рычага: правосудие, отправляемое именем государства, но нередко инструментализированное; множественные и порой конкурирующие силовые структуры; и армию, чья социальная роль выходит далеко за пределы обороны. Эти институты ежедневно формируют жизнь россиян — и их отношение к власти.",
     "sections": [
-      {"theme": "История", "icon": "📜", "title": "От царизма до ФСБ — преемственность спецслужб",
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "От царизма до ФСБ — преемственность спецслужб",
         "body": "Россия имеет давнюю традицию мощных спецслужб. Царская **Охрана** следила за политическими оппонентами и внедрялась в революционные движения в XIX веке. В 1917 году большевики создают **ЧК** (Всероссийская чрезвычайная комиссия) — беспощадную политическую полицию под руководством Феликса Дзержинского, чья статуя стояла перед зданием ФСБ вплоть до 1991 года.\n\nЧК последовательно становилась ГПУ, ОГПУ, НКВД (при Сталине — ответственным за ГУЛАГ и чистки), КГБ (1954–1991). Советский КГБ был самой могущественной спецслужбой в современной истории: внешняя разведка, контрразведка, внутренняя слежка, пограничный контроль — всё в одном.\n\nВ 1991 году КГБ был ликвидирован, а его функции перераспределены. **ФСБ** унаследовало внутреннюю безопасность, **СВР** — внешнюю разведку, **ГРУ** осталось военной разведкой. Владимир Путин руководил ФСБ с 1998 по 1999 год — его подготовка в этих структурах объясняет глубинное понимание системы."
       },
-      {"theme": "География", "icon": "🗺️", "title": "Российская армия — от призыва к профессиональной",
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "Российская армия — от призыва к профессиональной",
         "body": "Российские Вооружённые силы — вторая армия мира по обычным возможностям и ведущая ядерная держава с **6 257 боеголовками** (из которых ~1 588 развёрнуты). Бюджет составляет около **70 миллиардов долларов** (против 800 миллиардов у США), но это компенсируется высокоразвитой отечественной оборонной промышленностью.\n\nВоинская обязанность (12 месяцев) распространяется на мужчин 18–27 лет при наличии многочисленных отсрочек (учёба, здоровье, семья). В городской образованной среде уклонение от призыва через отсрочки или коррупцию было традиционным — что объясняет шок, произведённый войной 2022 года и особенно частичной мобилизацией сентября 2022-го.\n\nГеографически российские силы рассредоточены по всей территории в рамках **военных округов** (Западный, Южный, Центральный, Восточный). Главные военно-морские базы — Севастополь (Чёрное море — статус оспаривается с 2014 года), Балтийск (Балтика), Мурманск (Арктика — база атомных подводных лодок)."
       },
-      {"theme": "Политика и общество", "icon": "⚖️", "title": "Инструментализированное правосудие",
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Инструментализированное правосудие",
         "body": "Независимость суда формально гарантирована Конституцией России — и повсеместно нарушается на практике. **Российские судьи** назначаются Президентом в высших инстанциях и работают под многочисленным давлением (иерархическим, финансовым, силовым), ставящим их в сильную зависимость от исполнительной власти.\n\nДоля **оправдательных приговоров** в России — менее **0,5%** (против ~20% во Франции и 17% в США). Эта цифра говорит сама за себя: если дело дошло до суда, обвиняемый практически заранее осуждён. Прокуроры знают, что направить дело в суд без уверенности в победе — профессиональный просчёт.\n\nПравосудие нередко используется как политический инструмент. Показательные примеры: дело **Ходорковского** (богатейший олигарх России, проведший 10 лет под стражей после финансирования оппозиционных партий), дела **Навального** (множественные осуждения по размытым статьям), процессы над участниками протестов на Болотной. В обычных делах без политической составляющей правосудие функционирует более нормально — хотя коррупция и местное давление по-прежнему присутствуют."
       },
-      {"theme": "Экономика и повседневная жизнь", "icon": "🏠", "title": "Полиция, коррупция и повседневная жизнь",
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Полиция, коррупция и повседневная жизнь",
         "body": "Россия располагает несколькими силовыми структурами. **Полиция** (реформирована в 2011 году, прежде — «Милиция») обеспечивает общественную безопасность. **Росгвардия** (создана в 2016 году) — военизированная структура в 340 000 человек, напрямую подчинённая Президенту: создана специально для подавления внутренних беспорядков. **ФСБ** ведёт борьбу с терроризмом и обеспечивает национальную безопасность.\n\n**Полицейская коррупция** хорошо задокументирована и широко воспринимается как данность. Индекс восприятия коррупции Transparency International помещает Россию примерно на **137-е место** (из 180 стран). На практике это означает: **нарушения ПДД** нередко улаживаются наличными на обочине, часть административных услуг требует «стимулов», малый бизнес поддерживает неформальные отношения с проверяющими органами.\n\nЭта реальность порождает цинизм по отношению к институтам при сохранении прагматичных договорённостей. Россияне не питают иллюзий о коррупции в стране — они живут с ней ежедневно и говорят о ней с прямотой, способной удивить француза."
       },
-      {"theme": "Культура и искусство", "icon": "🎨", "title": "Культура служения — армия в русском воображаемом",
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Культура служения — армия в русском воображаемом",
         "body": "Армия занимает совершенно разное место в французском и русском мышлении. Во Франции армия — один из государственных институтов среди прочих. В России **военная служба и защита Родины** — центральные ценности национальной идентичности, глубоко укоренённые в памяти о Великой Отечественной войне.\n\nФигура «**защитника Отечества**» чествуется ежегодно **23 февраля** (государственный праздник мужчин, официально «День защитника Отечества»). Этот день — мужской эквивалент Дня матери: дарят подарки мужчинам, отцам, дедам. Этот ритуал показывает, как воинская доблесть вписана в саму структуру семейной жизни.\n\nРусская военная литература — от **Толстого** («Севастопольские рассказы») до **Шолохова** («Тихий Дон») и **Гроссмана** («Жизнь и судьба», запрещённого, а затем изданного после распада СССР) — принадлежит к лучшим в мире. Василий Гроссман, военный корреспондент, освещавший Сталинград и Треблинку, создаёт в «Жизни и судьбе» фреску, сравнивающую нацизм и сталинизм, — исключительный акт художественного и нравственного мужества."
       },
-      {"theme": "Гастрономия и социальные коды", "icon": "🍲", "title": "Армия и кухня — солдатский котёл",
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Армия и кухня — солдатский котёл",
         "body": "Военная кухня России давно вышла за казарменные стены. **Каша** — гречневая, перловая или пшённая — столетиями является эталонной военной едой: сытная, дешёвая, готовится в больших количествах. Поговорка «щи да каша — пища наша» иллюстрирует эту скромную и функциональную кухню.\n\nТипичный русский **завтрак** в армии и в семьях: каша, яйца, чёрный хлеб, сыр или колбаса, чай. Этот плотный завтрак разительно контрастирует с французским кофе с круассаном и отражает пищевую философию: готовишься к трудному дню.\n\nВажнейший военный социальный ритуал — **баня**, особенно популярная в воинских частях как инструмент социальной сплочённости. Баня одновременно гигиенична и социальна: здесь разговаривают, дружат, завязывают доверительные отношения. Если русские — военные или гражданские — приглашают вас в баню, это знак большого доверия и включения в ближний круг."
       }
     ],
@@ -106,40 +214,94 @@
       "content": "**При контакте с российской полицией**: сохраняйте спокойствие, вежливость и готовность к сотрудничеству. Иметь паспорт при себе обязательно по закону (иностранцы должны предъявлять документы по требованию в любое время). При задержании вежливо, но без агрессии уточните причину. Большинство российских полицейских не имеют никакой особой враждебности к западным туристам в обычных обстоятельствах — сложности возникают прежде всего в специфических контекстах (митинги, чувствительные зоны).\n\nОб уплате взятки: никогда не предлагайте её полицейскому или чиновнику активно — рискуете арестом за попытку подкупа. Если чиновник сам намекает на «ускорение», оценивайте ситуацию самостоятельно.\n\n**В разговоре**: тема армии и войны крайне болезненна с 2022 года. У многих семей есть мобилизованные или погибшие родственники. Никогда не шутите на эти темы и не высказывайте резких суждений о войне — вы рискуете задеть вполне реальное горе."
     },
     "glossary": [
-      {"term": "ФСБ", "definition": "Федеральная служба безопасности, наследник КГБ. Отвечает за контрразведку, контртерроризм и внутреннюю безопасность. Путин руководил ею в 1998–1999 гг."},
-      {"term": "Росгвардия", "definition": "Национальная гвардия России, созданная в 2016 году — военизированная структура в 340 000 человек, напрямую подчинённая Президенту. Создана для подавления внутренних беспорядков."},
-      {"term": "ЧК", "definition": "Большевистская политическая полиция, основанная в 1917 году Дзержинским, предшественница КГБ и ФСБ. Аббревиатура вошла в обиходный язык для обозначения тайной полиции."},
-      {"term": "Доля оправдательных приговоров", "definition": "Менее 0,5% в России (против ~20% во Франции). Показательный индикатор отсутствия судебной независимости — почти каждое обвинение заканчивается осуждением."},
-      {"term": "Ходорковский", "definition": "Олигарх, глава ЮКОСа, богатейший человек России в 2003 году. Провёл под стражей 10 лет после финансирования оппозиционных партий — классический пример инструментализации правосудия."},
-      {"term": "23 февраля", "definition": "День защитника Отечества — государственный праздник. Мужской эквивалент Дня матери: дарят подарки всем мужчинам."},
-      {"term": "Каша", "definition": "Крупяная каша (гречневая, перловая, пшённая) — веками главная еда военных и народная. Основа русской пищевой философии."},
-      {"term": "Баня", "definition": "Русская парная, схожая с финской сауной. Фундаментальное место социального сплочения — в воинских частях и в жизни вообще."}
+      {
+        "term": "ФСБ",
+        "definition": "Федеральная служба безопасности, наследник КГБ. Отвечает за контрразведку, контртерроризм и внутреннюю безопасность. Путин руководил ею в 1998–1999 гг."
+      },
+      {
+        "term": "Росгвардия",
+        "definition": "Национальная гвардия России, созданная в 2016 году — военизированная структура в 340 000 человек, напрямую подчинённая Президенту. Создана для подавления внутренних беспорядков."
+      },
+      {
+        "term": "ЧК",
+        "definition": "Большевистская политическая полиция, основанная в 1917 году Дзержинским, предшественница КГБ и ФСБ. Аббревиатура вошла в обиходный язык для обозначения тайной полиции."
+      },
+      {
+        "term": "Доля оправдательных приговоров",
+        "definition": "Менее 0,5% в России (против ~20% во Франции). Показательный индикатор отсутствия судебной независимости — почти каждое обвинение заканчивается осуждением."
+      },
+      {
+        "term": "Ходорковский",
+        "definition": "Олигарх, глава ЮКОСа, богатейший человек России в 2003 году. Провёл под стражей 10 лет после финансирования оппозиционных партий — классический пример инструментализации правосудия."
+      },
+      {
+        "term": "23 февраля",
+        "definition": "День защитника Отечества — государственный праздник. Мужской эквивалент Дня матери: дарят подарки всем мужчинам."
+      },
+      {
+        "term": "Каша",
+        "definition": "Крупяная каша (гречневая, перловая, пшённая) — веками главная еда военных и народная. Основа русской пищевой философии."
+      },
+      {
+        "term": "Баня",
+        "definition": "Русская парная, схожая с финской сауной. Фундаментальное место социального сплочения — в воинских частях и в жизни вообще."
+      }
     ],
     "quiz": [
-      {"question": "Что означает доля оправдательных приговоров менее 0,5% в России?",
-        "options": ["Российские прокуроры исключительно компетентны", "Правосудие сильно зависит от исполнительной власти, и почти каждое обвинение заканчивается осуждением", "Преступность в России очень низкая", "Суды присяжных в системе отсутствуют"],
-        "answer": 1,
-        "explanation": "Доля оправдательных приговоров в 0,5% (против 20% во Франции) свидетельствует: российская юстиция функционирует как продолжение исполнительной власти — дойдя до суда, обвиняемый практически заранее осуждён."
+      {
+        "question": "Что означает доля оправдательных приговоров менее 0,5% в России?",
+        "options": [
+          "Российские прокуроры исключительно компетентны",
+          "Правосудие сильно зависит от исполнительной власти, и почти каждое обвинение заканчивается осуждением",
+          "Преступность в России очень низкая",
+          "Суды присяжных в системе отсутствуют"
+        ],
+        "explanation": "Доля оправдательных приговоров в 0,5% (против 20% во Франции) свидетельствует: российская юстиция функционирует как продолжение исполнительной власти — дойдя до суда, обвиняемый практически заранее осуждён.",
+        "correct_index": 1
       },
-      {"question": "Что такое Росгвардия, созданная в 2016 году?",
-        "options": ["Пограничная охрана", "Военизированная структура в 340 000 человек, напрямую подчинённая Президенту", "Элитный антитеррористический спецназ", "Военный резерв России"],
-        "answer": 1,
-        "explanation": "Росгвардия — военизированная структура, созданная в 2016 году и напрямую подчинённая Президенту (а не правительству), специально предназначенная для подавления внутренних беспорядков."
+      {
+        "question": "Что такое Росгвардия, созданная в 2016 году?",
+        "options": [
+          "Пограничная охрана",
+          "Военизированная структура в 340 000 человек, напрямую подчинённая Президенту",
+          "Элитный антитеррористический спецназ",
+          "Военный резерв России"
+        ],
+        "explanation": "Росгвардия — военизированная структура, созданная в 2016 году и напрямую подчинённая Президенту (а не правительству), специально предназначенная для подавления внутренних беспорядков.",
+        "correct_index": 1
       },
-      {"question": "Кто такой Михаил Ходорковский и почему его дело показательно?",
-        "options": ["Военный генерал, осуждённый за измену", "Богатейший олигарх России, проведший 10 лет под стражей после финансирования оппозиции", "Убитый журналист-оппозиционер", "Политический оппозиционер в эмиграции в Лондоне"],
-        "answer": 1,
-        "explanation": "Ходорковский, глава ЮКОСа и богатейший человек России, был взят под стражу в 2003 году на 10 лет после финансирования оппозиционных партий — классический пример использования правосудия как политического инструмента."
+      {
+        "question": "Кто такой Михаил Ходорковский и почему его дело показательно?",
+        "options": [
+          "Военный генерал, осуждённый за измену",
+          "Богатейший олигарх России, проведший 10 лет под стражей после финансирования оппозиции",
+          "Убитый журналист-оппозиционер",
+          "Политический оппозиционер в эмиграции в Лондоне"
+        ],
+        "explanation": "Ходорковский, глава ЮКОСа и богатейший человек России, был взят под стражу в 2003 году на 10 лет после финансирования оппозиционных партий — классический пример использования правосудия как политического инструмента.",
+        "correct_index": 1
       },
-      {"question": "Что отмечается 23 февраля в России?",
-        "options": ["Основание советской армии", "День защитника Отечества — праздник всех мужчин", "Победа под Сталинградом", "Окончание войны в Афганистане"],
-        "answer": 1,
-        "explanation": "23 февраля — День защитника Отечества: государственный праздник, когда дарят подарки всем мужчинам (отцам, дедам, друзьям), отражающий центральное место воинской доблести в русской культуре."
+      {
+        "question": "Что отмечается 23 февраля в России?",
+        "options": [
+          "Основание советской армии",
+          "День защитника Отечества — праздник всех мужчин",
+          "Победа под Сталинградом",
+          "Окончание войны в Афганистане"
+        ],
+        "explanation": "23 февраля — День защитника Отечества: государственный праздник, когда дарят подарки всем мужчинам (отцам, дедам, друзьям), отражающий центральное место воинской доблести в русской культуре.",
+        "correct_index": 1
       },
-      {"question": "В каком контексте баня играет особую социальную роль в России?",
-        "options": ["В православных обрядах", "Как место социального сплочения в воинских частях и ближних кругах", "Как место официальных политических переговоров", "Только в сибирских регионах"],
-        "answer": 1,
-        "explanation": "Баня играет фундаментальную роль в социальном сплочении воинских частей и близких кругов вообще — здесь дружат, завязывают доверительные связи. Приглашение в баню означает включение в ближний круг."
+      {
+        "question": "В каком контексте баня играет особую социальную роль в России?",
+        "options": [
+          "В православных обрядах",
+          "Как место социального сплочения в воинских частях и ближних кругах",
+          "Как место официальных политических переговоров",
+          "Только в сибирских регионах"
+        ],
+        "explanation": "Баня играет фундаментальную роль в социальном сплочении воинских частей и близких кругов вообще — здесь дружат, завязывают доверительные связи. Приглашение в баню означает включение в ближний круг.",
+        "correct_index": 1
       }
     ]
   }

@@ -108,8 +108,8 @@
           "Leur composition uniquement végétale adaptée au jeûne",
           "Leur préparation sans feu, idéale pour les nomades"
         ],
-        "answer": 1,
-        "explanation": "Les pelmeni étaient préparés en grande quantité et laissés congeler naturellement à l'extérieur dans le froid sibérien. Cette technique permettait de les conserver plusieurs semaines — une adaptation ingénieuse aux conditions arctiques pour nourrir chasseurs et voyageurs."
+        "explanation": "Les pelmeni étaient préparés en grande quantité et laissés congeler naturellement à l'extérieur dans le froid sibérien. Cette technique permettait de les conserver plusieurs semaines — une adaptation ingénieuse aux conditions arctiques pour nourrir chasseurs et voyageurs.",
+        "correct_index": 1
       },
       {
         "question": "Pourquoi les kotlety russes ne ressemblent-ils pas aux côtelettes françaises ?",
@@ -119,8 +119,8 @@
           "Parce qu'ils sont cuits au four et non à la poêle",
           "Parce que la recette a été inventée en URSS et n'a rien à voir avec la France"
         ],
-        "answer": 1,
-        "explanation": "Le mot «kotlety» est emprunté du français «côtelette» mais la réalité est très différente : ce sont des galettes de viande hachée mélangées avec du pain, de l'oignon et des épices, panées et frites. C'est un emprunt lexical qui a évolué indépendamment en Russie."
+        "explanation": "Le mot «kotlety» est emprunté du français «côtelette» mais la réalité est très différente : ce sont des galettes de viande hachée mélangées avec du pain, de l'oignon et des épices, panées et frites. C'est un emprunt lexical qui a évolué indépendamment en Russie.",
+        "correct_index": 1
       },
       {
         "question": "Quel aliment les Russes achètent-ils massivement en cas de crise économique ?",
@@ -130,8 +130,8 @@
           "De la grechka (sarrasin)",
           "Des pelmeni congelés"
         ],
-        "answer": 2,
-        "explanation": "La grechka (bouillie de sarrasin) est l'aliment de réserve stratégique par excellence en Russie. Lors des crises économiques, les stocks de grechka dans les magasins s'épuisent en premier — c'est un réflexe culturel lié à la valeur de cet aliment nourrissant et conservable."
+        "explanation": "La grechka (bouillie de sarrasin) est l'aliment de réserve stratégique par excellence en Russie. Lors des crises économiques, les stocks de grechka dans les magasins s'épuisent en premier — c'est un réflexe culturel lié à la valeur de cet aliment nourrissant et conservable.",
+        "correct_index": 2
       },
       {
         "question": "Quel est le secret de la réussite du befstroganov classique ?",
@@ -141,8 +141,8 @@
           "Une cuisson rapide à feu vif pour garder le bœuf tendre et juteux",
           "L'ajout de ketchup industriel pour la saveur"
         ],
-        "answer": 2,
-        "explanation": "Le secret du befstroganov est la rapidité : le filet de bœuf émincé très finement doit être saisi à feu vif et lié rapidement avec la sauce crème. Une cuisson trop longue le rend caoutchouteux. C'est une technique française adaptée par la haute cuisine russe du XIXe siècle."
+        "explanation": "Le secret du befstroganov est la rapidité : le filet de bœuf émincé très finement doit être saisi à feu vif et lié rapidement avec la sauce crème. Une cuisson trop longue le rend caoutchouteux. C'est une technique française adaptée par la haute cuisine russe du XIXe siècle.",
+        "correct_index": 2
       },
       {
         "question": "Quel geste peut favoriser un vrai moment de partage dans un foyer russe ?",
@@ -152,8 +152,8 @@
           "Cuisiner soi-même un plat français pour ses hôtes",
           "Réciter des noms de plats russes en russe"
         ],
-        "answer": 1,
-        "explanation": "Proposer de faire des pelmeni ensemble est une invitation à un moment de convivialité familiale — façonner les petits chaussons est une activité collective que les Russes adorent partager. Cela démontre de l'intérêt authentique pour la culture culinaire et crée une vraie connexion."
+        "explanation": "Proposer de faire des pelmeni ensemble est une invitation à un moment de convivialité familiale — façonner les petits chaussons est une activité collective que les Russes adorent partager. Cela démontre de l'intérêt authentique pour la culture culinaire et crée une vraie connexion.",
+        "correct_index": 1
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Их полностью растительный состав, подходящий для поста",
           "Приготовление без огня, удобное для кочевников"
         ],
-        "answer": 1,
-        "explanation": "Пельмени готовили в большом количестве и выставляли замерзать на улицу в сибирский мороз. Это позволяло хранить их несколько недель — гениальная адаптация к арктическим условиям для питания охотников и путешественников."
+        "explanation": "Пельмени готовили в большом количестве и выставляли замерзать на улицу в сибирский мороз. Это позволяло хранить их несколько недель — гениальная адаптация к арктическим условиям для питания охотников и путешественников.",
+        "correct_index": 1
       },
       {
         "question": "Почему русские котлеты не похожи на французские côtelettes?",
@@ -259,8 +259,8 @@
           "Потому что они запекаются, а не жарятся",
           "Потому что рецепт изобрели в СССР и он не имеет отношения к Франции"
         ],
-        "answer": 1,
-        "explanation": "Слово «котлеты» заимствовано из французского «côtelette», но в русском это совершенно другое блюдо: биточки из фарша с хлебом, луком и специями в панировке. Лексическое заимствование, развившееся самостоятельно в России."
+        "explanation": "Слово «котлеты» заимствовано из французского «côtelette», но в русском это совершенно другое блюдо: биточки из фарша с хлебом, луком и специями в панировке. Лексическое заимствование, развившееся самостоятельно в России.",
+        "correct_index": 1
       },
       {
         "question": "Какой продукт русские массово скупают в экономические кризисы?",
@@ -270,8 +270,8 @@
           "Гречку",
           "Замороженные пельмени"
         ],
-        "answer": 2,
-        "explanation": "Гречка — главный стратегический запасной продукт в России. В кризисы её запасы в магазинах исчезают первыми — культурный рефлекс, связанный с питательностью и способностью к хранению этой крупы."
+        "explanation": "Гречка — главный стратегический запасной продукт в России. В кризисы её запасы в магазинах исчезают первыми — культурный рефлекс, связанный с питательностью и способностью к хранению этой крупы.",
+        "correct_index": 2
       },
       {
         "question": "В чём секрет классического бефстроганова?",
@@ -281,8 +281,8 @@
           "Быстрая обжарка на сильном огне, чтобы мясо осталось нежным и сочным",
           "Добавление промышленного кетчупа для вкуса"
         ],
-        "answer": 2,
-        "explanation": "Секрет бефстроганова — в скорости: тонко нарезанная вырезка должна быстро обжариться на сильном огне и тут же соединиться со сметанным соусом. Долгая готовка делает мясо резиновым. Это французская техника, адаптированная высокой русской кухней XIX века."
+        "explanation": "Секрет бефстроганова — в скорости: тонко нарезанная вырезка должна быстро обжариться на сильном огне и тут же соединиться со сметанным соусом. Долгая готовка делает мясо резиновым. Это французская техника, адаптированная высокой русской кухней XIX века.",
+        "correct_index": 2
       },
       {
         "question": "Какой жест поможет наладить настоящее общение в русском доме?",
@@ -292,8 +292,8 @@
           "Самому приготовить французское блюдо для хозяев",
           "Произносить названия русских блюд по-русски"
         ],
-        "answer": 1,
-        "explanation": "Предложить лепить пельмени вместе — это приглашение к семейному совместному занятию, которое русские очень любят. Это демонстрирует искренний интерес к кулинарной культуре и создаёт настоящую связь."
+        "explanation": "Предложить лепить пельмени вместе — это приглашение к семейному совместному занятию, которое русские очень любят. Это демонстрирует искренний интерес к кулинарной культуре и создаёт настоящую связь.",
+        "correct_index": 1
       }
     ]
   }

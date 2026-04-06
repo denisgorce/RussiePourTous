@@ -112,8 +112,8 @@
           "Premier, devant les États-Unis",
           "Cinquième, derrière l'Allemagne"
         ],
-        "answer": 1,
-        "explanation": "La Russie est le deuxième exportateur mondial d'armements, après les États-Unis. Elle vend à plus de 60 pays — notamment l'Inde, la Chine, l'Algérie et de nombreux pays africains."
+        "explanation": "La Russie est le deuxième exportateur mondial d'armements, après les États-Unis. Elle vend à plus de 60 pays — notamment l'Inde, la Chine, l'Algérie et de nombreux pays africains.",
+        "correct_index": 1
       },
       {
         "question": "Quel est l'atout unique de Rosatom sur le marché nucléaire mondial ?",
@@ -123,8 +123,8 @@
           "L'exportation de déchets nucléaires",
           "La fabrication des seules bombes nucléaires du monde"
         ],
-        "answer": 1,
-        "explanation": "Rosatom contrôle environ 70% du marché mondial d'enrichissement d'uranium — ce qui signifie que même des pays en conflit avec la Russie dépendent de son industrie nucléaire."
+        "explanation": "Rosatom contrôle environ 70% du marché mondial d'enrichissement d'uranium — ce qui signifie que même des pays en conflit avec la Russie dépendent de son industrie nucléaire.",
+        "correct_index": 1
       },
       {
         "question": "Comment s'appelle le conglomérat d'État russe des industries de défense ?",
@@ -134,8 +134,8 @@
           "Rosatom",
           "Roscosmos"
         ],
-        "answer": 1,
-        "explanation": "Rostec (Ростех) est le conglomérat d'État regroupant ~800 entreprises de défense et 500 000 employés, fondé en 2007. À ne pas confondre avec Rosatom (nucléaire) ou Roscosmos (espace)."
+        "explanation": "Rostec (Ростех) est le conglomérat d'État regroupant ~800 entreprises de défense et 500 000 employés, fondé en 2007. À ne pas confondre avec Rosatom (nucléaire) ou Roscosmos (espace).",
+        "correct_index": 1
       },
       {
         "question": "Quelle faiblesse structurelle affecte l'industrie russe malgré son excellence technique ?",
@@ -145,8 +145,8 @@
           "La trop grande dépendance aux importations de matières premières",
           "L'impossibilité d'exporter à l'international"
         ],
-        "answer": 1,
-        "explanation": "L'industrie russe excelle dans l'ingénierie de fond (fusées fiables, armes précises, réacteurs sûrs) mais néglige le design et l'expérience utilisateur — héritage d'une culture soviétique qui valorisait la performance sur l'esthétique."
+        "explanation": "L'industrie russe excelle dans l'ingénierie de fond (fusées fiables, armes précises, réacteurs sûrs) mais néglige le design et l'expérience utilisateur — héritage d'une culture soviétique qui valorisait la performance sur l'esthétique.",
+        "correct_index": 1
       },
       {
         "question": "Quel mathématicien russe a refusé la Médaille Fields (équivalent mathématique du Nobel) ?",
@@ -156,8 +156,8 @@
           "Andrei Kolmogorov",
           "Vladimir Arnold"
         ],
-        "answer": 1,
-        "explanation": "Grigori Perelman a refusé la Médaille Fields en 2006 — et plus tard le Prix du Millénaire d'un million de dollars — pour avoir prouvé la conjecture de Poincaré. Son refus, motivé par des principes éthiques, est devenu légendaire."
+        "explanation": "Grigori Perelman a refusé la Médaille Fields en 2006 — et plus tard le Prix du Millénaire d'un million de dollars — pour avoir prouvé la conjecture de Poincaré. Son refus, motivé par des principes éthiques, est devenu légendaire.",
+        "correct_index": 1
       }
     ]
   },
@@ -252,8 +252,8 @@
           "Первое, впереди США",
           "Пятое, после Германии"
         ],
-        "answer": 1,
-        "explanation": "Россия — второй в мире экспортёр вооружений после США. Поставляет в более чем 60 стран — прежде всего в Индию, Китай, Алжир и многие африканские государства."
+        "explanation": "Россия — второй в мире экспортёр вооружений после США. Поставляет в более чем 60 стран — прежде всего в Индию, Китай, Алжир и многие африканские государства.",
+        "correct_index": 1
       },
       {
         "question": "В чём уникальный козырь Росатома на мировом ядерном рынке?",
@@ -263,8 +263,8 @@
           "Экспорт ядерных отходов",
           "Производство единственных в мире ядерных бомб"
         ],
-        "answer": 1,
-        "explanation": "Росатом контролирует около 70% мирового рынка обогащения урана — это значит, что даже страны в конфликте с Россией зависят от её ядерной промышленности."
+        "explanation": "Росатом контролирует около 70% мирового рынка обогащения урана — это значит, что даже страны в конфликте с Россией зависят от её ядерной промышленности.",
+        "correct_index": 1
       },
       {
         "question": "Как называется российский государственный конгломерат оборонной промышленности?",
@@ -274,8 +274,8 @@
           "Росатом",
           "Роскосмос"
         ],
-        "answer": 1,
-        "explanation": "Ростех — государственный конгломерат ~800 оборонных предприятий и 500 000 сотрудников, основан в 2007 году. Не путать с Росатомом (ядерная отрасль) или Роскосмосом (космос)."
+        "explanation": "Ростех — государственный конгломерат ~800 оборонных предприятий и 500 000 сотрудников, основан в 2007 году. Не путать с Росатомом (ядерная отрасль) или Роскосмосом (космос).",
+        "correct_index": 1
       },
       {
         "question": "Какой структурный недостаток присущ российской промышленности, несмотря на техническое превосходство?",
@@ -285,8 +285,8 @@
           "Чрезмерная зависимость от импорта сырья",
           "Невозможность международного экспорта"
         ],
-        "answer": 1,
-        "explanation": "Российская промышленность превосходит в глубинной инженерии (надёжные ракеты, точное оружие, безопасные реакторы), но пренебрегает дизайном — наследие советской культуры, ценившей производительность выше эстетики."
+        "explanation": "Российская промышленность превосходит в глубинной инженерии (надёжные ракеты, точное оружие, безопасные реакторы), но пренебрегает дизайном — наследие советской культуры, ценившей производительность выше эстетики.",
+        "correct_index": 1
       },
       {
         "question": "Какой российский математик отказался от Медали Филдса (математического аналога Нобелевской премии)?",
@@ -296,8 +296,8 @@
           "Андрей Колмогоров",
           "Владимир Арнольд"
         ],
-        "answer": 1,
-        "explanation": "Григорий Перельман отказался от Медали Филдса в 2006 году — и позже от Премии тысячелетия в миллион долларов — за доказательство гипотезы Пуанкаре. Его отказ, продиктованный этическими принципами, стал легендарным."
+        "explanation": "Григорий Перельман отказался от Медали Филдса в 2006 году — и позже от Премии тысячелетия в миллион долларов — за доказательство гипотезы Пуанкаре. Его отказ, продиктованный этическими принципами, стал легендарным.",
+        "correct_index": 1
       }
     ]
   }

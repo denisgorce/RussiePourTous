@@ -104,8 +104,8 @@
           "Un luxe réservé aux classes supérieures",
           "Une obligation de l'État soviétique"
         ],
-        "answer": 1,
-        "explanation": "La datcha représente bien plus qu'un lieu de vacances — c'est un rituel culturel profond, un espace de contact avec la nature, d'autosuffisance alimentaire et de relations sociales authentiques."
+        "explanation": "La datcha représente bien plus qu'un lieu de vacances — c'est un rituel culturel profond, un espace de contact avec la nature, d'autosuffisance alimentaire et de relations sociales authentiques.",
+        "correct_index": 1
       },
       {
         "question": "Quel rôle les datchas ont-elles joué pendant les années 1990 en Russie ?",
@@ -115,8 +115,8 @@
           "Accueillir les réunions politiques clandestines",
           "Remplacer les banques pour les économies familiales"
         ],
-        "answer": 1,
-        "explanation": "Durant les années 1990, les datchas ont fourni jusqu'à 40% de la production nationale de légumes, nourrissant des millions de familles alors que l'économie soviétique s'effondrait."
+        "explanation": "Durant les années 1990, les datchas ont fourni jusqu'à 40% de la production nationale de légumes, nourrissant des millions de familles alors que l'économie soviétique s'effondrait.",
+        "correct_index": 1
       },
       {
         "question": "Qu'est-ce que le 'shashlyk' et quel est son rôle dans la culture datcha ?",
@@ -126,8 +126,8 @@
           "Un type de banya traditionnel",
           "Un jeu collectif de plein air"
         ],
-        "answer": 1,
-        "explanation": "Le shashlyk est le rituel central de la culture datcha — brochettes marinées cuites au mangal. La préparation, la cuisson et le partage sont un rituel social aussi important que la nourriture elle-même."
+        "explanation": "Le shashlyk est le rituel central de la culture datcha — brochettes marinées cuites au mangal. La préparation, la cuisson et le partage sont un rituel social aussi important que la nourriture elle-même.",
+        "correct_index": 1
       },
       {
         "question": "Quel peintre russe du XIXe siècle est le plus grand représentant du paysage russe ?",
@@ -137,8 +137,8 @@
           "Malevitch",
           "Chagall"
         ],
-        "answer": 1,
-        "explanation": "Isaac Levitan est le plus grand paysagiste russe — ses toiles des forêts, lacs et ciels d'automne russes sont d'une beauté mélancolique unique. Il fait partie du mouvement des Peredvizhniki (Ambulants)."
+        "explanation": "Isaac Levitan est le plus grand paysagiste russe — ses toiles des forêts, lacs et ciels d'automne russes sont d'une beauté mélancolique unique. Il fait partie du mouvement des Peredvizhniki (Ambulants).",
+        "correct_index": 1
       },
       {
         "question": "Quel est l'acte final du rituel datcha qui complète une journée au grand air ?",
@@ -148,8 +148,8 @@
           "Une promenade dans la forêt au coucher du soleil",
           "Un toast au champagne"
         ],
-        "answer": 1,
-        "explanation": "Le banya à la datcha — étuve chauffée au bois suivie d'un plongeon dans l'eau froide — est le rituel de ressourcement par excellence. Ce contraste de chaud et de froid est une philosophie physique et mentale au cœur de la culture russe."
+        "explanation": "Le banya à la datcha — étuve chauffée au bois suivie d'un plongeon dans l'eau froide — est le rituel de ressourcement par excellence. Ce contraste de chaud et de froid est une philosophie physique et mentale au cœur de la culture russe.",
+        "correct_index": 1
       }
     ]
   },
@@ -244,8 +244,8 @@
           "Роскошь, доступная только высшим классам",
           "Советская государственная обязанность"
         ],
-        "answer": 1,
-        "explanation": "Дача — гораздо больше, чем место отпуска: глубокий культурный ритуал, пространство контакта с природой, продовольственной самодостаточности и подлинных социальных отношений."
+        "explanation": "Дача — гораздо больше, чем место отпуска: глубокий культурный ритуал, пространство контакта с природой, продовольственной самодостаточности и подлинных социальных отношений.",
+        "correct_index": 1
       },
       {
         "question": "Какую роль дачи сыграли в России в 1990-е годы?",
@@ -255,8 +255,8 @@
           "Принимать подпольные политические собрания",
           "Заменять банки для семейных сбережений"
         ],
-        "answer": 1,
-        "explanation": "В 1990-е дачи обеспечивали до 40% национального производства овощей, кормя миллионы семей в условиях краха советской экономики."
+        "explanation": "В 1990-е дачи обеспечивали до 40% национального производства овощей, кормя миллионы семей в условиях краха советской экономики.",
+        "correct_index": 1
       },
       {
         "question": "Что такое «шашлык» и какова его роль в дачной культуре?",
@@ -266,8 +266,8 @@
           "Традиционный вид бани",
           "Коллективная игра на открытом воздухе"
         ],
-        "answer": 1,
-        "explanation": "Шашлык — центральный ритуал дачной культуры: маринованное мясо на мангале. Приготовление, жарка и совместная трапеза — социальный ритуал не менее важный, чем сама еда."
+        "explanation": "Шашлык — центральный ритуал дачной культуры: маринованное мясо на мангале. Приготовление, жарка и совместная трапеза — социальный ритуал не менее важный, чем сама еда.",
+        "correct_index": 1
       },
       {
         "question": "Какой русский художник XIX века — величайший представитель русского пейзажа?",
@@ -277,8 +277,8 @@
           "Малевич",
           "Шагал"
         ],
-        "answer": 1,
-        "explanation": "Исаак Левитан — величайший русский пейзажист: его полотна с русскими лесами, озёрами и осенним небом обладают неповторимой меланхолической красотой. Он принадлежал движению передвижников."
+        "explanation": "Исаак Левитан — величайший русский пейзажист: его полотна с русскими лесами, озёрами и осенним небом обладают неповторимой меланхолической красотой. Он принадлежал движению передвижников.",
+        "correct_index": 1
       },
       {
         "question": "Каков завершающий акт дачного ритуала, венчающий день на природе?",
@@ -288,8 +288,8 @@
           "Прогулка в лесу на закате",
           "Тост шампанским"
         ],
-        "answer": 1,
-        "explanation": "Дачная баня — парная на дровах с последующим погружением в холодную воду — главный ритуал восстановления. Этот контраст жара и холода — физическая и душевная философия в сердце русской культуры."
+        "explanation": "Дачная баня — парная на дровах с последующим погружением в холодную воду — главный ритуал восстановления. Этот контраст жара и холода — физическая и душевная философия в сердце русской культуры.",
+        "correct_index": 1
       }
     ]
   }

@@ -1,101 +1,300 @@
 {
-  "meta": {"module_id": 4, "lesson_id": 2, "module_icon": "🌙", "lesson_icon": "🤝", "estimated_minutes": 12, "difficulty": "intermédiaire",
-    "sources": [{"label": "Encyclopædia Universalis — Russie", "url": "https://www.universalis.fr/encyclopedie/russie/"},
-                {"label": "Geert Hofstede — Cultural Dimensions Russia", "url": "https://www.hofstede-insights.com/country/russia/"}]},
+  "meta": {
+    "module_id": 4,
+    "lesson_id": 2,
+    "module_icon": "🌙",
+    "lesson_icon": "🤝",
+    "estimated_minutes": 12,
+    "difficulty": "intermédiaire",
+    "sources": [
+      {
+        "label": "Encyclopædia Universalis — Russie",
+        "url": "https://www.universalis.fr/encyclopedie/russie/"
+      },
+      {
+        "label": "Geert Hofstede — Cultural Dimensions Russia",
+        "url": "https://www.hofstede-insights.com/country/russia/"
+      }
+    ]
+  },
   "fr": {
-    "module_title": "L'Âme Russe", "lesson_title": "Relations humaines et collectivisme",
+    "module_title": "L'Âme Russe",
+    "lesson_title": "Relations humaines et collectivisme",
     "lesson_subtitle": "Amitié, famille, cercle intime",
     "intro": "Si la doushá définit la capacité émotionnelle individuelle du Russe, le collectivisme définit comment cette âme s'organise socialement. En Russie, les relations humaines ne sont pas un ornement de la vie — elles sont la vie elle-même. La famille et le cercle d'amis proches constituent la structure fondamentale autour de laquelle tout le reste s'organise.",
     "sections": [
-      {"theme": "Histoire", "icon": "📜", "title": "L'amitié russe — une institution",
-       "body": "En Russie, l'amitié (*drouzhba*, дружба) est une institution sociale aussi sérieuse que le mariage. On ne devient pas «ami» en quelques semaines — un ami russe, c'est quelqu'un qu'on a éprouvé dans des circonstances difficiles, avec qui on a partagé des confidences profondes, pour qui on est prêt à tout sacrifier.\n\nCette distinction entre «amis» (*drouzia*) et «connaissances» (*znakomye*) est bien plus tranchée qu'en France. Un Français peut appeler «ami» quelqu'un qu'il voit au travail. Un Russe réserve ce mot à un cercle très restreint — 3 ou 4 personnes au maximum — avec lesquelles il a une relation d'une intensité que peu de Français vivent avec leurs «amis».\n\nSi vous êtes reçu dans le cercle des amis d'un Russe, c'est un honneur immense qui suppose une réciprocité totale. «Mon ami a besoin de moi» est une raison valable pour annuler n'importe quel rendez-vous professionnel."},
-      {"theme": "Géographie", "icon": "🗺️", "title": "La cellule familiale élargie russe",
-       "body": "La famille russe est une structure beaucoup plus étendue et impliquée que la famille nucléaire française. Les grands-parents (*babouchka* et *dedouchka*) jouent un rôle central dans l'éducation des enfants — souvent plus présents que les parents eux-mêmes.\n\nLes oncles, tantes, cousins et les amis proches de la famille sont inclus dans les grandes décisions. Un Russe qui prend une décision importante sans consulter sa famille élargie sera perçu comme irresponsable.\n\nLa datcha familiale joue souvent le rôle de lieu de rassemblement des familles étendues — plusieurs générations se retrouvent l'été pour travailler le potager, manger ensemble, parler jusqu'à tard. C'est un espace de transmission des valeurs familiales qui n'a pas vraiment d'équivalent français."},
-      {"theme": "Politique & Société", "icon": "⚖️", "title": "Collectivisme vs individualisme",
-       "body": "Le sociologue néerlandais Geert Hofstede a développé un indice de collectivisme/individualisme. La Russie score très haut sur le collectivisme (score 39/100 contre 71 pour la France) — l'une des différences culturelles les plus documentées.\n\nConcrètement : un Français définit son identité d'abord par ses caractéristiques individuelles (opinions, goûts, carrière). Un Russe définit son identité d'abord par ses appartenances (famille, lieu d'origine, groupes d'amis).\n\nEn négociation commerciale : un Russe a besoin de temps pour construire une relation personnelle avant de traiter des affaires. En gestion : les décisions collectives et le consensus sont plus naturels que la décision individuelle hiérarchique."},
-      {"theme": "Économie & Vie quotidienne", "icon": "🏠", "title": "Les réseaux informels — la force des liens",
-       "body": "Dans la société russe, les réseaux informels de confiance (*krugovaya poruka* — solidarité circulaire) jouent un rôle économique et social considérable.\n\nConcrètement : pour trouver un médecin fiable, un bon artisan, une école — un Russe passe par son réseau personnel plutôt que par les annuaires ou les avis internet. «Je connais quelqu'un» (*ya znayu cheloveka*) est la phrase la plus utile de la vie pratique russe.\n\nCe système est à la fois une force (vraie confiance dans le réseau) et une faiblesse (crée des cercles fermés difficiles à pénétrer, favorise parfois la corruption). Pour un étranger qui veut s'intégrer en Russie, la clé est d'être introduit par un intermédiaire de confiance."},
-      {"theme": "Culture & Arts", "icon": "🎨", "title": "L'amitié dans la littérature russe",
-       "body": "L'amitié est un thème central de la littérature russe — souvent représentée comme plus proche et plus intense que l'amour romantique. Dans Les Frères Karamazov, les liens entre frères sont plus fondamentaux que leurs amours. Dans Guerre et Paix, l'amitié entre Pierre Bezoukhov et le prince Andreï est l'une des relations les plus tendres du roman mondial.\n\nLa tradition du «drug littéraire» — deux écrivains qui se soutiennent mutuellement et se lisent avant publication — est une institution : Pouchkine et Joukovski, Tolstoï et Tchekhov.\n\nLa poésie de l'amitié est un genre à part entière en Russie. Pouchkine a écrit certains de ses plus beaux poèmes pour ses camarades du lycée de Tsarskoïe Selo — des célébrations de la camaraderie masculine qui mêlent mélancolie, humour et tendresse."},
-      {"theme": "Gastronomie & Codes sociaux", "icon": "🍲", "title": "Les codes de l'amitié à table",
-       "body": "Partager la table est en Russie l'acte fondateur de l'amitié. «Razdelit' khleb» (partager le pain) désigne au sens propre et figuré l'entrée dans un cercle de confiance.\n\nLe code : quand un Russe vous invite chez lui pour la première fois, il prépare bien plus de nourriture que nécessaire — c'est une expression matérielle du respect. «Nakormit' do otvala» (nourrir jusqu'à l'épuisement) : l'hôte a réussi quand les invités sont incapables de manger davantage.\n\nLe partage informel est aussi important que le festin : apporter une bouteille de vin et s'asseoir dans la cuisine pendant des heures est un acte d'amitié aussi fort qu'un dîner élaboré. La cuisine (*kukhnia*) est souvent l'espace de conversation le plus intime dans un appartement russe."}
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "L'amitié russe — une institution",
+        "body": "En Russie, l'amitié (*drouzhba*, дружба) est une institution sociale aussi sérieuse que le mariage. On ne devient pas «ami» en quelques semaines — un ami russe, c'est quelqu'un qu'on a éprouvé dans des circonstances difficiles, avec qui on a partagé des confidences profondes, pour qui on est prêt à tout sacrifier.\n\nCette distinction entre «amis» (*drouzia*) et «connaissances» (*znakomye*) est bien plus tranchée qu'en France. Un Français peut appeler «ami» quelqu'un qu'il voit au travail. Un Russe réserve ce mot à un cercle très restreint — 3 ou 4 personnes au maximum — avec lesquelles il a une relation d'une intensité que peu de Français vivent avec leurs «amis».\n\nSi vous êtes reçu dans le cercle des amis d'un Russe, c'est un honneur immense qui suppose une réciprocité totale. «Mon ami a besoin de moi» est une raison valable pour annuler n'importe quel rendez-vous professionnel."
+      },
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "La cellule familiale élargie russe",
+        "body": "La famille russe est une structure beaucoup plus étendue et impliquée que la famille nucléaire française. Les grands-parents (*babouchka* et *dedouchka*) jouent un rôle central dans l'éducation des enfants — souvent plus présents que les parents eux-mêmes.\n\nLes oncles, tantes, cousins et les amis proches de la famille sont inclus dans les grandes décisions. Un Russe qui prend une décision importante sans consulter sa famille élargie sera perçu comme irresponsable.\n\nLa datcha familiale joue souvent le rôle de lieu de rassemblement des familles étendues — plusieurs générations se retrouvent l'été pour travailler le potager, manger ensemble, parler jusqu'à tard. C'est un espace de transmission des valeurs familiales qui n'a pas vraiment d'équivalent français."
+      },
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "Collectivisme vs individualisme",
+        "body": "Le sociologue néerlandais Geert Hofstede a développé un indice de collectivisme/individualisme. La Russie score très haut sur le collectivisme (score 39/100 contre 71 pour la France) — l'une des différences culturelles les plus documentées.\n\nConcrètement : un Français définit son identité d'abord par ses caractéristiques individuelles (opinions, goûts, carrière). Un Russe définit son identité d'abord par ses appartenances (famille, lieu d'origine, groupes d'amis).\n\nEn négociation commerciale : un Russe a besoin de temps pour construire une relation personnelle avant de traiter des affaires. En gestion : les décisions collectives et le consensus sont plus naturels que la décision individuelle hiérarchique."
+      },
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "Les réseaux informels — la force des liens",
+        "body": "Dans la société russe, les réseaux informels de confiance (*krugovaya poruka* — solidarité circulaire) jouent un rôle économique et social considérable.\n\nConcrètement : pour trouver un médecin fiable, un bon artisan, une école — un Russe passe par son réseau personnel plutôt que par les annuaires ou les avis internet. «Je connais quelqu'un» (*ya znayu cheloveka*) est la phrase la plus utile de la vie pratique russe.\n\nCe système est à la fois une force (vraie confiance dans le réseau) et une faiblesse (crée des cercles fermés difficiles à pénétrer, favorise parfois la corruption). Pour un étranger qui veut s'intégrer en Russie, la clé est d'être introduit par un intermédiaire de confiance."
+      },
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "L'amitié dans la littérature russe",
+        "body": "L'amitié est un thème central de la littérature russe — souvent représentée comme plus proche et plus intense que l'amour romantique. Dans Les Frères Karamazov, les liens entre frères sont plus fondamentaux que leurs amours. Dans Guerre et Paix, l'amitié entre Pierre Bezoukhov et le prince Andreï est l'une des relations les plus tendres du roman mondial.\n\nLa tradition du «drug littéraire» — deux écrivains qui se soutiennent mutuellement et se lisent avant publication — est une institution : Pouchkine et Joukovski, Tolstoï et Tchekhov.\n\nLa poésie de l'amitié est un genre à part entière en Russie. Pouchkine a écrit certains de ses plus beaux poèmes pour ses camarades du lycée de Tsarskoïe Selo — des célébrations de la camaraderie masculine qui mêlent mélancolie, humour et tendresse."
+      },
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "Les codes de l'amitié à table",
+        "body": "Partager la table est en Russie l'acte fondateur de l'amitié. «Razdelit' khleb» (partager le pain) désigne au sens propre et figuré l'entrée dans un cercle de confiance.\n\nLe code : quand un Russe vous invite chez lui pour la première fois, il prépare bien plus de nourriture que nécessaire — c'est une expression matérielle du respect. «Nakormit' do otvala» (nourrir jusqu'à l'épuisement) : l'hôte a réussi quand les invités sont incapables de manger davantage.\n\nLe partage informel est aussi important que le festin : apporter une bouteille de vin et s'asseoir dans la cuisine pendant des heures est un acte d'amitié aussi fort qu'un dîner élaboré. La cuisine (*kukhnia*) est souvent l'espace de conversation le plus intime dans un appartement russe."
+      }
     ],
-    "conseil_ami": {"title": "Le Conseil du Voyageur 🤝", "icon": "💡",
-      "content": "**Prenez le temps de construire la relation avant les affaires.** En contexte professionnel, les Russes ont besoin de vous connaître comme personne avant de vous faire confiance professionnellement. Un dîner, un verre, une promenade — ces moments «hors-sujet» sont le travail fondamental de toute collaboration durable.\n\nSi vous êtes invité à une soirée de famille russe, apportez quelque chose pour les enfants ou les anciens — geste qui montre que vous voyez la famille comme entité, pas seulement votre hôte.\n\n**Le paradoxe de la confiance russe** : difficile à obtenir, et totale une fois accordée. Cette confiance peut s'effondrer instantanément sur une trahison perçue."},
+    "conseil_ami": {
+      "title": "Le Conseil du Voyageur 🤝",
+      "icon": "💡",
+      "content": "**Prenez le temps de construire la relation avant les affaires.** En contexte professionnel, les Russes ont besoin de vous connaître comme personne avant de vous faire confiance professionnellement. Un dîner, un verre, une promenade — ces moments «hors-sujet» sont le travail fondamental de toute collaboration durable.\n\nSi vous êtes invité à une soirée de famille russe, apportez quelque chose pour les enfants ou les anciens — geste qui montre que vous voyez la famille comme entité, pas seulement votre hôte.\n\n**Le paradoxe de la confiance russe** : difficile à obtenir, et totale une fois accordée. Cette confiance peut s'effondrer instantanément sur une trahison perçue."
+    },
     "glossary": [
-      {"term": "Drouzhba (Дружба)", "definition": "Amitié — relation intense et exclusive, réservée à un très petit cercle. Bien plus exclusive que son équivalent français."},
-      {"term": "Znakomye (Знакомые)", "definition": "Connaissances — tous ceux qui ne sont pas des amis intimes. Distinction bien plus tranchée qu'en français."},
-      {"term": "Babouchka (Бабушка)", "definition": "Grand-mère — figure centrale de la famille russe, souvent co-éducatrice principale des enfants."},
-      {"term": "Krugovaya poruka (Круговая порука)", "definition": "Solidarité circulaire — responsabilité et soutien mutuels au sein d'un réseau de confiance."},
-      {"term": "Ya znayu cheloveka", "definition": "'Je connais quelqu'un' — phrase clé de la vie pratique russe. L'accès aux ressources via le réseau personnel."},
-      {"term": "Razdelit' khleb", "definition": "Partager le pain — acte fondateur de l'amitié et de la confiance. Manger ensemble = entrer dans le cercle."},
-      {"term": "Kukhnia (Кухня)", "definition": "La cuisine — espace de conversation le plus intime de l'appartement russe, préféré au salon pour les vraies discussions."},
-      {"term": "Narod (Народ)", "definition": "Le peuple — communauté organique définie par une histoire, une culture, une âme communes."}
+      {
+        "term": "Drouzhba (Дружба)",
+        "definition": "Amitié — relation intense et exclusive, réservée à un très petit cercle. Bien plus exclusive que son équivalent français."
+      },
+      {
+        "term": "Znakomye (Знакомые)",
+        "definition": "Connaissances — tous ceux qui ne sont pas des amis intimes. Distinction bien plus tranchée qu'en français."
+      },
+      {
+        "term": "Babouchka (Бабушка)",
+        "definition": "Grand-mère — figure centrale de la famille russe, souvent co-éducatrice principale des enfants."
+      },
+      {
+        "term": "Krugovaya poruka (Круговая порука)",
+        "definition": "Solidarité circulaire — responsabilité et soutien mutuels au sein d'un réseau de confiance."
+      },
+      {
+        "term": "Ya znayu cheloveka",
+        "definition": "'Je connais quelqu'un' — phrase clé de la vie pratique russe. L'accès aux ressources via le réseau personnel."
+      },
+      {
+        "term": "Razdelit' khleb",
+        "definition": "Partager le pain — acte fondateur de l'amitié et de la confiance. Manger ensemble = entrer dans le cercle."
+      },
+      {
+        "term": "Kukhnia (Кухня)",
+        "definition": "La cuisine — espace de conversation le plus intime de l'appartement russe, préféré au salon pour les vraies discussions."
+      },
+      {
+        "term": "Narod (Народ)",
+        "definition": "Le peuple — communauté organique définie par une histoire, une culture, une âme communes."
+      }
     ],
     "quiz": [
-      {"question": "Comment les Russes distinguent-ils 'amis' et 'connaissances' ?",
-       "options": ["Aucune distinction claire", "Distinction très tranchée : les amis forment un cercle très restreint de confiance totale", "Les amis sont les collègues de travail proches", "Les connaissances sont les voisins uniquement"],
-       "answer": 1, "explanation": "En Russie, 'amis' désigne un cercle très restreint (3-4 personnes) d'une intensité exceptionnelle. Les 'connaissances' sont tout le reste — distinction bien plus stricte qu'en France."},
-      {"question": "Que signifie 'ya znayu cheloveka' (я знаю человека) en pratique ?",
-       "options": ["Je suis étranger", "'Je connais quelqu'un' — la clé d'accès aux ressources via le réseau personnel", "J'ai de l'argent", "Je comprends le russe"],
-       "answer": 1, "explanation": "'Je connais quelqu'un' est la phrase la plus utile de la vie pratique russe — médecin fiable, bon artisan, logement : le réseau personnel prévaut sur les annuaires."},
-      {"question": "Pourquoi la cuisine (kukhnia) est-elle l'espace le plus intime dans un appartement russe ?",
-       "options": ["Pour des raisons pratiques de taille", "C'est là que les vrais conversations ont lieu, dans une atmosphère informelle", "C'est la tradition architecturale soviétique", "C'est l'espace le plus chaud en hiver"],
-       "answer": 1, "explanation": "La cuisine russe est historiquement l'espace de conversation le plus intime — parler vraiment, en toute franchise, souvent tard le soir. Ce phénomène est lié en partie à la vie soviétique en appartements étroits."},
-      {"question": "Qu'est-ce que le score de Hofstede révèle sur la Russie vs la France ?",
-       "options": ["La Russie est plus individualiste que la France", "La Russie est bien plus collectiviste (39/100) que la France (71/100)", "Les deux pays ont des scores similaires", "La France est plus collectiviste"],
-       "answer": 1, "explanation": "Le score de collectivisme de Hofstede place la Russie à 39/100 contre 71 pour la France — l'une des différences culturelles les plus documentées entre les deux pays."},
-      {"question": "Comment un hôte russe mesure-t-il le succès d'un repas d'invitation ?",
-       "options": ["La qualité artistique de la présentation", "Quand les invités ne peuvent plus manger — 'nakormit' do otvala'", "La quantité de vodka consommée", "La longueur de la conversation"],
-       "answer": 1, "explanation": "'Nakormit' do otvala' (nourrir jusqu'à l'épuisement) : l'hôte a réussi quand les invités sont incapables de manger davantage. La générosité alimentaire est une expression directe de la générosité de l'âme."}
+      {
+        "question": "Comment les Russes distinguent-ils 'amis' et 'connaissances' ?",
+        "options": [
+          "Aucune distinction claire",
+          "Distinction très tranchée : les amis forment un cercle très restreint de confiance totale",
+          "Les amis sont les collègues de travail proches",
+          "Les connaissances sont les voisins uniquement"
+        ],
+        "explanation": "En Russie, 'amis' désigne un cercle très restreint (3-4 personnes) d'une intensité exceptionnelle. Les 'connaissances' sont tout le reste — distinction bien plus stricte qu'en France.",
+        "correct_index": 1
+      },
+      {
+        "question": "Que signifie 'ya znayu cheloveka' (я знаю человека) en pratique ?",
+        "options": [
+          "Je suis étranger",
+          "'Je connais quelqu'un' — la clé d'accès aux ressources via le réseau personnel",
+          "J'ai de l'argent",
+          "Je comprends le russe"
+        ],
+        "explanation": "'Je connais quelqu'un' est la phrase la plus utile de la vie pratique russe — médecin fiable, bon artisan, logement : le réseau personnel prévaut sur les annuaires.",
+        "correct_index": 1
+      },
+      {
+        "question": "Pourquoi la cuisine (kukhnia) est-elle l'espace le plus intime dans un appartement russe ?",
+        "options": [
+          "Pour des raisons pratiques de taille",
+          "C'est là que les vrais conversations ont lieu, dans une atmosphère informelle",
+          "C'est la tradition architecturale soviétique",
+          "C'est l'espace le plus chaud en hiver"
+        ],
+        "explanation": "La cuisine russe est historiquement l'espace de conversation le plus intime — parler vraiment, en toute franchise, souvent tard le soir. Ce phénomène est lié en partie à la vie soviétique en appartements étroits.",
+        "correct_index": 1
+      },
+      {
+        "question": "Qu'est-ce que le score de Hofstede révèle sur la Russie vs la France ?",
+        "options": [
+          "La Russie est plus individualiste que la France",
+          "La Russie est bien plus collectiviste (39/100) que la France (71/100)",
+          "Les deux pays ont des scores similaires",
+          "La France est plus collectiviste"
+        ],
+        "explanation": "Le score de collectivisme de Hofstede place la Russie à 39/100 contre 71 pour la France — l'une des différences culturelles les plus documentées entre les deux pays.",
+        "correct_index": 1
+      },
+      {
+        "question": "Comment un hôte russe mesure-t-il le succès d'un repas d'invitation ?",
+        "options": [
+          "La qualité artistique de la présentation",
+          "Quand les invités ne peuvent plus manger — 'nakormit' do otvala'",
+          "La quantité de vodka consommée",
+          "La longueur de la conversation"
+        ],
+        "explanation": "'Nakormit' do otvala' (nourrir jusqu'à l'épuisement) : l'hôte a réussi quand les invités sont incapables de manger davantage. La générosité alimentaire est une expression directe de la générosité de l'âme.",
+        "correct_index": 1
+      }
     ]
   },
   "ru": {
-    "module_title": "Русская душа", "lesson_title": "Человеческие отношения и коллективизм",
+    "module_title": "Русская душа",
+    "lesson_title": "Человеческие отношения и коллективизм",
     "lesson_subtitle": "Дружба, семья, ближний круг",
     "intro": "Если душа определяет индивидуальную эмоциональную способность россиянина, коллективизм определяет, как эта душа организуется социально. В России человеческие отношения — не украшение жизни, они и есть сама жизнь. Семья и ближний круг — фундаментальная структура, вокруг которой строится всё остальное.",
     "sections": [
-      {"theme": "История", "icon": "📜", "title": "Русская дружба — институт",
-       "body": "В России дружба — социальный институт не менее серьёзный, чем брак. Другом не становятся за несколько недель — русский друг это тот, кого проверили в трудных обстоятельствах, с кем разделили глубокие тайны, ради кого готовы пожертвовать всем.\n\nРазличие между «друзьями» и «знакомыми» куда жёстче, чем во Франции. Русские берегут слово «друг» для очень узкого круга — 3–4 человека максимум.\n\nЕсли вас принимают в круг друзей россиянина — это огромная честь, предполагающая полную взаимность."},
-      {"theme": "География", "icon": "🗺️", "title": "Расширенная русская семья",
-       "body": "Русская семья — куда более широкая и вовлечённая структура, чем французская нуклеарная. Бабушки и дедушки играют центральную роль в воспитании детей — нередко более активную, чем сами родители.\n\nДяди, тёти, двоюродные и близкие друзья семьи участвуют в крупных решениях. Россиянин, принимающий важное решение без консультации с расширенной семьёй, воспринимается как безответственный.\n\nСемейная дача нередко служит местом сбора расширенной семьи: несколько поколений встречаются летом — работают в огороде, едят вместе, разговаривают допоздна."},
-      {"theme": "Политика и общество", "icon": "⚖️", "title": "Коллективизм против индивидуализма",
-       "body": "По индексу Хофстеде Россия показывает высокий коллективизм (39/100 против 71 у Франции) — одно из наиболее задокументированных культурных различий.\n\nКонкретно: обычный француз определяет свою идентичность через индивидуальные характеристики. Обычный россиянин — через принадлежности (семья, место рождения, круг друзей).\n\nВ деловых переговорах россиянин нуждается во времени для построения личных отношений прежде, чем перейти к делу. В управлении коллективные решения и консенсус естественнее иерархического единоличного."},
-      {"theme": "Экономика и повседневная жизнь", "icon": "🏠", "title": "Неформальные сети — сила связей",
-       "body": "В российском обществе неформальные сети доверия (круговая порука) играют значительную роль.\n\nКонкретно: чтобы найти надёжного врача, хорошего мастера, школу — россиянин обращается к личным связям, а не к справочникам. «Я знаю человека» — самая полезная фраза русской повседневности.\n\nЭта система — и сила (люди в сети действительно доверяют друг другу), и слабость (создаёт закрытые круги, порой способствует коррупции)."},
-      {"theme": "Культура и искусство", "icon": "🎨", "title": "Дружба в русской литературе",
-       "body": "Дружба — центральная тема русской литературы, нередко более близкая и интенсивная, чем романтическая любовь. В «Братьях Карамазовых» братские связи фундаментальнее, чем любовные. В «Войне и мире» дружба Пьера и князя Андрея — одна из самых нежных связей в мировом романе.\n\nРусская традиция «литературной дружбы» — подлинный институт: Пушкин и Жуковский, Толстой и Чехов.\n\nПоэзия дружбы — самостоятельный жанр в России. Пушкин посвятил лицейским товарищам прекраснейшие стихотворения."},
-      {"theme": "Гастрономия и социальные коды", "icon": "🍲", "title": "Коды дружбы за столом",
-       "body": "В России разделить стол — основополагающий акт дружбы. «Разделить хлеб» — в буквальном и переносном смысле войти в круг доверия.\n\nКод: когда россиянин приглашает вас домой впервые, он готовит куда больше, чем нужно. «Накормить до отвала» — хозяин справился, если гости не в силах есть дальше.\n\nНеформальный обмен так же важен, как пиршество: принести бутылку вина и просидеть часами на кухне — такой же сильный акт дружбы. Кухня — самое интимное пространство разговора в русской квартире."}
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "Русская дружба — институт",
+        "body": "В России дружба — социальный институт не менее серьёзный, чем брак. Другом не становятся за несколько недель — русский друг это тот, кого проверили в трудных обстоятельствах, с кем разделили глубокие тайны, ради кого готовы пожертвовать всем.\n\nРазличие между «друзьями» и «знакомыми» куда жёстче, чем во Франции. Русские берегут слово «друг» для очень узкого круга — 3–4 человека максимум.\n\nЕсли вас принимают в круг друзей россиянина — это огромная честь, предполагающая полную взаимность."
+      },
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "Расширенная русская семья",
+        "body": "Русская семья — куда более широкая и вовлечённая структура, чем французская нуклеарная. Бабушки и дедушки играют центральную роль в воспитании детей — нередко более активную, чем сами родители.\n\nДяди, тёти, двоюродные и близкие друзья семьи участвуют в крупных решениях. Россиянин, принимающий важное решение без консультации с расширенной семьёй, воспринимается как безответственный.\n\nСемейная дача нередко служит местом сбора расширенной семьи: несколько поколений встречаются летом — работают в огороде, едят вместе, разговаривают допоздна."
+      },
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Коллективизм против индивидуализма",
+        "body": "По индексу Хофстеде Россия показывает высокий коллективизм (39/100 против 71 у Франции) — одно из наиболее задокументированных культурных различий.\n\nКонкретно: обычный француз определяет свою идентичность через индивидуальные характеристики. Обычный россиянин — через принадлежности (семья, место рождения, круг друзей).\n\nВ деловых переговорах россиянин нуждается во времени для построения личных отношений прежде, чем перейти к делу. В управлении коллективные решения и консенсус естественнее иерархического единоличного."
+      },
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Неформальные сети — сила связей",
+        "body": "В российском обществе неформальные сети доверия (круговая порука) играют значительную роль.\n\nКонкретно: чтобы найти надёжного врача, хорошего мастера, школу — россиянин обращается к личным связям, а не к справочникам. «Я знаю человека» — самая полезная фраза русской повседневности.\n\nЭта система — и сила (люди в сети действительно доверяют друг другу), и слабость (создаёт закрытые круги, порой способствует коррупции)."
+      },
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Дружба в русской литературе",
+        "body": "Дружба — центральная тема русской литературы, нередко более близкая и интенсивная, чем романтическая любовь. В «Братьях Карамазовых» братские связи фундаментальнее, чем любовные. В «Войне и мире» дружба Пьера и князя Андрея — одна из самых нежных связей в мировом романе.\n\nРусская традиция «литературной дружбы» — подлинный институт: Пушкин и Жуковский, Толстой и Чехов.\n\nПоэзия дружбы — самостоятельный жанр в России. Пушкин посвятил лицейским товарищам прекраснейшие стихотворения."
+      },
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Коды дружбы за столом",
+        "body": "В России разделить стол — основополагающий акт дружбы. «Разделить хлеб» — в буквальном и переносном смысле войти в круг доверия.\n\nКод: когда россиянин приглашает вас домой впервые, он готовит куда больше, чем нужно. «Накормить до отвала» — хозяин справился, если гости не в силах есть дальше.\n\nНеформальный обмен так же важен, как пиршество: принести бутылку вина и просидеть часами на кухне — такой же сильный акт дружбы. Кухня — самое интимное пространство разговора в русской квартире."
+      }
     ],
-    "conseil_ami": {"title": "Совет путешественника 🤝", "icon": "💡",
-      "content": "**Отдайте время построению отношений прежде, чем переходить к делу.** В профессиональном контексте россияне нуждаются в том, чтобы узнать вас как человека прежде, чем доверять профессионально. Ужин, бокал вина — эти «посторонние» моменты и есть фундаментальная работа для долгосрочного сотрудничества.\n\nЕсли вас приглашают на семейный вечер, принесите что-нибудь для детей или пожилых.\n\n**Парадокс русского доверия**: его трудно завоевать, но, будучи дано, оно полное. Может рухнуть мгновенно от воспринятого предательства."},
+    "conseil_ami": {
+      "title": "Совет путешественника 🤝",
+      "icon": "💡",
+      "content": "**Отдайте время построению отношений прежде, чем переходить к делу.** В профессиональном контексте россияне нуждаются в том, чтобы узнать вас как человека прежде, чем доверять профессионально. Ужин, бокал вина — эти «посторонние» моменты и есть фундаментальная работа для долгосрочного сотрудничества.\n\nЕсли вас приглашают на семейный вечер, принесите что-нибудь для детей или пожилых.\n\n**Парадокс русского доверия**: его трудно завоевать, но, будучи дано, оно полное. Может рухнуть мгновенно от воспринятого предательства."
+    },
     "glossary": [
-      {"term": "Дружба", "definition": "Дружба — интенсивные и эксклюзивные отношения, сохраняемые для очень узкого круга. Куда эксклюзивнее, чем французское «amitié»."},
-      {"term": "Знакомые", "definition": "Знакомые — все те, кто не является друзьями. Граница значительно более чёткая, чем во французском."},
-      {"term": "Бабушка", "definition": "Бабушка — центральная фигура русской семьи, нередко главный со-воспитатель детей."},
-      {"term": "Круговая порука", "definition": "Круговая порука — взаимная ответственность и поддержка внутри сети доверия."},
-      {"term": "Я знаю человека", "definition": "«Я знаю человека» — ключевая фраза русской повседневности. Доступ к ресурсам через личные связи."},
-      {"term": "Разделить хлеб", "definition": "Разделить хлеб — основополагающий акт дружбы и доверия. Поесть вместе = войти в круг."},
-      {"term": "Кухня", "definition": "Кухня — самое интимное пространство разговора в русской квартире, предпочитаемое гостиной для настоящих бесед."},
-      {"term": "Народ", "definition": "Народ — органическое сообщество, определяемое общей историей, культурой, душой."}
+      {
+        "term": "Дружба",
+        "definition": "Дружба — интенсивные и эксклюзивные отношения, сохраняемые для очень узкого круга. Куда эксклюзивнее, чем французское «amitié»."
+      },
+      {
+        "term": "Знакомые",
+        "definition": "Знакомые — все те, кто не является друзьями. Граница значительно более чёткая, чем во французском."
+      },
+      {
+        "term": "Бабушка",
+        "definition": "Бабушка — центральная фигура русской семьи, нередко главный со-воспитатель детей."
+      },
+      {
+        "term": "Круговая порука",
+        "definition": "Круговая порука — взаимная ответственность и поддержка внутри сети доверия."
+      },
+      {
+        "term": "Я знаю человека",
+        "definition": "«Я знаю человека» — ключевая фраза русской повседневности. Доступ к ресурсам через личные связи."
+      },
+      {
+        "term": "Разделить хлеб",
+        "definition": "Разделить хлеб — основополагающий акт дружбы и доверия. Поесть вместе = войти в круг."
+      },
+      {
+        "term": "Кухня",
+        "definition": "Кухня — самое интимное пространство разговора в русской квартире, предпочитаемое гостиной для настоящих бесед."
+      },
+      {
+        "term": "Народ",
+        "definition": "Народ — органическое сообщество, определяемое общей историей, культурой, душой."
+      }
     ],
     "quiz": [
-      {"question": "Как россияне различают «друзей» и «знакомых»?",
-       "options": ["Чёткого различия нет, как во Франции", "Чёткое разграничение: друзья — очень узкий круг полного доверия", "Друзья — это близкие коллеги", "Знакомые — только соседи"],
-       "answer": 1, "explanation": "В России «друзья» — очень узкий круг (3–4 человека) исключительно интенсивных отношений. «Знакомые» — все остальные: разграничение куда строже, чем во Франции."},
-      {"question": "Что значит фраза «Я знаю человека» на практике?",
-       "options": ["Я иностранец", "Доступ к ресурсам через личные связи", "У меня есть деньги", "Я понимаю по-русски"],
-       "answer": 1, "explanation": "«Я знаю человека» — ключ к ресурсам в России: надёжный врач, хороший мастер, жильё: личные связи надёжнее справочников."},
-      {"question": "Почему кухня — самое интимное пространство в русской квартире?",
-       "options": ["По практическим причинам размера", "Здесь ведутся настоящие разговоры в неформальной атмосфере", "Это советская архитектурная традиция", "Это самое тёплое место зимой"],
-       "answer": 1, "explanation": "Русская кухня исторически — пространство самых искренних разговоров, нередко допоздна. Явление отчасти связано с жизнью в советских тесных квартирах."},
-      {"question": "Что показывает индекс Хофстеде о России по сравнению с Францией?",
-       "options": ["Россия более индивидуалистична", "Россия значительно более коллективистична (39/100) по сравнению с Францией (71/100)", "Обе страны имеют схожие показатели", "Франция более коллективистична"],
-       "answer": 1, "explanation": "По индексу коллективизма Хофстеде Россия набирает 39/100 против 71 у Франции — одно из наиболее задокументированных культурных различий между двумя странами."},
-      {"question": "Как русский хозяин оценивает успех приглашения к столу?",
-       "options": ["Художественное качество сервировки", "Когда гости больше не могут есть — «накормить до отвала»", "Количество выпитой водки", "Длина разговора"],
-       "answer": 1, "explanation": "«Накормить до отвала»: хозяин справился, если гости не в силах есть дальше. Пищевая щедрость — прямое выражение щедрости души."}
+      {
+        "question": "Как россияне различают «друзей» и «знакомых»?",
+        "options": [
+          "Чёткого различия нет, как во Франции",
+          "Чёткое разграничение: друзья — очень узкий круг полного доверия",
+          "Друзья — это близкие коллеги",
+          "Знакомые — только соседи"
+        ],
+        "explanation": "В России «друзья» — очень узкий круг (3–4 человека) исключительно интенсивных отношений. «Знакомые» — все остальные: разграничение куда строже, чем во Франции.",
+        "correct_index": 1
+      },
+      {
+        "question": "Что значит фраза «Я знаю человека» на практике?",
+        "options": [
+          "Я иностранец",
+          "Доступ к ресурсам через личные связи",
+          "У меня есть деньги",
+          "Я понимаю по-русски"
+        ],
+        "explanation": "«Я знаю человека» — ключ к ресурсам в России: надёжный врач, хороший мастер, жильё: личные связи надёжнее справочников.",
+        "correct_index": 1
+      },
+      {
+        "question": "Почему кухня — самое интимное пространство в русской квартире?",
+        "options": [
+          "По практическим причинам размера",
+          "Здесь ведутся настоящие разговоры в неформальной атмосфере",
+          "Это советская архитектурная традиция",
+          "Это самое тёплое место зимой"
+        ],
+        "explanation": "Русская кухня исторически — пространство самых искренних разговоров, нередко допоздна. Явление отчасти связано с жизнью в советских тесных квартирах.",
+        "correct_index": 1
+      },
+      {
+        "question": "Что показывает индекс Хофстеде о России по сравнению с Францией?",
+        "options": [
+          "Россия более индивидуалистична",
+          "Россия значительно более коллективистична (39/100) по сравнению с Францией (71/100)",
+          "Обе страны имеют схожие показатели",
+          "Франция более коллективистична"
+        ],
+        "explanation": "По индексу коллективизма Хофстеде Россия набирает 39/100 против 71 у Франции — одно из наиболее задокументированных культурных различий между двумя странами.",
+        "correct_index": 1
+      },
+      {
+        "question": "Как русский хозяин оценивает успех приглашения к столу?",
+        "options": [
+          "Художественное качество сервировки",
+          "Когда гости больше не могут есть — «накормить до отвала»",
+          "Количество выпитой водки",
+          "Длина разговора"
+        ],
+        "explanation": "«Накормить до отвала»: хозяин справился, если гости не в силах есть дальше. Пищевая щедрость — прямое выражение щедрости души.",
+        "correct_index": 1
+      }
     ]
   }
 }

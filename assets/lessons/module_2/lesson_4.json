@@ -7,10 +7,22 @@
     "estimated_minutes": 12,
     "difficulty": "intermédiaire",
     "sources": [
-      {"label": "Encyclopædia Universalis — Oural", "url": "https://www.universalis.fr/encyclopedie/oural/"},
-      {"label": "Le Monde — Le Caucase russe", "url": "https://www.lemonde.fr/"},
-      {"label": "IFRI — Géopolitique du Caucase", "url": "https://www.ifri.org/"},
-      {"label": "Larousse — Iekaterinbourg", "url": "https://www.larousse.fr/encyclopedie/divers/Iekaterinbourg/123456"}
+      {
+        "label": "Encyclopædia Universalis — Oural",
+        "url": "https://www.universalis.fr/encyclopedie/oural/"
+      },
+      {
+        "label": "Le Monde — Le Caucase russe",
+        "url": "https://www.lemonde.fr/"
+      },
+      {
+        "label": "IFRI — Géopolitique du Caucase",
+        "url": "https://www.ifri.org/"
+      },
+      {
+        "label": "Larousse — Iekaterinbourg",
+        "url": "https://www.larousse.fr/encyclopedie/divers/Iekaterinbourg/123456"
+      }
     ]
   },
   "fr": {
@@ -62,45 +74,94 @@
       "content": "**Iekaterinbourg mérite un détour** — souvent ignorée des circuits touristiques classiques, c'est une ville fascinante : l'église du Sang-Versé, le mémorial des Romanov, le musée d'histoire des Oural, une scène gastronomique et artistique dynamique. C'est aussi la ville natale de Boris Eltsine — dont le musée est remarquable et politiquement édifiant.\n\nSur la Tchétchénie : si vous êtes invité à parler de ce sujet avec des Russes, sachez que les opinions sont très divisées et les souvenirs très douloureux. Beaucoup de familles ont perdu des proches dans les deux guerres. Ne jamais plaisanter sur ce sujet ou le réduire à une polémique politique — c'est d'abord une tragédie humaine.\n\n**Un conseil inattendu** : si vous rencontrez des Caucasiens (Géorgiens, Arméniens, Tchétchènes) en Russie — par exemple à Moscou — vous découvrirez une sous-culture fascinante, entre intégration et fierté identitaire. Leur rapport à la Russie est complexe, leur cuisine est délicieuse, et leur hospitalité, légendaire."
     },
     "glossary": [
-      {"term": "Oural (Уральские горы)", "definition": "Chaîne de 2 500 km marquant la frontière conventionnelle entre l'Europe et l'Asie. Montagnes très anciennes, point culminant 1 895 m."},
-      {"term": "Elbrouz (Эльбрус)", "definition": "Point culminant du Caucase et de l'Europe (5 642 m), dépassant le mont Blanc de 800 m. Volcan endormi dans le Caucase russe."},
-      {"term": "Iekaterinbourg (Екатеринбург)", "definition": "Quatrième ville de Russie (1,5 M hab.), fondée en 1723. Lieu d'exécution de Nicolas II et sa famille en 1918."},
-      {"term": "Tchétchénie (Чечня)", "definition": "République russe du Caucase, théâtre de deux guerres (1994-96, 1999-2009). Aujourd'hui dirigée par Ramzan Kadyrov."},
-      {"term": "Daghestan (Дагестан)", "definition": "République la plus multiethnique de Russie, avec plus de 30 langues distinctes. Région frontalière à forte identité islamique."},
-      {"term": "Khinkali (Хинкали)", "definition": "Grands raviolis géorgiens au jus, tenus par la petite tête pour les manger. Emblème de la cuisine caucasienne en Russie."},
-      {"term": "Khachapouri (Хачапури)", "definition": "Pain géorgien fourré au fromage. Omniprésent dans les marchés et restaurants russes — l'une des contributions culinaires caucasiennes les plus populaires."},
-      {"term": "Épopée Nart (Нарты)", "definition": "Cycle épique des ancêtres mythologiques, partagé par plusieurs peuples du Caucase (Ossètes, Kabardins). Antérieur à l'Iliade."}
+      {
+        "term": "Oural (Уральские горы)",
+        "definition": "Chaîne de 2 500 km marquant la frontière conventionnelle entre l'Europe et l'Asie. Montagnes très anciennes, point culminant 1 895 m."
+      },
+      {
+        "term": "Elbrouz (Эльбрус)",
+        "definition": "Point culminant du Caucase et de l'Europe (5 642 m), dépassant le mont Blanc de 800 m. Volcan endormi dans le Caucase russe."
+      },
+      {
+        "term": "Iekaterinbourg (Екатеринбург)",
+        "definition": "Quatrième ville de Russie (1,5 M hab.), fondée en 1723. Lieu d'exécution de Nicolas II et sa famille en 1918."
+      },
+      {
+        "term": "Tchétchénie (Чечня)",
+        "definition": "République russe du Caucase, théâtre de deux guerres (1994-96, 1999-2009). Aujourd'hui dirigée par Ramzan Kadyrov."
+      },
+      {
+        "term": "Daghestan (Дагестан)",
+        "definition": "République la plus multiethnique de Russie, avec plus de 30 langues distinctes. Région frontalière à forte identité islamique."
+      },
+      {
+        "term": "Khinkali (Хинкали)",
+        "definition": "Grands raviolis géorgiens au jus, tenus par la petite tête pour les manger. Emblème de la cuisine caucasienne en Russie."
+      },
+      {
+        "term": "Khachapouri (Хачапури)",
+        "definition": "Pain géorgien fourré au fromage. Omniprésent dans les marchés et restaurants russes — l'une des contributions culinaires caucasiennes les plus populaires."
+      },
+      {
+        "term": "Épopée Nart (Нарты)",
+        "definition": "Cycle épique des ancêtres mythologiques, partagé par plusieurs peuples du Caucase (Ossètes, Kabardins). Antérieur à l'Iliade."
+      }
     ],
     "quiz": [
       {
         "question": "Quelle est la signification symbolique principale de l'Oural ?",
-        "options": ["La frontière entre la Russie et la Finlande", "La frontière géographique conventionnelle entre l'Europe et l'Asie", "La limite de la zone arctique", "La frontière entre zones climatiques tempérée et continentale"],
-        "answer": 1,
-        "explanation": "L'Oural marque la frontière conventionnelle entre l'Europe et l'Asie, même si ces montagnes anciennes sont relativement basses. Cette limite symbolique structure la géographie mentale russe."
+        "options": [
+          "La frontière entre la Russie et la Finlande",
+          "La frontière géographique conventionnelle entre l'Europe et l'Asie",
+          "La limite de la zone arctique",
+          "La frontière entre zones climatiques tempérée et continentale"
+        ],
+        "explanation": "L'Oural marque la frontière conventionnelle entre l'Europe et l'Asie, même si ces montagnes anciennes sont relativement basses. Cette limite symbolique structure la géographie mentale russe.",
+        "correct_index": 1
       },
       {
         "question": "Quel sommet du Caucase est le plus haut d'Europe, dépassant le Mont Blanc ?",
-        "options": ["Le Kazbek", "L'Elbrouz (5 642 m)", "Le Dychtaou", "Le Chakdagh"],
-        "answer": 1,
-        "explanation": "L'Elbrouz (5 642 m) est le plus haut sommet du Caucase et de l'Europe, dépassant le Mont Blanc (4 808 m) de 834 mètres. C'est un volcan endormi situé en Russie."
+        "options": [
+          "Le Kazbek",
+          "L'Elbrouz (5 642 m)",
+          "Le Dychtaou",
+          "Le Chakdagh"
+        ],
+        "explanation": "L'Elbrouz (5 642 m) est le plus haut sommet du Caucase et de l'Europe, dépassant le Mont Blanc (4 808 m) de 834 mètres. C'est un volcan endormi situé en Russie.",
+        "correct_index": 1
       },
       {
         "question": "Quel événement dramatique s'est produit à Iekaterinbourg en juillet 1918 ?",
-        "options": ["La fondation de l'URSS", "L'exécution du tsar Nicolas II et de sa famille", "La première grande bataille de la guerre civile russe", "La signature du traité de Brest-Litovsk"],
-        "answer": 1,
-        "explanation": "Dans la nuit du 16 au 17 juillet 1918, le tsar Nicolas II, son épouse, leurs cinq enfants et leurs serviteurs furent exécutés dans la cave de la maison Ipatiev d'Iekaterinbourg par les bolchéviques."
+        "options": [
+          "La fondation de l'URSS",
+          "L'exécution du tsar Nicolas II et de sa famille",
+          "La première grande bataille de la guerre civile russe",
+          "La signature du traité de Brest-Litovsk"
+        ],
+        "explanation": "Dans la nuit du 16 au 17 juillet 1918, le tsar Nicolas II, son épouse, leurs cinq enfants et leurs serviteurs furent exécutés dans la cave de la maison Ipatiev d'Iekaterinbourg par les bolchéviques.",
+        "correct_index": 1
       },
       {
         "question": "Combien de langues distinctes le Daghestan compte-t-il ?",
-        "options": ["Plus de 5", "Plus de 15", "Plus de 30", "Plus de 50"],
-        "answer": 2,
-        "explanation": "Le Daghestan compte plus de 30 langues distinctes dans un territoire de 50 000 km² — l'une des plus fortes densités linguistiques au monde, héritée de l'isolement géographique millénaire des vallées."
+        "options": [
+          "Plus de 5",
+          "Plus de 15",
+          "Plus de 30",
+          "Plus de 50"
+        ],
+        "explanation": "Le Daghestan compte plus de 30 langues distinctes dans un territoire de 50 000 km² — l'une des plus fortes densités linguistiques au monde, héritée de l'isolement géographique millénaire des vallées.",
+        "correct_index": 2
       },
       {
         "question": "Comment mange-t-on correctement les khinkali géorgiens ?",
-        "options": ["Avec une fourchette et un couteau", "En tenant par la petite tête (la queue) sans la manger", "En les trempant dans la sauce", "En les coupant en deux avec les doigts"],
-        "answer": 1,
-        "explanation": "Les khinkali se mangent en les tenant par la petite tête (la queue de pâte) sans la manger, en mordant dans la poche pour boire le jus d'abord. Couper un khinkali est considéré comme une faute de goût."
+        "options": [
+          "Avec une fourchette et un couteau",
+          "En tenant par la petite tête (la queue) sans la manger",
+          "En les trempant dans la sauce",
+          "En les coupant en deux avec les doigts"
+        ],
+        "explanation": "Les khinkali se mangent en les tenant par la petite tête (la queue de pâte) sans la manger, en mordant dans la poche pour boire le jus d'abord. Couper un khinkali est considéré comme une faute de goût.",
+        "correct_index": 1
       }
     ]
   },
@@ -153,45 +214,94 @@
       "content": "**Екатеринбург заслуживает внимания** — нередко обходимый стороной в классических туристических маршрутах, это удивительный город: Храм на Крови, мемориал Романовых, музей истории Урала, динамичная гастрономическая и художественная сцена. Это также родной город Бориса Ельцина — музей которого замечателен и политически поучителен.\n\nО Чечне: если вас приглашают говорить на эту тему с россиянами, знайте, что мнения резко расходятся, а воспоминания очень болезненны. Многие семьи потеряли близких в двух войнах. Никогда не шутите на эту тему и не сводите её к политической полемике — это прежде всего человеческая трагедия.\n\n**Неожиданный совет**: если вы встретите кавказцев (грузин, армян, чеченцев) в России — например, в Москве — вы откроете для себя увлекательную субкультуру между интеграцией и гордостью идентичности. Их отношения с Россией сложны, их кухня восхитительна, а гостеприимство — легендарно."
     },
     "glossary": [
-      {"term": "Уральские горы", "definition": "Горная цепь протяжённостью 2 500 км, обозначающая условную границу между Европой и Азией. Очень древние горы, наивысшая точка — 1 895 м."},
-      {"term": "Эльбрус", "definition": "Высочайшая точка Кавказа и Европы (5 642 м), превышающая Монблан на 800 м. Спящий вулкан на территории России."},
-      {"term": "Екатеринбург", "definition": "Четвёртый город России (1,5 млн жителей), основан в 1723 году. Место расстрела Николая II и его семьи в 1918 году."},
-      {"term": "Чечня", "definition": "Российская республика на Кавказе, ставшая ареной двух войн (1994–96, 1999–2009). Сегодня управляется Рамзаном Кадыровым."},
-      {"term": "Дагестан", "definition": "Самый многонациональный регион России — более 30 самостоятельных языков. Приграничный регион с сильной исламской идентичностью."},
-      {"term": "Хинкали", "definition": "Грузинские пельмени с бульоном, которые едят, держа за «хвостик». Символ кавказской кухни в России."},
-      {"term": "Хачапури", "definition": "Грузинский хлеб с сыром. Повсеместно распространён на российских рынках и в ресторанах — одно из популярнейших кавказских кулинарных достижений."},
-      {"term": "Нарты", "definition": "Эпос о мифических предках, общий для нескольких кавказских народов (осетины, кабардинцы). Восходит ко временам, предшествующим «Илиаде»."}
+      {
+        "term": "Уральские горы",
+        "definition": "Горная цепь протяжённостью 2 500 км, обозначающая условную границу между Европой и Азией. Очень древние горы, наивысшая точка — 1 895 м."
+      },
+      {
+        "term": "Эльбрус",
+        "definition": "Высочайшая точка Кавказа и Европы (5 642 м), превышающая Монблан на 800 м. Спящий вулкан на территории России."
+      },
+      {
+        "term": "Екатеринбург",
+        "definition": "Четвёртый город России (1,5 млн жителей), основан в 1723 году. Место расстрела Николая II и его семьи в 1918 году."
+      },
+      {
+        "term": "Чечня",
+        "definition": "Российская республика на Кавказе, ставшая ареной двух войн (1994–96, 1999–2009). Сегодня управляется Рамзаном Кадыровым."
+      },
+      {
+        "term": "Дагестан",
+        "definition": "Самый многонациональный регион России — более 30 самостоятельных языков. Приграничный регион с сильной исламской идентичностью."
+      },
+      {
+        "term": "Хинкали",
+        "definition": "Грузинские пельмени с бульоном, которые едят, держа за «хвостик». Символ кавказской кухни в России."
+      },
+      {
+        "term": "Хачапури",
+        "definition": "Грузинский хлеб с сыром. Повсеместно распространён на российских рынках и в ресторанах — одно из популярнейших кавказских кулинарных достижений."
+      },
+      {
+        "term": "Нарты",
+        "definition": "Эпос о мифических предках, общий для нескольких кавказских народов (осетины, кабардинцы). Восходит ко временам, предшествующим «Илиаде»."
+      }
     ],
     "quiz": [
       {
         "question": "Каково главное символическое значение Уральских гор?",
-        "options": ["Граница России и Финляндии", "Условная географическая граница между Европой и Азией", "Граница Арктической зоны", "Граница между умеренным и континентальным климатом"],
-        "answer": 1,
-        "explanation": "Урал обозначает условную границу между Европой и Азией — даже при относительно небольшой высоте гор. Этот символический рубеж структурирует российскую ментальную географию."
+        "options": [
+          "Граница России и Финляндии",
+          "Условная географическая граница между Европой и Азией",
+          "Граница Арктической зоны",
+          "Граница между умеренным и континентальным климатом"
+        ],
+        "explanation": "Урал обозначает условную границу между Европой и Азией — даже при относительно небольшой высоте гор. Этот символический рубеж структурирует российскую ментальную географию.",
+        "correct_index": 1
       },
       {
         "question": "Какая вершина Кавказа является высочайшей в Европе, превосходя Монблан?",
-        "options": ["Казбек", "Эльбрус (5 642 м)", "Дыхтау", "Шахдаг"],
-        "answer": 1,
-        "explanation": "Эльбрус (5 642 м) — высочайшая точка Кавказа и Европы, превышающая Монблан (4 808 м) на 834 метра. Это спящий вулкан, расположенный в России."
+        "options": [
+          "Казбек",
+          "Эльбрус (5 642 м)",
+          "Дыхтау",
+          "Шахдаг"
+        ],
+        "explanation": "Эльбрус (5 642 м) — высочайшая точка Кавказа и Европы, превышающая Монблан (4 808 м) на 834 метра. Это спящий вулкан, расположенный в России.",
+        "correct_index": 1
       },
       {
         "question": "Какое драматическое событие произошло в Екатеринбурге в июле 1918 года?",
-        "options": ["Основание СССР", "Расстрел царя Николая II и его семьи", "Первое крупное сражение Гражданской войны", "Подписание Брестского мира"],
-        "answer": 1,
-        "explanation": "В ночь с 16 на 17 июля 1918 года царь Николай II, его супруга, пятеро детей и слуги были расстреляны большевиками в подвале Ипатьевского дома в Екатеринбурге."
+        "options": [
+          "Основание СССР",
+          "Расстрел царя Николая II и его семьи",
+          "Первое крупное сражение Гражданской войны",
+          "Подписание Брестского мира"
+        ],
+        "explanation": "В ночь с 16 на 17 июля 1918 года царь Николай II, его супруга, пятеро детей и слуги были расстреляны большевиками в подвале Ипатьевского дома в Екатеринбурге.",
+        "correct_index": 1
       },
       {
         "question": "Сколько самостоятельных языков насчитывает Дагестан?",
-        "options": ["Более 5", "Более 15", "Более 30", "Более 50"],
-        "answer": 2,
-        "explanation": "В Дагестане более 30 самостоятельных языков на территории 50 000 км² — одна из высочайших в мире языковых плотностей, унаследованная от тысячелетней географической изоляции горных долин."
+        "options": [
+          "Более 5",
+          "Более 15",
+          "Более 30",
+          "Более 50"
+        ],
+        "explanation": "В Дагестане более 30 самостоятельных языков на территории 50 000 км² — одна из высочайших в мире языковых плотностей, унаследованная от тысячелетней географической изоляции горных долин.",
+        "correct_index": 2
       },
       {
         "question": "Как правильно едят хинкали по-грузински?",
-        "options": ["Ножом и вилкой", "Держа за хвостик, не съедая его", "Макая в соус", "Разламывая пополам руками"],
-        "answer": 1,
-        "explanation": "Хинкали едят, держа за «хвостик» (сложенный жгутик теста) и не съедая его, кусая через тесто, чтобы сначала выпить бульон. Разрезать хинкали — грубая ошибка."
+        "options": [
+          "Ножом и вилкой",
+          "Держа за хвостик, не съедая его",
+          "Макая в соус",
+          "Разламывая пополам руками"
+        ],
+        "explanation": "Хинкали едят, держа за «хвостик» (сложенный жгутик теста) и не съедая его, кусая через тесто, чтобы сначала выпить бульон. Разрезать хинкали — грубая ошибка.",
+        "correct_index": 1
       }
     ]
   }

@@ -7,10 +7,22 @@
     "estimated_minutes": 12,
     "difficulty": "intermédiaire",
     "sources": [
-      {"label": "France Diplomatie — Russie, présentation générale", "url": "https://www.diplomatie.gouv.fr/fr/dossiers-pays/russie/"},
-      {"label": "IFRI — Russie et géopolitique", "url": "https://www.ifri.org/fr/russie"},
-      {"label": "Le Grand Continent — Russie", "url": "https://legrandcontinent.eu/fr/tag/russie/"},
-      {"label": "Courrier International — Relations franco-russes", "url": "https://www.courrierinternational.com/"}
+      {
+        "label": "France Diplomatie — Russie, présentation générale",
+        "url": "https://www.diplomatie.gouv.fr/fr/dossiers-pays/russie/"
+      },
+      {
+        "label": "IFRI — Russie et géopolitique",
+        "url": "https://www.ifri.org/fr/russie"
+      },
+      {
+        "label": "Le Grand Continent — Russie",
+        "url": "https://legrandcontinent.eu/fr/tag/russie/"
+      },
+      {
+        "label": "Courrier International — Relations franco-russes",
+        "url": "https://www.courrierinternational.com/"
+      }
     ]
   },
   "fr": {
@@ -62,45 +74,94 @@
       "content": "**Félicitations — vous avez terminé le Module 1 !** Vous disposez maintenant d'une compréhension solide des racines historiques, politiques et culturelles de la Russie. C'est une base précieuse.\n\nVotre meilleur ambassadeur auprès de vos interlocuteurs russes est votre **curiosité sincère**. Posez des questions sur leur famille, leur région, leurs artistes préférés — pas sur la politique. Montrez que la Russie est pour vous bien plus que le cliché du pays froid et autoritaire.\n\nUne dernière pensée : la relation franco-russe est compliquée en ce moment, mais elle n'est pas condamnée. La France et la Russie partagent des valeurs qui dépassent les alignements géopolitiques : l'amour de la littérature, une certaine idée de l'indépendance nationale, le goût pour les débats intellectuels exigeants, et une cuisine qui prend le temps de vivre. **Module 2 : découvrons maintenant l'immensité du territoire russe.**"
     },
     "glossary": [
-      {"term": "Étranger proche (Ближнее зарубежье)", "definition": "Terme russe désignant les anciennes républiques soviétiques, considérées comme faisant partie de la sphère d'influence naturelle de la Russie."},
-      {"term": "Grande puissance (Великая держава)", "definition": "Concept central de la politique étrangère russe : la Russie se perçoit comme l'égal des États-Unis et de la Chine."},
-      {"term": "SWIFT", "definition": "Système international de messagerie financière entre banques. L'exclusion de la Russie en 2022 a perturbé ses transactions internationales."},
-      {"term": "Ballets Russes", "definition": "Compagnie de ballet fondée par Diaghilev, basée à Paris (1909–1929). A révolutionné la danse et les arts du spectacle mondiaux."},
-      {"term": "Borodino", "definition": "Bataille décisive de la campagne de Napoléon en Russie (1812), consacrée dans Guerre et Paix de Tolstoï comme symbole de la résistance nationale."},
-      {"term": "Conseil de sécurité de l'ONU", "definition": "Organe exécutif de l'ONU. La Russie en est membre permanent (avec USA, Chine, France, Royaume-Uni) et dispose du droit de veto."},
-      {"term": "Sanctions économiques", "definition": "Mesures de rétorsion économique prises par les pays occidentaux contre la Russie depuis 2014, intensifiées massivement en 2022."},
-      {"term": "Alliance franco-russe (1892)", "definition": "Traité d'alliance militaire signé en 1892 entre la France et la Russie tsariste, visant à contrebalancer la puissance allemande."}
+      {
+        "term": "Étranger proche (Ближнее зарубежье)",
+        "definition": "Terme russe désignant les anciennes républiques soviétiques, considérées comme faisant partie de la sphère d'influence naturelle de la Russie."
+      },
+      {
+        "term": "Grande puissance (Великая держава)",
+        "definition": "Concept central de la politique étrangère russe : la Russie se perçoit comme l'égal des États-Unis et de la Chine."
+      },
+      {
+        "term": "SWIFT",
+        "definition": "Système international de messagerie financière entre banques. L'exclusion de la Russie en 2022 a perturbé ses transactions internationales."
+      },
+      {
+        "term": "Ballets Russes",
+        "definition": "Compagnie de ballet fondée par Diaghilev, basée à Paris (1909–1929). A révolutionné la danse et les arts du spectacle mondiaux."
+      },
+      {
+        "term": "Borodino",
+        "definition": "Bataille décisive de la campagne de Napoléon en Russie (1812), consacrée dans Guerre et Paix de Tolstoï comme symbole de la résistance nationale."
+      },
+      {
+        "term": "Conseil de sécurité de l'ONU",
+        "definition": "Organe exécutif de l'ONU. La Russie en est membre permanent (avec USA, Chine, France, Royaume-Uni) et dispose du droit de veto."
+      },
+      {
+        "term": "Sanctions économiques",
+        "definition": "Mesures de rétorsion économique prises par les pays occidentaux contre la Russie depuis 2014, intensifiées massivement en 2022."
+      },
+      {
+        "term": "Alliance franco-russe (1892)",
+        "definition": "Traité d'alliance militaire signé en 1892 entre la France et la Russie tsariste, visant à contrebalancer la puissance allemande."
+      }
     ],
     "quiz": [
       {
         "question": "Quelle langue était parlée dans les cours et l'aristocratie russes au XIXe siècle ?",
-        "options": ["L'allemand", "L'anglais", "Le français", "L'italien"],
-        "answer": 2,
-        "explanation": "Le français était la langue de la cour et de l'aristocratie russes au XIXe siècle. Tolstoï écrit des pages entières en français dans Guerre et Paix, et Pouchkine lisait Voltaire dans le texte."
+        "options": [
+          "L'allemand",
+          "L'anglais",
+          "Le français",
+          "L'italien"
+        ],
+        "explanation": "Le français était la langue de la cour et de l'aristocratie russes au XIXe siècle. Tolstoï écrit des pages entières en français dans Guerre et Paix, et Pouchkine lisait Voltaire dans le texte.",
+        "correct_index": 2
       },
       {
         "question": "Combien de pays frontaliers la Russie partage-t-elle ?",
-        "options": ["8 pays", "11 pays", "14 pays", "17 pays"],
-        "answer": 2,
-        "explanation": "La Russie partage ses frontières avec 14 pays — plus que tout autre État au monde — ce qui en fait un acteur géopolitique incontournable dans plusieurs régions."
+        "options": [
+          "8 pays",
+          "11 pays",
+          "14 pays",
+          "17 pays"
+        ],
+        "explanation": "La Russie partage ses frontières avec 14 pays — plus que tout autre État au monde — ce qui en fait un acteur géopolitique incontournable dans plusieurs régions.",
+        "correct_index": 2
       },
       {
         "question": "Que désigne l'expression russe «étranger proche» (ближнее зарубежье) ?",
-        "options": ["Les pays de l'Union Européenne", "Les anciennes républiques soviétiques", "Les pays frontaliers de l'OTAN", "Les pays avec lesquels la Russie a des traités"],
-        "answer": 1,
-        "explanation": "L'«étranger proche» désigne les anciennes républiques soviétiques devenues indépendantes en 1991, que la Russie considère comme faisant partie de sa sphère d'influence naturelle."
+        "options": [
+          "Les pays de l'Union Européenne",
+          "Les anciennes républiques soviétiques",
+          "Les pays frontaliers de l'OTAN",
+          "Les pays avec lesquels la Russie a des traités"
+        ],
+        "explanation": "L'«étranger proche» désigne les anciennes républiques soviétiques devenues indépendantes en 1991, que la Russie considère comme faisant partie de sa sphère d'influence naturelle.",
+        "correct_index": 1
       },
       {
         "question": "Quelle révolution artistique les Ballets Russes de Diaghilev ont-ils provoquée, depuis Paris ?",
-        "options": ["La révolution impressionniste", "La révolution de la danse, de la musique et des arts visuels du début du XXe siècle", "La révolution du cinéma muet", "La révolution de l'opéra baroque"],
-        "answer": 1,
-        "explanation": "Les Ballets Russes de Diaghilev (Paris, 1909–1929) ont révolutionné la danse moderne, associé Stravinski, Debussy, Picasso et Matisse, transformant durablement les arts du spectacle mondiaux."
+        "options": [
+          "La révolution impressionniste",
+          "La révolution de la danse, de la musique et des arts visuels du début du XXe siècle",
+          "La révolution du cinéma muet",
+          "La révolution de l'opéra baroque"
+        ],
+        "explanation": "Les Ballets Russes de Diaghilev (Paris, 1909–1929) ont révolutionné la danse moderne, associé Stravinski, Debussy, Picasso et Matisse, transformant durablement les arts du spectacle mondiaux.",
+        "correct_index": 1
       },
       {
         "question": "Pourquoi les cartes bancaires françaises ne fonctionnent-elles plus en Russie depuis 2022 ?",
-        "options": ["La Russie a développé sa propre monnaie numérique", "La Russie a été exclue du système SWIFT et les réseaux Visa/Mastercard ont suspendu leurs opérations", "Les banques russes ont refusé les paiements étrangers", "Un accord bilatéral France-Russie a bloqué les transactions"],
-        "answer": 1,
-        "explanation": "Suite aux sanctions de 2022, la Russie a été exclue du système SWIFT et les réseaux Visa et Mastercard ont suspendu leurs opérations en Russie, rendant les cartes étrangères inutilisables."
+        "options": [
+          "La Russie a développé sa propre monnaie numérique",
+          "La Russie a été exclue du système SWIFT et les réseaux Visa/Mastercard ont suspendu leurs opérations",
+          "Les banques russes ont refusé les paiements étrangers",
+          "Un accord bilatéral France-Russie a bloqué les transactions"
+        ],
+        "explanation": "Suite aux sanctions de 2022, la Russie a été exclue du système SWIFT et les réseaux Visa et Mastercard ont suspendu leurs opérations en Russie, rendant les cartes étrangères inutilisables.",
+        "correct_index": 1
       }
     ]
   },
@@ -153,45 +214,94 @@
       "content": "**Поздравляем — вы завершили Модуль 1!** Теперь у вас есть прочное понимание исторических, политических и культурных корней России. Это ценная основа.\n\nЛучший ваш посол в общении с русскими — **искреннее любопытство**. Спрашивайте о семье, регионе, любимых художниках — не о политике. Покажите, что Россия для вас гораздо больше, чем клише о холодной авторитарной стране.\n\nПоследняя мысль: французско-российские отношения сейчас сложны, но не обречены. Франция и Россия разделяют ценности, выходящие за рамки геополитических союзов: любовь к литературе, определённое представление о национальной независимости, вкус к серьёзной интеллектуальной дискуссии, и кухню, умеющую жить неторопливо. **Модуль 2: откроем теперь бескрайние просторы российской территории.**"
     },
     "glossary": [
-      {"term": "Ближнее зарубежье", "definition": "Российский термин для обозначения бывших советских республик, рассматриваемых как часть естественной сферы влияния России."},
-      {"term": "Великая держава", "definition": "Ключевое понятие российской внешней политики: Россия воспринимает себя как равную США и Китаю."},
-      {"term": "SWIFT", "definition": "Международная система финансовых сообщений между банками. Отключение России в 2022 году нарушило её международные транзакции."},
-      {"term": "Русские балеты", "definition": "Балетная компания Дягилева, базировавшаяся в Париже (1909–1929). Революционизировала танец и сценические искусства в мире."},
-      {"term": "Бородино", "definition": "Решающая битва наполеоновского похода в Россию (1812), ставшая символом национального сопротивления в «Войне и мире» Толстого."},
-      {"term": "Совет Безопасности ООН", "definition": "Исполнительный орган ООН. Россия является постоянным членом (наряду с США, Китаем, Францией, Великобританией) с правом вето."},
-      {"term": "Экономические санкции", "definition": "Экономические меры западных стран против России с 2014 года, резко усиленные в 2022 году."},
-      {"term": "Франко-русский союз (1892)", "definition": "Военно-союзный договор 1892 года между Францией и царской Россией, направленный на противодействие германской мощи."}
+      {
+        "term": "Ближнее зарубежье",
+        "definition": "Российский термин для обозначения бывших советских республик, рассматриваемых как часть естественной сферы влияния России."
+      },
+      {
+        "term": "Великая держава",
+        "definition": "Ключевое понятие российской внешней политики: Россия воспринимает себя как равную США и Китаю."
+      },
+      {
+        "term": "SWIFT",
+        "definition": "Международная система финансовых сообщений между банками. Отключение России в 2022 году нарушило её международные транзакции."
+      },
+      {
+        "term": "Русские балеты",
+        "definition": "Балетная компания Дягилева, базировавшаяся в Париже (1909–1929). Революционизировала танец и сценические искусства в мире."
+      },
+      {
+        "term": "Бородино",
+        "definition": "Решающая битва наполеоновского похода в Россию (1812), ставшая символом национального сопротивления в «Войне и мире» Толстого."
+      },
+      {
+        "term": "Совет Безопасности ООН",
+        "definition": "Исполнительный орган ООН. Россия является постоянным членом (наряду с США, Китаем, Францией, Великобританией) с правом вето."
+      },
+      {
+        "term": "Экономические санкции",
+        "definition": "Экономические меры западных стран против России с 2014 года, резко усиленные в 2022 году."
+      },
+      {
+        "term": "Франко-русский союз (1892)",
+        "definition": "Военно-союзный договор 1892 года между Францией и царской Россией, направленный на противодействие германской мощи."
+      }
     ],
     "quiz": [
       {
         "question": "На каком языке говорили при русском дворе и в аристократии в XIX веке?",
-        "options": ["На немецком", "На английском", "На французском", "На итальянском"],
-        "answer": 2,
-        "explanation": "Французский был языком русского двора и аристократии в XIX веке. Толстой пишет целые страницы по-французски в «Войне и мире», а Пушкин читал Вольтера в оригинале."
+        "options": [
+          "На немецком",
+          "На английском",
+          "На французском",
+          "На итальянском"
+        ],
+        "explanation": "Французский был языком русского двора и аристократии в XIX веке. Толстой пишет целые страницы по-французски в «Войне и мире», а Пушкин читал Вольтера в оригинале.",
+        "correct_index": 2
       },
       {
         "question": "С каким количеством государств граничит Россия?",
-        "options": ["8 стран", "11 стран", "14 стран", "17 стран"],
-        "answer": 2,
-        "explanation": "Россия граничит с 14 государствами — больше, чем любая другая страна мира, что делает её незаменимым геополитическим игроком в нескольких регионах."
+        "options": [
+          "8 стран",
+          "11 стран",
+          "14 стран",
+          "17 стран"
+        ],
+        "explanation": "Россия граничит с 14 государствами — больше, чем любая другая страна мира, что делает её незаменимым геополитическим игроком в нескольких регионах.",
+        "correct_index": 2
       },
       {
         "question": "Что обозначает российское выражение «ближнее зарубежье»?",
-        "options": ["Страны Европейского союза", "Бывшие советские республики", "Страны — члены НАТО у российских границ", "Страны, с которыми Россия имеет договоры"],
-        "answer": 1,
-        "explanation": "«Ближнее зарубежье» обозначает бывшие советские республики, ставшие независимыми в 1991 году, которые Россия рассматривает как часть своей естественной сферы влияния."
+        "options": [
+          "Страны Европейского союза",
+          "Бывшие советские республики",
+          "Страны — члены НАТО у российских границ",
+          "Страны, с которыми Россия имеет договоры"
+        ],
+        "explanation": "«Ближнее зарубежье» обозначает бывшие советские республики, ставшие независимыми в 1991 году, которые Россия рассматривает как часть своей естественной сферы влияния.",
+        "correct_index": 1
       },
       {
         "question": "Какую художественную революцию совершили Русские балеты Дягилева в Париже?",
-        "options": ["Импрессионистскую революцию", "Революцию в танце, музыке и изобразительных искусствах начала XX века", "Революцию немого кино", "Революцию барочной оперы"],
-        "answer": 1,
-        "explanation": "Русские балеты Дягилева (Париж, 1909–1929) произвели революцию в современном танце, объединив Стравинского, Дебюсси, Пикассо и Матисса, навсегда изменив мировое сценическое искусство."
+        "options": [
+          "Импрессионистскую революцию",
+          "Революцию в танце, музыке и изобразительных искусствах начала XX века",
+          "Революцию немого кино",
+          "Революцию барочной оперы"
+        ],
+        "explanation": "Русские балеты Дягилева (Париж, 1909–1929) произвели революцию в современном танце, объединив Стравинского, Дебюсси, Пикассо и Матисса, навсегда изменив мировое сценическое искусство.",
+        "correct_index": 1
       },
       {
         "question": "Почему французские банковские карты не работают в России с 2022 года?",
-        "options": ["Россия разработала собственную цифровую валюту", "Россия отключена от SWIFT, а Visa/Mastercard приостановили работу", "Российские банки отказались принимать иностранные платежи", "Двустороннее соглашение Франции и России заблокировало транзакции"],
-        "answer": 1,
-        "explanation": "После санкций 2022 года Россия была отключена от SWIFT, а Visa и Mastercard приостановили работу в России, сделав иностранные карты непригодными для использования."
+        "options": [
+          "Россия разработала собственную цифровую валюту",
+          "Россия отключена от SWIFT, а Visa/Mastercard приостановили работу",
+          "Российские банки отказались принимать иностранные платежи",
+          "Двустороннее соглашение Франции и России заблокировало транзакции"
+        ],
+        "explanation": "После санкций 2022 года Россия была отключена от SWIFT, а Visa и Mastercard приостановили работу в России, сделав иностранные карты непригодными для использования.",
+        "correct_index": 1
       }
     ]
   }

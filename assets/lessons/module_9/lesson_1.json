@@ -112,8 +112,8 @@
           "Rachmaninov",
           "Chostakovitch"
         ],
-        "answer": 1,
-        "explanation": "Mikhail Glinka (1804-1857) est le fondateur de la musique nationale russe — son opéra 'La Vie pour le Tsar' (1836) est le premier à utiliser des thèmes populaires russes authentiques. Il inspire directement le groupe des Cinq."
+        "explanation": "Mikhail Glinka (1804-1857) est le fondateur de la musique nationale russe — son opéra 'La Vie pour le Tsar' (1836) est le premier à utiliser des thèmes populaires russes authentiques. Il inspire directement le groupe des Cinq.",
+        "correct_index": 1
       },
       {
         "question": "Quels sont les trois ballets de Tchaïkovski les plus joués au monde ?",
@@ -123,8 +123,8 @@
           "Roméo et Juliette, Cendrillon, Spartacus",
           "Onegin, La Bayadère, Swan Lake"
         ],
-        "answer": 1,
-        "explanation": "Les trois ballets de Tchaïkovski — Le Lac des Cygnes (1876), La Belle au Bois Dormant (1890) et Casse-Noisette (1892) — sont les ballets les plus représentés au monde, joués dans des centaines de théâtres chaque année."
+        "explanation": "Les trois ballets de Tchaïkovski — Le Lac des Cygnes (1876), La Belle au Bois Dormant (1890) et Casse-Noisette (1892) — sont les ballets les plus représentés au monde, joués dans des centaines de théâtres chaque année.",
+        "correct_index": 1
       },
       {
         "question": "Pourquoi 'Le Lac des Cygnes' est-il associé aux changements politiques en Russie ?",
@@ -134,8 +134,8 @@
           "Il était l'œuvre préférée de Staline",
           "C'est le ballet joué lors des élections présidentielles"
         ],
-        "answer": 1,
-        "explanation": "Dans la culture politique russe, la diffusion du Lac des Cygnes sur les chaînes d'État est devenue un signal codé de crise : c'est ce que les chaînes passaient quand Brejnev, Andropov ou Tchernenko mouraient — et en août 1991 pendant le coup d'État."
+        "explanation": "Dans la culture politique russe, la diffusion du Lac des Cygnes sur les chaînes d'État est devenue un signal codé de crise : c'est ce que les chaînes passaient quand Brejnev, Andropov ou Tchernenko mouraient — et en août 1991 pendant le coup d'État.",
+        "correct_index": 1
       },
       {
         "question": "Quel pianiste américain a remporté le 1er Concours Tchaïkovski en 1958, en pleine Guerre froide ?",
@@ -145,8 +145,8 @@
           "Vladimir Horowitz",
           "Glenn Gould"
         ],
-        "answer": 1,
-        "explanation": "Van Cliburn, pianiste américain de 23 ans, remporta le 1er Concours Tchaïkovski en 1958. Sa victoire fut accueillie en héros aux États-Unis et symbolisa un moment de détente culturelle entre USA et URSS malgré la Guerre froide."
+        "explanation": "Van Cliburn, pianiste américain de 23 ans, remporta le 1er Concours Tchaïkovski en 1958. Sa victoire fut accueillie en héros aux États-Unis et symbolisa un moment de détente culturelle entre USA et URSS malgré la Guerre froide.",
+        "correct_index": 1
       },
       {
         "question": "Qu'est-ce que le 'champagne soviétique' dans la culture des concerts russes ?",
@@ -156,8 +156,8 @@
           "De la vodka aromatisée au raisin",
           "Un cocktail créé au Bolchoï dans les années 1950"
         ],
-        "answer": 1,
-        "explanation": "Le champagne soviétique (Советское шампанское) est un mousseux demi-sec produit depuis 1937. Moins fin qu'un champagne français, il est la boisson emblématique des entractes de concert, mariages et fêtes du Nouvel An — une madeleine de Proust pour les Russes."
+        "explanation": "Le champagne soviétique (Советское шампанское) est un mousseux demi-sec produit depuis 1937. Moins fin qu'un champagne français, il est la boisson emblématique des entractes de concert, mariages et fêtes du Nouvel An — une madeleine de Proust pour les Russes.",
+        "correct_index": 1
       }
     ]
   },
@@ -252,8 +252,8 @@
           "Рахманинов",
           "Шостакович"
         ],
-        "answer": 1,
-        "explanation": "Михаил Глинка (1804–1857) — основатель русской национальной музыки: его опера «Жизнь за царя» (1836) первой использует подлинные народные темы. Он непосредственно вдохновил «Могучую кучку»."
+        "explanation": "Михаил Глинка (1804–1857) — основатель русской национальной музыки: его опера «Жизнь за царя» (1836) первой использует подлинные народные темы. Он непосредственно вдохновил «Могучую кучку».",
+        "correct_index": 1
       },
       {
         "question": "Какие три балета Чайковского наиболее исполняются в мире?",
@@ -263,8 +263,8 @@
           "Ромео и Джульетта, Золушка, Спартак",
           "Онегин, Баядерка, Лебединое озеро"
         ],
-        "answer": 1,
-        "explanation": "Три балета Чайковского — «Лебединое озеро» (1876), «Спящая красавица» (1890) и «Щелкунчик» (1892) — самые исполняемые в мире, ежегодно идущие в сотнях театров."
+        "explanation": "Три балета Чайковского — «Лебединое озеро» (1876), «Спящая красавица» (1890) и «Щелкунчик» (1892) — самые исполняемые в мире, ежегодно идущие в сотнях театров.",
+        "correct_index": 1
       },
       {
         "question": "Почему «Лебединое озеро» ассоциируется в России со сменами власти?",
@@ -274,8 +274,8 @@
           "Это было любимое произведение Сталина",
           "Это балет, исполняемый во время президентских выборов"
         ],
-        "answer": 1,
-        "explanation": "В российской политической культуре трансляция «Лебединого озера» на госканалах стала закодированным сигналом кризиса: именно его показывали, когда умирали Брежнев, Андропов, Черненко — и в августе 1991-го во время путча."
+        "explanation": "В российской политической культуре трансляция «Лебединого озера» на госканалах стала закодированным сигналом кризиса: именно его показывали, когда умирали Брежнев, Андропов, Черненко — и в августе 1991-го во время путча.",
+        "correct_index": 1
       },
       {
         "question": "Какой американский пианист завоевал первую премию на 1-м Конкурсе Чайковского в 1958 году, в разгар холодной войны?",
@@ -285,8 +285,8 @@
           "Владимир Горовиц",
           "Гленн Гульд"
         ],
-        "answer": 1,
-        "explanation": "Ван Клиберн, 23-летний американский пианист, завоевал первую премию на 1-м Конкурсе Чайковского в 1958 году. Его победа была встречена как героическая в США и символизировала культурную оттепель в отношениях США–СССР вопреки холодной войне."
+        "explanation": "Ван Клиберн, 23-летний американский пианист, завоевал первую премию на 1-м Конкурсе Чайковского в 1958 году. Его победа была встречена как героическая в США и символизировала культурную оттепель в отношениях США–СССР вопреки холодной войне.",
+        "correct_index": 1
       },
       {
         "question": "Что такое «Советское шампанское» в культуре российских концертов?",
@@ -296,8 +296,8 @@
           "Ароматизированная виноградом водка",
           "Коктейль, созданный в Большом театре в 1950-х"
         ],
-        "answer": 1,
-        "explanation": "Советское шампанское — полусухое игристое, производимое с 1937 года. Менее изящное, чем французское, оно — эмблематический напиток антрактов, свадеб и новогодних праздников: мадлен Пруста для россиян."
+        "explanation": "Советское шампанское — полусухое игристое, производимое с 1937 года. Менее изящное, чем французское, оно — эмблематический напиток антрактов, свадеб и новогодних праздников: мадлен Пруста для россиян.",
+        "correct_index": 1
       }
     ]
   }

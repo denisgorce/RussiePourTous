@@ -108,8 +108,8 @@
           "Premier exportateur mondial",
           "Cinquième, derrière Canada, Australie, USA, UE"
         ],
-        "answer": 0,
-        "explanation": "Depuis 2016, la Russie est le premier exportateur mondial de blé, devançant les États-Unis, l'Union européenne et le Canada. Ses exportations représentent environ 20% du commerce mondial."
+        "explanation": "Depuis 2016, la Russie est le premier exportateur mondial de blé, devançant les États-Unis, l'Union européenne et le Canada. Ses exportations représentent environ 20% du commerce mondial.",
+        "correct_index": 0
       },
       {
         "question": "Qu'est-ce que le tchernozem ?",
@@ -119,8 +119,8 @@
           "Un fertilisant chimique soviétique",
           "Une variété de blé russe résistante au froid"
         ],
-        "answer": 1,
-        "explanation": "Le tchernozem (terre noire) est l'un des sols les plus fertiles au monde, formé sur des millions d'années par la décomposition des steppes. Il s'étend sur 1 million de km² entre le sud de la Russie et l'Ukraine."
+        "explanation": "Le tchernozem (terre noire) est l'un des sols les plus fertiles au monde, formé sur des millions d'années par la décomposition des steppes. Il s'étend sur 1 million de km² entre le sud de la Russie et l'Ukraine.",
+        "correct_index": 1
       },
       {
         "question": "Quel grain est l'équivalent russe du riz japonais — aliment central et réserve d'urgence ?",
@@ -130,8 +130,8 @@
           "Le sarrasin (grechka)",
           "Le seigle"
         ],
-        "answer": 2,
-        "explanation": "La grechka (sarrasin) est le grain le plus emblématique de la cuisine russe — aliment de confort omniprésent et réserve d'urgence. Lors du COVID-19 en 2020, les Russes ont massivement stocké de la grechka."
+        "explanation": "La grechka (sarrasin) est le grain le plus emblématique de la cuisine russe — aliment de confort omniprésent et réserve d'urgence. Lors du COVID-19 en 2020, les Russes ont massivement stocké de la grechka.",
+        "correct_index": 2
       },
       {
         "question": "Comment la Russie a-t-elle utilisé son blé comme levier géopolitique en 2023 ?",
@@ -141,8 +141,8 @@
           "En abaissant ses prix pour concurrencer les États-Unis",
           "En créant un cartel avec d'autres pays producteurs"
         ],
-        "answer": 1,
-        "explanation": "En juillet 2023, la Russie a suspendu l'accord céréales mer Noire (ONU-Russie-Ukraine-Turquie) qui permettait les exportations ukrainiennes, menaçant la sécurité alimentaire de dizaines de pays importateurs."
+        "explanation": "En juillet 2023, la Russie a suspendu l'accord céréales mer Noire (ONU-Russie-Ukraine-Turquie) qui permettait les exportations ukrainiennes, menaçant la sécurité alimentaire de dizaines de pays importateurs.",
+        "correct_index": 1
       },
       {
         "question": "Quelle proportion des légumes russes est encore produite par les potagers de datchas ?",
@@ -152,8 +152,8 @@
           "40%",
           "70%"
         ],
-        "answer": 2,
-        "explanation": "Les potagers de datchas produisent encore environ 40% des légumes et 80% des pommes de terre consommés par les ménages russes — une agriculture vivrière persistante liée à la mémoire des crises."
+        "explanation": "Les potagers de datchas produisent encore environ 40% des légumes et 80% des pommes de terre consommés par les ménages russes — une agriculture vivrière persistante liée à la mémoire des crises.",
+        "correct_index": 2
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Первый мировой экспортёр",
           "Пятое, после Канады, Австралии, США, ЕС"
         ],
-        "answer": 0,
-        "explanation": "С 2016 года Россия — крупнейший в мире экспортёр пшеницы, опередив США, ЕС и Канаду. Её экспорт составляет около 20% мировой торговли."
+        "explanation": "С 2016 года Россия — крупнейший в мире экспортёр пшеницы, опередив США, ЕС и Канаду. Её экспорт составляет около 20% мировой торговли.",
+        "correct_index": 0
       },
       {
         "question": "Что такое чернозём?",
@@ -259,8 +259,8 @@
           "Советское химическое удобрение",
           "Морозостойкий сорт российской пшеницы"
         ],
-        "answer": 1,
-        "explanation": "Чернозём — одна из плодороднейших почв в мире, формировавшаяся миллионы лет из разложившихся степных трав. Занимает 1 млн км² между югом России и Украиной."
+        "explanation": "Чернозём — одна из плодороднейших почв в мире, формировавшаяся миллионы лет из разложившихся степных трав. Занимает 1 млн км² между югом России и Украиной.",
+        "correct_index": 1
       },
       {
         "question": "Какой злак является для русской кухни тем, чем рис для японской — центральным блюдом и аварийным запасом?",
@@ -270,8 +270,8 @@
           "Гречка",
           "Рожь"
         ],
-        "answer": 2,
-        "explanation": "Гречка — самый знаковый злак русской кухни: повсеместная еда-утешение и аварийный запас. Во время COVID-19 в 2020 году россияне массово закупали гречку."
+        "explanation": "Гречка — самый знаковый злак русской кухни: повсеместная еда-утешение и аварийный запас. Во время COVID-19 в 2020 году россияне массово закупали гречку.",
+        "correct_index": 2
       },
       {
         "question": "Как Россия использовала пшеницу в качестве геополитического рычага в 2023 году?",
@@ -281,8 +281,8 @@
           "Снизив цены для конкуренции с США",
           "Создав картель с другими странами-производителями"
         ],
-        "answer": 1,
-        "explanation": "В июле 2023 года Россия приостановила зерновую сделку по Чёрному морю (ООН–Россия–Украина–Турция), угрожая продовольственной безопасности десятков стран-импортёров."
+        "explanation": "В июле 2023 года Россия приостановила зерновую сделку по Чёрному морю (ООН–Россия–Украина–Турция), угрожая продовольственной безопасности десятков стран-импортёров.",
+        "correct_index": 1
       },
       {
         "question": "Какую долю российских овощей по-прежнему производят дачные огороды?",
@@ -292,8 +292,8 @@
           "40%",
           "70%"
         ],
-        "answer": 2,
-        "explanation": "Дачные огороды по-прежнему производят около 40% потребляемых овощей и 80% картофеля в российских домохозяйствах — сохраняющееся натуральное хозяйство, связанное с памятью о кризисах."
+        "explanation": "Дачные огороды по-прежнему производят около 40% потребляемых овощей и 80% картофеля в российских домохозяйствах — сохраняющееся натуральное хозяйство, связанное с памятью о кризисах.",
+        "correct_index": 2
       }
     ]
   }

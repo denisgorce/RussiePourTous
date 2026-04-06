@@ -109,8 +109,8 @@
           "Le service formel à la française adapté à la cuisine russe",
           "La tradition de manger debout lors des cérémonies orthodoxes"
         ],
-        "answer": 1,
-        "explanation": "Le «zastolye» désigne l'atmosphère festive totale qui entoure un bon repas russe — un mélange de bonne nourriture, bonnes boissons, bonne compagnie, chansons et conversations profondes. C'est un concept culturel central que les Russes évoquent avec nostalgie."
+        "explanation": "Le «zastolye» désigne l'atmosphère festive totale qui entoure un bon repas russe — un mélange de bonne nourriture, bonnes boissons, bonne compagnie, chansons et conversations profondes. C'est un concept culturel central que les Russes évoquent avec nostalgie.",
+        "correct_index": 1
       },
       {
         "question": "Quel geste est à éviter absolument à table en Russie ?",
@@ -120,8 +120,8 @@
           "Poser une bouteille vide sur la table (tradition maritime porte-malheur)",
           "Parler la bouche pleine en société mixte"
         ],
-        "answer": 2,
-        "explanation": "Poser une bouteille vide sur la table est considéré comme portant malheur selon une ancienne tradition maritime. Les bouteilles vides se posent par terre ou sous la table. C'est l'une des superstitions de table les plus respectées en Russie."
+        "explanation": "Poser une bouteille vide sur la table est considéré comme portant malheur selon une ancienne tradition maritime. Les bouteilles vides se posent par terre ou sous la table. C'est l'une des superstitions de table les plus respectées en Russie.",
+        "correct_index": 2
       },
       {
         "question": "Combien de fleurs doit-on apporter en cadeau à des hôtes russes ?",
@@ -131,8 +131,8 @@
           "Un nombre impair — le nombre pair est réservé aux enterrements",
           "Le nombre n'a aucune importance en Russie"
         ],
-        "answer": 2,
-        "explanation": "Les fleurs offertes en Russie doivent toujours être en nombre impair (1, 3, 5, 7...). Un nombre pair est strictement associé aux enterrements et aux condoléances. Offrir un nombre pair de fleurs à des hôtes vivants est une maladresse grave."
+        "explanation": "Les fleurs offertes en Russie doivent toujours être en nombre impair (1, 3, 5, 7...). Un nombre pair est strictement associé aux enterrements et aux condoléances. Offrir un nombre pair de fleurs à des hôtes vivants est une maladresse grave.",
+        "correct_index": 2
       },
       {
         "question": "Qu'est-ce que le «pososhok» (посошок) dans la tradition russe ?",
@@ -142,8 +142,8 @@
           "Un plat sucré servi en conclusion du repas",
           "La tradition d'embrasser ses hôtes trois fois en partant"
         ],
-        "answer": 1,
-        "explanation": "Le pososhok («le petit bâton du voyageur») est le toast final traditionnel proposé aux invités avant leur départ. Y participer est un acte de respect pour l'hospitalité reçue. Refuser ce dernier verre serait perçu comme une hâte déplaisante à quitter la table."
+        "explanation": "Le pososhok («le petit bâton du voyageur») est le toast final traditionnel proposé aux invités avant leur départ. Y participer est un acte de respect pour l'hospitalité reçue. Refuser ce dernier verre serait perçu comme une hâte déplaisante à quitter la table.",
+        "correct_index": 1
       },
       {
         "question": "Que désignait le «kukhonny razgovor» (кухонный разговор) en URSS ?",
@@ -153,8 +153,8 @@
           "Les réunions du Parti organisées dans les cantines d'usine",
           "Les cours de cuisine collective dans les foyers soviétiques"
         ],
-        "answer": 1,
-        "explanation": "Le «kukhonny razgovor» (conversation de cuisine) désignait sous l'URSS les discussions privées qui se tenaient dans les petites cuisines des appartements communaux ou collectifs. C'était l'un des seuls espaces où les Soviétiques pouvaient parler librement, hors de la surveillance du régime."
+        "explanation": "Le «kukhonny razgovor» (conversation de cuisine) désignait sous l'URSS les discussions privées qui se tenaient dans les petites cuisines des appartements communaux ou collectifs. C'était l'un des seuls espaces où les Soviétiques pouvaient parler librement, hors de la surveillance du régime.",
+        "correct_index": 1
       }
     ]
   },
@@ -249,8 +249,8 @@
           "Формальный французский сервис, адаптированный к русской кухне",
           "Традицию есть стоя на православных церемониях"
         ],
-        "answer": 1,
-        "explanation": "«Застолье» обозначает общую праздничную атмосферу хорошего русского стола — смешение вкусной еды, хороших напитков, доброй компании, песен и глубоких разговоров. Это центральное культурное понятие, которое русские вспоминают с ностальгией."
+        "explanation": "«Застолье» обозначает общую праздничную атмосферу хорошего русского стола — смешение вкусной еды, хороших напитков, доброй компании, песен и глубоких разговоров. Это центральное культурное понятие, которое русские вспоминают с ностальгией.",
+        "correct_index": 1
       },
       {
         "question": "Какого жеста за столом в России следует обязательно избегать?",
@@ -260,8 +260,8 @@
           "Ставить пустую бутылку на стол (морская примета, приносящая несчастье)",
           "Говорить с набитым ртом в смешанной компании"
         ],
-        "answer": 2,
-        "explanation": "Поставить пустую бутылку на стол считается плохой приметой — по старой морской традиции. Пустые бутылки ставят на пол или под стол. Это одно из наиболее соблюдаемых застольных суеверий в России."
+        "explanation": "Поставить пустую бутылку на стол считается плохой приметой — по старой морской традиции. Пустые бутылки ставят на пол или под стол. Это одно из наиболее соблюдаемых застольных суеверий в России.",
+        "correct_index": 2
       },
       {
         "question": "Сколько цветов нужно принести в подарок хозяевам в России?",
@@ -271,8 +271,8 @@
           "Нечётное число — чётное предназначено для похорон",
           "Количество цветов в России не имеет значения"
         ],
-        "answer": 2,
-        "explanation": "Цветы в подарок в России должны быть в нечётном количестве (1, 3, 5, 7...). Чётное число строго ассоциируется с похоронами и соболезнованиями. Преподнести чётное число цветов живым хозяевам — серьёзная оплошность."
+        "explanation": "Цветы в подарок в России должны быть в нечётном количестве (1, 3, 5, 7...). Чётное число строго ассоциируется с похоронами и соболезнованиями. Преподнести чётное число цветов живым хозяевам — серьёзная оплошность.",
+        "correct_index": 2
       },
       {
         "question": "Что такое «посошок» в русской традиции?",
@@ -282,8 +282,8 @@
           "Сладкое блюдо в конце трапезы",
           "Традиция троекратного объятия при прощании"
         ],
-        "answer": 1,
-        "explanation": "Посошок («маленькая палочка путника») — традиционный последний тост перед уходом гостей. Участие в нём — знак уважения к принятому гостеприимству. Отказаться от этой рюмки воспримут как неприятное желание поскорее уйти."
+        "explanation": "Посошок («маленькая палочка путника») — традиционный последний тост перед уходом гостей. Участие в нём — знак уважения к принятому гостеприимству. Отказаться от этой рюмки воспримут как неприятное желание поскорее уйти.",
+        "correct_index": 1
       },
       {
         "question": "Что обозначал «кухонный разговор» в СССР?",
@@ -293,8 +293,8 @@
           "Партийные собрания, организуемые в заводских столовых",
           "Уроки коллективной готовки в советских общежитиях"
         ],
-        "answer": 1,
-        "explanation": "«Кухонный разговор» в СССР обозначал частные беседы, которые вели на кухнях коммунальных или обычных квартир. Это было одно из немногих мест, где советские люди могли говорить свободно, вне надзора режима."
+        "explanation": "«Кухонный разговор» в СССР обозначал частные беседы, которые вели на кухнях коммунальных или обычных квартир. Это было одно из немногих мест, где советские люди могли говорить свободно, вне надзора режима.",
+        "correct_index": 1
       }
     ]
   }

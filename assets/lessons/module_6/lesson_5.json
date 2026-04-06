@@ -112,8 +112,8 @@
           "Beaucoup plus élevé (~60-65%)",
           "Inexistant car le divorce est difficile"
         ],
-        "answer": 2,
-        "explanation": "Le taux de divorce russe est l'un des plus élevés au monde — environ 60-65% des mariages se terminent par un divorce, contre environ 45% en France. Ce chiffre contraste avec le discours officiel valorisant la famille traditionnelle."
+        "explanation": "Le taux de divorce russe est l'un des plus élevés au monde — environ 60-65% des mariages se terminent par un divorce, contre environ 45% en France. Ce chiffre contraste avec le discours officiel valorisant la famille traditionnelle.",
+        "correct_index": 2
       },
       {
         "question": "Qu'est-ce que le 'capital maternel' (materinskiy kapital) en Russie ?",
@@ -123,8 +123,8 @@
           "Une allocation mensuelle pour les enfants de moins de 3 ans",
           "Un crédit d'impôt pour les parents qui travaillent"
         ],
-        "answer": 1,
-        "explanation": "Le capital maternel est une prime gouvernementale d'environ 600 000 roubles versée à la naissance du 2e enfant (et des suivants). C'est la principale politique nataliste russe, avec des effets modérés mais réels sur la fécondité."
+        "explanation": "Le capital maternel est une prime gouvernementale d'environ 600 000 roubles versée à la naissance du 2e enfant (et des suivants). C'est la principale politique nataliste russe, avec des effets modérés mais réels sur la fécondité.",
+        "correct_index": 1
       },
       {
         "question": "Que signifie 'grazhdansky brak' (гражданский брак) en russe ?",
@@ -134,8 +134,8 @@
           "Un mariage mixte (Russe + étranger)",
           "Un mariage religieux non reconnu par l'État"
         ],
-        "answer": 1,
-        "explanation": "'Гражданский брак' (mariage civil) désigne paradoxalement le concubinage en russe — deux personnes non mariées légalement. Attention au contresens : l'inverse du sens français !"
+        "explanation": "'Гражданский брак' (mariage civil) désigne paradoxalement le concubinage en russe — deux personnes non mariées légalement. Attention au contresens : l'inverse du sens français !",
+        "correct_index": 1
       },
       {
         "question": "Pourquoi l'espérance de vie des hommes russes (67 ans) est-elle 10 ans inférieure à celle des femmes ?",
@@ -145,8 +145,8 @@
           "Les femmes bénéficient d'un meilleur système de santé",
           "Les hommes partent plus souvent à la guerre"
         ],
-        "answer": 1,
-        "explanation": "L'écart de 10 ans entre l'espérance de vie des hommes (67 ans) et des femmes (77 ans) s'explique principalement par la consommation d'alcool, les accidents de la route, les maladies cardiovasculaires et la violence — problèmes particulièrement marqués chez les hommes russes."
+        "explanation": "L'écart de 10 ans entre l'espérance de vie des hommes (67 ans) et des femmes (77 ans) s'explique principalement par la consommation d'alcool, les accidents de la route, les maladies cardiovasculaires et la violence — problèmes particulièrement marqués chez les hommes russes.",
+        "correct_index": 1
       },
       {
         "question": "Quelle salade familiale russe mélange betteraves, carottes, pommes de terre et cornichons ?",
@@ -156,8 +156,8 @@
           "La salade César russe",
           "La salade Stolichny"
         ],
-        "answer": 1,
-        "explanation": "Le vinegret est la salade familiale russe classique — betteraves, carottes, pommes de terre et cornichons marinés, assaisonnée à l'huile de tournesol. Plat dominical omniprésent dans les familles russes."
+        "explanation": "Le vinegret est la salade familiale russe classique — betteraves, carottes, pommes de terre et cornichons marinés, assaisonnée à l'huile de tournesol. Plat dominical omniprésent dans les familles russes.",
+        "correct_index": 1
       }
     ]
   },
@@ -252,8 +252,8 @@
           "Значительно выше (~60–65%)",
           "Практически отсутствует, так как развод затруднён"
         ],
-        "answer": 2,
-        "explanation": "Коэффициент разводимости в России — один из самых высоких в мире: около 60–65% браков заканчиваются разводом (против ~45% во Франции). Эта цифра контрастирует с официальным дискурсом о традиционной семье."
+        "explanation": "Коэффициент разводимости в России — один из самых высоких в мире: около 60–65% браков заканчиваются разводом (против ~45% во Франции). Эта цифра контрастирует с официальным дискурсом о традиционной семье.",
+        "correct_index": 2
       },
       {
         "question": "Что такое «материнский капитал» в России?",
@@ -263,8 +263,8 @@
           "Ежемесячное пособие на детей до 3 лет",
           "Налоговый вычет для работающих родителей"
         ],
-        "answer": 1,
-        "explanation": "Материнский капитал — государственная выплата около 600 000 рублей при рождении второго ребёнка. Главная пронаталистская политика России с умеренным, но реальным эффектом на рождаемость."
+        "explanation": "Материнский капитал — государственная выплата около 600 000 рублей при рождении второго ребёнка. Главная пронаталистская политика России с умеренным, но реальным эффектом на рождаемость.",
+        "correct_index": 1
       },
       {
         "question": "Что означает «гражданский брак» по-русски?",
@@ -274,8 +274,8 @@
           "Смешанный брак (русский + иностранец)",
           "Церковный брак, не признанный государством"
         ],
-        "answer": 1,
-        "explanation": "«Гражданский брак» парадоксально обозначает по-русски сожительство — двух юридически незарегистрированных людей. Внимание к путанице: прямо противоположно французскому значению!"
+        "explanation": "«Гражданский брак» парадоксально обозначает по-русски сожительство — двух юридически незарегистрированных людей. Внимание к путанице: прямо противоположно французскому значению!",
+        "correct_index": 1
       },
       {
         "question": "Почему ожидаемая продолжительность жизни российских мужчин (67 лет) на 10 лет ниже, чем у женщин?",
@@ -285,8 +285,8 @@
           "Женщины имеют лучшую систему здравоохранения",
           "Мужчины чаще воюют"
         ],
-        "answer": 1,
-        "explanation": "Разрыв в 10 лет между продолжительностью жизни мужчин (67 лет) и женщин (77 лет) объясняется прежде всего потреблением алкоголя, ДТП, сердечно-сосудистыми заболеваниями и насилием — проблемами, особенно острыми среди российских мужчин."
+        "explanation": "Разрыв в 10 лет между продолжительностью жизни мужчин (67 лет) и женщин (77 лет) объясняется прежде всего потреблением алкоголя, ДТП, сердечно-сосудистыми заболеваниями и насилием — проблемами, особенно острыми среди российских мужчин.",
+        "correct_index": 1
       },
       {
         "question": "Какой русский семейный салат включает свёклу, морковь, картофель и огурцы?",
@@ -296,8 +296,8 @@
           "Русский салат «Цезарь»",
           "Салат «Столичный»"
         ],
-        "answer": 1,
-        "explanation": "Винегрет — классический русский семейный салат: свёкла, морковь, картофель и маринованные огурцы, заправленные подсолнечным маслом. Повсеместно распространённое воскресное блюдо в российских семьях."
+        "explanation": "Винегрет — классический русский семейный салат: свёкла, морковь, картофель и маринованные огурцы, заправленные подсолнечным маслом. Повсеместно распространённое воскресное блюдо в российских семьях.",
+        "correct_index": 1
       }
     ]
   }

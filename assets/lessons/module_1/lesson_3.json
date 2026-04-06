@@ -7,10 +7,22 @@
     "estimated_minutes": 14,
     "difficulty": "intermédiaire",
     "sources": [
-      {"label": "Encyclopædia Universalis — Révolution russe", "url": "https://www.universalis.fr/encyclopedie/revolution-russe/"},
-      {"label": "France Culture — L'URSS en 10 dates", "url": "https://www.franceculture.fr/histoire/lurss-en-10-dates"},
-      {"label": "Le Monde — Dossier URSS", "url": "https://www.lemonde.fr/"},
-      {"label": "INA — Archives soviétiques", "url": "https://www.ina.fr/"}
+      {
+        "label": "Encyclopædia Universalis — Révolution russe",
+        "url": "https://www.universalis.fr/encyclopedie/revolution-russe/"
+      },
+      {
+        "label": "France Culture — L'URSS en 10 dates",
+        "url": "https://www.franceculture.fr/histoire/lurss-en-10-dates"
+      },
+      {
+        "label": "Le Monde — Dossier URSS",
+        "url": "https://www.lemonde.fr/"
+      },
+      {
+        "label": "INA — Archives soviétiques",
+        "url": "https://www.ina.fr/"
+      }
     ]
   },
   "fr": {
@@ -62,45 +74,94 @@
       "content": "**N'attendez pas de la culpabilité collective sur Staline.** En France, nous avons tendance à penser que les Russes devraient avoir le même rapport à Staline que les Allemands à Hitler. C'est une erreur de perspective. Staline est une figure ambivalente pour beaucoup de Russes — le bourreau qui a aussi vaincu le nazisme, sauvant l'Europe à un coût inimaginable. Discuter de Staline en Russie requiert de l'humilité et de la nuance.\n\nÀ l'inverse, **la Seconde Guerre mondiale est le sujet le plus chargé**. Les Russes appellent ce conflit «la Grande Guerre patriotique» — pas la Seconde Guerre mondiale. Pour eux, cette guerre a été avant tout une guerre de survie nationale, livrée essentiellement sur le Front de l'Est (80% des combats). 27 millions de morts soviétiques contre 600 000 français — ne l'oubliez jamais dans une conversation.\n\nUne approche intelligente : montrez que vous connaissez **Tarkovski ou Chostakovitch**. Ces noms évoquent une résistance artistique noble face au régime — une sensibilité que les Russes cultivés admirent profondément."
     },
     "glossary": [
-      {"term": "Bolchéviques", "definition": "Faction du parti social-démocrate russe menée par Lénine, qui prit le pouvoir en octobre 1917 et fonda le régime soviétique."},
-      {"term": "URSS (СССР)", "definition": "Union des Républiques Socialistes Soviétiques (1922–1991), État communiste fédéral fondé par Lénine sur les ruines de l'empire russe."},
-      {"term": "Goulag (ГУЛАГ)", "definition": "Système de camps de travail forcé soviétiques. Des millions de personnes y ont été internées, dont beaucoup y sont mortes."},
-      {"term": "Grande Guerre patriotique", "definition": "Nom russe de la Seconde Guerre mondiale (1941–1945), qui a causé 27 millions de morts soviétiques. Mémoire fondatrice."},
-      {"term": "Réalisme socialiste", "definition": "Doctrine artistique officielle soviétique exigeant que l'art serve l'idéologie communiste en représentant une réalité idéalisée."},
-      {"term": "Samizdat (Самиздат)", "definition": "Littéralement «autoédition» : textes clandestins dactylographiés et circulant de main en main sous le régime soviétique."},
-      {"term": "Blat (Блат)", "definition": "Système informel de faveurs et de relations personnelles utilisé pour obtenir ce que le système officiel ne fournissait pas."},
-      {"term": "9 mai — Jour de la Victoire", "definition": "Fête nationale la plus chargée émotionnellement en Russie, commémorant la victoire soviétique sur le nazisme en 1945."}
+      {
+        "term": "Bolchéviques",
+        "definition": "Faction du parti social-démocrate russe menée par Lénine, qui prit le pouvoir en octobre 1917 et fonda le régime soviétique."
+      },
+      {
+        "term": "URSS (СССР)",
+        "definition": "Union des Républiques Socialistes Soviétiques (1922–1991), État communiste fédéral fondé par Lénine sur les ruines de l'empire russe."
+      },
+      {
+        "term": "Goulag (ГУЛАГ)",
+        "definition": "Système de camps de travail forcé soviétiques. Des millions de personnes y ont été internées, dont beaucoup y sont mortes."
+      },
+      {
+        "term": "Grande Guerre patriotique",
+        "definition": "Nom russe de la Seconde Guerre mondiale (1941–1945), qui a causé 27 millions de morts soviétiques. Mémoire fondatrice."
+      },
+      {
+        "term": "Réalisme socialiste",
+        "definition": "Doctrine artistique officielle soviétique exigeant que l'art serve l'idéologie communiste en représentant une réalité idéalisée."
+      },
+      {
+        "term": "Samizdat (Самиздат)",
+        "definition": "Littéralement «autoédition» : textes clandestins dactylographiés et circulant de main en main sous le régime soviétique."
+      },
+      {
+        "term": "Blat (Блат)",
+        "definition": "Système informel de faveurs et de relations personnelles utilisé pour obtenir ce que le système officiel ne fournissait pas."
+      },
+      {
+        "term": "9 mai — Jour de la Victoire",
+        "definition": "Fête nationale la plus chargée émotionnellement en Russie, commémorant la victoire soviétique sur le nazisme en 1945."
+      }
     ],
     "quiz": [
       {
         "question": "En quelle année les bolchéviques de Lénine s'emparent-ils du pouvoir à Petrograd ?",
-        "options": ["Février 1917", "Octobre 1917", "Décembre 1922", "Janvier 1924"],
-        "answer": 1,
-        "explanation": "En octobre 1917 (calendrier julien), les bolchéviques de Lénine et Trotski renversent le gouvernement provisoire lors d'un coup d'État quasi-insurrectionnel à Petrograd."
+        "options": [
+          "Février 1917",
+          "Octobre 1917",
+          "Décembre 1922",
+          "Janvier 1924"
+        ],
+        "explanation": "En octobre 1917 (calendrier julien), les bolchéviques de Lénine et Trotski renversent le gouvernement provisoire lors d'un coup d'État quasi-insurrectionnel à Petrograd.",
+        "correct_index": 1
       },
       {
         "question": "Combien de morts soviétiques la Seconde Guerre mondiale a-t-elle causés ?",
-        "options": ["3 millions", "10 millions", "27 millions", "40 millions"],
-        "answer": 2,
-        "explanation": "La Seconde Guerre mondiale (appelée 'Grande Guerre patriotique' en Russie) a causé environ 27 millions de morts soviétiques — contre 600 000 pour la France."
+        "options": [
+          "3 millions",
+          "10 millions",
+          "27 millions",
+          "40 millions"
+        ],
+        "explanation": "La Seconde Guerre mondiale (appelée 'Grande Guerre patriotique' en Russie) a causé environ 27 millions de morts soviétiques — contre 600 000 pour la France.",
+        "correct_index": 2
       },
       {
         "question": "Qu'est-ce que le Goulag ?",
-        "options": ["Le service secret soviétique", "Le système de camps de travail forcé", "Le parti communiste russe", "Le système de collectivisation agricole"],
-        "answer": 1,
-        "explanation": "Le Goulag (acronyme russe) désigne le système de camps de travail forcé dans lequel des millions de Soviétiques ont été internés, souvent pour des motifs politiques."
+        "options": [
+          "Le service secret soviétique",
+          "Le système de camps de travail forcé",
+          "Le parti communiste russe",
+          "Le système de collectivisation agricole"
+        ],
+        "explanation": "Le Goulag (acronyme russe) désigne le système de camps de travail forcé dans lequel des millions de Soviétiques ont été internés, souvent pour des motifs politiques.",
+        "correct_index": 1
       },
       {
         "question": "Quel est le nom russe de la Seconde Guerre mondiale ?",
-        "options": ["La Guerre de Crimée", "La Grande Guerre patriotique", "La Guerre de Libération", "Le Conflit germano-soviétique"],
-        "answer": 1,
-        "explanation": "Les Russes appellent ce conflit 'Grande Guerre patriotique' (1941–1945), soulignant son caractère de guerre de survie nationale. Cette appellation reflète une mémoire profondément différente de celle de l'Occident."
+        "options": [
+          "La Guerre de Crimée",
+          "La Grande Guerre patriotique",
+          "La Guerre de Libération",
+          "Le Conflit germano-soviétique"
+        ],
+        "explanation": "Les Russes appellent ce conflit 'Grande Guerre patriotique' (1941–1945), soulignant son caractère de guerre de survie nationale. Cette appellation reflète une mémoire profondément différente de celle de l'Occident.",
+        "correct_index": 1
       },
       {
         "question": "Qu'est-ce que le 'blat' soviétique ?",
-        "options": ["Un type de pain noir russe", "Un système informel de faveurs et de relations", "Un grade militaire soviétique", "Une danse folklorique russe"],
-        "answer": 1,
-        "explanation": "Le 'blat' désigne le système de relations personnelles et de faveurs informelles utilisé pour obtenir ce que le système officiel ne fournissait pas — une culture de débrouillardise encore présente en Russie."
+        "options": [
+          "Un type de pain noir russe",
+          "Un système informel de faveurs et de relations",
+          "Un grade militaire soviétique",
+          "Une danse folklorique russe"
+        ],
+        "explanation": "Le 'blat' désigne le système de relations personnelles et de faveurs informelles utilisé pour obtenir ce que le système officiel ne fournissait pas — une culture de débrouillardise encore présente en Russie.",
+        "correct_index": 1
       }
     ]
   },
@@ -153,45 +214,94 @@
       "content": "**Не ждите коллективной вины за Сталина.** Во Франции принято думать, что россияне должны относиться к Сталину так же, как немцы к Гитлеру. Это ошибка перспективы. Для многих россиян Сталин — противоречивая фигура: палач, который к тому же победил нацизм, ценой немыслимых жертв спасая Европу. Обсуждать Сталина в России требует смирения и нюансов.\n\nНапротив, **Вторая мировая война — самая болезненная тема**. Русские называют этот конфликт «Великой Отечественной» — не Второй мировой. Для них это прежде всего война национального выживания, веденная главным образом на Восточном фронте (80% боёв). 27 миллионов советских жертв против 600 000 французских — никогда не забывайте об этом в разговоре.\n\nУмный подход: покажите, что знаете **Тарковского или Шостаковича**. Эти имена олицетворяют благородное художественное сопротивление режиму — ценимое образованными россиянами."
     },
     "glossary": [
-      {"term": "Большевики", "definition": "Фракция российской социал-демократической партии под руководством Ленина, захватившая власть в октябре 1917 года."},
-      {"term": "СССР (CCCP)", "definition": "Союз Советских Социалистических Республик (1922–1991), коммунистическое федеративное государство, основанное Лениным."},
-      {"term": "ГУЛАГ", "definition": "Система лагерей принудительного труда в СССР. Миллионы людей были там заключены, многие погибли."},
-      {"term": "Великая Отечественная война", "definition": "Российское название Второй мировой войны (1941–1945), унёсшей 27 миллионов советских жизней. Основополагающая память."},
-      {"term": "Социалистический реализм", "definition": "Официальная советская художественная доктрина, требовавшая, чтобы искусство служило коммунистической идеологии."},
-      {"term": "Самиздат", "definition": "«Самоиздательство»: тайно перепечатанные тексты, передававшиеся из рук в руки при советском режиме."},
-      {"term": "Блат", "definition": "Неформальная система связей и услуг, используемая для получения того, чего официальная система не давала."},
-      {"term": "9 мая — День Победы", "definition": "Эмоционально самый значимый национальный праздник России, отмечающий советскую победу над нацизмом в 1945 году."}
+      {
+        "term": "Большевики",
+        "definition": "Фракция российской социал-демократической партии под руководством Ленина, захватившая власть в октябре 1917 года."
+      },
+      {
+        "term": "СССР (CCCP)",
+        "definition": "Союз Советских Социалистических Республик (1922–1991), коммунистическое федеративное государство, основанное Лениным."
+      },
+      {
+        "term": "ГУЛАГ",
+        "definition": "Система лагерей принудительного труда в СССР. Миллионы людей были там заключены, многие погибли."
+      },
+      {
+        "term": "Великая Отечественная война",
+        "definition": "Российское название Второй мировой войны (1941–1945), унёсшей 27 миллионов советских жизней. Основополагающая память."
+      },
+      {
+        "term": "Социалистический реализм",
+        "definition": "Официальная советская художественная доктрина, требовавшая, чтобы искусство служило коммунистической идеологии."
+      },
+      {
+        "term": "Самиздат",
+        "definition": "«Самоиздательство»: тайно перепечатанные тексты, передававшиеся из рук в руки при советском режиме."
+      },
+      {
+        "term": "Блат",
+        "definition": "Неформальная система связей и услуг, используемая для получения того, чего официальная система не давала."
+      },
+      {
+        "term": "9 мая — День Победы",
+        "definition": "Эмоционально самый значимый национальный праздник России, отмечающий советскую победу над нацизмом в 1945 году."
+      }
     ],
     "quiz": [
       {
         "question": "В каком году большевики Ленина захватили власть в Петрограде?",
-        "options": ["Февраль 1917", "Октябрь 1917", "Декабрь 1922", "Январь 1924"],
-        "answer": 1,
-        "explanation": "В октябре 1917 года (по юлианскому календарю) большевики Ленина и Троцкого свергли Временное правительство в ходе переворота в Петрограде."
+        "options": [
+          "Февраль 1917",
+          "Октябрь 1917",
+          "Декабрь 1922",
+          "Январь 1924"
+        ],
+        "explanation": "В октябре 1917 года (по юлианскому календарю) большевики Ленина и Троцкого свергли Временное правительство в ходе переворота в Петрограде.",
+        "correct_index": 1
       },
       {
         "question": "Сколько советских граждан погибло во Второй мировой войне?",
-        "options": ["3 миллиона", "10 миллионов", "27 миллионов", "40 миллионов"],
-        "answer": 2,
-        "explanation": "Вторая мировая война (Великая Отечественная) унесла около 27 миллионов советских жизней — против 600 000 у Франции."
+        "options": [
+          "3 миллиона",
+          "10 миллионов",
+          "27 миллионов",
+          "40 миллионов"
+        ],
+        "explanation": "Вторая мировая война (Великая Отечественная) унесла около 27 миллионов советских жизней — против 600 000 у Франции.",
+        "correct_index": 2
       },
       {
         "question": "Что такое ГУЛАГ?",
-        "options": ["Советские спецслужбы", "Система лагерей принудительного труда", "Коммунистическая партия России", "Система коллективизации сельского хозяйства"],
-        "answer": 1,
-        "explanation": "ГУЛАГ (аббревиатура) — система лагерей принудительного труда, где были заключены миллионы советских граждан, нередко по политическим мотивам."
+        "options": [
+          "Советские спецслужбы",
+          "Система лагерей принудительного труда",
+          "Коммунистическая партия России",
+          "Система коллективизации сельского хозяйства"
+        ],
+        "explanation": "ГУЛАГ (аббревиатура) — система лагерей принудительного труда, где были заключены миллионы советских граждан, нередко по политическим мотивам.",
+        "correct_index": 1
       },
       {
         "question": "Как называют Вторую мировую войну в России?",
-        "options": ["Крымская война", "Великая Отечественная война", "Война освобождения", "Германо-советский конфликт"],
-        "answer": 1,
-        "explanation": "Россияне называют этот конфликт «Великой Отечественной войной» (1941–1945), подчёркивая её характер войны национального выживания."
+        "options": [
+          "Крымская война",
+          "Великая Отечественная война",
+          "Война освобождения",
+          "Германо-советский конфликт"
+        ],
+        "explanation": "Россияне называют этот конфликт «Великой Отечественной войной» (1941–1945), подчёркивая её характер войны национального выживания.",
+        "correct_index": 1
       },
       {
         "question": "Что такое советский «блат»?",
-        "options": ["Вид чёрного хлеба", "Неформальная система связей и услуг", "Воинское звание в СССР", "Русский народный танец"],
-        "answer": 1,
-        "explanation": "«Блат» обозначает систему личных связей и неформальных услуг для получения того, чего официальная система не предоставляла — культура изворотливости, по сей день присутствующая в России."
+        "options": [
+          "Вид чёрного хлеба",
+          "Неформальная система связей и услуг",
+          "Воинское звание в СССР",
+          "Русский народный танец"
+        ],
+        "explanation": "«Блат» обозначает систему личных связей и неформальных услуг для получения того, чего официальная система не предоставляла — культура изворотливости, по сей день присутствующая в России.",
+        "correct_index": 1
       }
     ]
   }

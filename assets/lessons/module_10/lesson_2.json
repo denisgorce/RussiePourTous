@@ -108,8 +108,8 @@
           "Za drouzhbu ! (À l'amitié)",
           "Za pobedou ! (À la victoire)"
         ],
-        "answer": 1,
-        "explanation": "'Za zdorovye !' (À la santé !) est le premier toast de tout repas russe — le plus court, le plus universel, l'ouverture obligatoire de tout festin."
+        "explanation": "'Za zdorovye !' (À la santé !) est le premier toast de tout repas russe — le plus court, le plus universel, l'ouverture obligatoire de tout festin.",
+        "correct_index": 1
       },
       {
         "question": "Quel est le troisième toast traditionnel, souvent le plus chargé émotionnellement ?",
@@ -119,8 +119,8 @@
           "Au président de la Russie",
           "Aux femmes présentes"
         ],
-        "answer": 1,
-        "explanation": "Le troisième toast traditionnel est aux absents — amis, proches et défunts qui ne peuvent être là. C'est souvent le toast le plus émouvant, parfois bu debout et en silence."
+        "explanation": "Le troisième toast traditionnel est aux absents — amis, proches et défunts qui ne peuvent être là. C'est souvent le toast le plus émouvant, parfois bu debout et en silence.",
+        "correct_index": 1
       },
       {
         "question": "Quelle formule permet de refuser poliment la vodka ?",
@@ -130,8 +130,8 @@
           "Je suis allergique à l'alcool",
           "Mon médecin m'interdit la fête"
         ],
-        "answer": 1,
-        "explanation": "'Ne p'yu — za rulem' (Je ne bois pas — je conduis) est la formule universellement respectée pour décliner la vodka sans offenser. Elle est comprise et acceptée sans insistance par tous les Russes."
+        "explanation": "'Ne p'yu — za rulem' (Je ne bois pas — je conduis) est la formule universellement respectée pour décliner la vodka sans offenser. Elle est comprise et acceptée sans insistance par tous les Russes.",
+        "correct_index": 1
       },
       {
         "question": "Comment s'appelle la façon traditionnelle de boire la vodka lors des toasts ?",
@@ -141,8 +141,8 @@
           "En deux fois égales",
           "En mélange avec du jus de tomate"
         ],
-        "answer": 1,
-        "explanation": "La vodka se boit traditionnellement 'zalp'om' — d'un trait, cul-sec. Cette façon de boire est liée au rituel du toast : on porte le toast, on répond 'Za vas !' et on boit d'un coup."
+        "explanation": "La vodka se boit traditionnellement 'zalp'om' — d'un trait, cul-sec. Cette façon de boire est liée au rituel du toast : on porte le toast, on répond 'Za vas !' et on boit d'un coup.",
+        "correct_index": 1
       },
       {
         "question": "Quel dessert russe au miel est l'un des plus aimés du pays ?",
@@ -152,8 +152,8 @@
           "Le Napoléon (mille-feuille russe)",
           "Les blinis au chocolat"
         ],
-        "answer": 1,
-        "explanation": "Le medovik est un gâteau de couches de biscuits secs et crème au miel — un des desserts les plus aimés de Russie, présent dans tous les grands repas familiaux."
+        "explanation": "Le medovik est un gâteau de couches de biscuits secs et crème au miel — un des desserts les plus aimés de Russie, présent dans tous les grands repas familiaux.",
+        "correct_index": 1
       }
     ]
   },
@@ -248,8 +248,8 @@
           "За дружбу!",
           "За победу!"
         ],
-        "answer": 1,
-        "explanation": "«За здоровье!» — первый тост любого русского застолья: самый краткий, самый универсальный, обязательное открытие любого праздника."
+        "explanation": "«За здоровье!» — первый тост любого русского застолья: самый краткий, самый универсальный, обязательное открытие любого праздника.",
+        "correct_index": 1
       },
       {
         "question": "Каков третий традиционный тост, нередко наиболее эмоционально нагруженный?",
@@ -259,8 +259,8 @@
           "За Президента России",
           "За присутствующих женщин"
         ],
-        "answer": 1,
-        "explanation": "Третий традиционный тост — за отсутствующих: друзей, близких и ушедших, которых не может быть рядом. Нередко самый трогательный, порой выпивается стоя и в молчании."
+        "explanation": "Третий традиционный тост — за отсутствующих: друзей, близких и ушедших, которых не может быть рядом. Нередко самый трогательный, порой выпивается стоя и в молчании.",
+        "correct_index": 1
       },
       {
         "question": "Какая формула позволяет вежливо отказаться от водки?",
@@ -270,8 +270,8 @@
           "У меня аллергия на алкоголь",
           "Врач запретил мне праздновать"
         ],
-        "answer": 1,
-        "explanation": "«Не пью — за рулём» — универсально уважаемая формула для отказа от водки без обиды. Принимается и соблюдается без настояния всеми россиянами."
+        "explanation": "«Не пью — за рулём» — универсально уважаемая формула для отказа от водки без обиды. Принимается и соблюдается без настояния всеми россиянами.",
+        "correct_index": 1
       },
       {
         "question": "Как называется традиционный способ пить водку во время тостов?",
@@ -281,8 +281,8 @@
           "В два равных глотка",
           "В смеси с томатным соком"
         ],
-        "answer": 1,
-        "explanation": "Водку традиционно пьют «залпом»: этот способ питья связан с ритуалом тоста: произносят тост, отвечают «За вас!» и выпивают одним махом."
+        "explanation": "Водку традиционно пьют «залпом»: этот способ питья связан с ритуалом тоста: произносят тост, отвечают «За вас!» и выпивают одним махом.",
+        "correct_index": 1
       },
       {
         "question": "Какой российский медовый десерт является одним из самых любимых в стране?",
@@ -292,8 +292,8 @@
           "Торт «Наполеон» (русский мильфёй)",
           "Блины с шоколадом"
         ],
-        "answer": 1,
-        "explanation": "Медовик — торт из слоёв сухого печенья и медового крема: один из самых любимых десертов в России, присутствующий на всех больших семейных застольях."
+        "explanation": "Медовик — торт из слоёв сухого печенья и медового крема: один из самых любимых десертов в России, присутствующий на всех больших семейных застольях.",
+        "correct_index": 1
       }
     ]
   }

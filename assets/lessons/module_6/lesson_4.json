@@ -112,8 +112,8 @@
           "Le GIA",
           "Le diplôme de lycée"
         ],
-        "answer": 1,
-        "explanation": "L'EGE (Examen d'État Unifié, prononcé YeGE) est l'équivalent russe du baccalauréat. Introduit en 2001, il détermine directement l'accès aux universités via un système de points."
+        "explanation": "L'EGE (Examen d'État Unifié, prononcé YeGE) est l'équivalent russe du baccalauréat. Introduit en 2001, il détermine directement l'accès aux universités via un système de points.",
+        "correct_index": 1
       },
       {
         "question": "Quelle matière occupe une place culturelle unique en Russie — véritable 'religion nationale' ?",
@@ -123,8 +123,8 @@
           "L'histoire",
           "Les sciences naturelles"
         ],
-        "answer": 1,
-        "explanation": "Les mathématiques ont une place culturelle unique en Russie — les olympiades nationales et internationales sont des événements majeurs, les grands mathématiciens sont des héros nationaux."
+        "explanation": "Les mathématiques ont une place culturelle unique en Russie — les olympiades nationales et internationales sont des événements majeurs, les grands mathématiciens sont des héros nationaux.",
+        "correct_index": 1
       },
       {
         "question": "Qui a fondé l'Université d'État de Moscou (MGU) en 1755 ?",
@@ -134,8 +134,8 @@
           "Catherine II",
           "Lénine"
         ],
-        "answer": 1,
-        "explanation": "Mikhail Lomonossov a fondé l'Université d'État de Moscou en 1755 — raison pour laquelle elle porte son nom. Lomonossov est le père de la science russe moderne."
+        "explanation": "Mikhail Lomonossov a fondé l'Université d'État de Moscou en 1755 — raison pour laquelle elle porte son nom. Lomonossov est le père de la science russe moderne.",
+        "correct_index": 1
       },
       {
         "question": "Comment s'appelle le système de notation russe à l'école ?",
@@ -145,8 +145,8 @@
           "De 0 à 20 (comme en France)",
           "De 1 à 10"
         ],
-        "answer": 1,
-        "explanation": "Le système de notation russe va de 1 à 5 — le 5 est la meilleure note (l'équivalent de 20/20), le 1 est très rare et humiliant. Le 2 est l'équivalent du 'insuffisant'."
+        "explanation": "Le système de notation russe va de 1 à 5 — le 5 est la meilleure note (l'équivalent de 20/20), le 1 est très rare et humiliant. Le 2 est l'équivalent du 'insuffisant'.",
+        "correct_index": 1
       },
       {
         "question": "Quelle tradition familiale russe contribue à la haute culture littéraire des adultes ?",
@@ -156,8 +156,8 @@
           "Les abonnements aux bibliothèques municipales",
           "Les voyages culturels dans les villes historiques"
         ],
-        "answer": 1,
-        "explanation": "La lecture à voix haute (chtenie vslukh) de classiques russes (Pouchkine, Tchekhov, Tolstoï) avant de dormir est une tradition familiale russe. Cette immersion précoce explique le niveau élevé de culture littéraire maintenu à l'âge adulte."
+        "explanation": "La lecture à voix haute (chtenie vslukh) de classiques russes (Pouchkine, Tchekhov, Tolstoï) avant de dormir est une tradition familiale russe. Cette immersion précoce explique le niveau élevé de culture littéraire maintenu à l'âge adulte.",
+        "correct_index": 1
       }
     ]
   },
@@ -252,8 +252,8 @@
           "ГИА",
           "Диплом о среднем образовании"
         ],
-        "answer": 1,
-        "explanation": "ЕГЭ (Единый государственный экзамен) — российский аналог экзамена на степень бакалавра. Введён в 2001 году, напрямую определяет поступление в вузы по системе баллов."
+        "explanation": "ЕГЭ (Единый государственный экзамен) — российский аналог экзамена на степень бакалавра. Введён в 2001 году, напрямую определяет поступление в вузы по системе баллов.",
+        "correct_index": 1
       },
       {
         "question": "Какой предмет занимает в России уникальное культурное место — настоящую «национальную религию»?",
@@ -263,8 +263,8 @@
           "История",
           "Естественные науки"
         ],
-        "answer": 1,
-        "explanation": "Математика занимает в России уникальное культурное место — национальные и международные олимпиады крупные события, великие математики — национальные герои."
+        "explanation": "Математика занимает в России уникальное культурное место — национальные и международные олимпиады крупные события, великие математики — национальные герои.",
+        "correct_index": 1
       },
       {
         "question": "Кто основал МГУ в 1755 году?",
@@ -274,8 +274,8 @@
           "Екатерина II",
           "Ленин"
         ],
-        "answer": 1,
-        "explanation": "Михаил Ломоносов основал Московский государственный университет в 1755 году — отсюда его имя. Ломоносов — отец современной российской науки."
+        "explanation": "Михаил Ломоносов основал Московский государственный университет в 1755 году — отсюда его имя. Ломоносов — отец современной российской науки.",
+        "correct_index": 1
       },
       {
         "question": "Какова система оценок в российской школе?",
@@ -285,8 +285,8 @@
           "От 0 до 20 (как во Франции)",
           "От 1 до 10"
         ],
-        "answer": 1,
-        "explanation": "Российская система оценок — от 1 до 5: 5 — наивысшая (аналог 20/20), 1 — очень редкая и унизительная. 2 — аналог «неудовлетворительно»."
+        "explanation": "Российская система оценок — от 1 до 5: 5 — наивысшая (аналог 20/20), 1 — очень редкая и унизительная. 2 — аналог «неудовлетворительно».",
+        "correct_index": 1
       },
       {
         "question": "Какая семейная традиция способствует высокой литературной культуре взрослых россиян?",
@@ -296,8 +296,8 @@
           "Абонементы в муниципальные библиотеки",
           "Культурные поездки в исторические города"
         ],
-        "answer": 1,
-        "explanation": "Чтение вслух российской классики (Пушкин, Чехов, Толстой) перед сном — семейная традиция. Это раннее погружение объясняет высокий уровень литературной культуры, сохраняемый во взрослом возрасте."
+        "explanation": "Чтение вслух российской классики (Пушкин, Чехов, Толстой) перед сном — семейная традиция. Это раннее погружение объясняет высокий уровень литературной культуры, сохраняемый во взрослом возрасте.",
+        "correct_index": 1
       }
     ]
   }

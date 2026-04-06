@@ -108,8 +108,8 @@
           "60%",
           "85%"
         ],
-        "answer": 2,
-        "explanation": "Yandex représente environ 60% des recherches web en Russie — une des rares entreprises non américaines et non chinoises à dominer Google sur son marché domestique."
+        "explanation": "Yandex représente environ 60% des recherches web en Russie — une des rares entreprises non américaines et non chinoises à dominer Google sur son marché domestique.",
+        "correct_index": 2
       },
       {
         "question": "Pourquoi Pavel Dourov a-t-il quitté la Russie en 2014 ?",
@@ -119,8 +119,8 @@
           "Suite à une fraude fiscale",
           "Pour vendre VK à des investisseurs étrangers"
         ],
-        "answer": 1,
-        "explanation": "Dourov a quitté la Russie en 2014 après avoir refusé de transmettre au FSB les données des utilisateurs ukrainiens de VKontakte lors des protestations de Maïdan. Cet acte de résistance est devenu fondateur de sa réputation."
+        "explanation": "Dourov a quitté la Russie en 2014 après avoir refusé de transmettre au FSB les données des utilisateurs ukrainiens de VKontakte lors des protestations de Maïdan. Cet acte de résistance est devenu fondateur de sa réputation.",
+        "correct_index": 1
       },
       {
         "question": "Quel célèbre co-fondateur de Google est né à Moscou ?",
@@ -130,8 +130,8 @@
           "Sergey Brin",
           "Sundar Pichai"
         ],
-        "answer": 2,
-        "explanation": "Sergey Brin, co-fondateur de Google avec Larry Page, est né à Moscou en 1973. Émigré aux États-Unis à 6 ans avec sa famille. Il symbolise le talent tech russe qui a façonné le web mondial."
+        "explanation": "Sergey Brin, co-fondateur de Google avec Larry Page, est né à Moscou en 1973. Émigré aux États-Unis à 6 ans avec sa famille. Il symbolise le talent tech russe qui a façonné le web mondial.",
+        "correct_index": 2
       },
       {
         "question": "Quel est le portail de services publics numériques russes avec ~90 millions d'utilisateurs ?",
@@ -141,8 +141,8 @@
           "Sberbank Online",
           "Kremlin.ru"
         ],
-        "answer": 1,
-        "explanation": "Gosuslugi (Services de l'État) est le portail officiel des services publics numériques russes avec environ 90 millions d'utilisateurs — un taux d'adoption parmi les plus élevés d'Europe pour un portail gouvernemental."
+        "explanation": "Gosuslugi (Services de l'État) est le portail officiel des services publics numériques russes avec environ 90 millions d'utilisateurs — un taux d'adoption parmi les plus élevés d'Europe pour un portail gouvernemental.",
+        "correct_index": 1
       },
       {
         "question": "Combien d'ingénieurs IT russes ont quitté la Russie en 2022 selon les estimations ?",
@@ -152,8 +152,8 @@
           "100 000 à 200 000",
           "Plus d'un million"
         ],
-        "answer": 2,
-        "explanation": "On estime que 100 000 à 200 000 spécialistes IT russes ont quitté la Russie en 2022, notamment vers la Géorgie, l'Arménie, les Émirats et les pays baltes — un exode de talent significatif."
+        "explanation": "On estime que 100 000 à 200 000 spécialistes IT russes ont quitté la Russie en 2022, notamment vers la Géorgie, l'Arménie, les Émirats et les pays baltes — un exode de talent significatif.",
+        "correct_index": 2
       }
     ]
   },
@@ -248,8 +248,8 @@
           "60%",
           "85%"
         ],
-        "answer": 2,
-        "explanation": "Яндекс занимает около 60% поисковых запросов в России — одна из немногих неамериканских и некитайских компаний, доминирующих над Google на своём рынке."
+        "explanation": "Яндекс занимает около 60% поисковых запросов в России — одна из немногих неамериканских и некитайских компаний, доминирующих над Google на своём рынке.",
+        "correct_index": 2
       },
       {
         "question": "Почему Павел Дуров покинул Россию в 2014 году?",
@@ -259,8 +259,8 @@
           "Из-за налогового мошенничества",
           "Чтобы продать VK иностранным инвесторам"
         ],
-        "answer": 1,
-        "explanation": "Дуров покинул Россию в 2014 году после отказа передать ФСБ данные украинских пользователей ВКонтакте во время протестов Майдана. Этот акт сопротивления стал основой его репутации."
+        "explanation": "Дуров покинул Россию в 2014 году после отказа передать ФСБ данные украинских пользователей ВКонтакте во время протестов Майдана. Этот акт сопротивления стал основой его репутации.",
+        "correct_index": 1
       },
       {
         "question": "Какой знаменитый сооснователь Google родился в Москве?",
@@ -270,8 +270,8 @@
           "Сергей Брин",
           "Сундар Пичаи"
         ],
-        "answer": 2,
-        "explanation": "Сергей Брин, сооснователь Google совместно с Ларри Пейджем, родился в Москве в 1973 году. Эмигрировал в США в 6 лет. Символизирует российский технологический талант, сформировавший мировой интернет."
+        "explanation": "Сергей Брин, сооснователь Google совместно с Ларри Пейджем, родился в Москве в 1973 году. Эмигрировал в США в 6 лет. Символизирует российский технологический талант, сформировавший мировой интернет.",
+        "correct_index": 2
       },
       {
         "question": "Как называется российский портал государственных услуг с ~90 миллионами пользователей?",
@@ -281,8 +281,8 @@
           "Сбербанк Онлайн",
           "Kremlin.ru"
         ],
-        "answer": 1,
-        "explanation": "Госуслуги — официальный портал российских государственных цифровых услуг с около 90 миллионами пользователей — один из самых высоких показателей охвата в Европе для государственного портала."
+        "explanation": "Госуслуги — официальный портал российских государственных цифровых услуг с около 90 миллионами пользователей — один из самых высоких показателей охвата в Европе для государственного портала.",
+        "correct_index": 1
       },
       {
         "question": "Сколько российских ИТ-специалистов покинули Россию в 2022 году по оценкам?",
@@ -292,8 +292,8 @@
           "100 000–200 000",
           "Более миллиона"
         ],
-        "answer": 2,
-        "explanation": "По оценкам, 100 000–200 000 российских ИТ-специалистов покинули Россию в 2022 году — в Грузию, Армению, ОАЭ и страны Балтии. Значительный исход талантов."
+        "explanation": "По оценкам, 100 000–200 000 российских ИТ-специалистов покинули Россию в 2022 году — в Грузию, Армению, ОАЭ и страны Балтии. Значительный исход талантов.",
+        "correct_index": 2
       }
     ]
   }

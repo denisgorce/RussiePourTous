@@ -108,8 +108,8 @@
           "En héritant des fortunes nobles tsaristes",
           "Par des investissements dans l'immobilier moscovite"
         ],
-        "answer": 1,
-        "explanation": "La grande majorité des oligarques russes a acquis ses fortunes via les privatisations des années 1990, notamment via le mécanisme des 'prêts contre actions' qui leur a permis d'obtenir des actifs d'État pour des sommes dérisoires."
+        "explanation": "La grande majorité des oligarques russes a acquis ses fortunes via les privatisations des années 1990, notamment via le mécanisme des 'prêts contre actions' qui leur a permis d'obtenir des actifs d'État pour des sommes dérisoires.",
+        "correct_index": 1
       },
       {
         "question": "Quel fut le taux d'inflation en Russie en 1992 lors de la libéralisation des prix ?",
@@ -119,8 +119,8 @@
           "2 500%",
           "5 000%"
         ],
-        "answer": 2,
-        "explanation": "En 1992, la libéralisation des prix ('thérapie de choc') provoqua une hyperinflation de 2 500% — détruisant les économies accumulées de millions de Russes en quelques mois."
+        "explanation": "En 1992, la libéralisation des prix ('thérapie de choc') provoqua une hyperinflation de 2 500% — détruisant les économies accumulées de millions de Russes en quelques mois.",
+        "correct_index": 2
       },
       {
         "question": "Pourquoi les Russes âgés gardent-ils souvent leurs économies en cash à la maison ?",
@@ -130,8 +130,8 @@
           "Par peur du vol dans les banques",
           "Pour éviter de payer des impôts"
         ],
-        "answer": 1,
-        "explanation": "La méfiance envers les banques est le résultat d'expériences concrètes : hyperinflation de 1992, défaut de 1998, sanctions de 2022. Garder des dollars ou euros à la maison est une réponse rationnelle à un passé traumatique."
+        "explanation": "La méfiance envers les banques est le résultat d'expériences concrètes : hyperinflation de 1992, défaut de 1998, sanctions de 2022. Garder des dollars ou euros à la maison est une réponse rationnelle à un passé traumatique.",
+        "correct_index": 1
       },
       {
         "question": "Quel est le lien entre la Sberbank et l'État russe ?",
@@ -141,8 +141,8 @@
           "La Sberbank est une filiale de Gazprom",
           "La Sberbank appartient entièrement aux actionnaires étrangers"
         ],
-        "answer": 1,
-        "explanation": "L'État détient 52% de la Sberbank via la Banque centrale de Russie — la rendant techniquement étrangère à la majorité des banques d'État, mais étroitement liée aux politiques du gouvernement."
+        "explanation": "L'État détient 52% de la Sberbank via la Banque centrale de Russie — la rendant techniquement étrangère à la majorité des banques d'État, mais étroitement liée aux politiques du gouvernement.",
+        "correct_index": 1
       },
       {
         "question": "Depuis 2022, comment peut-on transférer de l'argent entre la France et la Russie ?",
@@ -152,8 +152,8 @@
           "Via PayPal exclusivement",
           "Via le seul système SPFS russe (équivalent du SWIFT)"
         ],
-        "answer": 1,
-        "explanation": "L'exclusion de la Russie du SWIFT et les sanctions contre ses principales banques ont rendu les transferts franco-russes quasi-impossibles via les circuits normaux. Des solutions de contournement existent mais sont complexes."
+        "explanation": "L'exclusion de la Russie du SWIFT et les sanctions contre ses principales banques ont rendu les transferts franco-russes quasi-impossibles via les circuits normaux. Des solutions de contournement existent mais sont complexes.",
+        "correct_index": 1
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Унаследовав царские дворянские состояния",
           "Через инвестиции в московскую недвижимость"
         ],
-        "answer": 1,
-        "explanation": "Большинство российских олигархов нажило состояния через приватизацию 1990-х, особенно через механизм залоговых аукционов, позволивший им получить государственные активы за бесценок."
+        "explanation": "Большинство российских олигархов нажило состояния через приватизацию 1990-х, особенно через механизм залоговых аукционов, позволивший им получить государственные активы за бесценок.",
+        "correct_index": 1
       },
       {
         "question": "Какова была инфляция в России в 1992 году при либерализации цен?",
@@ -259,8 +259,8 @@
           "2 500%",
           "5 000%"
         ],
-        "answer": 2,
-        "explanation": "В 1992 году либерализация цен («шоковая терапия») вызвала гиперинфляцию в 2 500% — за несколько месяцев уничтожив накопленные сбережения миллионов россиян."
+        "explanation": "В 1992 году либерализация цен («шоковая терапия») вызвала гиперинфляцию в 2 500% — за несколько месяцев уничтожив накопленные сбережения миллионов россиян.",
+        "correct_index": 2
       },
       {
         "question": "Почему пожилые россияне часто хранят сбережения наличными дома?",
@@ -270,8 +270,8 @@
           "Из страха кражи в банках",
           "Чтобы не платить налоги"
         ],
-        "answer": 1,
-        "explanation": "Недоверие к банкам — результат конкретного опыта: гиперинфляция 1992-го, дефолт 1998-го, санкции 2022-го. Держать доллары или евро дома — рациональный ответ на травматичное прошлое."
+        "explanation": "Недоверие к банкам — результат конкретного опыта: гиперинфляция 1992-го, дефолт 1998-го, санкции 2022-го. Держать доллары или евро дома — рациональный ответ на травматичное прошлое.",
+        "correct_index": 1
       },
       {
         "question": "Какова связь Сбербанка с российским государством?",
@@ -281,8 +281,8 @@
           "Сбербанк — дочерняя компания Газпрома",
           "Сбербанк полностью принадлежит иностранным акционерам"
         ],
-        "answer": 1,
-        "explanation": "Государство владеет 52% Сбербанка через Центральный банк России — технически не полностью государственный банк, но тесно связанный с правительственной политикой."
+        "explanation": "Государство владеет 52% Сбербанка через Центральный банк России — технически не полностью государственный банк, но тесно связанный с правительственной политикой.",
+        "correct_index": 1
       },
       {
         "question": "Как с 2022 года можно перевести деньги между Францией и Россией?",
@@ -292,8 +292,8 @@
           "Исключительно через PayPal",
           "Только через российский аналог SWIFT — СПФС"
         ],
-        "answer": 1,
-        "explanation": "Отключение России от SWIFT и санкции против крупнейших банков сделали французско-российские переводы почти невозможными через обычные каналы. Обходные схемы существуют, но сложны."
+        "explanation": "Отключение России от SWIFT и санкции против крупнейших банков сделали французско-российские переводы почти невозможными через обычные каналы. Обходные схемы существуют, но сложны.",
+        "correct_index": 1
       }
     ]
   }

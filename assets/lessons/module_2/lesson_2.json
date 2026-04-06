@@ -7,10 +7,22 @@
     "estimated_minutes": 13,
     "difficulty": "débutant",
     "sources": [
-      {"label": "Saint-Pétersbourg — portail officiel", "url": "https://www.gov.spb.ru/"},
-      {"label": "Hermitage Museum — collections en ligne", "url": "https://www.hermitagemuseum.org/"},
-      {"label": "Encyclopædia Universalis — Saint-Pétersbourg", "url": "https://www.universalis.fr/encyclopedie/saint-petersbourg/"},
-      {"label": "Routard — Saint-Pétersbourg", "url": "https://www.routard.com/guide/saint_petersbourg/"}
+      {
+        "label": "Saint-Pétersbourg — portail officiel",
+        "url": "https://www.gov.spb.ru/"
+      },
+      {
+        "label": "Hermitage Museum — collections en ligne",
+        "url": "https://www.hermitagemuseum.org/"
+      },
+      {
+        "label": "Encyclopædia Universalis — Saint-Pétersbourg",
+        "url": "https://www.universalis.fr/encyclopedie/saint-petersbourg/"
+      },
+      {
+        "label": "Routard — Saint-Pétersbourg",
+        "url": "https://www.routard.com/guide/saint_petersbourg/"
+      }
     ]
   },
   "fr": {
@@ -62,45 +74,94 @@
       "content": "**Visitez Pétersbourg pendant les nuits blanches** (fin mai – début juillet) si vous en avez la possibilité. La lumière rasante à minuit sur les canaux et la Néva, les ponts qui s'ouvrent dans la nuit, les gens dehors jusqu'à l'aube — c'est une expérience unique au monde qui capture parfaitement l'âme de cette ville étrange et magnifique.\n\nSi vous ne pouvez faire qu'une chose à l'Ermitage : allez directement aux **salles des Impressionnistes** (3e étage, aile Nouvelle-Hermitage) — Monet, Renoir, Cézanne, Matisse, Picasso en quantité et en qualité éblouissantes. Catherine la Grande et ses successeurs ont acquis ces œuvres avant même que leur valeur soit reconnue en Occident.\n\n**Dostoïevski est partout** à Pétersbourg. Son appartement-musée (quai du canal Griboïedov) et les lieux de *Crime et Châtiment* sont à deux pas l'un de l'autre. Se promener dans ce quartier de Sennaya avec le roman en tête est l'une des expériences de voyage les plus intenses qu'on puisse vivre."
     },
     "glossary": [
-      {"term": "Nuits blanches (Белые ночи)", "definition": "Phénomène naturel à Saint-Pétersbourg : entre fin mai et début juillet, le soleil ne se couche pratiquement pas (nuit de 2-3 heures seulement)."},
-      {"term": "Ermitage (Эрмитаж)", "definition": "Plus grand musée du monde en superficie, installé dans le Palais d'Hiver des tsars. 3 millions d'œuvres, dont les plus grands maîtres européens."},
-      {"term": "Perspective Nevski (Невский проспект)", "definition": "Avenue principale de Saint-Pétersbourg, 4,5 km de long, avenue culturelle et commerciale depuis le XVIIIe siècle."},
-      {"term": "Blokada (Блокада)", "definition": "Siège de Leningrad par les Allemands (1941-1944) : 872 jours, environ 800 000 à 1 million de morts civils. Traumatisme fondateur."},
-      {"term": "Pirozhki (Пирожки)", "definition": "Petits chaussons fourrés (viande, chou, fromage, œuf) frits ou cuits au four. Street food historique de Saint-Pétersbourg."},
-      {"term": "Mariinski (Мариинский театр)", "definition": "Théâtre lyrique et chorégraphique fondé en 1783, rival du Bolchoï. Berceau du ballet russe classique."},
-      {"term": "Kommunalka (Коммуналка)", "definition": "Appartement communautaire soviétique où plusieurs familles partageaient cuisine et sanitaires. Nombreux à Pétersbourg, reconvertis en lofts."},
-      {"term": "Piterskie (Питерские)", "definition": "Surnom des Pétersbourgeois. Désigne aussi le 'clan de Pétersbourg' — les collaborateurs de Poutine issus du KGB de Leningrad."}
+      {
+        "term": "Nuits blanches (Белые ночи)",
+        "definition": "Phénomène naturel à Saint-Pétersbourg : entre fin mai et début juillet, le soleil ne se couche pratiquement pas (nuit de 2-3 heures seulement)."
+      },
+      {
+        "term": "Ermitage (Эрмитаж)",
+        "definition": "Plus grand musée du monde en superficie, installé dans le Palais d'Hiver des tsars. 3 millions d'œuvres, dont les plus grands maîtres européens."
+      },
+      {
+        "term": "Perspective Nevski (Невский проспект)",
+        "definition": "Avenue principale de Saint-Pétersbourg, 4,5 km de long, avenue culturelle et commerciale depuis le XVIIIe siècle."
+      },
+      {
+        "term": "Blokada (Блокада)",
+        "definition": "Siège de Leningrad par les Allemands (1941-1944) : 872 jours, environ 800 000 à 1 million de morts civils. Traumatisme fondateur."
+      },
+      {
+        "term": "Pirozhki (Пирожки)",
+        "definition": "Petits chaussons fourrés (viande, chou, fromage, œuf) frits ou cuits au four. Street food historique de Saint-Pétersbourg."
+      },
+      {
+        "term": "Mariinski (Мариинский театр)",
+        "definition": "Théâtre lyrique et chorégraphique fondé en 1783, rival du Bolchoï. Berceau du ballet russe classique."
+      },
+      {
+        "term": "Kommunalka (Коммуналка)",
+        "definition": "Appartement communautaire soviétique où plusieurs familles partageaient cuisine et sanitaires. Nombreux à Pétersbourg, reconvertis en lofts."
+      },
+      {
+        "term": "Piterskie (Питерские)",
+        "definition": "Surnom des Pétersbourgeois. Désigne aussi le 'clan de Pétersbourg' — les collaborateurs de Poutine issus du KGB de Leningrad."
+      }
     ],
     "quiz": [
       {
         "question": "En quelle année Pierre le Grand fonde-t-il Saint-Pétersbourg ?",
-        "options": ["1682", "1703", "1725", "1762"],
-        "answer": 1,
-        "explanation": "Le 27 mai 1703, Pierre le Grand pose la première pierre de la forteresse Pierre-et-Paul sur une île marécageuse de la Néva — acte fondateur de Saint-Pétersbourg."
+        "options": [
+          "1682",
+          "1703",
+          "1725",
+          "1762"
+        ],
+        "explanation": "Le 27 mai 1703, Pierre le Grand pose la première pierre de la forteresse Pierre-et-Paul sur une île marécageuse de la Néva — acte fondateur de Saint-Pétersbourg.",
+        "correct_index": 1
       },
       {
         "question": "Quel événement tragique la ville a-t-elle subi pendant la Seconde Guerre mondiale ?",
-        "options": ["Une occupation nazie de 3 ans", "Le siège de 872 jours causant ~1 million de morts civils", "La destruction de l'Ermitage par les bombardements", "Une reddition négociée en 1942"],
-        "answer": 1,
-        "explanation": "Le siège de Leningrad (1941-1944) dura 872 jours et causa la mort d'environ 800 000 à 1 million de civils, principalement par la faim. C'est le plus long siège de l'histoire moderne."
+        "options": [
+          "Une occupation nazie de 3 ans",
+          "Le siège de 872 jours causant ~1 million de morts civils",
+          "La destruction de l'Ermitage par les bombardements",
+          "Une reddition négociée en 1942"
+        ],
+        "explanation": "Le siège de Leningrad (1941-1944) dura 872 jours et causa la mort d'environ 800 000 à 1 million de civils, principalement par la faim. C'est le plus long siège de l'histoire moderne.",
+        "correct_index": 1
       },
       {
         "question": "Combien d'îles relie Saint-Pétersbourg avec ses 342 ponts ?",
-        "options": ["12 îles", "27 îles", "42 îles", "68 îles"],
-        "answer": 2,
-        "explanation": "Saint-Pétersbourg est construite sur 42 îles reliées par 342 ponts à l'embouchure de la Néva — ce qui lui vaut le surnom de 'Venise du Nord'."
+        "options": [
+          "12 îles",
+          "27 îles",
+          "42 îles",
+          "68 îles"
+        ],
+        "explanation": "Saint-Pétersbourg est construite sur 42 îles reliées par 342 ponts à l'embouchure de la Néva — ce qui lui vaut le surnom de 'Venise du Nord'.",
+        "correct_index": 2
       },
       {
         "question": "Qui a fondé les collections de l'Ermitage au XVIIIe siècle ?",
-        "options": ["Pierre le Grand", "Catherine la Grande", "Alexandre Ier", "Nicolas II"],
-        "answer": 1,
-        "explanation": "Catherine la Grande fonda les collections de l'Ermitage au XVIIIe siècle en achetant massivement des œuvres d'art aux enchères européennes, créant l'une des plus grandes collections mondiales."
+        "options": [
+          "Pierre le Grand",
+          "Catherine la Grande",
+          "Alexandre Ier",
+          "Nicolas II"
+        ],
+        "explanation": "Catherine la Grande fonda les collections de l'Ermitage au XVIIIe siècle en achetant massivement des œuvres d'art aux enchères européennes, créant l'une des plus grandes collections mondiales.",
+        "correct_index": 1
       },
       {
         "question": "Qu'appelle-t-on les 'nuits blanches' à Saint-Pétersbourg ?",
-        "options": ["Les nuits de neige en hiver", "La période (fin mai-juillet) où le soleil ne se couche presque pas", "Les festivités nocturnes du Nouvel An", "Les nuits de brouillard sur la Néva"],
-        "answer": 1,
-        "explanation": "Les nuits blanches désignent la période (fin mai à début juillet) où la proximité du pôle fait que le soleil ne se couche que 2-3 heures à Saint-Pétersbourg — lumière irréelle à minuit."
+        "options": [
+          "Les nuits de neige en hiver",
+          "La période (fin mai-juillet) où le soleil ne se couche presque pas",
+          "Les festivités nocturnes du Nouvel An",
+          "Les nuits de brouillard sur la Néva"
+        ],
+        "explanation": "Les nuits blanches désignent la période (fin mai à début juillet) où la proximité du pôle fait que le soleil ne se couche que 2-3 heures à Saint-Pétersbourg — lumière irréelle à minuit.",
+        "correct_index": 1
       }
     ]
   },
@@ -153,45 +214,94 @@
       "content": "**Приезжайте в Петербург в белые ночи** (конец мая — начало июля), если есть такая возможность. Косой свет в полночь над каналами и Невой, мосты, разводящиеся ночью, люди на улицах до рассвета — это уникальный в мире опыт, совершенно точно передающий душу этого странного и прекрасного города.\n\nЕсли можете сделать в Эрмитаже что-то одно: идите прямо в **залы импрессионистов** (3-й этаж, Новый Эрмитаж) — Моне, Ренуар, Сезанн, Матисс, Пикассо в ослепительном количестве и качестве. Екатерина Великая и её преемники приобретали эти работы ещё до того, как Запад признал их ценность.\n\n**Достоевский — повсюду** в Петербурге. Его квартира-музей (набережная канала Грибоедова) и места «Преступления и наказания» в двух шагах друг от друга. Прогулка по кварталу Сенной площади с романом в руках — один из самых захватывающих путешественнических опытов."
     },
     "glossary": [
-      {"term": "Белые ночи", "definition": "Природное явление в Санкт-Петербурге: с конца мая по начало июля солнце почти не заходит (ночь длится лишь 2–3 часа)."},
-      {"term": "Эрмитаж", "definition": "Крупнейший в мире музей по площади, расположённый в Зимнем дворце царей. 3 миллиона произведений, включая величайших европейских мастеров."},
-      {"term": "Невский проспект", "definition": "Главный проспект Санкт-Петербурга, 4,5 км в длину, культурная и торговая артерия с XVIII века."},
-      {"term": "Блокада", "definition": "Осада Ленинграда немцами (1941–1944): 872 дня, около 800 000–1 миллиона погибших мирных жителей. Основополагающая коллективная травма."},
-      {"term": "Пирожки", "definition": "Маленькие жареные или печёные пирожки с начинкой (мясо, капуста, сыр, яйцо). Историческая уличная еда Санкт-Петербурга."},
-      {"term": "Мариинский театр", "definition": "Театр оперы и балета, основанный в 1783 году, соперник Большого. Колыбель русского классического балета."},
-      {"term": "Коммуналка", "definition": "Советская коммунальная квартира, где несколько семей делили кухню и санузел. Таких много в Петербурге; сейчас переоборудуются в лофты."},
-      {"term": "Питерские", "definition": "Прозвище петербуржцев. Также обозначает «питерский клан» — соратников Путина из ленинградского КГБ."}
+      {
+        "term": "Белые ночи",
+        "definition": "Природное явление в Санкт-Петербурге: с конца мая по начало июля солнце почти не заходит (ночь длится лишь 2–3 часа)."
+      },
+      {
+        "term": "Эрмитаж",
+        "definition": "Крупнейший в мире музей по площади, расположённый в Зимнем дворце царей. 3 миллиона произведений, включая величайших европейских мастеров."
+      },
+      {
+        "term": "Невский проспект",
+        "definition": "Главный проспект Санкт-Петербурга, 4,5 км в длину, культурная и торговая артерия с XVIII века."
+      },
+      {
+        "term": "Блокада",
+        "definition": "Осада Ленинграда немцами (1941–1944): 872 дня, около 800 000–1 миллиона погибших мирных жителей. Основополагающая коллективная травма."
+      },
+      {
+        "term": "Пирожки",
+        "definition": "Маленькие жареные или печёные пирожки с начинкой (мясо, капуста, сыр, яйцо). Историческая уличная еда Санкт-Петербурга."
+      },
+      {
+        "term": "Мариинский театр",
+        "definition": "Театр оперы и балета, основанный в 1783 году, соперник Большого. Колыбель русского классического балета."
+      },
+      {
+        "term": "Коммуналка",
+        "definition": "Советская коммунальная квартира, где несколько семей делили кухню и санузел. Таких много в Петербурге; сейчас переоборудуются в лофты."
+      },
+      {
+        "term": "Питерские",
+        "definition": "Прозвище петербуржцев. Также обозначает «питерский клан» — соратников Путина из ленинградского КГБ."
+      }
     ],
     "quiz": [
       {
         "question": "В каком году Пётр Великий основал Санкт-Петербург?",
-        "options": ["1682", "1703", "1725", "1762"],
-        "answer": 1,
-        "explanation": "27 мая 1703 года Пётр Великий заложил первый камень Петропавловской крепости на болотистом острове в дельте Невы — это акт основания Санкт-Петербурга."
+        "options": [
+          "1682",
+          "1703",
+          "1725",
+          "1762"
+        ],
+        "explanation": "27 мая 1703 года Пётр Великий заложил первый камень Петропавловской крепости на болотистом острове в дельте Невы — это акт основания Санкт-Петербурга.",
+        "correct_index": 1
       },
       {
         "question": "Какое трагическое событие пережил город во Второй мировой войне?",
-        "options": ["Трёхлетняя нацистская оккупация", "Осада 872 дня с гибелью ~1 млн мирных жителей", "Разрушение Эрмитажа бомбардировками", "Капитуляция в 1942 году"],
-        "answer": 1,
-        "explanation": "Блокада Ленинграда (1941–1944) длилась 872 дня и унесла жизни около 800 000–1 миллиона мирных жителей, главным образом от голода. Это самая долгая осада в современной истории."
+        "options": [
+          "Трёхлетняя нацистская оккупация",
+          "Осада 872 дня с гибелью ~1 млн мирных жителей",
+          "Разрушение Эрмитажа бомбардировками",
+          "Капитуляция в 1942 году"
+        ],
+        "explanation": "Блокада Ленинграда (1941–1944) длилась 872 дня и унесла жизни около 800 000–1 миллиона мирных жителей, главным образом от голода. Это самая долгая осада в современной истории.",
+        "correct_index": 1
       },
       {
         "question": "На скольких островах построен Санкт-Петербург, соединённых 342 мостами?",
-        "options": ["12 островах", "27 островах", "42 островах", "68 островах"],
-        "answer": 2,
-        "explanation": "Санкт-Петербург построен на 42 островах, соединённых 342 мостами в дельте Невы — за это он и получил прозвище «Северная Венеция»."
+        "options": [
+          "12 островах",
+          "27 островах",
+          "42 островах",
+          "68 островах"
+        ],
+        "explanation": "Санкт-Петербург построен на 42 островах, соединённых 342 мостами в дельте Невы — за это он и получил прозвище «Северная Венеция».",
+        "correct_index": 2
       },
       {
         "question": "Кто основал коллекции Эрмитажа в XVIII веке?",
-        "options": ["Пётр Великий", "Екатерина Великая", "Александр I", "Николай II"],
-        "answer": 1,
-        "explanation": "Екатерина Великая основала коллекции Эрмитажа в XVIII веке, массово скупая произведения искусства на европейских аукционах и создавая одно из богатейших собраний мира."
+        "options": [
+          "Пётр Великий",
+          "Екатерина Великая",
+          "Александр I",
+          "Николай II"
+        ],
+        "explanation": "Екатерина Великая основала коллекции Эрмитажа в XVIII веке, массово скупая произведения искусства на европейских аукционах и создавая одно из богатейших собраний мира.",
+        "correct_index": 1
       },
       {
         "question": "Что такое «белые ночи» в Санкт-Петербурге?",
-        "options": ["Снежные ночи зимой", "Период (конец мая — июль), когда солнце почти не заходит", "Новогодние праздничные гулянья", "Туманные ночи над Невой"],
-        "answer": 1,
-        "explanation": "Белые ночи — период с конца мая по начало июля, когда близость полюса означает, что солнце садится лишь на 2–3 часа в Санкт-Петербурге: в полночь — нереальный золотой свет."
+        "options": [
+          "Снежные ночи зимой",
+          "Период (конец мая — июль), когда солнце почти не заходит",
+          "Новогодние праздничные гулянья",
+          "Туманные ночи над Невой"
+        ],
+        "explanation": "Белые ночи — период с конца мая по начало июля, когда близость полюса означает, что солнце садится лишь на 2–3 часа в Санкт-Петербурге: в полночь — нереальный золотой свет.",
+        "correct_index": 1
       }
     ]
   }

@@ -108,8 +108,8 @@
           "On présente une liste écrite de ses achats",
           "On paye d'abord et on reçoit ensuite les produits"
         ],
-        "answer": 1,
-        "explanation": "Dans les marchés russes, on ne touche pas les produits directement — on indique ce qu'on veut au vendeur qui le choisit. Il est normal et attendu de demander à goûter (fromages, miel, fruits secs) avant d'acheter."
+        "explanation": "Dans les marchés russes, on ne touche pas les produits directement — on indique ce qu'on veut au vendeur qui le choisit. Il est normal et attendu de demander à goûter (fromages, miel, fruits secs) avant d'acheter.",
+        "correct_index": 1
       },
       {
         "question": "Qu'est-ce qu'une marshrutka ?",
@@ -119,8 +119,8 @@
           "Un bus de nuit dans les grandes villes",
           "Un service de livraison de courses à domicile"
         ],
-        "answer": 1,
-        "explanation": "La marshrutka est un minibus privé collectif sur itinéraire fixe, qui s'arrête à la demande. On passe son argent de passager en passager vers le chauffeur — un acte de confiance sociale quotidien caractéristique de la vie russe."
+        "explanation": "La marshrutka est un minibus privé collectif sur itinéraire fixe, qui s'arrête à la demande. On passe son argent de passager en passager vers le chauffeur — un acte de confiance sociale quotidien caractéristique de la vie russe.",
+        "correct_index": 1
       },
       {
         "question": "Quel est le paradoxe de la bureaucratie russe ?",
@@ -130,8 +130,8 @@
           "Il n'existe pas de règles formelles — tout est informel",
           "Les règles écrites ne sont jamais respectées"
         ],
-        "answer": 1,
-        "explanation": "Le paradoxe russe : règles formelles très strictes + flexibilité informelle selon la personne. La règle officielle dit non, mais la personne peut dire oui si vous avez le bon ton, les bons contacts, ou si quelqu'un vous a recommandé."
+        "explanation": "Le paradoxe russe : règles formelles très strictes + flexibilité informelle selon la personne. La règle officielle dit non, mais la personne peut dire oui si vous avez le bon ton, les bons contacts, ou si quelqu'un vous a recommandé.",
+        "correct_index": 1
       },
       {
         "question": "Quel est le pourboire standard dans un restaurant russe correct ?",
@@ -141,8 +141,8 @@
           "10% du montant total",
           "20% comme aux États-Unis"
         ],
-        "answer": 2,
-        "explanation": "Le pourboire standard en Russie est de 10% dans un restaurant correct, 15% dans un gastronomique. L'addition est généralement payée par un convive plutôt que divisée."
+        "explanation": "Le pourboire standard en Russie est de 10% dans un restaurant correct, 15% dans un gastronomique. L'addition est généralement payée par un convive plutôt que divisée.",
+        "correct_index": 2
       },
       {
         "question": "Quel est l'achat le plus recommandé dans les marchés russes à rapporter en France ?",
@@ -152,8 +152,8 @@
           "Les icônes soviétiques vintage",
           "Les alcools russes (vodka, cognac arménien)"
         ],
-        "answer": 1,
-        "explanation": "Champignons séchés (cèpes, chanterelles), miel (plusieurs variétés), épices caucasiennes (hops-suneli, adjika) et krasnaya ikra (caviar rouge) sont les meilleurs achats alimentaires à rapporter — originaux, savoureux et introuvables facilement en France."
+        "explanation": "Champignons séchés (cèpes, chanterelles), miel (plusieurs variétés), épices caucasiennes (hops-suneli, adjika) et krasnaya ikra (caviar rouge) sont les meilleurs achats alimentaires à rapporter — originaux, savoureux et introuvables facilement en France.",
+        "correct_index": 1
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Предъявляют письменный список покупок",
           "Сначала платят, потом получают товар"
         ],
-        "answer": 1,
-        "explanation": "На российских рынках продукты напрямую не трогают: указывают продавцу, что нужно, он выбирает. Нормально и ожидаемо попросить попробовать (сыры, мёд, сухофрукты) перед покупкой."
+        "explanation": "На российских рынках продукты напрямую не трогают: указывают продавцу, что нужно, он выбирает. Нормально и ожидаемо попросить попробовать (сыры, мёд, сухофрукты) перед покупкой.",
+        "correct_index": 1
       },
       {
         "question": "Что такое маршрутка?",
@@ -259,8 +259,8 @@
           "Ночной автобус в крупных городах",
           "Служба доставки продуктов на дом"
         ],
-        "answer": 1,
-        "explanation": "Маршрутка — частный маршрутный микроавтобус, останавливающийся по требованию. Деньги передают от пассажира к пассажиру к водителю — повседневный акт социального доверия, характерный для российской жизни."
+        "explanation": "Маршрутка — частный маршрутный микроавтобус, останавливающийся по требованию. Деньги передают от пассажира к пассажиру к водителю — повседневный акт социального доверия, характерный для российской жизни.",
+        "correct_index": 1
       },
       {
         "question": "В чём парадокс российской бюрократии?",
@@ -270,8 +270,8 @@
           "Формальных правил не существует — всё неформально",
           "Писаные правила никогда не соблюдаются"
         ],
-        "answer": 1,
-        "explanation": "Российский парадокс: очень строгие формальные правила + неформальная гибкость в зависимости от человека. Официальное правило говорит «нет», но человек может сказать «да» при нужном тоне, связях или рекомендации."
+        "explanation": "Российский парадокс: очень строгие формальные правила + неформальная гибкость в зависимости от человека. Официальное правило говорит «нет», но человек может сказать «да» при нужном тоне, связях или рекомендации.",
+        "correct_index": 1
       },
       {
         "question": "Каков стандартный размер чаевых в обычном российском ресторане?",
@@ -281,8 +281,8 @@
           "10% от суммы",
           "20%, как в США"
         ],
-        "answer": 2,
-        "explanation": "Стандартные чаевые в России — 10% в обычном ресторане, 15% в гастрономическом. Счёт как правило оплачивает один из компании, а не делится."
+        "explanation": "Стандартные чаевые в России — 10% в обычном ресторане, 15% в гастрономическом. Счёт как правило оплачивает один из компании, а не делится.",
+        "correct_index": 2
       },
       {
         "question": "Что лучше всего купить на российских рынках, чтобы привезти во Францию?",
@@ -292,8 +292,8 @@
           "Советские иконы vintaж",
           "Российский алкоголь (водка, армянский коньяк)"
         ],
-        "answer": 1,
-        "explanation": "Сушёные грибы (белые, лисички), мёд (несколько сортов), кавказские специи (хмели-сунели, аджика) и красная икра — лучшие гастрономические покупки: оригинальные, вкусные и труднодоступные во Франции."
+        "explanation": "Сушёные грибы (белые, лисички), мёд (несколько сортов), кавказские специи (хмели-сунели, аджика) и красная икра — лучшие гастрономические покупки: оригинальные, вкусные и труднодоступные во Франции.",
+        "correct_index": 1
       }
     ]
   }

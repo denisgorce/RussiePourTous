@@ -112,8 +112,8 @@
           "1950",
           "1961"
         ],
-        "answer": 1,
-        "explanation": "Le premier tronçon du métro de Moscou a été inauguré le 15 mai 1935 — 13 stations entre Sokolniki et Park Kultury. C'est un événement national célébré comme la victoire du socialisme."
+        "explanation": "Le premier tronçon du métro de Moscou a été inauguré le 15 mai 1935 — 13 stations entre Sokolniki et Park Kultury. C'est un événement national célébré comme la victoire du socialisme.",
+        "correct_index": 1
       },
       {
         "question": "Combien le métro de Moscou transporte-t-il de voyageurs par jour ?",
@@ -123,8 +123,8 @@
           "9 millions",
           "15 millions"
         ],
-        "answer": 2,
-        "explanation": "Le métro de Moscou transporte environ 9 millions de voyageurs par jour — ce qui en fait l'un des réseaux les plus fréquentés du monde, devant le métro parisien (4 millions/jour)."
+        "explanation": "Le métro de Moscou transporte environ 9 millions de voyageurs par jour — ce qui en fait l'un des réseaux les plus fréquentés du monde, devant le métro parisien (4 millions/jour).",
+        "correct_index": 2
       },
       {
         "question": "Quel roman de SF russe imagine la survie dans les tunnels du métro après une apocalypse ?",
@@ -134,8 +134,8 @@
           "1984 en version russe",
           "Le Monde englouti de Ballard"
         ],
-        "answer": 1,
-        "explanation": "Metro 2033 de Dmitri Glukhovsky (2002) est un roman post-apocalyptique qui imagine la survie d'une civilisation dans les tunnels du métro de Moscou. Adapté en jeux vidéo, il est traduit en 37 langues."
+        "explanation": "Metro 2033 de Dmitri Glukhovsky (2002) est un roman post-apocalyptique qui imagine la survie d'une civilisation dans les tunnels du métro de Moscou. Adapté en jeux vidéo, il est traduit en 37 langues.",
+        "correct_index": 1
       },
       {
         "question": "Quel est le code de comportement sur les escalators du métro moscovite ?",
@@ -145,8 +145,8 @@
           "Il n'y a pas de règle établie",
           "On marche des deux côtés en montée, on s'arrête en descente"
         ],
-        "answer": 1,
-        "explanation": "Sur les escalators du métro moscovite, la règle est claire : droite pour s'arrêter, gauche pour marcher. S'arrêter à gauche bloque le passage et provoque une désapprobation sociale immédiate."
+        "explanation": "Sur les escalators du métro moscovite, la règle est claire : droite pour s'arrêter, gauche pour marcher. S'arrêter à gauche bloque le passage et provoque une désapprobation sociale immédiate.",
+        "correct_index": 1
       },
       {
         "question": "Combien coûte un trajet en métro de Moscou avec la carte Troïka ?",
@@ -156,8 +156,8 @@
           "100 roubles",
           "Gratuit pour les touristes"
         ],
-        "answer": 1,
-        "explanation": "Avec la carte Troïka rechargeable, un trajet de métro coûte 47 roubles (moins de 1€) — quel que soit la distance. Sans carte Troïka, le prix est de 57 roubles. C'est un des métros les moins chers au monde."
+        "explanation": "Avec la carte Troïka rechargeable, un trajet de métro coûte 47 roubles (moins de 1€) — quel que soit la distance. Sans carte Troïka, le prix est de 57 roubles. C'est un des métros les moins chers au monde.",
+        "correct_index": 1
       }
     ]
   },
@@ -252,8 +252,8 @@
           "1950",
           "1961"
         ],
-        "answer": 1,
-        "explanation": "Первый участок московского метро открылся 15 мая 1935 года — 13 станций от Сокольников до Парка культуры. Общенациональное событие, отпразднованное как победа социализма."
+        "explanation": "Первый участок московского метро открылся 15 мая 1935 года — 13 станций от Сокольников до Парка культуры. Общенациональное событие, отпразднованное как победа социализма.",
+        "correct_index": 1
       },
       {
         "question": "Сколько пассажиров в день перевозит московское метро?",
@@ -263,8 +263,8 @@
           "9 миллионов",
           "15 миллионов"
         ],
-        "answer": 2,
-        "explanation": "Московское метро перевозит около 9 миллионов пассажиров в день — один из самых загруженных метрополитенов мира, значительно опережая парижский (4 миллиона/день)."
+        "explanation": "Московское метро перевозит около 9 миллионов пассажиров в день — один из самых загруженных метрополитенов мира, значительно опережая парижский (4 миллиона/день).",
+        "correct_index": 2
       },
       {
         "question": "Какой российский фантастический роман рисует выживание в тоннелях метро после апокалипсиса?",
@@ -274,8 +274,8 @@
           "«1984» в русской версии",
           "«Потопленный мир» Балларда"
         ],
-        "answer": 1,
-        "explanation": "«Метро 2033» Дмитрия Глуховского (2002) — постапокалиптический роман о выживании цивилизации в тоннелях московского метро. Адаптирован в видеоигры, переведён на 37 языков."
+        "explanation": "«Метро 2033» Дмитрия Глуховского (2002) — постапокалиптический роман о выживании цивилизации в тоннелях московского метро. Адаптирован в видеоигры, переведён на 37 языков.",
+        "correct_index": 1
       },
       {
         "question": "Каково правило поведения на эскалаторах московского метро?",
@@ -285,8 +285,8 @@
           "Никакого установленного правила",
           "Идут с обеих сторон вверх, стоят вниз"
         ],
-        "answer": 1,
-        "explanation": "На эскалаторах московского метро правило чёткое: справа стоят, слева идут. Остановиться слева — заблокировать проход и немедленно получить общественное осуждение."
+        "explanation": "На эскалаторах московского метро правило чёткое: справа стоят, слева идут. Остановиться слева — заблокировать проход и немедленно получить общественное осуждение.",
+        "correct_index": 1
       },
       {
         "question": "Сколько стоит поездка в московском метро с картой «Тройка»?",
@@ -296,8 +296,8 @@
           "100 рублей",
           "Бесплатно для туристов"
         ],
-        "answer": 1,
-        "explanation": "С пополняемой картой «Тройка» поездка в метро стоит 47 рублей (менее 1 евро) — независимо от расстояния. Без «Тройки» — 57 рублей. Одно из самых дешёвых метро в мире."
+        "explanation": "С пополняемой картой «Тройка» поездка в метро стоит 47 рублей (менее 1 евро) — независимо от расстояния. Без «Тройки» — 57 рублей. Одно из самых дешёвых метро в мире.",
+        "correct_index": 1
       }
     ]
   }

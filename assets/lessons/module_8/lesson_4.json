@@ -108,8 +108,8 @@
           "Le Carré blanc sur fond blanc (1918)",
           "La Croix rouge sur fond noir (1920)"
         ],
-        "answer": 1,
-        "explanation": "Le Carré noir (1915) — une toile entièrement noire sur fond blanc — est considéré comme le geste artistique le plus radical de l'histoire de l'art. Malevitch déclarait que la peinture devait recommencer à zéro. Cette œuvre a ouvert la voie à tout l'art conceptuel et minimal du XXe siècle."
+        "explanation": "Le Carré noir (1915) — une toile entièrement noire sur fond blanc — est considéré comme le geste artistique le plus radical de l'histoire de l'art. Malevitch déclarait que la peinture devait recommencer à zéro. Cette œuvre a ouvert la voie à tout l'art conceptuel et minimal du XXe siècle.",
+        "correct_index": 1
       },
       {
         "question": "Qu'est-ce que le «coin rouge» (krasny ugol) dans une maison russe ?",
@@ -119,8 +119,8 @@
           "L'espace de la cuisine où se tiennent les conversations familiales importantes",
           "La partie de la maison orientée vers l'est selon la tradition architecturale orthodoxe"
         ],
-        "answer": 1,
-        "explanation": "Le «krasny ugol» (coin rouge ou beau coin) est le coin de la pièce principale où une famille orthodoxe russe place ses icônes avec une lampada (petite lampe à huile). C'est le lieu de prière domestique, héritage de la tradition byzantine. «Krasny» signifiait «beau» en vieux russe avant de prendre le sens de «rouge»."
+        "explanation": "Le «krasny ugol» (coin rouge ou beau coin) est le coin de la pièce principale où une famille orthodoxe russe place ses icônes avec une lampada (petite lampe à huile). C'est le lieu de prière domestique, héritage de la tradition byzantine. «Krasny» signifiait «beau» en vieux russe avant de prendre le sens de «rouge».",
+        "correct_index": 1
       },
       {
         "question": "Pourquoi l'avant-garde russe est-elle paradoxalement mieux représentée dans des musées étrangers qu'en Russie ?",
@@ -130,8 +130,8 @@
           "Parce que l'État soviétique a délibérément exporté ces œuvres pour diffuser l'art révolutionnaire",
           "Parce que les musées russes ne considèrent pas l'avant-garde comme un art national légitime"
         ],
-        "answer": 1,
-        "explanation": "L'avant-garde russe est mieux représentée au MoMA, au Centre Pompidou et dans d'autres musées étrangers parce que beaucoup d'œuvres ont été vendues à l'étranger par des artistes ou des institutions pendant les années difficiles de l'ère soviétique. Ce patrimoine dispersé est une source de tensions dans les relations culturelles russo-occidentales."
+        "explanation": "L'avant-garde russe est mieux représentée au MoMA, au Centre Pompidou et dans d'autres musées étrangers parce que beaucoup d'œuvres ont été vendues à l'étranger par des artistes ou des institutions pendant les années difficiles de l'ère soviétique. Ce patrimoine dispersé est une source de tensions dans les relations culturelles russo-occidentales.",
+        "correct_index": 1
       },
       {
         "question": "Quel mouvement artistique allemand a été fortement influencé par l'avant-garde russe ?",
@@ -141,8 +141,8 @@
           "Le Bauhaus",
           "Le Dadaïsme"
         ],
-        "answer": 2,
-        "explanation": "Le Bauhaus allemand (1919-1933) a été fortement influencé par le constructivisme russe — dans sa philosophie d'union de l'art et du design industriel, dans ses méthodes pédagogiques et dans ses formes visuelles. Des liens directs existaient entre artistes russes et professeurs du Bauhaus, notamment via Kandinsky qui y a enseigné."
+        "explanation": "Le Bauhaus allemand (1919-1933) a été fortement influencé par le constructivisme russe — dans sa philosophie d'union de l'art et du design industriel, dans ses méthodes pédagogiques et dans ses formes visuelles. Des liens directs existaient entre artistes russes et professeurs du Bauhaus, notamment via Kandinsky qui y a enseigné.",
+        "correct_index": 2
       },
       {
         "question": "Quel peintre russe du XIXe siècle est notamment connu pour Les Bateliers de la Volga ?",
@@ -152,8 +152,8 @@
           "Ivan Chichkine",
           "Nikolaï Gué"
         ],
-        "answer": 1,
-        "explanation": "Ilia Répine (1844-1930) est le plus grand représentant du réalisme social russe — ses Bateliers de la Volga (1873) représentent des forçats tirant des barges contre le courant et sont devenus l'une des œuvres les plus connues de la peinture russe. Il est aussi l'auteur d'Iouane le Terrible et son fils (1885)."
+        "explanation": "Ilia Répine (1844-1930) est le plus grand représentant du réalisme social russe — ses Bateliers de la Volga (1873) représentent des forçats tirant des barges contre le courant et sont devenus l'une des œuvres les plus connues de la peinture russe. Il est aussi l'auteur d'Iouane le Terrible et son fils (1885).",
+        "correct_index": 1
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Белый квадрат на белом (1918)",
           "Красный крест на чёрном фоне (1920)"
         ],
-        "answer": 1,
-        "explanation": "Чёрный квадрат (1915) — холст, целиком покрытый чёрным на белом фоне, — считается самым радикальным художественным жестом в истории искусства. Малевич заявлял, что живопись должна начаться заново. Это произведение открыло путь всему концептуальному и минималистскому искусству XX века."
+        "explanation": "Чёрный квадрат (1915) — холст, целиком покрытый чёрным на белом фоне, — считается самым радикальным художественным жестом в истории искусства. Малевич заявлял, что живопись должна начаться заново. Это произведение открыло путь всему концептуальному и минималистскому искусству XX века.",
+        "correct_index": 1
       },
       {
         "question": "Что такое «красный угол» в русском доме?",
@@ -259,8 +259,8 @@
           "Кухонное пространство для важных семейных разговоров",
           "Часть дома, ориентированная на восток по православной архитектурной традиции"
         ],
-        "answer": 1,
-        "explanation": "«Красный угол» (красный в старорусском — «красивый», «прекрасный») — угол главной комнаты, где православная семья ставит иконы с лампадой. Это место домашней молитвы, унаследованное от византийской традиции. Сохраняется даже в семьях, считающих себя не особо религиозными."
+        "explanation": "«Красный угол» (красный в старорусском — «красивый», «прекрасный») — угол главной комнаты, где православная семья ставит иконы с лампадой. Это место домашней молитвы, унаследованное от византийской традиции. Сохраняется даже в семьях, считающих себя не особо религиозными.",
+        "correct_index": 1
       },
       {
         "question": "Почему русский авангард парадоксально лучше представлен в зарубежных музеях, чем в российских?",
@@ -270,8 +270,8 @@
           "Потому что советское государство намеренно экспортировало их для распространения революционного искусства",
           "Потому что российские музеи не признают авангард законным национальным искусством"
         ],
-        "answer": 1,
-        "explanation": "Русский авангард лучше представлен в МоМА, Центре Помпиду и других зарубежных музеях, потому что многие произведения были проданы или вывезены художниками или институциями в трудные советские годы. Это рассеянное наследие — источник напряжённости в российско-западных культурных отношениях."
+        "explanation": "Русский авангард лучше представлен в МоМА, Центре Помпиду и других зарубежных музеях, потому что многие произведения были проданы или вывезены художниками или институциями в трудные советские годы. Это рассеянное наследие — источник напряжённости в российско-западных культурных отношениях.",
+        "correct_index": 1
       },
       {
         "question": "Какое немецкое художественное движение испытало сильное влияние русского авангарда?",
@@ -281,8 +281,8 @@
           "Баухаус",
           "Дадаизм"
         ],
-        "answer": 2,
-        "explanation": "Немецкий Баухаус (1919–1933) испытал сильное влияние русского конструктивизма — в философии соединения искусства и промышленного дизайна, в методах преподавания и визуальных формах. Прямые связи между русскими художниками и преподавателями Баухауса существовали, в частности через Кандинского, преподававшего там."
+        "explanation": "Немецкий Баухаус (1919–1933) испытал сильное влияние русского конструктивизма — в философии соединения искусства и промышленного дизайна, в методах преподавания и визуальных формах. Прямые связи между русскими художниками и преподавателями Баухауса существовали, в частности через Кандинского, преподававшего там.",
+        "correct_index": 2
       },
       {
         "question": "Какой русский художник XIX века известен прежде всего «Бурлаками на Волге»?",
@@ -292,8 +292,8 @@
           "Иван Шишкин",
           "Николай Ге"
         ],
-        "answer": 1,
-        "explanation": "Илья Репин (1844–1930) — крупнейший представитель русского социального реализма. Его Бурлаки на Волге (1873) — изображение каторжников, тянущих баржи против течения, — стало одним из самых известных произведений русской живописи. Ему принадлежит и Иван Грозный и сын его Иван (1885)."
+        "explanation": "Илья Репин (1844–1930) — крупнейший представитель русского социального реализма. Его Бурлаки на Волге (1873) — изображение каторжников, тянущих баржи против течения, — стало одним из самых известных произведений русской живописи. Ему принадлежит и Иван Грозный и сын его Иван (1885).",
+        "correct_index": 1
       }
     ]
   }

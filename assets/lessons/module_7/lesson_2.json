@@ -108,8 +108,8 @@
           "Un chef soviétique pendant la période stalinienne",
           "Un chef ukrainien de Kiev"
         ],
-        "answer": 1,
-        "explanation": "La salade Olivier a été créée vers 1860 par Lucien Olivier, chef français du restaurant «L'Ermitage» à Moscou. La recette originale était élaborée et coûteuse — la version soviétique simplifiée (pommes de terre, petits pois, saucisson) est celle que les Russes adorent aujourd'hui."
+        "explanation": "La salade Olivier a été créée vers 1860 par Lucien Olivier, chef français du restaurant «L'Ermitage» à Moscou. La recette originale était élaborée et coûteuse — la version soviétique simplifiée (pommes de terre, petits pois, saucisson) est celle que les Russes adorent aujourd'hui.",
+        "correct_index": 1
       },
       {
         "question": "Quel est le zakouski le plus universellement consommé avec la vodka ?",
@@ -119,8 +119,8 @@
           "Les cornichons légèrement salés (malossolnye ogurtsy)",
           "Le saumon fumé"
         ],
-        "answer": 2,
-        "explanation": "Les cornichons légèrement salés à l'aneth et à l'ail (malossolnye ogurtsy) accompagnent systématiquement la vodka en Russie. Leur goût frais et légèrement acidulé neutralise l'alcool fort — c'est le zakouski le plus économique et le plus universel."
+        "explanation": "Les cornichons légèrement salés à l'aneth et à l'ail (malossolnye ogurtsy) accompagnent systématiquement la vodka en Russie. Leur goût frais et légèrement acidulé neutralise l'alcool fort — c'est le zakouski le plus économique et le plus universel.",
+        "correct_index": 2
       },
       {
         "question": "Quelle est la bonne stratégie à table lors d'un repas russe avec zakouski ?",
@@ -130,8 +130,8 @@
           "Se servir modérément pour pouvoir goûter aux plats qui viennent ensuite",
           "Refuser les zakouski et attendre le plat principal"
         ],
-        "answer": 2,
-        "explanation": "La table des zakouski est conçue pour durer toute la soirée. Se servir de tout au début empêche de goûter les plats principaux qui arrivent après. Il faut goûter progressivement en gardant de l'appétit pour la suite."
+        "explanation": "La table des zakouski est conçue pour durer toute la soirée. Se servir de tout au début empêche de goûter les plats principaux qui arrivent après. Il faut goûter progressivement en gardant de l'appétit pour la suite.",
+        "correct_index": 2
       },
       {
         "question": "Quelle est la différence entre ikra chyornaya et ikra krasnaya ?",
@@ -141,8 +141,8 @@
           "La chyornaya vient de Sibérie, la krasnaya de la mer Noire",
           "Ce sont deux noms pour le même produit selon les régions"
         ],
-        "answer": 1,
-        "explanation": "Ikra chyornaya (икра чёрная) désigne le caviar noir d'esturgeon — produit de luxe. Ikra krasnaya (икра красная) désigne les œufs de saumon ou de truite — beaucoup plus accessible et très présent dans les fêtes russes ordinaires."
+        "explanation": "Ikra chyornaya (икра чёрная) désigne le caviar noir d'esturgeon — produit de luxe. Ikra krasnaya (икра красная) désigne les œufs de saumon ou de truite — beaucoup plus accessible et très présent dans les fêtes russes ordinaires.",
+        "correct_index": 1
       },
       {
         "question": "Lors de quel événement la salade Olivier est-elle incontournable en Russie ?",
@@ -152,8 +152,8 @@
           "Le Nouvel An",
           "Le 9 mai, Jour de la Victoire"
         ],
-        "answer": 2,
-        "explanation": "La salade Olivier est LE plat symbolique du Nouvel An russe — il est pratiquement impossible de fêter le 31 décembre en Russie sans elle. Chaque famille prépare sa version, souvent transmise de génération en génération."
+        "explanation": "La salade Olivier est LE plat symbolique du Nouvel An russe — il est pratiquement impossible de fêter le 31 décembre en Russie sans elle. Chaque famille prépare sa version, souvent transmise de génération en génération.",
+        "correct_index": 2
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Советский кулинар сталинской эпохи",
           "Украинский шеф из Киева"
         ],
-        "answer": 1,
-        "explanation": "Салат оливье был создан около 1860 года Люсьеном Оливье, французским шеф-поваром московского ресторана «Эрмитаж». Оригинальный изысканный рецепт был упрощён в советское время до варианта с картофелем, горошком и колбасой."
+        "explanation": "Салат оливье был создан около 1860 года Люсьеном Оливье, французским шеф-поваром московского ресторана «Эрмитаж». Оригинальный изысканный рецепт был упрощён в советское время до варианта с картофелем, горошком и колбасой.",
+        "correct_index": 1
       },
       {
         "question": "Какая закуска традиционно сопровождает водку?",
@@ -259,8 +259,8 @@
           "Малосольные огурцы",
           "Копчёный лосось"
         ],
-        "answer": 2,
-        "explanation": "Малосольные огурцы с укропом и чесноком — неизменный спутник водки в России. Их свежий слегка кисловатый вкус нейтрализует крепость алкоголя — самая доступная и универсальная закуска."
+        "explanation": "Малосольные огурцы с укропом и чесноком — неизменный спутник водки в России. Их свежий слегка кисловатый вкус нейтрализует крепость алкоголя — самая доступная и универсальная закуска.",
+        "correct_index": 2
       },
       {
         "question": "Какова правильная стратегия за столом с закусками на русском застолье?",
@@ -270,8 +270,8 @@
           "Брать понемногу, чтобы оставить место для следующих блюд",
           "Отказаться от закусок и ждать горячего"
         ],
-        "answer": 2,
-        "explanation": "Стол с закусками рассчитан на весь вечер. Взять всего в начале — значит не суметь оценить горячие блюда, которые появятся позже. Нужно постепенно пробовать, сохраняя аппетит."
+        "explanation": "Стол с закусками рассчитан на весь вечер. Взять всего в начале — значит не суметь оценить горячие блюда, которые появятся позже. Нужно постепенно пробовать, сохраняя аппетит.",
+        "correct_index": 2
       },
       {
         "question": "В чём разница между чёрной и красной икрой?",
@@ -281,8 +281,8 @@
           "Чёрная из Сибири, красная с Чёрного моря",
           "Это два названия одного продукта в разных регионах"
         ],
-        "answer": 1,
-        "explanation": "Чёрная икра — осетровая, деликатес. Красная икра — лососёвая или форелевая, значительно доступнее и по-настоящему вошедшая в праздничный быт: блины с красной икрой и сметаной — символ Нового года и Масленицы."
+        "explanation": "Чёрная икра — осетровая, деликатес. Красная икра — лососёвая или форелевая, значительно доступнее и по-настоящему вошедшая в праздничный быт: блины с красной икрой и сметаной — символ Нового года и Масленицы.",
+        "correct_index": 1
       },
       {
         "question": "Без какого блюда невозможно встретить Новый год в России?",
@@ -292,8 +292,8 @@
           "Салат оливье",
           "Борщ"
         ],
-        "answer": 2,
-        "explanation": "Салат оливье — неотъемлемый символ русского Нового года. Встретить 31 декабря без него практически невозможно: каждая семья готовит свою версию, нередко передаваемую из поколения в поколение."
+        "explanation": "Салат оливье — неотъемлемый символ русского Нового года. Встретить 31 декабря без него практически невозможно: каждая семья готовит свою версию, нередко передаваемую из поколения в поколение.",
+        "correct_index": 2
       }
     ]
   }

@@ -7,10 +7,22 @@
     "estimated_minutes": 14,
     "difficulty": "intermédiaire",
     "sources": [
-      {"label": "Constitution de la Fédération de Russie (texte officiel)", "url": "http://www.constitution.ru/"},
-      {"label": "Encyclopædia Universalis — Régime politique russe", "url": "https://www.universalis.fr/encyclopedie/russie/"},
-      {"label": "IFRI — La verticale du pouvoir", "url": "https://www.ifri.org/fr/russie"},
-      {"label": "Le Grand Continent — Système présidentiel russe", "url": "https://legrandcontinent.eu/fr/tag/russie/"}
+      {
+        "label": "Constitution de la Fédération de Russie (texte officiel)",
+        "url": "http://www.constitution.ru/"
+      },
+      {
+        "label": "Encyclopædia Universalis — Régime politique russe",
+        "url": "https://www.universalis.fr/encyclopedie/russie/"
+      },
+      {
+        "label": "IFRI — La verticale du pouvoir",
+        "url": "https://www.ifri.org/fr/russie"
+      },
+      {
+        "label": "Le Grand Continent — Système présidentiel russe",
+        "url": "https://legrandcontinent.eu/fr/tag/russie/"
+      }
     ]
   },
   "fr": {
@@ -62,45 +74,94 @@
       "content": "**Ne simplifiez pas la politique russe à 'dictature vs démocratie'.** C'est réducteur et cela ferme immédiatement les conversations avec les Russes. La réalité est plus nuancée : la Russie a des institutions formellement démocratiques, des élections régulières (même si leur équité est contestée), une société civile qui existe même si elle est sous pression. Le terme que beaucoup de politologues utilisent est «**démocratie illibérale**» ou «**autoritarisme compétitif**» — des systèmes où les élections existent mais où les règles du jeu avantagent massivement le pouvoir sortant.\n\nSi vous avez des discussions politiques avec des Russes, la question la plus féconde n'est pas «êtes-vous pour ou contre Poutine ?» mais «**qu'est-ce que vous souhaitez pour la Russie dans 20 ans ?**». Cette question ouvre des conversations profondes sur les valeurs, les priorités, la vision du pays — et contourne les clivages immédiats.\n\nUn fait qui surprend souvent les Français : **la Constitution russe de 1993 garantit plus de libertés formelles que certaines constitutions d'États membres de l'UE**. Le problème n'est pas dans le texte — c'est dans l'application sélective et l'indépendance inexistante de la justice."
     },
     "glossary": [
-      {"term": "Verticale du pouvoir (Вертикаль власти)", "definition": "Métaphore centrale du système Poutine : chaîne de commandement descendante reliant le Président aux gouverneurs, maires et directeurs d'entreprises publiques."},
-      {"term": "Siloviki (Силовики)", "definition": "Terme russe désignant les hauts fonctionnaires issus des services de sécurité (FSB, armée, GRU) qui occupent des postes clés dans l'administration."},
-      {"term": "Douma d'État (Государственная Дума)", "definition": "Chambre basse du Parlement russe, 450 membres élus pour 5 ans. Adopte les lois fédérales, mais subordonnée à l'exécutif."},
-      {"term": "Conseil de la Fédération", "definition": "Chambre haute du Parlement russe, 170 membres représentant les 85 sujets fédéraux. Ratifie les traités et autorise le recours à la force armée."},
-      {"term": "Remise à zéro (Обнуление)", "definition": "Amendement constitutionnel de 2020 qui remet à zéro le compteur des mandats de Poutine, lui permettant de se représenter jusqu'en 2036."},
-      {"term": "Gazprom (Газпром)", "definition": "Groupe gazier russe à 51% public, premier producteur mondial de gaz naturel. Instrument de politique étrangère autant qu'entreprise commerciale."},
-      {"term": "Conseil de sécurité (Совет Безопасности)", "definition": "Organe consultatif présidentiel réunissant les responsables de la sécurité, défense et renseignement. Centre réel de décision stratégique."},
-      {"term": "Démocratie illibérale", "definition": "Terme de politologie désignant un régime avec des élections formelles mais sans contre-pouvoirs effectifs ni respect des libertés civiles fondamentales."}
+      {
+        "term": "Verticale du pouvoir (Вертикаль власти)",
+        "definition": "Métaphore centrale du système Poutine : chaîne de commandement descendante reliant le Président aux gouverneurs, maires et directeurs d'entreprises publiques."
+      },
+      {
+        "term": "Siloviki (Силовики)",
+        "definition": "Terme russe désignant les hauts fonctionnaires issus des services de sécurité (FSB, armée, GRU) qui occupent des postes clés dans l'administration."
+      },
+      {
+        "term": "Douma d'État (Государственная Дума)",
+        "definition": "Chambre basse du Parlement russe, 450 membres élus pour 5 ans. Adopte les lois fédérales, mais subordonnée à l'exécutif."
+      },
+      {
+        "term": "Conseil de la Fédération",
+        "definition": "Chambre haute du Parlement russe, 170 membres représentant les 85 sujets fédéraux. Ratifie les traités et autorise le recours à la force armée."
+      },
+      {
+        "term": "Remise à zéro (Обнуление)",
+        "definition": "Amendement constitutionnel de 2020 qui remet à zéro le compteur des mandats de Poutine, lui permettant de se représenter jusqu'en 2036."
+      },
+      {
+        "term": "Gazprom (Газпром)",
+        "definition": "Groupe gazier russe à 51% public, premier producteur mondial de gaz naturel. Instrument de politique étrangère autant qu'entreprise commerciale."
+      },
+      {
+        "term": "Conseil de sécurité (Совет Безопасности)",
+        "definition": "Organe consultatif présidentiel réunissant les responsables de la sécurité, défense et renseignement. Centre réel de décision stratégique."
+      },
+      {
+        "term": "Démocratie illibérale",
+        "definition": "Terme de politologie désignant un régime avec des élections formelles mais sans contre-pouvoirs effectifs ni respect des libertés civiles fondamentales."
+      }
     ],
     "quiz": [
       {
         "question": "En quelle année la Constitution actuelle de la Russie a-t-elle été adoptée ?",
-        "options": ["1991", "1993", "1996", "2000"],
-        "answer": 1,
-        "explanation": "La Constitution russe a été adoptée par référendum le 12 décembre 1993, après que le Président Eltsine a bombardé le Parlement en octobre 1993 lors d'une crise constitutionnelle."
+        "options": [
+          "1991",
+          "1993",
+          "1996",
+          "2000"
+        ],
+        "explanation": "La Constitution russe a été adoptée par référendum le 12 décembre 1993, après que le Président Eltsine a bombardé le Parlement en octobre 1993 lors d'une crise constitutionnelle.",
+        "correct_index": 1
       },
       {
         "question": "Que désigne la 'verticale du pouvoir' dans le système russe ?",
-        "options": ["La hiérarchie de l'Église orthodoxe", "La chaîne de commandement descendante du Président vers les gouverneurs et maires", "Le système de promotion dans l'armée russe", "La structure du FSB"],
-        "answer": 1,
-        "explanation": "La 'verticale du pouvoir' est la métaphore centrale du système Poutine : une chaîne de commandement et de loyauté reliant le Président à tous les échelons du pouvoir local."
+        "options": [
+          "La hiérarchie de l'Église orthodoxe",
+          "La chaîne de commandement descendante du Président vers les gouverneurs et maires",
+          "Le système de promotion dans l'armée russe",
+          "La structure du FSB"
+        ],
+        "explanation": "La 'verticale du pouvoir' est la métaphore centrale du système Poutine : une chaîne de commandement et de loyauté reliant le Président à tous les échelons du pouvoir local.",
+        "correct_index": 1
       },
       {
         "question": "Quel amendement constitutionnel de 2020 a permis à Poutine de rester potentiellement au pouvoir jusqu'en 2036 ?",
-        "options": ["La modification de la durée des mandats à 8 ans", "La clause de 'remise à zéro' (obnulenye)", "La suppression de la limite au nombre de mandats", "L'extension des pouvoirs du FSB"],
-        "answer": 1,
-        "explanation": "L'amendement de 'remise à zéro' (obnulenye) remet à zéro le décompte des mandats de Poutine, comme si ses précédents mandats n'avaient pas existé, lui permettant deux nouveaux mandats de 6 ans chacun."
+        "options": [
+          "La modification de la durée des mandats à 8 ans",
+          "La clause de 'remise à zéro' (obnulenye)",
+          "La suppression de la limite au nombre de mandats",
+          "L'extension des pouvoirs du FSB"
+        ],
+        "explanation": "L'amendement de 'remise à zéro' (obnulenye) remet à zéro le décompte des mandats de Poutine, comme si ses précédents mandats n'avaient pas existé, lui permettant deux nouveaux mandats de 6 ans chacun.",
+        "correct_index": 1
       },
       {
         "question": "Qui sont les 'siloviki' dans le système politique russe ?",
-        "options": ["Les oligarques liés au Kremlin", "Les hauts fonctionnaires issus des services de sécurité et de l'armée", "Les gouverneurs régionaux nommés par Poutine", "Les membres du Conseil de sécurité"],
-        "answer": 1,
-        "explanation": "Les siloviki (de 'sila', force) désignent les personnalités issues des services de sécurité (FSB, armée, GRU) qui occupent des postes clés dans l'administration et les entreprises d'État russes."
+        "options": [
+          "Les oligarques liés au Kremlin",
+          "Les hauts fonctionnaires issus des services de sécurité et de l'armée",
+          "Les gouverneurs régionaux nommés par Poutine",
+          "Les membres du Conseil de sécurité"
+        ],
+        "explanation": "Les siloviki (de 'sila', force) désignent les personnalités issues des services de sécurité (FSB, armée, GRU) qui occupent des postes clés dans l'administration et les entreprises d'État russes.",
+        "correct_index": 1
       },
       {
         "question": "Quelle est la meilleure façon d'aborder la politique russe en conversation avec des Russes ?",
-        "options": ["Défendre ouvertement la démocratie libérale occidentale", "Éviter tout sujet politique", "Poser des questions ouvertes sur les valeurs et l'avenir du pays", "Critiquer le gouvernement pour montrer sa liberté de pensée"],
-        "answer": 2,
-        "explanation": "Les questions ouvertes sur les valeurs et l'avenir permettent des conversations profondes et contournent les clivages immédiats. Les jugements catégoriques sur le gouvernement ferment les conversations et peuvent mettre vos hôtes dans une position délicate."
+        "options": [
+          "Défendre ouvertement la démocratie libérale occidentale",
+          "Éviter tout sujet politique",
+          "Poser des questions ouvertes sur les valeurs et l'avenir du pays",
+          "Critiquer le gouvernement pour montrer sa liberté de pensée"
+        ],
+        "explanation": "Les questions ouvertes sur les valeurs et l'avenir permettent des conversations profondes et contournent les clivages immédiats. Les jugements catégoriques sur le gouvernement ferment les conversations et peuvent mettre vos hôtes dans une position délicate.",
+        "correct_index": 2
       }
     ]
   },
@@ -153,45 +214,94 @@
       "content": "**Не упрощайте российскую политику до схемы «диктатура против демократии»**. Это поверхностно и немедленно закрывает разговор с россиянами. Реальность тоньше: в России есть формально демократические институты, регулярные выборы (пусть их честность и оспаривается), гражданское общество — пусть и находящееся под давлением. Политологи чаще пользуются терминами «**нелиберальная демократия**» или «**конкурентный авторитаризм**» — системы, где выборы есть, но правила игры грубо благоприятствуют действующей власти.\n\nЕсли у вас заходит политический разговор с россиянами, самый плодотворный вопрос — не «вы за или против Путина?», а «**чего вы хотите для России через 20 лет?**». Он открывает глубокие беседы о ценностях, приоритетах, видении страны — и обходит сиюминутные разломы.\n\nФакт, нередко удивляющий французов: **Конституция России 1993 года гарантирует больше формальных свобод, чем конституции ряда государств — членов ЕС**. Проблема не в тексте — а в избирательном правоприменении и отсутствии независимости судебной системы."
     },
     "glossary": [
-      {"term": "Вертикаль власти", "definition": "Центральная метафора системы Путина: нисходящая цепочка командования от Президента к губернаторам, мэрам и директорам госпредприятий."},
-      {"term": "Силовики", "definition": "Высокопоставленные чиновники из силовых структур (ФСБ, армия, ГРУ), занимающие ключевые посты в администрации."},
-      {"term": "Государственная Дума", "definition": "Нижняя палата российского Парламента, 450 депутатов, избираемых на 5 лет. Принимает федеральные законы, подчинена исполнительной власти."},
-      {"term": "Совет Федерации", "definition": "Верхняя палата российского Парламента, 170 членов, представляющих 85 субъектов федерации. Ратифицирует договоры и санкционирует применение вооружённых сил."},
-      {"term": "Обнуление", "definition": "Конституционная поправка 2020 года, обнуляющая президентские сроки Путина и позволяющая ему баллотироваться до 2036 года."},
-      {"term": "Газпром", "definition": "Российский газовый концерн, на 51% государственный, богатейший в мире производитель природного газа. Инструмент внешней политики не менее, чем коммерческое предприятие."},
-      {"term": "Совет Безопасности", "definition": "Президентский совещательный орган, объединяющий руководителей силовых структур, обороны и разведки. Реальный центр стратегических решений."},
-      {"term": "Нелиберальная демократия", "definition": "Политологический термин для режима с формальными выборами, но без эффективных противовесов и без соблюдения основных гражданских свобод."}
+      {
+        "term": "Вертикаль власти",
+        "definition": "Центральная метафора системы Путина: нисходящая цепочка командования от Президента к губернаторам, мэрам и директорам госпредприятий."
+      },
+      {
+        "term": "Силовики",
+        "definition": "Высокопоставленные чиновники из силовых структур (ФСБ, армия, ГРУ), занимающие ключевые посты в администрации."
+      },
+      {
+        "term": "Государственная Дума",
+        "definition": "Нижняя палата российского Парламента, 450 депутатов, избираемых на 5 лет. Принимает федеральные законы, подчинена исполнительной власти."
+      },
+      {
+        "term": "Совет Федерации",
+        "definition": "Верхняя палата российского Парламента, 170 членов, представляющих 85 субъектов федерации. Ратифицирует договоры и санкционирует применение вооружённых сил."
+      },
+      {
+        "term": "Обнуление",
+        "definition": "Конституционная поправка 2020 года, обнуляющая президентские сроки Путина и позволяющая ему баллотироваться до 2036 года."
+      },
+      {
+        "term": "Газпром",
+        "definition": "Российский газовый концерн, на 51% государственный, богатейший в мире производитель природного газа. Инструмент внешней политики не менее, чем коммерческое предприятие."
+      },
+      {
+        "term": "Совет Безопасности",
+        "definition": "Президентский совещательный орган, объединяющий руководителей силовых структур, обороны и разведки. Реальный центр стратегических решений."
+      },
+      {
+        "term": "Нелиберальная демократия",
+        "definition": "Политологический термин для режима с формальными выборами, но без эффективных противовесов и без соблюдения основных гражданских свобод."
+      }
     ],
     "quiz": [
       {
         "question": "В каком году была принята действующая Конституция России?",
-        "options": ["1991", "1993", "1996", "2000"],
-        "answer": 1,
-        "explanation": "Российская Конституция принята на референдуме 12 декабря 1993 года — после того как в октябре 1993 года президент Ельцин расстрелял парламент в ходе конституционного кризиса."
+        "options": [
+          "1991",
+          "1993",
+          "1996",
+          "2000"
+        ],
+        "explanation": "Российская Конституция принята на референдуме 12 декабря 1993 года — после того как в октябре 1993 года президент Ельцин расстрелял парламент в ходе конституционного кризиса.",
+        "correct_index": 1
       },
       {
         "question": "Что обозначает «вертикаль власти» в российской системе?",
-        "options": ["Иерархия православной церкви", "Нисходящая цепочка командования от Президента к губернаторам и мэрам", "Система продвижения по службе в армии", "Структура ФСБ"],
-        "answer": 1,
-        "explanation": "«Вертикаль власти» — центральная метафора системы Путина: цепочка командования и лояльности, связывающая Президента со всеми уровнями местной власти."
+        "options": [
+          "Иерархия православной церкви",
+          "Нисходящая цепочка командования от Президента к губернаторам и мэрам",
+          "Система продвижения по службе в армии",
+          "Структура ФСБ"
+        ],
+        "explanation": "«Вертикаль власти» — центральная метафора системы Путина: цепочка командования и лояльности, связывающая Президента со всеми уровнями местной власти.",
+        "correct_index": 1
       },
       {
         "question": "Какая конституционная поправка 2020 года позволила Путину потенциально оставаться у власти до 2036 года?",
-        "options": ["Увеличение срока полномочий до 8 лет", "Поправка об «обнулении» сроков", "Отмена ограничения числа сроков", "Расширение полномочий ФСБ"],
-        "answer": 1,
-        "explanation": "Поправка об «обнулении» обнуляет президентские сроки Путина, как будто предыдущих сроков не было, позволяя ему баллотироваться на два новых шестилетних срока."
+        "options": [
+          "Увеличение срока полномочий до 8 лет",
+          "Поправка об «обнулении» сроков",
+          "Отмена ограничения числа сроков",
+          "Расширение полномочий ФСБ"
+        ],
+        "explanation": "Поправка об «обнулении» обнуляет президентские сроки Путина, как будто предыдущих сроков не было, позволяя ему баллотироваться на два новых шестилетних срока.",
+        "correct_index": 1
       },
       {
         "question": "Кто такие «силовики» в российской политической системе?",
-        "options": ["Олигархи, связанные с Кремлём", "Высокопоставленные чиновники из силовых структур и армии", "Региональные губернаторы, назначенные Путиным", "Члены Совета Безопасности"],
-        "answer": 1,
-        "explanation": "Силовики (от «сила») — лица из силовых структур (ФСБ, армия, ГРУ), занимающие ключевые посты в администрации и государственных предприятиях России."
+        "options": [
+          "Олигархи, связанные с Кремлём",
+          "Высокопоставленные чиновники из силовых структур и армии",
+          "Региональные губернаторы, назначенные Путиным",
+          "Члены Совета Безопасности"
+        ],
+        "explanation": "Силовики (от «сила») — лица из силовых структур (ФСБ, армия, ГРУ), занимающие ключевые посты в администрации и государственных предприятиях России.",
+        "correct_index": 1
       },
       {
         "question": "Как лучше всего обсуждать российскую политику в разговоре с россиянами?",
-        "options": ["Открыто отстаивать западную либеральную демократию", "Избегать любых политических тем", "Задавать открытые вопросы о ценностях и будущем страны", "Критиковать правительство, чтобы показать свободу мысли"],
-        "answer": 2,
-        "explanation": "Открытые вопросы о ценностях и будущем открывают глубокие беседы и обходят сиюминутные разломы. Категоричные суждения о власти закрывают разговор и могут поставить хозяев в неловкое положение."
+        "options": [
+          "Открыто отстаивать западную либеральную демократию",
+          "Избегать любых политических тем",
+          "Задавать открытые вопросы о ценностях и будущем страны",
+          "Критиковать правительство, чтобы показать свободу мысли"
+        ],
+        "explanation": "Открытые вопросы о ценностях и будущем открывают глубокие беседы и обходят сиюминутные разломы. Категоричные суждения о власти закрывают разговор и могут поставить хозяев в неловкое положение.",
+        "correct_index": 2
       }
     ]
   }

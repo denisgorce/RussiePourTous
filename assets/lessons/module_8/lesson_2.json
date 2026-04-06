@@ -108,8 +108,8 @@
           "Parce qu'il était le poète officiel de la cour impériale",
           "Parce qu'il a été le premier écrivain russe traduit en français"
         ],
-        "answer": 1,
-        "explanation": "Pouchkine est appelé «notre tout» parce qu'il a fondé la langue littéraire russe moderne — avant lui, la littérature cultivée s'écrivait en français ou dans un russe archaïsant. Il a créé une synthèse entre langue populaire et tradition classique qui définit encore le russe littéraire."
+        "explanation": "Pouchkine est appelé «notre tout» parce qu'il a fondé la langue littéraire russe moderne — avant lui, la littérature cultivée s'écrivait en français ou dans un russe archaïsant. Il a créé une synthèse entre langue populaire et tradition classique qui définit encore le russe littéraire.",
+        "correct_index": 1
       },
       {
         "question": "Quelle expérience humaniste majeure a accompli Tchekhov en dehors de la littérature ?",
@@ -119,8 +119,8 @@
           "Il a fondé la première école publique de Russie dans sa région natale",
           "Il a organisé des distributions de nourriture lors de la grande famine de 1891"
         ],
-        "answer": 1,
-        "explanation": "En 1890, Tchekhov voyage seul jusqu'à l'île de Sakhaline à l'extrême est de la Russie pour documenter les conditions des bagnards. Il en ramène un rapport accablant publié en 1895 — un acte journalistique et humaniste remarquable pour un romancier."
+        "explanation": "En 1890, Tchekhov voyage seul jusqu'à l'île de Sakhaline à l'extrême est de la Russie pour documenter les conditions des bagnards. Il en ramène un rapport accablant publié en 1895 — un acte journalistique et humaniste remarquable pour un romancier.",
+        "correct_index": 1
       },
       {
         "question": "Quel mouvement théâtral américain est directement issu du système Stanislavski ?",
@@ -130,8 +130,8 @@
           "L'Actor's Studio",
           "Le Living Theatre"
         ],
-        "answer": 2,
-        "explanation": "L'Actor's Studio, fondé à New York en 1947, est directement issu du système Stanislavski transmis via Lee Strasberg. Des acteurs comme Marlon Brando, Al Pacino et Dustin Hoffman ont été formés dans cette tradition qui repose sur la méthode développée avec Tchekhov au MKhAT."
+        "explanation": "L'Actor's Studio, fondé à New York en 1947, est directement issu du système Stanislavski transmis via Lee Strasberg. Des acteurs comme Marlon Brando, Al Pacino et Dustin Hoffman ont été formés dans cette tradition qui repose sur la méthode développée avec Tchekhov au MKhAT.",
+        "correct_index": 2
       },
       {
         "question": "Combien de personnes ont assisté à une lecture de poèmes d'Evtouchenko au Stade Lujniki en 1962 ?",
@@ -141,8 +141,8 @@
           "80 000",
           "200 000"
         ],
-        "answer": 2,
-        "explanation": "En 1962, une lecture de poèmes par Evgueni Evtouchenko au Stade Lujniki de Moscou a réuni 80 000 personnes — une démonstration extraordinaire de la place que la poésie occupait dans la vie culturelle soviétique, sans équivalent en Occident."
+        "explanation": "En 1962, une lecture de poèmes par Evgueni Evtouchenko au Stade Lujniki de Moscou a réuni 80 000 personnes — une démonstration extraordinaire de la place que la poésie occupait dans la vie culturelle soviétique, sans équivalent en Occident.",
+        "correct_index": 2
       },
       {
         "question": "Pourquoi Pouchkine est-il considéré comme pratiquement intraduisible ?",
@@ -152,8 +152,8 @@
           "Parce que ses œuvres sont protégées par des droits d'auteur stricts",
           "Parce que ses thèmes sont trop spécifiquement russes pour intéresser d'autres cultures"
         ],
-        "answer": 1,
-        "explanation": "Pouchkine est considéré intraduisible parce que sa grandeur réside essentiellement dans la musicalité, la concision et la perfection formelle de sa langue. Nabokov, dans sa traduction d'Eugène Onéguine, a renoncé à la poésie pour le sens littéral — au prix d'un texte qui ne ressemble plus à de la poésie."
+        "explanation": "Pouchkine est considéré intraduisible parce que sa grandeur réside essentiellement dans la musicalité, la concision et la perfection formelle de sa langue. Nabokov, dans sa traduction d'Eugène Onéguine, a renoncé à la poésie pour le sens littéral — au prix d'un texte qui ne ressemble plus à de la poésie.",
+        "correct_index": 1
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Потому что он был официальным поэтом императорского двора",
           "Потому что он был первым русским писателем, переведённым на французский"
         ],
-        "answer": 1,
-        "explanation": "Пушкина называют «наше всё», потому что он основал современный русский литературный язык — до него образованная литература писалась по-французски или на архаичном русском. Он создал синтез народного и классического, определивший литературный русский язык."
+        "explanation": "Пушкина называют «наше всё», потому что он основал современный русский литературный язык — до него образованная литература писалась по-французски или на архаичном русском. Он создал синтез народного и классического, определивший литературный русский язык.",
+        "correct_index": 1
       },
       {
         "question": "Какой крупный гуманистический поступок совершил Чехов помимо литературы?",
@@ -259,8 +259,8 @@
           "Основал первую публичную школу в своём регионе",
           "Организовал раздачу продовольствия во время голода 1891 года"
         ],
-        "answer": 1,
-        "explanation": "В 1890 году Чехов в одиночку отправился на Сахалин на крайний восток России документировать условия жизни каторжан. Он опубликовал обвинительный доклад в 1895 году — замечательный журналистский и гуманистический акт для романиста."
+        "explanation": "В 1890 году Чехов в одиночку отправился на Сахалин на крайний восток России документировать условия жизни каторжан. Он опубликовал обвинительный доклад в 1895 году — замечательный журналистский и гуманистический акт для романиста.",
+        "correct_index": 1
       },
       {
         "question": "Какое американское театральное движение прямо восходит к системе Станиславского?",
@@ -270,8 +270,8 @@
           "Актёрская студия",
           "Ливинг-театр"
         ],
-        "answer": 2,
-        "explanation": "Актёрская студия, основанная в Нью-Йорке в 1947 году, прямо восходит к системе Станиславского, переданной через Ли Страсберга. Марлон Брандо, Аль Пачино, Дастин Хоффман прошли эту школу, в центре педагогики которой — метод, разработанный с Чеховым во МХАТе."
+        "explanation": "Актёрская студия, основанная в Нью-Йорке в 1947 году, прямо восходит к системе Станиславского, переданной через Ли Страсберга. Марлон Брандо, Аль Пачино, Дастин Хоффман прошли эту школу, в центре педагогики которой — метод, разработанный с Чеховым во МХАТе.",
+        "correct_index": 2
       },
       {
         "question": "Сколько человек пришли на чтение стихов Евтушенко на стадионе «Лужники» в 1962 году?",
@@ -281,8 +281,8 @@
           "80 000",
           "200 000"
         ],
-        "answer": 2,
-        "explanation": "В 1962 году чтение стихов Евгением Евтушенко на Лужниках собрало 80 000 человек — поразительное свидетельство места поэзии в советской культурной жизни, не имеющего аналогов на Западе."
+        "explanation": "В 1962 году чтение стихов Евгением Евтушенко на Лужниках собрало 80 000 человек — поразительное свидетельство места поэзии в советской культурной жизни, не имеющего аналогов на Западе.",
+        "correct_index": 2
       },
       {
         "question": "Почему Пушкин считается практически непереводимым?",
@@ -292,8 +292,8 @@
           "Потому что его произведения защищены строгими авторскими правами",
           "Потому что его темы слишком специфически русские, чтобы заинтересовать другие культуры"
         ],
-        "answer": 1,
-        "explanation": "Пушкин считается непереводимым, потому что его величие — прежде всего в музыкальности, лаконизме и формальном совершенстве языка. Набоков, переводя Онегина на английский, отказался от поэзии ради буквального смысла — ценой текста, уже не похожего на стихи."
+        "explanation": "Пушкин считается непереводимым, потому что его величие — прежде всего в музыкальности, лаконизме и формальном совершенстве языка. Набоков, переводя Онегина на английский, отказался от поэзии ради буквального смысла — ценой текста, уже не похожего на стихи.",
+        "correct_index": 1
       }
     ]
   }

@@ -108,8 +108,8 @@
           "Environ 40%",
           "Plus de 70%"
         ],
-        "answer": 2,
-        "explanation": "Les hydrocarbures (pétrole + gaz) fournissent environ 40% des revenus fédéraux russes — d'où la forte sensibilité de l'économie aux cours mondiaux."
+        "explanation": "Les hydrocarbures (pétrole + gaz) fournissent environ 40% des revenus fédéraux russes — d'où la forte sensibilité de l'économie aux cours mondiaux.",
+        "correct_index": 2
       },
       {
         "question": "Quelle innovation Russie déploie-t-elle pour ouvrir la route arctique ?",
@@ -119,8 +119,8 @@
           "Des sous-marins civils de ravitaillement",
           "Des plateformes pétrolières flottantes"
         ],
-        "answer": 1,
-        "explanation": "La Russie possède la seule flotte mondiale de brise-glaces nucléaires, qui maintient ouvert le Passage du Nord-Est (Route Maritime du Nord) et affirme sa souveraineté arctique."
+        "explanation": "La Russie possède la seule flotte mondiale de brise-glaces nucléaires, qui maintient ouvert le Passage du Nord-Est (Route Maritime du Nord) et affirme sa souveraineté arctique.",
+        "correct_index": 1
       },
       {
         "question": "Qu'est-ce que la 'malédiction des ressources' ?",
@@ -130,8 +130,8 @@
           "Les dommages environnementaux de l'extraction",
           "La fluctuation des cours du pétrole"
         ],
-        "answer": 1,
-        "explanation": "La malédiction des ressources : les États rentiers n'ont pas besoin de lever des impôts, donc pas de négocier avec leurs citoyens, freinant le développement démocratique."
+        "explanation": "La malédiction des ressources : les États rentiers n'ont pas besoin de lever des impôts, donc pas de négocier avec leurs citoyens, freinant le développement démocratique.",
+        "correct_index": 1
       },
       {
         "question": "Pourquoi la réorientation gazière vers la Chine est-elle moins avantageuse pour la Russie ?",
@@ -141,8 +141,8 @@
           "Les distances de transport sont trop grandes",
           "La Chine préfère le charbon"
         ],
-        "answer": 1,
-        "explanation": "La Chine, ayant d'autres options d'approvisionnement, négocie à des prix inférieurs aux tarifs européens historiques — la Russie a perdu sa position de force."
+        "explanation": "La Chine, ayant d'autres options d'approvisionnement, négocie à des prix inférieurs aux tarifs européens historiques — la Russie a perdu sa position de force.",
+        "correct_index": 1
       },
       {
         "question": "Quel est l'impact des sanctions de 2022 sur l'industrie pétrolière russe ?",
@@ -152,8 +152,8 @@
           "Hausse immédiate de la production grâce à la demande asiatique",
           "Fermeture totale des champs sibériens"
         ],
-        "answer": 1,
-        "explanation": "Les sanctions privent l'industrie pétrolière russe des technologies occidentales pour le forage en eaux profondes et l'Arctic LNG, risquant une désindustrialisation à moyen terme."
+        "explanation": "Les sanctions privent l'industrie pétrolière russe des technologies occidentales pour le forage en eaux profondes et l'Arctic LNG, risquant une désindustrialisation à moyen terme.",
+        "correct_index": 1
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Около 40%",
           "Более 70%"
         ],
-        "answer": 2,
-        "explanation": "Углеводороды (нефть + газ) дают около 40% федеральных доходов России — отсюда высокая чувствительность экономики к мировым ценам."
+        "explanation": "Углеводороды (нефть + газ) дают около 40% федеральных доходов России — отсюда высокая чувствительность экономики к мировым ценам.",
+        "correct_index": 2
       },
       {
         "question": "Какую инновацию Россия использует для освоения арктического маршрута?",
@@ -259,8 +259,8 @@
           "Гражданские подводные суда снабжения",
           "Плавучие нефтяные платформы"
         ],
-        "answer": 1,
-        "explanation": "Россия располагает единственным в мире атомным ледокольным флотом, поддерживающим Северный морской путь и утверждающим арктический суверенитет."
+        "explanation": "Россия располагает единственным в мире атомным ледокольным флотом, поддерживающим Северный морской путь и утверждающим арктический суверенитет.",
+        "correct_index": 1
       },
       {
         "question": "Что такое «ресурсное проклятие»?",
@@ -270,8 +270,8 @@
           "Экологический ущерб от добычи",
           "Колебания нефтяных цен"
         ],
-        "answer": 1,
-        "explanation": "Ресурсное проклятие: рентные государства не нуждаются в сборе налогов, а значит — в переговорах с гражданами, тормозя демократическое развитие."
+        "explanation": "Ресурсное проклятие: рентные государства не нуждаются в сборе налогов, а значит — в переговорах с гражданами, тормозя демократическое развитие.",
+        "correct_index": 1
       },
       {
         "question": "Почему переориентация газа на Китай менее выгодна для России?",
@@ -281,8 +281,8 @@
           "Транспортные расстояния слишком велики",
           "Китай предпочитает уголь"
         ],
-        "answer": 1,
-        "explanation": "Китай, имея другие варианты снабжения, договаривается о ценах ниже исторических европейских — Россия утратила позицию силы."
+        "explanation": "Китай, имея другие варианты снабжения, договаривается о ценах ниже исторических европейских — Россия утратила позицию силы.",
+        "correct_index": 1
       },
       {
         "question": "Каково влияние санкций 2022 года на российскую нефтяную промышленность?",
@@ -292,8 +292,8 @@
           "Немедленный рост добычи за счёт азиатского спроса",
           "Полное закрытие сибирских месторождений"
         ],
-        "answer": 1,
-        "explanation": "Санкции лишают нефтяную промышленность России западных технологий глубоководного бурения и арктического СПГ, создавая риск деиндустриализации в среднесрочной перспективе."
+        "explanation": "Санкции лишают нефтяную промышленность России западных технологий глубоководного бурения и арктического СПГ, создавая риск деиндустриализации в среднесрочной перспективе.",
+        "correct_index": 1
       }
     ]
   }

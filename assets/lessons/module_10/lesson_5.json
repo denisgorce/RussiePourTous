@@ -112,8 +112,8 @@
           "Une espionne russe à la cour de Louis XIV",
           "Une poétesse russe traduite en français au XIXe siècle"
         ],
-        "answer": 1,
-        "explanation": "Anne de Kiev (1024-1075) est la fille du prince de Kiev Yaroslav le Sage. Elle épouse Henri Ier de France en 1051 et introduit la langue et la culture slaves à la cour française — un des premiers ponts documentés entre France et Russie."
+        "explanation": "Anne de Kiev (1024-1075) est la fille du prince de Kiev Yaroslav le Sage. Elle épouse Henri Ier de France en 1051 et introduit la langue et la culture slaves à la cour française — un des premiers ponts documentés entre France et Russie.",
+        "correct_index": 1
       },
       {
         "question": "Quel point commun fondamental unit la France et la Russie dans leur rapport à l'État ?",
@@ -123,8 +123,8 @@
           "Les deux pays ont adopté la même constitution après 1991",
           "Les deux pays ont des armées de taille équivalente"
         ],
-        "answer": 1,
-        "explanation": "France et Russie sont toutes deux des États centralisés avec une longue tradition d'intervention de l'État dans l'économie et la société — contra le libéralisme anglo-saxon. Cette résonnance est profonde et souvent sous-estimée."
+        "explanation": "France et Russie sont toutes deux des États centralisés avec une longue tradition d'intervention de l'État dans l'économie et la société — contra le libéralisme anglo-saxon. Cette résonnance est profonde et souvent sous-estimée.",
+        "correct_index": 1
       },
       {
         "question": "Pourquoi les amitiés franco-russes sont-elles particulièrement résistantes selon cette leçon ?",
@@ -134,8 +134,8 @@
           "Parce que les Français et les Russes ont les mêmes valeurs politiques",
           "Parce que les deux pays ont signé un accord d'amitié perpétuelle"
         ],
-        "answer": 1,
-        "explanation": "Les amitiés franco-russes reposent sur des fondations culturelles profondes — goût de la culture, rapport à l'État, amour de la conversation profonde, gastronomie comme valeur — qui transcendent les turbulences politiques. Les politiques changent, ces ponts résistent."
+        "explanation": "Les amitiés franco-russes reposent sur des fondations culturelles profondes — goût de la culture, rapport à l'État, amour de la conversation profonde, gastronomie comme valeur — qui transcendent les turbulences politiques. Les politiques changent, ces ponts résistent.",
+        "correct_index": 1
       },
       {
         "question": "Quelle expérience gastronomique franco-russe par excellence propose cette leçon ?",
@@ -145,8 +145,8 @@
           "Boire de la vodka avec du vin de Bordeaux",
           "Commander un plateau de fromages français dans un restaurant moscovite"
         ],
-        "answer": 1,
-        "explanation": "Faire des pelmeni ensemble est une expérience conviviale universelle — comme faire des raviolis ou des dim sum. C'est l'image parfaite du pont franco-russe : partager le geste de la cuisine ensemble transcende les différences culturelles et politiques."
+        "explanation": "Faire des pelmeni ensemble est une expérience conviviale universelle — comme faire des raviolis ou des dim sum. C'est l'image parfaite du pont franco-russe : partager le geste de la cuisine ensemble transcende les différences culturelles et politiques.",
+        "correct_index": 1
       },
       {
         "question": "Quel est le dernier toast de RussiePourTous ?",
@@ -156,8 +156,8 @@
           "Za pobedou ! (À la victoire !)",
           "Za zdorovye ! (À la santé !)"
         ],
-        "answer": 1,
-        "explanation": "'Za nas !' (À nous !) est le toast de clôture de RussiePourTous — un toast à tous ceux, Français et Russes, qui choisissent de se comprendre plutôt que de s'ignorer, même quand c'est difficile."
+        "explanation": "'Za nas !' (À nous !) est le toast de clôture de RussiePourTous — un toast à tous ceux, Français et Russes, qui choisissent de se comprendre plutôt que de s'ignorer, même quand c'est difficile.",
+        "correct_index": 1
       }
     ]
   },
@@ -252,8 +252,8 @@
           "Российская шпионка при дворе Людовика XIV",
           "Российская поэтесса, переводимая на французский в XIX веке"
         ],
-        "answer": 1,
-        "explanation": "Анна Киевская (1024–1075) — дочь киевского князя Ярослава Мудрого. В 1051 году она выходит замуж за французского короля Генриха I и привносит в французский двор славянский язык и культуру — один из первых задокументированных мостов между Францией и Россией."
+        "explanation": "Анна Киевская (1024–1075) — дочь киевского князя Ярослава Мудрого. В 1051 году она выходит замуж за французского короля Генриха I и привносит в французский двор славянский язык и культуру — один из первых задокументированных мостов между Францией и Россией.",
+        "correct_index": 1
       },
       {
         "question": "Какой фундаментальный общий принцип объединяет Францию и Россию в их отношении к государству?",
@@ -263,8 +263,8 @@
           "Обе страны приняли одинаковую конституцию после 1991 года",
           "Обе страны имеют армии эквивалентного размера"
         ],
-        "answer": 1,
-        "explanation": "Франция и Россия — обе централизованные государства с долгой традицией государственного вмешательства в экономику и общество: противовес англосаксонскому либерализму. Этот резонанс глубок и нередко недооценивается."
+        "explanation": "Франция и Россия — обе централизованные государства с долгой традицией государственного вмешательства в экономику и общество: противовес англосаксонскому либерализму. Этот резонанс глубок и нередко недооценивается.",
+        "correct_index": 1
       },
       {
         "question": "Почему французско-российские дружбы особенно устойчивы, согласно этому уроку?",
@@ -274,8 +274,8 @@
           "Потому что французы и россияне разделяют одинаковые политические ценности",
           "Потому что обе страны подписали соглашение о вечной дружбе"
         ],
-        "answer": 1,
-        "explanation": "Французско-российские дружбы опираются на глубокие культурные основания — любовь к культуре, отношение к государству, вкус к глубоким разговорам, гастрономия как ценность — превосходящие политические потрясения. Политики меняются, эти мосты устоят."
+        "explanation": "Французско-российские дружбы опираются на глубокие культурные основания — любовь к культуре, отношение к государству, вкус к глубоким разговорам, гастрономия как ценность — превосходящие политические потрясения. Политики меняются, эти мосты устоят.",
+        "correct_index": 1
       },
       {
         "question": "Какой гастрономический опыт французско-российского сближения предлагает этот урок?",
@@ -285,8 +285,8 @@
           "Пить водку с бордо",
           "Заказать тарелку французских сыров в московском ресторане"
         ],
-        "answer": 1,
-        "explanation": "Лепить пельмени вместе — универсально дружелюбный опыт, как делать равиоли или дим-сам. Идеальный образ французско-российского моста: разделить кулинарный жест вместе превосходит культурные и политические различия."
+        "explanation": "Лепить пельмени вместе — универсально дружелюбный опыт, как делать равиоли или дим-сам. Идеальный образ французско-российского моста: разделить кулинарный жест вместе превосходит культурные и политические различия.",
+        "correct_index": 1
       },
       {
         "question": "Каков заключительный тост RussiePourTous?",
@@ -296,8 +296,8 @@
           "За победу!",
           "За здоровье!"
         ],
-        "answer": 1,
-        "explanation": "«За нас!» — заключительный тост RussiePourTous: за всех, французов и россиян, выбирающих понимать, а не игнорировать друг друга — даже когда это трудно."
+        "explanation": "«За нас!» — заключительный тост RussiePourTous: за всех, французов и россиян, выбирающих понимать, а не игнорировать друг друга — даже когда это трудно.",
+        "correct_index": 1
       }
     ]
   }

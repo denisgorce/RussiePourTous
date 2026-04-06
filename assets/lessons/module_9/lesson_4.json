@@ -108,8 +108,8 @@
           "L'invention du son synchronisé",
           "La technique du plan séquence"
         ],
-        "answer": 1,
-        "explanation": "Eisenstein a théorisé et pratiqué le montage dialectique : deux images mises en séquence produisent un sens qui dépasse leurs significations individuelles. Cette théorie fonde la grammaire cinématographique moderne."
+        "explanation": "Eisenstein a théorisé et pratiqué le montage dialectique : deux images mises en séquence produisent un sens qui dépasse leurs significations individuelles. Cette théorie fonde la grammaire cinématographique moderne.",
+        "correct_index": 1
       },
       {
         "question": "Quel film de Tarkovski est une adaptation du roman de science-fiction de Stanislaw Lem ?",
@@ -119,8 +119,8 @@
           "Le Miroir",
           "L'Enfance d'Ivan"
         ],
-        "answer": 1,
-        "explanation": "Solaris (1972) est l'adaptation par Tarkovski du roman de SF de l'écrivain polonais Stanislaw Lem. Tarkovski transforme un roman de SF en méditation philosophique sur la mémoire, le deuil et la nature de la réalité."
+        "explanation": "Solaris (1972) est l'adaptation par Tarkovski du roman de SF de l'écrivain polonais Stanislaw Lem. Tarkovski transforme un roman de SF en méditation philosophique sur la mémoire, le deuil et la nature de la réalité.",
+        "correct_index": 1
       },
       {
         "question": "Quelle phrase de Lénine définit le statut du cinéma en URSS ?",
@@ -130,8 +130,8 @@
           "'Le film est l'arme la plus puissante du Parti'",
           "'Sans cinéma, pas de révolution'"
         ],
-        "answer": 1,
-        "explanation": "Lénine a dit 'Le cinéma est pour nous le plus important des arts' — phrase qui justifie l'investissement massif de l'État soviétique dans le cinéma et son contrôle politique."
+        "explanation": "Lénine a dit 'Le cinéma est pour nous le plus important des arts' — phrase qui justifie l'investissement massif de l'État soviétique dans le cinéma et son contrôle politique.",
+        "correct_index": 1
       },
       {
         "question": "Quel film de Zviaguintsev a reçu le César du meilleur film étranger ?",
@@ -141,8 +141,8 @@
           "Léviathan (Leviafan)",
           "Faute d'amour (Nelyubov)"
         ],
-        "answer": 2,
-        "explanation": "Léviathan (2014) a reçu le César du meilleur film étranger et le Prix de la mise en scène au Festival de Cannes. Ce film sur la corruption et la destruction d'un individu par l'État est la critique artistique la plus percutante de la Russie poutinienne."
+        "explanation": "Léviathan (2014) a reçu le César du meilleur film étranger et le Prix de la mise en scène au Festival de Cannes. Ce film sur la corruption et la destruction d'un individu par l'État est la critique artistique la plus percutante de la Russie poutinienne.",
+        "correct_index": 2
       },
       {
         "question": "Quel est le snack cinéma russe équivalent du popcorn français ?",
@@ -152,8 +152,8 @@
           "Les baranki (petits pains en anneau)",
           "Le chocolat fondu"
         ],
-        "answer": 1,
-        "explanation": "Les semetchki (грузинских семена de tournesol grillées) sont le snack cinéma par excellence en Russie — on les grignote en décoquillant dans la main tout au long du film."
+        "explanation": "Les semetchki (грузинских семена de tournesol grillées) sont le snack cinéma par excellence en Russie — on les grignote en décoquillant dans la main tout au long du film.",
+        "correct_index": 1
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Изобретение синхронного звука",
           "Техника длинного плана"
         ],
-        "answer": 1,
-        "explanation": "Эйзенштейн теоретически обосновал и практиковал диалектический монтаж: два изображения в последовательности порождают смысл, превосходящий их индивидуальные значения. Эта теория лежит в основе современной кинограмматики."
+        "explanation": "Эйзенштейн теоретически обосновал и практиковал диалектический монтаж: два изображения в последовательности порождают смысл, превосходящий их индивидуальные значения. Эта теория лежит в основе современной кинограмматики.",
+        "correct_index": 1
       },
       {
         "question": "Какой фильм Тарковского является экранизацией научно-фантастического романа Станислава Лема?",
@@ -259,8 +259,8 @@
           "Зеркало",
           "Иваново детство"
         ],
-        "answer": 1,
-        "explanation": "«Солярис» (1972) — экранизация Тарковским фантастического романа польского писателя Станислава Лема. Тарковский превращает фантастический роман в философскую медитацию о памяти, утрате и природе реальности."
+        "explanation": "«Солярис» (1972) — экранизация Тарковским фантастического романа польского писателя Станислава Лема. Тарковский превращает фантастический роман в философскую медитацию о памяти, утрате и природе реальности.",
+        "correct_index": 1
       },
       {
         "question": "Какая фраза Ленина определяет статус кино в СССР?",
@@ -270,8 +270,8 @@
           "«Фильм — самое мощное оружие партии»",
           "«Без кино нет революции»"
         ],
-        "answer": 1,
-        "explanation": "Ленин сказал «Кино для нас важнейшее из искусств» — фраза, обосновывающая масштабные государственные инвестиции в советское кино и его политический контроль."
+        "explanation": "Ленин сказал «Кино для нас важнейшее из искусств» — фраза, обосновывающая масштабные государственные инвестиции в советское кино и его политический контроль.",
+        "correct_index": 1
       },
       {
         "question": "Какой фильм Звягинцева получил «Сезар» лучшему иностранному фильму?",
@@ -281,8 +281,8 @@
           "Левиафан",
           "Нелюбовь"
         ],
-        "answer": 2,
-        "explanation": "«Левиафан» (2014) получил «Сезар» лучшему иностранному фильму и приз за режиссуру в Каннах. Этот фильм о коррупции и разрушении человека государством — наиболее острая художественная критика путинской России."
+        "explanation": "«Левиафан» (2014) получил «Сезар» лучшему иностранному фильму и приз за режиссуру в Каннах. Этот фильм о коррупции и разрушении человека государством — наиболее острая художественная критика путинской России.",
+        "correct_index": 2
       },
       {
         "question": "Что является российским аналогом французского попкорна в кино?",
@@ -292,8 +292,8 @@
           "Баранки",
           "Растопленный шоколад"
         ],
-        "answer": 1,
-        "explanation": "Семечки (жареные семена подсолнечника) — главный кино-перекус в России: их щёлкают, шелуша в руке, на протяжении всего фильма."
+        "explanation": "Семечки (жареные семена подсолнечника) — главный кино-перекус в России: их щёлкают, шелуша в руке, на протяжении всего фильма.",
+        "correct_index": 1
       }
     ]
   }

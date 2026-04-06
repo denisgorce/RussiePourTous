@@ -108,8 +108,8 @@
           "Monetochka",
           "Via Gra"
         ],
-        "answer": 1,
-        "explanation": "Alla Pougatcheva — la 'Primadonna' du pop russe — a critiqué ouvertement la guerre depuis son exil volontaire en Israël en 2022. Son statut iconique a rendu cette prise de position particulièrement significative."
+        "explanation": "Alla Pougatcheva — la 'Primadonna' du pop russe — a critiqué ouvertement la guerre depuis son exil volontaire en Israël en 2022. Son statut iconique a rendu cette prise de position particulièrement significative.",
+        "correct_index": 1
       },
       {
         "question": "Qu'est-ce que l'album 'Gorgorod' d'Oxxxymiron ?",
@@ -119,8 +119,8 @@
           "Un album de chansons traditionnelles russes revisitées",
           "Un album de collaboration avec des artistes occidentaux"
         ],
-        "answer": 1,
-        "explanation": "'Gorgorod' (2015) est un opéra-rap dystopique en 13 titres — une des oeuvres les plus ambitieuses et les plus littéraires du rap russophone. Il a fait d'Oxxxymiron une référence internationale."
+        "explanation": "'Gorgorod' (2015) est un opéra-rap dystopique en 13 titres — une des oeuvres les plus ambitieuses et les plus littéraires du rap russophone. Il a fait d'Oxxxymiron une référence internationale.",
+        "correct_index": 1
       },
       {
         "question": "Quel est le genre musical le plus écouté par les jeunes Russes en streaming ?",
@@ -130,8 +130,8 @@
           "Le rap",
           "La pop en anglais"
         ],
-        "answer": 2,
-        "explanation": "Le rap est devenu le genre musical le plus écouté par les jeunes Russes en streaming, dépassant la pop et le rock. La scène rap russophone est une des plus dynamiques au monde."
+        "explanation": "Le rap est devenu le genre musical le plus écouté par les jeunes Russes en streaming, dépassant la pop et le rock. La scène rap russophone est une des plus dynamiques au monde.",
+        "correct_index": 2
       },
       {
         "question": "Quelle chanson soviétique de 1956 est probablement la plus connue au monde ?",
@@ -141,8 +141,8 @@
           "Kalinka",
           "Ochi Chornya (Les yeux noirs)"
         ],
-        "answer": 1,
-        "explanation": "'Podmoskovnye Vechera' (Soirées des environs de Moscou, 1956) est probablement la chanson russe la plus connue internationalement — reprise par des musiciens du monde entier."
+        "explanation": "'Podmoskovnye Vechera' (Soirées des environs de Moscou, 1956) est probablement la chanson russe la plus connue internationalement — reprise par des musiciens du monde entier.",
+        "correct_index": 1
       },
       {
         "question": "Qui est Vladimir Vyssotski dans la culture russe ?",
@@ -152,8 +152,8 @@
           "Le fondateur du rock soviétique à Moscou",
           "Un dissident politique qui chantait clandestinement"
         ],
-        "answer": 1,
-        "explanation": "Vladimir Vyssotski (1938-1980) est une figure nationale comparable à Brel ou Brassens — acteur du Théâtre Taganka, poète, barde d'une intensité brute. Mort à 42 ans d'une overdose, son statut de mythe n'a cessé de croître."
+        "explanation": "Vladimir Vyssotski (1938-1980) est une figure nationale comparable à Brel ou Brassens — acteur du Théâtre Taganka, poète, barde d'une intensité brute. Mort à 42 ans d'une overdose, son statut de mythe n'a cessé de croître.",
+        "correct_index": 1
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Монеточка",
           "ВИА Гра"
         ],
-        "answer": 1,
-        "explanation": "Алла Пугачёва — «Примадонна» российского попа — открыто критиковала войну из добровольной израильской эмиграции в 2022 году. Её иконический статус сделал эту позицию особенно значимой."
+        "explanation": "Алла Пугачёва — «Примадонна» российского попа — открыто критиковала войну из добровольной израильской эмиграции в 2022 году. Её иконический статус сделал эту позицию особенно значимой.",
+        "correct_index": 1
       },
       {
         "question": "Что такое альбом «Горгород» Oxxxymiron?",
@@ -259,8 +259,8 @@
           "Альбом переосмысленных традиционных русских песен",
           "Альбом в сотрудничестве с западными артистами"
         ],
-        "answer": 1,
-        "explanation": "«Горгород» (2015) — дистопическая рэп-опера в 13 треках, одно из наиболее амбициозных и литературных произведений русскоязычного рэпа. Сделал Oxxxymiron международной точкой отсчёта."
+        "explanation": "«Горгород» (2015) — дистопическая рэп-опера в 13 треках, одно из наиболее амбициозных и литературных произведений русскоязычного рэпа. Сделал Oxxxymiron международной точкой отсчёта.",
+        "correct_index": 1
       },
       {
         "question": "Какой музыкальный жанр наиболее прослушиваемый молодыми россиянами в стриминге?",
@@ -270,8 +270,8 @@
           "Рэп",
           "Поп на английском языке"
         ],
-        "answer": 2,
-        "explanation": "Рэп стал самым прослушиваемым жанром среди молодых россиян в стриминге, опередив поп и рок. Русскоязычная рэп-сцена — одна из самых динамичных в мире."
+        "explanation": "Рэп стал самым прослушиваемым жанром среди молодых россиян в стриминге, опередив поп и рок. Русскоязычная рэп-сцена — одна из самых динамичных в мире.",
+        "correct_index": 2
       },
       {
         "question": "Какая советская песня 1956 года, вероятно, наиболее известна в мире?",
@@ -281,8 +281,8 @@
           "Калинка",
           "Очи чёрные"
         ],
-        "answer": 1,
-        "explanation": "«Подмосковные вечера» (1956) — вероятно, самая известная в мире русская песня, исполнявшаяся музыкантами всего мира."
+        "explanation": "«Подмосковные вечера» (1956) — вероятно, самая известная в мире русская песня, исполнявшаяся музыкантами всего мира.",
+        "correct_index": 1
       },
       {
         "question": "Кто такой Владимир Высоцкий в российской культуре?",
@@ -292,8 +292,8 @@
           "Основатель советского рока в Москве",
           "Политический диссидент, певший подпольно"
         ],
-        "answer": 1,
-        "explanation": "Владимир Высоцкий (1938–1980) — национальная фигура, сопоставимая с Брелем или Брассенсом: актёр Театра на Таганке, поэт, бард беспощадной интенсивности. Умер в 42 года от передозировки; его мифический статус только нарастал."
+        "explanation": "Владимир Высоцкий (1938–1980) — национальная фигура, сопоставимая с Брелем или Брассенсом: актёр Театра на Таганке, поэт, бард беспощадной интенсивности. Умер в 42 года от передозировки; его мифический статус только нарастал.",
+        "correct_index": 1
       }
     ]
   }

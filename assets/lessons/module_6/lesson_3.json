@@ -112,8 +112,8 @@
           "'L'union fait la force du collectif'",
           "'Le travail, c'est la liberté'"
         ],
-        "answer": 1,
-        "explanation": "'Ils font semblant de nous payer, on fait semblant de travailler' est un adage populaire soviétique qui décrit cyniquement le faible lien entre effort et rémunération dans l'économie planifiée."
+        "explanation": "'Ils font semblant de nous payer, on fait semblant de travailler' est un adage populaire soviétique qui décrit cyniquement le faible lien entre effort et rémunération dans l'économie planifiée.",
+        "correct_index": 1
       },
       {
         "question": "Comment fonctionnent généralement les réunions dans les entreprises russes ?",
@@ -123,8 +123,8 @@
           "En cercle horizontal où tous ont un poids égal",
           "Par vote majoritaire des participants"
         ],
-        "answer": 1,
-        "explanation": "Les réunions russes servent souvent à informer et valider des décisions déjà prises par le chef. Le débat collectif y est moins courant. Prendre la parole avant votre tour hiérarchique peut être perçu comme de l'arrogance."
+        "explanation": "Les réunions russes servent souvent à informer et valider des décisions déjà prises par le chef. Le débat collectif y est moins courant. Prendre la parole avant votre tour hiérarchique peut être perçu comme de l'arrogance.",
+        "correct_index": 1
       },
       {
         "question": "Qu'est-ce que la 'krysha' dans le monde professionnel russe ?",
@@ -134,8 +134,8 @@
           "Un syndicat professionnel",
           "Un type de contrat de travail temporaire"
         ],
-        "answer": 1,
-        "explanation": "La 'krysha' (toit) désigne la protection informelle que certaines entreprises obtiennent en entretenant des relations avec des fonctionnaires, policiers ou politiques locaux — un système de patronage informel."
+        "explanation": "La 'krysha' (toit) désigne la protection informelle que certaines entreprises obtiennent en entretenant des relations avec des fonctionnaires, policiers ou politiques locaux — un système de patronage informel.",
+        "correct_index": 1
       },
       {
         "question": "Combien de jours de congés payés le droit russe prévoit-il par an ?",
@@ -145,8 +145,8 @@
           "28 jours",
           "35 jours"
         ],
-        "answer": 2,
-        "explanation": "Le droit russe prévoit 28 jours de congés payés par an — légèrement supérieur au minimum français de 25 jours. En pratique, la prise effective peut être limitée par la culture du présentéisme."
+        "explanation": "Le droit russe prévoit 28 jours de congés payés par an — légèrement supérieur au minimum français de 25 jours. En pratique, la prise effective peut être limitée par la culture du présentéisme.",
+        "correct_index": 2
       },
       {
         "question": "Quelle tradition est attendue d'un employé russe le jour de son anniversaire au bureau ?",
@@ -156,8 +156,8 @@
           "Prendre une demi-journée de congé",
           "Organiser un déjeuner d'équipe dans un restaurant"
         ],
-        "answer": 1,
-        "explanation": "En Russie, c'est l'anniversaire qui offre — pas qui reçoit. Apporter des gâteaux ou des chocolats pour toute l'équipe le jour de son anniversaire est une tradition bien ancrée dans les bureaux russes."
+        "explanation": "En Russie, c'est l'anniversaire qui offre — pas qui reçoit. Apporter des gâteaux ou des chocolats pour toute l'équipe le jour de son anniversaire est une tradition bien ancrée dans les bureaux russes.",
+        "correct_index": 1
       }
     ]
   },
@@ -252,8 +252,8 @@
           "«Единство создаёт силу коллектива»",
           "«Труд — это свобода»"
         ],
-        "answer": 1,
-        "explanation": "«Они делают вид, что платят, мы делаем вид, что работаем» — народная советская поговорка, цинично описывающая слабую связь между усилием и вознаграждением в плановой экономике."
+        "explanation": "«Они делают вид, что платят, мы делаем вид, что работаем» — народная советская поговорка, цинично описывающая слабую связь между усилием и вознаграждением в плановой экономике.",
+        "correct_index": 1
       },
       {
         "question": "Как обычно проходят совещания в российских компаниях?",
@@ -263,8 +263,8 @@
           "В горизонтальном кругу, где у всех равный вес",
           "Путём голосования большинства участников"
         ],
-        "answer": 1,
-        "explanation": "Российские совещания нередко служат для информирования и утверждения уже принятых руководителем решений. Коллективная дискуссия менее распространена. Взять слово раньше своей иерархической очереди может восприниматься как высокомерие."
+        "explanation": "Российские совещания нередко служат для информирования и утверждения уже принятых руководителем решений. Коллективная дискуссия менее распространена. Взять слово раньше своей иерархической очереди может восприниматься как высокомерие.",
+        "correct_index": 1
       },
       {
         "question": "Что такое «крыша» в российском профессиональном мире?",
@@ -274,8 +274,8 @@
           "Профессиональный профсоюз",
           "Вид временного трудового договора"
         ],
-        "answer": 1,
-        "explanation": "«Крыша» (буквально «крыша») — неформальное покровительство, которое некоторые компании обеспечивают через отношения с чиновниками, полицейскими или местными политиками. Система неформального патронажа."
+        "explanation": "«Крыша» (буквально «крыша») — неформальное покровительство, которое некоторые компании обеспечивают через отношения с чиновниками, полицейскими или местными политиками. Система неформального патронажа.",
+        "correct_index": 1
       },
       {
         "question": "Сколько дней оплачиваемого отпуска предусматривает российское трудовое право в год?",
@@ -285,8 +285,8 @@
           "28 дней",
           "35 дней"
         ],
-        "answer": 2,
-        "explanation": "Российское трудовое право предусматривает 28 дней оплачиваемого отпуска в год — чуть больше французского минимума в 25 дней. На практике фактическое использование может ограничиваться культурой присутственности."
+        "explanation": "Российское трудовое право предусматривает 28 дней оплачиваемого отпуска в год — чуть больше французского минимума в 25 дней. На практике фактическое использование может ограничиваться культурой присутственности.",
+        "correct_index": 2
       },
       {
         "question": "Какая традиция принята в российском офисе в день рождения сотрудника?",
@@ -296,8 +296,8 @@
           "Взять полдня отгула",
           "Организовывать командный обед в ресторане"
         ],
-        "answer": 1,
-        "explanation": "В России в день рождения угощают, а не получают угощения. Принести пирожные или конфеты для всей команды в свой день рождения — устойчивая традиция российских офисов."
+        "explanation": "В России в день рождения угощают, а не получают угощения. Принести пирожные или конфеты для всей команды в свой день рождения — устойчивая традиция российских офисов.",
+        "correct_index": 1
       }
     ]
   }

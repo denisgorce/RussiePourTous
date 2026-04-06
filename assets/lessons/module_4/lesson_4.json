@@ -104,8 +104,8 @@
           "1er janvier, confondu avec le Nouvel An",
           "24 décembre comme dans les traditions germaniques"
         ],
-        "answer": 1,
-        "explanation": "Le Noël orthodoxe russe se fête le 7 janvier — l'Église orthodoxe russe utilise encore le calendrier julien, qui accuse un décalage de 13 jours avec le calendrier grégorien."
+        "explanation": "Le Noël orthodoxe russe se fête le 7 janvier — l'Église orthodoxe russe utilise encore le calendrier julien, qui accuse un décalage de 13 jours avec le calendrier grégorien.",
+        "correct_index": 1
       },
       {
         "question": "Qu'est-ce que la 'perspective inversée' dans les icônes orthodoxes ?",
@@ -115,8 +115,8 @@
           "Un défaut technique des peintres médiévaux",
           "Une représentation réaliste des espaces architecturaux"
         ],
-        "answer": 1,
-        "explanation": "La perspective inversée des icônes est intentionnelle : les lignes convergent vers le spectateur (et non vers l'horizon) pour signifier que c'est le divin qui regarde l'homme. Ce retournement théologique définit l'esthétique orthodoxe."
+        "explanation": "La perspective inversée des icônes est intentionnelle : les lignes convergent vers le spectateur (et non vers l'horizon) pour signifier que c'est le divin qui regarde l'homme. Ce retournement théologique définit l'esthétique orthodoxe.",
+        "correct_index": 1
       },
       {
         "question": "Qu'est-ce qu'un 'pravoslavny atheist' (athée orthodoxe) en Russie ?",
@@ -126,8 +126,8 @@
           "Un athée militant anti-religieux",
           "Un chrétien hésitant entre orthodoxie et catholicisme"
         ],
-        "answer": 1,
-        "explanation": "Le 'pravoslavny atheist' est un Russe qui se considère culturellement orthodoxe — attaché aux icônes, aux fêtes, à l'esthétique de l'Église — sans croire aux dogmes religieux. Phénomène fréquent notamment chez les jeunes urbains."
+        "explanation": "Le 'pravoslavny atheist' est un Russe qui se considère culturellement orthodoxe — attaché aux icônes, aux fêtes, à l'esthétique de l'Église — sans croire aux dogmes religieux. Phénomène fréquent notamment chez les jeunes urbains.",
+        "correct_index": 1
       },
       {
         "question": "Quel est le plat emblématique de la Maslenitsa (Semaine grasse russe) ?",
@@ -137,8 +137,8 @@
           "Le koulich (pain pascal)",
           "Les pelmeni"
         ],
-        "answer": 1,
-        "explanation": "Les blinis (crêpes rondes) sont le plat emblématique de Maslenitsa, la semaine précédant le Grand Carême. Leur forme ronde symbolise le soleil revenant après l'hiver."
+        "explanation": "Les blinis (crêpes rondes) sont le plat emblématique de Maslenitsa, la semaine précédant le Grand Carême. Leur forme ronde symbolise le soleil revenant après l'hiver.",
+        "correct_index": 1
       },
       {
         "question": "Quelle salutation orthodoxe est connue de presque tous les Russes ?",
@@ -148,8 +148,8 @@
           "Господи помилуй (Gospodi pomiluy — Seigneur prends pitié)",
           "Аминь (Amin' — Amen)"
         ],
-        "answer": 1,
-        "explanation": "La formule pascale 'Khristos voskrese !' / 'Voistinu voskrese !' est connue de presque tous les Russes, croyants ou non — elle fait partie de l'héritage culturel commun."
+        "explanation": "La formule pascale 'Khristos voskrese !' / 'Voistinu voskrese !' est connue de presque tous les Russes, croyants ou non — elle fait partie de l'héritage culturel commun.",
+        "correct_index": 1
       }
     ]
   },
@@ -244,8 +244,8 @@
           "1 января, совмещённое с Новым годом",
           "24 декабря, как в германских традициях"
         ],
-        "answer": 1,
-        "explanation": "Православное Рождество отмечается 7 января — РПЦ по-прежнему использует юлианский календарь, опережающий григорианский на 13 дней."
+        "explanation": "Православное Рождество отмечается 7 января — РПЦ по-прежнему использует юлианский календарь, опережающий григорианский на 13 дней.",
+        "correct_index": 1
       },
       {
         "question": "Что такое «обратная перспектива» в православных иконах?",
@@ -255,8 +255,8 @@
           "Технический недостаток средневековых мастеров",
           "Реалистичное изображение архитектурных пространств"
         ],
-        "answer": 1,
-        "explanation": "Обратная перспектива икон намеренна: линии сходятся к зрителю (а не к горизонту), означая, что Бог смотрит на человека. Этот теологический переворот определяет православную эстетику."
+        "explanation": "Обратная перспектива икон намеренна: линии сходятся к зрителю (а не к горизонту), означая, что Бог смотрит на человека. Этот теологический переворот определяет православную эстетику.",
+        "correct_index": 1
       },
       {
         "question": "Кто такой «православный атеист» в России?",
@@ -266,8 +266,8 @@
           "Воинствующий атеист-антирелигиозник",
           "Христианин, колеблющийся между православием и католицизмом"
         ],
-        "answer": 1,
-        "explanation": "«Православный атеист» — россиянин, считающий себя культурно православным (привязанный к иконам, праздникам, церковной эстетике), не веруя в догмы. Распространённое явление, особенно среди молодых горожан."
+        "explanation": "«Православный атеист» — россиянин, считающий себя культурно православным (привязанный к иконам, праздникам, церковной эстетике), не веруя в догмы. Распространённое явление, особенно среди молодых горожан.",
+        "correct_index": 1
       },
       {
         "question": "Что является символическим блюдом Масленицы?",
@@ -277,8 +277,8 @@
           "Кулич (пасхальный хлеб)",
           "Пельмени"
         ],
-        "answer": 1,
-        "explanation": "Блины (круглые, как солнце) — эмблематическое блюдо Масленицы, недели перед Великим постом. Их круглая форма символизирует возвращение солнца после зимы."
+        "explanation": "Блины (круглые, как солнце) — эмблематическое блюдо Масленицы, недели перед Великим постом. Их круглая форма символизирует возвращение солнца после зимы.",
+        "correct_index": 1
       },
       {
         "question": "Какое православное приветствие знает практически каждый россиянин?",
@@ -288,8 +288,8 @@
           "Господи помилуй",
           "Аминь"
         ],
-        "answer": 1,
-        "explanation": "Пасхальная формула «Христос воскресе!» / «Воистину воскресе!» знакома практически каждому россиянину, верующему или нет — она часть общего культурного наследия."
+        "explanation": "Пасхальная формула «Христос воскресе!» / «Воистину воскресе!» знакома практически каждому россиянину, верующему или нет — она часть общего культурного наследия.",
+        "correct_index": 1
       }
     ]
   }

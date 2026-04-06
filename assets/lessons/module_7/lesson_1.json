@@ -108,8 +108,8 @@
           "Pershoe (первое)",
           "Dessert (десерт)"
         ],
-        "answer": 2,
-        "explanation": "«Pershoe» (первое) signifie littéralement «le premier» et désigne le cours de soupe obligatoire. La structure traditionnelle du repas russe est : pershoe (soupe), vtoroe (plat principal), dessert."
+        "explanation": "«Pershoe» (первое) signifie littéralement «le premier» et désigne le cours de soupe obligatoire. La structure traditionnelle du repas russe est : pershoe (soupe), vtoroe (plat principal), dessert.",
+        "correct_index": 2
       },
       {
         "question": "Quel ingrédient est caractéristique du bortsch ?",
@@ -119,8 +119,8 @@
           "Le poisson fumé",
           "Les viandes charcutées"
         ],
-        "answer": 1,
-        "explanation": "La betterave rouge donne au bortsch sa couleur pourpre caractéristique et sa saveur légèrement sucrée-terreuse. Il est traditionnellement servi avec de la smetana (crème fraîche épaisse)."
+        "explanation": "La betterave rouge donne au bortsch sa couleur pourpre caractéristique et sa saveur légèrement sucrée-terreuse. Il est traditionnellement servi avec de la smetana (crème fraîche épaisse).",
+        "correct_index": 1
       },
       {
         "question": "Quelle soupe russe est considérée comme la soupe de fête par excellence ?",
@@ -130,8 +130,8 @@
           "La solianka",
           "Le bortsch"
         ],
-        "answer": 2,
-        "explanation": "La solianka est la soupe des occasions festives : complexe à préparer, avec des viandes fumées, des olives, des câpres et du citron, elle demande du temps et de bons ingrédients. C'est souvent la soupe qu'on sert aux invités."
+        "explanation": "La solianka est la soupe des occasions festives : complexe à préparer, avec des viandes fumées, des olives, des câpres et du citron, elle demande du temps et de bons ingrédients. C'est souvent la soupe qu'on sert aux invités.",
+        "correct_index": 2
       },
       {
         "question": "Que risquez-vous si vous refusez la soupe proposée par une hôtesse russe ?",
@@ -141,8 +141,8 @@
           "D'avoir une double portion imposée",
           "D'offenser le chef de famille masculin"
         ],
-        "answer": 1,
-        "explanation": "En Russie, la soupe maison est un acte d'hospitalité sincère. La refuser, même poliment, peut être interprété comme un rejet personnel. Mieux vaut accepter et expliquer d'éventuelles contraintes avec douceur."
+        "explanation": "En Russie, la soupe maison est un acte d'hospitalité sincère. La refuser, même poliment, peut être interprété comme un rejet personnel. Mieux vaut accepter et expliquer d'éventuelles contraintes avec douceur.",
+        "correct_index": 1
       },
       {
         "question": "Que signifie le proverbe «щи да каша — пища наша» ?",
@@ -152,8 +152,8 @@
           "Les shchi et la bouillie sont notre nourriture",
           "La soupe est le médicament du pauvre"
         ],
-        "answer": 2,
-        "explanation": "Ce proverbe — «shchi da kasha — pishcha nasha» — résume le régime alimentaire traditionnel russe avec une fierté populaire : les deux aliments de base (soupe au chou et bouillie de céréales) suffisent à vivre dignement."
+        "explanation": "Ce proverbe — «shchi da kasha — pishcha nasha» — résume le régime alimentaire traditionnel russe avec une fierté populaire : les deux aliments de base (soupe au chou et bouillie de céréales) suffisent à vivre dignement.",
+        "correct_index": 2
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Первое",
           "Десерт"
         ],
-        "answer": 2,
-        "explanation": "«Первое» обозначает обязательный суповой курс. Традиционная структура русского обеда: первое (суп), второе (основное блюдо), десерт."
+        "explanation": "«Первое» обозначает обязательный суповой курс. Традиционная структура русского обеда: первое (суп), второе (основное блюдо), десерт.",
+        "correct_index": 2
       },
       {
         "question": "Какой ингредиент характерен для борща?",
@@ -259,8 +259,8 @@
           "Копчёная рыба",
           "Мясные деликатесы"
         ],
-        "answer": 1,
-        "explanation": "Красная свёкла придаёт борщу характерный пурпурный цвет и слегка сладковато-землистый вкус. Традиционно подаётся со сметаной."
+        "explanation": "Красная свёкла придаёт борщу характерный пурпурный цвет и слегка сладковато-землистый вкус. Традиционно подаётся со сметаной.",
+        "correct_index": 1
       },
       {
         "question": "Какой русский суп считается праздничным?",
@@ -270,8 +270,8 @@
           "Солянка",
           "Борщ"
         ],
-        "answer": 2,
-        "explanation": "Солянка — суп праздничных застолий: сложный в приготовлении, с копчёностями, оливками, каперсами и лимоном. Требует времени и качественных продуктов. Именно его часто подают гостям."
+        "explanation": "Солянка — суп праздничных застолий: сложный в приготовлении, с копчёностями, оливками, каперсами и лимоном. Требует времени и качественных продуктов. Именно его часто подают гостям.",
+        "correct_index": 2
       },
       {
         "question": "Что будет, если отказаться от супа, предложенного русской хозяйкой?",
@@ -281,8 +281,8 @@
           "Вам принесут двойную порцию",
           "Это оскорбит главу семьи"
         ],
-        "answer": 1,
-        "explanation": "В России домашний суп — искренний жест гостеприимства. Отказаться от него, даже вежливо, могут воспринять как личную обиду. Лучше принять и мягко объяснить ограничения, если они есть."
+        "explanation": "В России домашний суп — искренний жест гостеприимства. Отказаться от него, даже вежливо, могут воспринять как личную обиду. Лучше принять и мягко объяснить ограничения, если они есть.",
+        "correct_index": 1
       },
       {
         "question": "Что означает пословица «щи да каша — пища наша»?",
@@ -292,8 +292,8 @@
           "Щи и каша — наша еда",
           "Суп — лекарство бедняка"
         ],
-        "answer": 2,
-        "explanation": "Пословица с народной гордостью резюмирует традиционный русский рацион: два основных продукта (щи и каша) достаточны для достойной жизни."
+        "explanation": "Пословица с народной гордостью резюмирует традиционный русский рацион: два основных продукта (щи и каша) достаточны для достойной жизни.",
+        "correct_index": 2
       }
     ]
   }

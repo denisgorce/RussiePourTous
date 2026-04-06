@@ -112,8 +112,8 @@
           "Les brezhnevki",
           "Les kommunalki"
         ],
-        "answer": 1,
-        "explanation": "Les khrouchtchevki sont les petits immeubles préfabriqués de 4-5 étages construits en série sous Khrouchtchev (1955-65). Malgré leur confort minimaliste, ils ont sorti des millions de familles des kommunalki."
+        "explanation": "Les khrouchtchevki sont les petits immeubles préfabriqués de 4-5 étages construits en série sous Khrouchtchev (1955-65). Malgré leur confort minimaliste, ils ont sorti des millions de familles des kommunalki.",
+        "correct_index": 1
       },
       {
         "question": "Quel est le taux de propriété immobilière en Russie ?",
@@ -123,8 +123,8 @@
           "89%",
           "Quasi 100%"
         ],
-        "answer": 2,
-        "explanation": "La Russie a un taux de propriété d'environ 89% — parmi les plus élevés au monde. Cela s'explique par la privatisation gratuite des logements d'État en 1991 et par la préférence culturelle pour posséder son logement."
+        "explanation": "La Russie a un taux de propriété d'environ 89% — parmi les plus élevés au monde. Cela s'explique par la privatisation gratuite des logements d'État en 1991 et par la préférence culturelle pour posséder son logement.",
+        "correct_index": 2
       },
       {
         "question": "Quel code social fondamental s'applique en entrant dans un appartement russe ?",
@@ -134,8 +134,8 @@
           "Se laver les mains immédiatement",
           "Dire une formule de bienvenue spécifique"
         ],
-        "answer": 1,
-        "explanation": "Ôter ses chaussures en entrant dans un appartement russe est une règle sociale absolue. L'hôte proposera des tapochki (pantoufles). Ne pas respecter cette règle est une impolitesse grave."
+        "explanation": "Ôter ses chaussures en entrant dans un appartement russe est une règle sociale absolue. L'hôte proposera des tapochki (pantoufles). Ne pas respecter cette règle est une impolitesse grave.",
+        "correct_index": 1
       },
       {
         "question": "Quel architecte français a été directement influencé par les constructivistes russes ?",
@@ -145,8 +145,8 @@
           "Gustave Eiffel",
           "Jean Nouvel"
         ],
-        "answer": 1,
-        "explanation": "Le Corbusier a été directement influencé par les constructivistes russes Melnikov, Ginzburg et Leonidov dans les années 1920-30. Le constructivisme soviétique est une contribution majeure à l'architecture moderne mondiale."
+        "explanation": "Le Corbusier a été directement influencé par les constructivistes russes Melnikov, Ginzburg et Leonidov dans les années 1920-30. Le constructivisme soviétique est une contribution majeure à l'architecture moderne mondiale.",
+        "correct_index": 1
       },
       {
         "question": "Quelle partie de l'appartement russe est traditionnellement l'espace de conversation le plus intime ?",
@@ -156,8 +156,8 @@
           "La cuisine",
           "Le balcon"
         ],
-        "answer": 2,
-        "explanation": "La cuisine russe est l'espace de conversation le plus intime — phénomène lié en partie aux petits appartements soviétiques et à la culture de la confiance partagée autour d'un repas simple."
+        "explanation": "La cuisine russe est l'espace de conversation le plus intime — phénomène lié en partie aux petits appartements soviétiques et à la culture de la confiance partagée autour d'un repas simple.",
+        "correct_index": 2
       }
     ]
   },
@@ -252,8 +252,8 @@
           "Брежневки",
           "Коммуналки"
         ],
-        "answer": 1,
-        "explanation": "Хрущёвки — небольшие сборные дома 4–5 этажей, строившиеся поточно при Хрущёве (1955–65). Несмотря на минималистичный комфорт, они вывели миллионы семей из коммуналок."
+        "explanation": "Хрущёвки — небольшие сборные дома 4–5 этажей, строившиеся поточно при Хрущёве (1955–65). Несмотря на минималистичный комфорт, они вывели миллионы семей из коммуналок.",
+        "correct_index": 1
       },
       {
         "question": "Какова доля собственников жилья в России?",
@@ -263,8 +263,8 @@
           "89%",
           "Почти 100%"
         ],
-        "answer": 2,
-        "explanation": "В России около 89% жилья принадлежит жильцам — один из самых высоких показателей в мире. Это объясняется бесплатной приватизацией государственного жилья в 1991 году и культурным предпочтением иметь собственную квартиру."
+        "explanation": "В России около 89% жилья принадлежит жильцам — один из самых высоких показателей в мире. Это объясняется бесплатной приватизацией государственного жилья в 1991 году и культурным предпочтением иметь собственную квартиру.",
+        "correct_index": 2
       },
       {
         "question": "Какое фундаментальное социальное правило действует при входе в российскую квартиру?",
@@ -274,8 +274,8 @@
           "Немедленно вымыть руки",
           "Произнести особую приветственную формулу"
         ],
-        "answer": 1,
-        "explanation": "Снять обувь при входе в российскую квартиру — абсолютное социальное правило. Хозяин предложит тапочки. Несоблюдение этого правила — серьёзная бестактность."
+        "explanation": "Снять обувь при входе в российскую квартиру — абсолютное социальное правило. Хозяин предложит тапочки. Несоблюдение этого правила — серьёзная бестактность.",
+        "correct_index": 1
       },
       {
         "question": "Какой французский архитектор был непосредственно вдохновлён русскими конструктивистами?",
@@ -285,8 +285,8 @@
           "Гюстав Эйфель",
           "Жан Нувель"
         ],
-        "answer": 1,
-        "explanation": "Ле Корбюзье был непосредственно вдохновлён русскими конструктивистами Мельниковым, Гинзбургом и Леонидовым в 1920–30-е годы. Советский конструктивизм — значимый вклад в мировую современную архитектуру."
+        "explanation": "Ле Корбюзье был непосредственно вдохновлён русскими конструктивистами Мельниковым, Гинзбургом и Леонидовым в 1920–30-е годы. Советский конструктивизм — значимый вклад в мировую современную архитектуру.",
+        "correct_index": 1
       },
       {
         "question": "Какое пространство российской квартиры традиционно является самым интимным для разговора?",
@@ -296,8 +296,8 @@
           "Кухня",
           "Балкон"
         ],
-        "answer": 2,
-        "explanation": "Российская кухня — самое интимное пространство для разговора: явление, связанное отчасти с небольшими советскими квартирами и культурой доверия, разделяемого за простой едой."
+        "explanation": "Российская кухня — самое интимное пространство для разговора: явление, связанное отчасти с небольшими советскими квартирами и культурой доверия, разделяемого за простой едой.",
+        "correct_index": 2
       }
     ]
   }

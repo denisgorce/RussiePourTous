@@ -1,10 +1,28 @@
 {
-  "meta": {"module_id": 3, "lesson_id": 4, "module_icon": "🏛️", "lesson_icon": "🌐", "estimated_minutes": 12, "difficulty": "intermédiaire",
+  "meta": {
+    "module_id": 3,
+    "lesson_id": 4,
+    "module_icon": "🏛️",
+    "lesson_icon": "🌐",
+    "estimated_minutes": 12,
+    "difficulty": "intermédiaire",
     "sources": [
-      {"label": "Constitution RF — Chapitre 3 : Structure fédérale", "url": "http://www.constitution.ru/en/10003000-04.htm"},
-      {"label": "Encyclopædia Universalis — Fédéralisme russe", "url": "https://www.universalis.fr/encyclopedie/russie/"},
-      {"label": "IFRI — Minorités ethniques en Russie", "url": "https://www.ifri.org/fr/russie"},
-      {"label": "Le Monde diplomatique — Peuples de Russie", "url": "https://www.monde-diplomatique.fr/"}
+      {
+        "label": "Constitution RF — Chapitre 3 : Structure fédérale",
+        "url": "http://www.constitution.ru/en/10003000-04.htm"
+      },
+      {
+        "label": "Encyclopædia Universalis — Fédéralisme russe",
+        "url": "https://www.universalis.fr/encyclopedie/russie/"
+      },
+      {
+        "label": "IFRI — Minorités ethniques en Russie",
+        "url": "https://www.ifri.org/fr/russie"
+      },
+      {
+        "label": "Le Monde diplomatique — Peuples de Russie",
+        "url": "https://www.monde-diplomatique.fr/"
+      }
     ]
   },
   "fr": {
@@ -13,22 +31,40 @@
     "lesson_subtitle": "85 sujets fédéraux, 190 peuples",
     "intro": "La Russie est officiellement un État fédéral composé de 85 sujets fédéraux et abritant 190 peuples reconnus. Cette diversité est l'une des caractéristiques les plus fascinantes — et les plus sous-estimées — de la Russie. Comment un État aussi centralisé gère-t-il une telle diversité ethnique, linguistique et culturelle ? Et quelles sont les tensions réelles entre Moscou et les périphéries ?",
     "sections": [
-      {"theme": "Histoire", "icon": "📜", "title": "La construction de l'empire multiethnique",
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "La construction de l'empire multiethnique",
         "body": "La Russie n'est pas ethniquement homogène — elle ne l'a jamais été. En absorbant des centaines de peuples sur des siècles d'expansion, l'empire russe puis l'URSS ont développé une façon particulière de gérer la diversité : **reconnaître formellement** les identités nationales (langues, territoires nommés) tout en les contrôlant politiquement.\n\nL'URSS avait théorisé ce système : **Lénine** et **Staline** (avant de devenir dictateur, il était le «Commissaire aux Nationalités») ont conçu une structure de «**nations en forme**» — chaque peuple reconnu obtenait une unité territoriale à son nom (RSS, RSSA, Oblast Autonome), une langue officiellement codifiée, une élite locale formée. En échange, ces nations restaient sous contrôle du Parti communiste.\n\nCe système a produit des effets durables et contradictoires. Côté positif : des peuples sans écriture en ont acquis une, des langues ont été standardisées, des cultures ont été documentées. Côté pervers : les frontières tracées par Staline ont souvent été artificielles, coupant des peuples homogènes ou regroupant des ethnies ennemies — semant les germes de conflits post-soviétiques (Haut-Karabakh, Ossétie du Sud, Abkhazie, Tchétchénie)."
       },
-      {"theme": "Géographie", "icon": "🗺️", "title": "Les 85 sujets fédéraux — une mosaïque complexe",
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "Les 85 sujets fédéraux — une mosaïque complexe",
         "body": "La Fédération de Russie est composée de **85 sujets fédéraux** de statuts différents : 22 **Républiques** (для меньшинств, *dlya menshinstv* — pour les minorités, avec leur propre Constitution et langue officielle) ; 9 **Kraï** (Kray — grandes régions) ; 46 **Oblasts** (régions ordinaires) ; 3 **Villes fédérales** (Moscou, Saint-Pétersbourg, Sébastopol) ; 1 **Oblast autonome** (Oblast autonome juif — Birobidjan) ; 4 **Okrougs autonomes** (territoires ethniques du Grand Nord).\n\nLes **Républiques** sont les entités les plus autonomes en théorie. La **République du Tatarstan** (Татарстан) est la plus riche et la plus indépendante : peuplée à ~53% de Tatars (turcophones, musulmans), elle a négocié dans les années 1990 un statut quasi-confédéral avec Moscou, contrôlant ses revenus pétroliers. La **Bachkirie** (Bashkortostan), voisine, a un statut similaire. La **Yakoutie** (Sakha) contrôle ses revenus diamantifères. Ces négociations ont toutes été progressivement renégociées à la baisse sous Poutine — renforcement de la verticale.\n\nLes **Républiques du Caucase** sont les plus tensiogènes : Tchétchénie, Ingouchie, Daghestan, Kabardino-Balkarie, Ossétie du Nord — zones de fort enracinement islamique et d'identités ethniques fortes en tension avec le centre moscovite."
       },
-      {"theme": "Politique & Société", "icon": "⚖️", "title": "Être minorité en Russie — droits et réalités",
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "Être minorité en Russie — droits et réalités",
         "body": "Les **190 peuples** reconnus de Russie comprennent des populations très diverses. Les principales : Russes (~77%), Tatars (~3,7%), Ukrainiens (~1,4%), Bachkirs (~1,1%), Tchouvaches (~0,9%), Tchétchènes (~1,3%), Arméniens (~0,8%), Bouriates. Plus de 100 langues sont parlées sur le territoire russe.\n\nLe statut des minorités a évolué complexement. La **Constitution garantit** le droit à l'usage de la langue maternelle et l'autodétermination des peuples. Dans les Républiques, les langues régionales sont co-officielles avec le russe. Mais depuis les années 2000, une pression croissante pousse à **l'uniformisation russophone** : réduction des heures de cours en langues régionales, suppression de l'obligation d'apprendre la langue régionale dans les Républiques (réforme de 2017 très contestée).\n\nLes **Roms** (~200 000 en Russie), les **Yézidis**, les **Coréens Sakhalins** (déportés en Sibérie par Staline depuis la Corée), les communautés **juives** (communauté historiquement significative, très diminuée par l'émigration en Israël et aux États-Unis) — chaque communauté vit sa propre expérience de la Russie multiethnique, entre intégration et maintien d'une identité distincte."
       },
-      {"theme": "Économie & Vie quotidienne", "icon": "🏠", "title": "Les inégalités régionales — un pays à deux vitesses",
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "Les inégalités régionales — un pays à deux vitesses",
         "body": "Les inégalités de développement entre les régions russes sont vertigineuses. Le PIB par habitant de **Moscou** (~1,3 million de roubles/an) est environ **6 fois supérieur** à celui des régions les plus pauvres du Caucase ou de certaines oblasts de Sibérie centrale.\n\nLes transferts fédéraux jouent un rôle crucial : environ **70% des régions russes** sont «**dotantes**» (elles reçoivent plus de l'État fédéral qu'elles n'envoient en taxes). Seulement une dizaine de régions sont «donantes» — essentiellement Moscou, Saint-Pétersbourg, Ienisseïsk (pétrole), Sakhaline, la Yakoutie. Ce déséquilibre crée une forte dépendance des régions pauvres envers le centre et une réticence à l'autonomie politique.\n\nUne conséquence directe pour le voyageur : la Russie que vous verrez à Moscou ou Pétersbourg est radicalement différente de la Russie de province. Un Français visitant Moscou pourrait croire à une ville globale comparable à Paris — et la Russie est bien plus inégale que ce que les grandes villes laissent imaginer."
       },
-      {"theme": "Culture & Arts", "icon": "🎨", "title": "Les cultures régionales — richesse ignorée",
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "Les cultures régionales — richesse ignorée",
         "body": "La Russie est une mosaïque culturelle extraordinaire — largement ignorée hors de Russie, parfois même par les Russes eux-mêmes. La **musique tatare** (avec ses influences turco-asiatiques), la **littérature bouriate** (marquée par le bouddhisme et le chamanisme), les **épopées kalmouk** (peuple mongol de la Caspienne), la **polyphonie des peuples du Caucase** — autant de traditions vivantes.\n\nLa République **Bouriate** de Sibérie (capitale Oulan-Oudé) est un carrefour fascinant entre bouddhisme tibétain et culture russe orthodoxe. Le **Datsan Guibeline** (monastère bouddhiste sur les rives du lac Baïkal) est l'un des temples bouddhistes les plus septentrionaux du monde — un choc visuel et culturel dans un paysage sibérien.\n\nLe **Tatarstan** a produit une culture contemporaine dynamique : la ville de **Kazan** (capitale, 1,3 million d'habitants) est souvent citée comme modèle de coexistence réussie entre cultures russe et tatare. L'architecture du Kremlin de Kazan — qui juxtapose une mosquée et une cathédrale orthodoxe — symbolise cette intégration complexe. Kazan a accueilli les Jeux Universitaires (Universiade) en 2013 et la Coupe du Monde de football en 2018."
       },
-      {"theme": "Gastronomie & Codes sociaux", "icon": "🍲", "title": "La gastronomie des minorités — trésors méconnus",
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "La gastronomie des minorités — trésors méconnus",
         "body": "La diversité ethnique russe produit une diversité gastronomique exceptionnelle, largement méconnue en France. Voici quelques trésors :\n\n**Cuisine tatare** : le **chak-chak** (шак-шак) — gâteau de pâte frite au miel, la spécialité sucrée emblématique du Tatarstan ; le **échpochmak** (треугольник — triangle, feuilleté à la viande et pommes de terre) ; le **kazan-kebab** (agneau braisé à Kazan).\n\n**Cuisine bouriate** : les **buuz** (буузы) — raviolis cuits à la vapeur (semblables aux momos tibétains ou dumplings chinois), spécialité nationale du Tatarstan et Bouriatie ; la **sagaidak** — soupe de viande d'agneau aux herbes.\n\n**Cuisine caraïme** (des Caraïtes, peuple judéo-turc de Crimée) : le **kubete** (пирог с мясом — tarte feuilletée à la viande).\n\nLe code social clé dans les relations inter-ethniques en Russie : **le respect de l'hospitalité locale**. Les codes varient selon les cultures — chez les Tatars musulmans, l'alcool n'est pas servi dans les foyers pieux (même si beaucoup de Tatars boivent personnellement) ; chez les peuples bouddhistes de Sibérie, des gestes rituels spécifiques accompagnent le repas. Informez-vous sur les pratiques locales avant un repas dans une famille de minorité."
       }
     ],
@@ -38,40 +74,94 @@
       "content": "**Kazan est une étape incontournable** si vous voulez aller au-delà de Moscou et Pétersbourg. À seulement 820 km de Moscou (1h15 de train à grande vitesse «Sapsan»), elle offre une expérience radicalement différente : Kremlin avec mosquée et cathédrale côte à côte, cuisine tatare exceptionnelle, histoire complexe de coexistence. C'est une des villes les plus intéressantes de Russie pour un étranger.\n\nSur la question de l'ethnicité en Russie : **ne supposez pas que tous les Russes sont slavophones** et chrétiens orthodoxes. Si vous rencontrez un Russe avec un nom turcophone (Rashid, Timur, Bulat, Aygoul) — il est probablement tatar, bachkir ou d'une autre minorité musulmane, et peut avoir une relation différente à la Russie que celle d'un slave orthodoxe. Reconnaître cette diversité est un signe de culture géographique apprécié.\n\n**Un sujet fascinant à explorer** : les langues menacées de Russie. Des linguistes du monde entier travaillent à documenter les langues parlées par quelques centaines ou quelques milliers de personnes (Vepse, Nganassan, Ket...) — un patrimoine humain en voie de disparition. Si le sujet vous intéresse, c'est une conversation garantie avec des Russes cultivés."
     },
     "glossary": [
-      {"term": "Sujets fédéraux", "definition": "Les 85 entités composant la Fédération de Russie : républiques, kraï, oblasts, okrougs autonomes, villes fédérales — de statuts et degrés d'autonomie différents."},
-      {"term": "République (fédérale)", "definition": "Entité fédérale russe censément créée pour une minorité ethnique. Dispose d'une Constitution propre et d'une langue co-officielle avec le russe."},
-      {"term": "Tatarstan (Татарстан)", "definition": "République fédérale à majorité tatare et à forte autonomie. Capitale Kazan, modèle de coexistence russo-tatare, troisième économie de Russie."},
-      {"term": "Transferts fédéraux", "definition": "Subventions de l'État fédéral aux régions. 70% des régions russes en dépendent — créant une forte dépendance envers le centre."},
-      {"term": "Commissaire aux Nationalités", "definition": "Poste occupé par Staline dans le gouvernement bolchévique. Il théorisa la politique des 'nations en forme' — reconnaître formellement les identités nationales sous contrôle politique."},
-      {"term": "Chak-chak (Шак-шак)", "definition": "Gâteau tatare de pâte frite au miel — spécialité sucrée emblématique du Tatarstan, souvent offert en cadeau."},
-      {"term": "Buuz (Буузы)", "definition": "Raviolis cuits à la vapeur bouriates — semblables aux momos tibétains. Spécialité nationale de la Bouriatie et du Tatarstan."},
-      {"term": "Kazan (Казань)", "definition": "Capitale du Tatarstan (1,3 M hab.), ville modèle de coexistence russo-tatare. Kremlin avec mosquée et cathédrale, hôte de la Coupe du Monde 2018."}
+      {
+        "term": "Sujets fédéraux",
+        "definition": "Les 85 entités composant la Fédération de Russie : républiques, kraï, oblasts, okrougs autonomes, villes fédérales — de statuts et degrés d'autonomie différents."
+      },
+      {
+        "term": "République (fédérale)",
+        "definition": "Entité fédérale russe censément créée pour une minorité ethnique. Dispose d'une Constitution propre et d'une langue co-officielle avec le russe."
+      },
+      {
+        "term": "Tatarstan (Татарстан)",
+        "definition": "République fédérale à majorité tatare et à forte autonomie. Capitale Kazan, modèle de coexistence russo-tatare, troisième économie de Russie."
+      },
+      {
+        "term": "Transferts fédéraux",
+        "definition": "Subventions de l'État fédéral aux régions. 70% des régions russes en dépendent — créant une forte dépendance envers le centre."
+      },
+      {
+        "term": "Commissaire aux Nationalités",
+        "definition": "Poste occupé par Staline dans le gouvernement bolchévique. Il théorisa la politique des 'nations en forme' — reconnaître formellement les identités nationales sous contrôle politique."
+      },
+      {
+        "term": "Chak-chak (Шак-шак)",
+        "definition": "Gâteau tatare de pâte frite au miel — spécialité sucrée emblématique du Tatarstan, souvent offert en cadeau."
+      },
+      {
+        "term": "Buuz (Буузы)",
+        "definition": "Raviolis cuits à la vapeur bouriates — semblables aux momos tibétains. Spécialité nationale de la Bouriatie et du Tatarstan."
+      },
+      {
+        "term": "Kazan (Казань)",
+        "definition": "Capitale du Tatarstan (1,3 M hab.), ville modèle de coexistence russo-tatare. Kremlin avec mosquée et cathédrale, hôte de la Coupe du Monde 2018."
+      }
     ],
     "quiz": [
-      {"question": "Combien de sujets fédéraux compose la Fédération de Russie ?",
-        "options": ["45", "63", "85", "110"],
-        "answer": 2,
-        "explanation": "La Fédération de Russie est composée de 85 sujets fédéraux de statuts différents : républiques, kraï, oblasts, okrougs autonomes et villes fédérales."
+      {
+        "question": "Combien de sujets fédéraux compose la Fédération de Russie ?",
+        "options": [
+          "45",
+          "63",
+          "85",
+          "110"
+        ],
+        "explanation": "La Fédération de Russie est composée de 85 sujets fédéraux de statuts différents : républiques, kraï, oblasts, okrougs autonomes et villes fédérales.",
+        "correct_index": 2
       },
-      {"question": "Que représente le Tatarstan comme modèle fédéral ?",
-        "options": ["Une région totalement intégrée dans la norme russe", "Une République à forte autonomie, modèle de coexistence russo-tatare avec Kremlin, mosquée et cathédrale", "Une région rebelle qui cherche l'indépendance", "Un territoire sous administration spéciale militaire"],
-        "answer": 1,
-        "explanation": "Le Tatarstan est souvent cité comme modèle de coexistence réussie entre cultures russe et tatare. Sa capitale Kazan est l'une des villes russes les plus intéressantes, avec un Kremlin unique juxtaposant mosquée et cathédrale."
+      {
+        "question": "Que représente le Tatarstan comme modèle fédéral ?",
+        "options": [
+          "Une région totalement intégrée dans la norme russe",
+          "Une République à forte autonomie, modèle de coexistence russo-tatare avec Kremlin, mosquée et cathédrale",
+          "Une région rebelle qui cherche l'indépendance",
+          "Un territoire sous administration spéciale militaire"
+        ],
+        "explanation": "Le Tatarstan est souvent cité comme modèle de coexistence réussie entre cultures russe et tatare. Sa capitale Kazan est l'une des villes russes les plus intéressantes, avec un Kremlin unique juxtaposant mosquée et cathédrale.",
+        "correct_index": 1
       },
-      {"question": "Combien de peuples reconnus la Russie abrite-t-elle ?",
-        "options": ["35 peuples", "75 peuples", "190 peuples", "300 peuples"],
-        "answer": 2,
-        "explanation": "La Russie reconnaît officiellement 190 peuples distincts sur son territoire, parlant plus de 100 langues — une diversité ethnique et linguistique exceptionnelle."
+      {
+        "question": "Combien de peuples reconnus la Russie abrite-t-elle ?",
+        "options": [
+          "35 peuples",
+          "75 peuples",
+          "190 peuples",
+          "300 peuples"
+        ],
+        "explanation": "La Russie reconnaît officiellement 190 peuples distincts sur son territoire, parlant plus de 100 langues — une diversité ethnique et linguistique exceptionnelle.",
+        "correct_index": 2
       },
-      {"question": "Quel était le rôle de Staline dans la politique des nationalités soviétiques ?",
-        "options": ["Il a supprimé toutes les identités nationales au profit du russe", "En tant que Commissaire aux Nationalités, il a théorisé la création de territoires nommés pour chaque peuple", "Il a créé un système d'assimilation forcée", "Il s'est opposé aux politiques de Lénine sur les nationalités"],
-        "answer": 1,
-        "explanation": "Staline, en tant que Commissaire aux Nationalités, a théorisé les 'nations en forme' — chaque peuple reconnu obtenait un territoire à son nom et une langue codifiée, sous contrôle du Parti communiste."
+      {
+        "question": "Quel était le rôle de Staline dans la politique des nationalités soviétiques ?",
+        "options": [
+          "Il a supprimé toutes les identités nationales au profit du russe",
+          "En tant que Commissaire aux Nationalités, il a théorisé la création de territoires nommés pour chaque peuple",
+          "Il a créé un système d'assimilation forcée",
+          "Il s'est opposé aux politiques de Lénine sur les nationalités"
+        ],
+        "explanation": "Staline, en tant que Commissaire aux Nationalités, a théorisé les 'nations en forme' — chaque peuple reconnu obtenait un territoire à son nom et une langue codifiée, sous contrôle du Parti communiste.",
+        "correct_index": 1
       },
-      {"question": "Quel plat tatare emblématique est souvent offert en cadeau depuis le Tatarstan ?",
-        "options": ["Le bortsch tatar", "Le chak-chak (pâte frite au miel)", "Le plov tatar", "La tatar baklava"],
-        "answer": 1,
-        "explanation": "Le chak-chak, gâteau de pâte frite liée au miel, est la spécialité sucrée emblématique du Tatarstan — souvent emporté ou offert comme cadeau représentatif de la culture tatare."
+      {
+        "question": "Quel plat tatare emblématique est souvent offert en cadeau depuis le Tatarstan ?",
+        "options": [
+          "Le bortsch tatar",
+          "Le chak-chak (pâte frite au miel)",
+          "Le plov tatar",
+          "La tatar baklava"
+        ],
+        "explanation": "Le chak-chak, gâteau de pâte frite liée au miel, est la spécialité sucrée emblématique du Tatarstan — souvent emporté ou offert comme cadeau représentatif de la culture tatare.",
+        "correct_index": 1
       }
     ]
   },
@@ -81,22 +171,40 @@
     "lesson_subtitle": "85 субъектов федерации, 190 народов",
     "intro": "Россия официально является федеративным государством, состоящим из 85 субъектов и насчитывающим 190 признанных народов. Это разнообразие — одна из самых увлекательных и наименее оценённых характеристик России. Как настолько централизованное государство управляет таким этническим, языковым и культурным разнообразием? И каковы реальные противоречия между Москвой и перифериями?",
     "sections": [
-      {"theme": "История", "icon": "📜", "title": "Строительство многонациональной империи",
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "Строительство многонациональной империи",
         "body": "Россия никогда не была этнически однородной. Поглощая сотни народов в ходе многовековой экспансии, Российская империя, а затем СССР выработали особый способ управления разнообразием: **формально признавать** национальные идентичности (языки, именованные территории), удерживая при этом политический контроль.\n\nСССР теоретически обосновал эту систему: **Ленин** и **Сталин** (до прихода к единоличной власти — «нарком по делам национальностей») создали структуру «**национально-государственных образований**» — каждый признанный народ получал именованную территорию (ССР, АССР, Автономная область), официально кодифицированный язык, подготовленную местную элиту. Взамен эти народы оставались под контролем Коммунистической партии.\n\nЭта система породила долгосрочные и противоречивые последствия. На позитивной стороне: народы без письменности её обрели, языки были стандартизированы, культуры задокументированы. На негативной: границы, проведённые Сталиным, нередко были искусственными — они рассекали однородные народы или объединяли враждующие этносы, сея семена постсоветских конфликтов (Нагорный Карабах, Южная Осетия, Абхазия, Чечня)."
       },
-      {"theme": "География", "icon": "🗺️", "title": "85 субъектов федерации — сложная мозаика",
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "85 субъектов федерации — сложная мозаика",
         "body": "Российская Федерация включает **85 субъектов** разного статуса: 22 **Республики** (формально создававшиеся для меньшинств, с собственной Конституцией и государственным языком); 9 **Краёв**; 46 **Областей**; 3 **Города федерального значения** (Москва, Санкт-Петербург, Севастополь); 1 **Автономная область** (Еврейская автономная область — Биробиджан); 4 **Автономных округа** (этнические территории Крайнего Севера).\n\n**Республики** теоретически наиболее автономны. **Татарстан** — богатейший и наиболее независимый: ~53% татар (тюркоязычных, мусульман), в 1990-х годах он выторговал у Москвы почти конфедеративный статус, контролируя нефтяные доходы. **Башкортостан**, сосед, имеет схожий статус. **Якутия** контролирует алмазные доходы. Все эти договорённости при Путине постепенно пересматривались в сторону снижения — усиление вертикали.\n\n**Северокавказские республики** — наиболее конфликтогенны: Чечня, Ингушетия, Дагестан, Кабардино-Балкария, Северная Осетия — зоны глубокого исламского укоренения и сильных этнических идентичностей в напряжении с московским центром."
       },
-      {"theme": "Политика и общество", "icon": "⚖️", "title": "Быть меньшинством в России — права и реальность",
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Быть меньшинством в России — права и реальность",
         "body": "**190 признанных народов** России включают чрезвычайно разнообразные группы. Крупнейшие: русские (~77%), татары (~3,7%), украинцы (~1,4%), башкиры (~1,1%), чуваши (~0,9%), чеченцы (~1,3%), армяне (~0,8%), буряты. Более 100 языков звучат на территории России.\n\nСтатус меньшинств менялся непросто. **Конституция гарантирует** право на использование родного языка и самоопределение народов. В республиках региональные языки являются соязыками наряду с русским. Но с 2000-х годов нарастает давление в сторону **русскоязычной унификации**: сокращение уроков на региональных языках, отмена обязательного изучения регионального языка в республиках (спорная реформа 2017 года).\n\n**Ромы** (~200 000 в России), **езиды**, **сахалинские корейцы** (депортированные Сталиным из Кореи в Сибирь), **еврейские общины** (исторически значимые, сильно сократившиеся из-за эмиграции в Израиль и США) — каждая община проживает свой собственный опыт многонациональной России, между интеграцией и сохранением самобытной идентичности."
       },
-      {"theme": "Экономика и повседневная жизнь", "icon": "🏠", "title": "Региональное неравенство — страна двух скоростей",
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Региональное неравенство — страна двух скоростей",
         "body": "Разрыв в уровне развития между российскими регионами головокружителен. ВВП на душу населения в **Москве** (~1,3 млн руб./год) примерно **в 6 раз выше**, чем в беднейших регионах Кавказа или ряда областей Центральной Сибири.\n\nФедеральные трансферты играют ключевую роль: около **70% российских регионов** являются «**дотационными**» (получают от федерального центра больше, чем отчисляют налогов). Лишь порядка десяти регионов — «доноры»: прежде всего Москва, Санкт-Петербург, Ханты-Мансийск (нефть), Сахалин, Якутия. Этот дисбаланс создаёт сильную зависимость бедных регионов от центра и нежелание политической автономии.\n\nПрямое следствие для путешественника: Россия, которую вы увидите в Москве или Петербурге, разительно отличается от провинциальной. Посетив Москву, француз может принять её за глобальный мегаполис, сопоставимый с Парижем — а ведь Россия гораздо более неравна, чем это дают понять крупные города."
       },
-      {"theme": "Культура и искусство", "icon": "🎨", "title": "Региональные культуры — незамеченное богатство",
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Региональные культуры — незамеченное богатство",
         "body": "Россия — удивительная культурная мозаика, в значительной мере незамеченная за её пределами, а порой — и самими россиянами. **Татарская музыка** (с тюркско-азиатскими влияниями), **бурятская литература** (отмеченная буддизмом и шаманизмом), **калмыцкие эпосы** (монгольский народ Прикаспия), **полифония кавказских народов** — всё это живые традиции.\n\nБурятская **республика** Сибири (столица Улан-Удэ) — захватывающий перекрёсток тибетского буддизма и православной русской культуры. **Иволгинский дацан** (буддийский монастырь на берегу Байкала) — один из самых северных в мире буддийских храмов: визуальный и культурный шок в сибирском пейзаже.\n\n**Татарстан** породил динамичную современную культуру: **Казань** (1,3 млн жителей) нередко называют образцом успешного сосуществования русской и татарской культур. Архитектура Казанского Кремля — с мечетью и православным собором бок о бок — символизирует это сложное единство. Казань принимала Универсиаду (2013) и Чемпионат мира по футболу (2018)."
       },
-      {"theme": "Гастрономия и социальные коды", "icon": "🍲", "title": "Гастрономия меньшинств — неизвестные сокровища",
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Гастрономия меньшинств — неизвестные сокровища",
         "body": "Этническое разнообразие России порождает исключительное гастрономическое богатство, почти неизвестное во Франции. Несколько жемчужин:\n\n**Татарская кухня**: **чак-чак** — лакомство из жареного теста с мёдом, знаковая сладость Татарстана; **эчпочмак** (треугольник — слоёный пирожок с мясом и картофелем); **казан-кебаб** (тушёная баранина по-казански).\n\n**Бурятская кухня**: **буузы** — паровые пельмени (похожие на тибетские момо или китайские дамплинги), национальное блюдо Бурятии; **сагаалган** — ритуальные угощения к Новому году по лунному календарю.\n\n**Крымскотатарская кухня**: **кубете** (слоёный пирог с мясом); **янтык** (жареный чебурек).\n\nКлючевой социальный код в межэтнических отношениях в России: **уважение к местному гостеприимству**. Коды варьируются по культурам — в набожных татарских семьях алкоголь не подают (хотя многие татары лично выпивают); у буддийских народов Сибири за едой соблюдаются особые ритуальные жесты. Заранее уточните обычаи, прежде чем идти в гости к семье из национального меньшинства."
       }
     ],
@@ -106,40 +214,94 @@
       "content": "**Казань — обязательная остановка**, если вы хотите выйти за пределы Москвы и Петербурга. Всего в 820 км от Москвы (1 ч 15 мин на «Сапсане»), она предлагает радикально иной опыт: Кремль с мечетью и собором рядом, исключительная татарская кухня, сложная история сосуществования. Один из самых интересных для иностранца городов России.\n\nО теме этничности в России: **не предполагайте, что все россияне — православные славяне**. Если вы встретите россиянина с тюркским именем (Рашид, Тимур, Булат, Айгуль) — скорее всего, он татарин, башкир или представитель другого мусульманского меньшинства, с иными отношениями с Россией. Признавать это разнообразие — знак географической культуры, который ценят.\n\n**Увлекательная тема**: исчезающие языки России. Лингвисты всего мира документируют языки, на которых говорят сотни или тысячи человек (вепсский, нганасанский, кетский...) — исчезающее человеческое наследие. Этот сюжет гарантированно откроет разговор с образованными россиянами."
     },
     "glossary": [
-      {"term": "Субъекты федерации", "definition": "85 составляющих Российской Федерации: республики, края, области, автономные округа и федеральные города — разного статуса и степени автономии."},
-      {"term": "Республика (федеральная)", "definition": "Федеральный субъект, созданный для этнического меньшинства. Имеет собственную Конституцию и государственный язык наряду с русским."},
-      {"term": "Татарстан", "definition": "Федеральная республика с татарским большинством и широкой автономией. Столица — Казань, образец российско-татарского сосуществования, третья экономика России."},
-      {"term": "Федеральные трансферты", "definition": "Субсидии федерального центра регионам. 70% российских регионов от них зависят — создавая сильную зависимость от центра."},
-      {"term": "Нарком по делам национальностей", "definition": "Пост, который занимал Сталин в большевистском правительстве. Он теоретически обосновал создание именованных территорий для каждого народа."},
-      {"term": "Чак-чак", "definition": "Татарское лакомство из жареного теста с мёдом — знаковая сладость Татарстана, которую часто привозят в подарок."},
-      {"term": "Буузы", "definition": "Бурятские паровые пельмени — похожи на тибетские момо. Национальное блюдо Бурятии и Татарстана."},
-      {"term": "Казань", "definition": "Столица Татарстана (1,3 млн жителей), город-образец российско-татарского сосуществования. Кремль с мечетью и собором, хозяин ЧМ-2018."}
+      {
+        "term": "Субъекты федерации",
+        "definition": "85 составляющих Российской Федерации: республики, края, области, автономные округа и федеральные города — разного статуса и степени автономии."
+      },
+      {
+        "term": "Республика (федеральная)",
+        "definition": "Федеральный субъект, созданный для этнического меньшинства. Имеет собственную Конституцию и государственный язык наряду с русским."
+      },
+      {
+        "term": "Татарстан",
+        "definition": "Федеральная республика с татарским большинством и широкой автономией. Столица — Казань, образец российско-татарского сосуществования, третья экономика России."
+      },
+      {
+        "term": "Федеральные трансферты",
+        "definition": "Субсидии федерального центра регионам. 70% российских регионов от них зависят — создавая сильную зависимость от центра."
+      },
+      {
+        "term": "Нарком по делам национальностей",
+        "definition": "Пост, который занимал Сталин в большевистском правительстве. Он теоретически обосновал создание именованных территорий для каждого народа."
+      },
+      {
+        "term": "Чак-чак",
+        "definition": "Татарское лакомство из жареного теста с мёдом — знаковая сладость Татарстана, которую часто привозят в подарок."
+      },
+      {
+        "term": "Буузы",
+        "definition": "Бурятские паровые пельмени — похожи на тибетские момо. Национальное блюдо Бурятии и Татарстана."
+      },
+      {
+        "term": "Казань",
+        "definition": "Столица Татарстана (1,3 млн жителей), город-образец российско-татарского сосуществования. Кремль с мечетью и собором, хозяин ЧМ-2018."
+      }
     ],
     "quiz": [
-      {"question": "Из скольких субъектов состоит Российская Федерация?",
-        "options": ["45", "63", "85", "110"],
-        "answer": 2,
-        "explanation": "Российская Федерация включает 85 субъектов разного статуса: республики, края, области, автономные округа и федеральные города."
+      {
+        "question": "Из скольких субъектов состоит Российская Федерация?",
+        "options": [
+          "45",
+          "63",
+          "85",
+          "110"
+        ],
+        "explanation": "Российская Федерация включает 85 субъектов разного статуса: республики, края, области, автономные округа и федеральные города.",
+        "correct_index": 2
       },
-      {"question": "Что представляет Татарстан как федеральная модель?",
-        "options": ["Регион, полностью интегрированный в российскую норму", "Республику с широкой автономией, образец российско-татарского сосуществования с Кремлём, мечетью и собором", "Мятежный регион, стремящийся к независимости", "Территорию под особым военным управлением"],
-        "answer": 1,
-        "explanation": "Татарстан нередко называют образцом успешного сосуществования русской и татарской культур. Его столица Казань — один из интереснейших городов России с уникальным Кремлём, где мечеть соседствует с собором."
+      {
+        "question": "Что представляет Татарстан как федеральная модель?",
+        "options": [
+          "Регион, полностью интегрированный в российскую норму",
+          "Республику с широкой автономией, образец российско-татарского сосуществования с Кремлём, мечетью и собором",
+          "Мятежный регион, стремящийся к независимости",
+          "Территорию под особым военным управлением"
+        ],
+        "explanation": "Татарстан нередко называют образцом успешного сосуществования русской и татарской культур. Его столица Казань — один из интереснейших городов России с уникальным Кремлём, где мечеть соседствует с собором.",
+        "correct_index": 1
       },
-      {"question": "Сколько народов признаёт Россия на своей территории?",
-        "options": ["35 народов", "75 народов", "190 народов", "300 народов"],
-        "answer": 2,
-        "explanation": "Россия официально признаёт 190 самостоятельных народов на своей территории, говорящих более чем на 100 языках — исключительное этническое и языковое разнообразие."
+      {
+        "question": "Сколько народов признаёт Россия на своей территории?",
+        "options": [
+          "35 народов",
+          "75 народов",
+          "190 народов",
+          "300 народов"
+        ],
+        "explanation": "Россия официально признаёт 190 самостоятельных народов на своей территории, говорящих более чем на 100 языках — исключительное этническое и языковое разнообразие.",
+        "correct_index": 2
       },
-      {"question": "Какую роль Сталин играл в советской политике в отношении народов?",
-        "options": ["Он упразднил все национальные идентичности в пользу русского", "В должности наркома по делам национальностей он теоретически обосновал создание именованных территорий для каждого народа", "Он ввёл систему принудительной ассимиляции", "Он выступал против национальной политики Ленина"],
-        "answer": 1,
-        "explanation": "Сталин как нарком по делам национальностей теоретически обосновал национально-государственные образования: каждый признанный народ получал именованную территорию и кодифицированный язык под контролем Коммунистической партии."
+      {
+        "question": "Какую роль Сталин играл в советской политике в отношении народов?",
+        "options": [
+          "Он упразднил все национальные идентичности в пользу русского",
+          "В должности наркома по делам национальностей он теоретически обосновал создание именованных территорий для каждого народа",
+          "Он ввёл систему принудительной ассимиляции",
+          "Он выступал против национальной политики Ленина"
+        ],
+        "explanation": "Сталин как нарком по делам национальностей теоретически обосновал национально-государственные образования: каждый признанный народ получал именованную территорию и кодифицированный язык под контролем Коммунистической партии.",
+        "correct_index": 1
       },
-      {"question": "Какое знаковое татарское блюдо часто привозят в подарок из Татарстана?",
-        "options": ["Татарский борщ", "Чак-чак (жареное тесто с мёдом)", "Татарский плов", "Татарская пахлава"],
-        "answer": 1,
-        "explanation": "Чак-чак — лакомство из жареного теста, залитого мёдом, является знаковой сладостью Татарстана, которую нередко привозят или дарят как символ татарской культуры."
+      {
+        "question": "Какое знаковое татарское блюдо часто привозят в подарок из Татарстана?",
+        "options": [
+          "Татарский борщ",
+          "Чак-чак (жареное тесто с мёдом)",
+          "Татарский плов",
+          "Татарская пахлава"
+        ],
+        "explanation": "Чак-чак — лакомство из жареного теста, залитого мёдом, является знаковой сладостью Татарстана, которую нередко привозят или дарят как символ татарской культуры.",
+        "correct_index": 1
       }
     ]
   }

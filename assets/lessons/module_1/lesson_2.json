@@ -7,10 +7,22 @@
     "estimated_minutes": 14,
     "difficulty": "intermédiaire",
     "sources": [
-      {"label": "Encyclopædia Universalis — Russie : histoire médiévale", "url": "https://www.universalis.fr/encyclopedie/russie/"},
-      {"label": "Larousse — Pierre le Grand", "url": "https://www.larousse.fr/encyclopedie/personnage/Pierre_Ier_le_Grand/133017"},
-      {"label": "Le Monde diplomatique — La Russie impériale", "url": "https://www.monde-diplomatique.fr/"},
-      {"label": "BnF — Les Romanov", "url": "https://www.bnf.fr/fr/agenda/les-romanov"}
+      {
+        "label": "Encyclopædia Universalis — Russie : histoire médiévale",
+        "url": "https://www.universalis.fr/encyclopedie/russie/"
+      },
+      {
+        "label": "Larousse — Pierre le Grand",
+        "url": "https://www.larousse.fr/encyclopedie/personnage/Pierre_Ier_le_Grand/133017"
+      },
+      {
+        "label": "Le Monde diplomatique — La Russie impériale",
+        "url": "https://www.monde-diplomatique.fr/"
+      },
+      {
+        "label": "BnF — Les Romanov",
+        "url": "https://www.bnf.fr/fr/agenda/les-romanov"
+      }
     ]
   },
   "fr": {
@@ -62,45 +74,94 @@
       "content": "**Connaître Pouchkine, c'est la clé.** Pour un Russe, Pouchkine est ce que Molière et Victor Hugo réunis sont pour un Français — mais en plus sacré encore. Citer une phrase de Pouchkine ou montrer que vous connaissez *Eugène Onéguine* provoquera une réaction de surprise et de plaisir sincères. C'est un pont culturel immédiat.\n\nDe même, si vous êtes invité à parler d'histoire, évitez de réduire la période tsariste à «despotisme et misère». Pour beaucoup de Russes, l'empire des Romanov représente un âge de grandeur culturelle et de puissance — la nostalgie impériale est réelle, même chez des gens par ailleurs très modernes.\n\n**À retenir** : les Russes ont une mémoire historique longue et douloureuse. Les invasions répétées (Mongols, Polonais, Napoléon, Hitler) ont forgé un sentiment profond d'encerclement et de résilience. Ne jamais minimiser ce que la Russie a subi historiquement — c'est le meilleur moyen de fermer une conversation."
     },
     "glossary": [
-      {"term": "Varègues", "definition": "Vikings scandinaves qui s'aventurèrent vers l'Est aux IXe–Xe siècles, fondant les premières principautés russes."},
-      {"term": "Rus' de Kiev", "definition": "Premier État médiéval slave (IXe–XIIIe siècle), berceau des nations russe, ukrainienne et biélorusse."},
-      {"term": "Horde d'Or", "definition": "Khanat mongol qui domina les principautés russes de 1240 à 1480 environ, percevant un lourd tribut."},
-      {"term": "Servage (Крепостное право)", "definition": "Système d'asservissement des paysans russes à la terre et à leur maître, aboli en 1861 par Alexandre II."},
-      {"term": "Troisième Rome", "definition": "Concept théologique affirmant que Moscou hérite du rôle de Rome puis de Constantinople comme centre de la chrétienté."},
-      {"term": "Samovar (Самовар)", "definition": "Appareil traditionnel russe pour chauffer l'eau du thé. Symbole de convivialité et de la culture du foyer."},
-      {"term": "Slavophiles vs Occidentalistes", "definition": "Grand débat intellectuel russe du XIXe siècle : défenseurs d'une voie russe originale contre partisans de l'adoption du modèle occidental."},
-      {"term": "Romanov", "definition": "Dynastie impériale russe de 1613 à 1917. Le dernier Romanov, Nicolas II, fut exécuté avec sa famille en 1918."}
+      {
+        "term": "Varègues",
+        "definition": "Vikings scandinaves qui s'aventurèrent vers l'Est aux IXe–Xe siècles, fondant les premières principautés russes."
+      },
+      {
+        "term": "Rus' de Kiev",
+        "definition": "Premier État médiéval slave (IXe–XIIIe siècle), berceau des nations russe, ukrainienne et biélorusse."
+      },
+      {
+        "term": "Horde d'Or",
+        "definition": "Khanat mongol qui domina les principautés russes de 1240 à 1480 environ, percevant un lourd tribut."
+      },
+      {
+        "term": "Servage (Крепостное право)",
+        "definition": "Système d'asservissement des paysans russes à la terre et à leur maître, aboli en 1861 par Alexandre II."
+      },
+      {
+        "term": "Troisième Rome",
+        "definition": "Concept théologique affirmant que Moscou hérite du rôle de Rome puis de Constantinople comme centre de la chrétienté."
+      },
+      {
+        "term": "Samovar (Самовар)",
+        "definition": "Appareil traditionnel russe pour chauffer l'eau du thé. Symbole de convivialité et de la culture du foyer."
+      },
+      {
+        "term": "Slavophiles vs Occidentalistes",
+        "definition": "Grand débat intellectuel russe du XIXe siècle : défenseurs d'une voie russe originale contre partisans de l'adoption du modèle occidental."
+      },
+      {
+        "term": "Romanov",
+        "definition": "Dynastie impériale russe de 1613 à 1917. Le dernier Romanov, Nicolas II, fut exécuté avec sa famille en 1918."
+      }
     ],
     "quiz": [
       {
         "question": "En quelle année le prince Vladimir baptise-t-il la Rus' dans la foi orthodoxe ?",
-        "options": ["862", "988", "1147", "1240"],
-        "answer": 1,
-        "explanation": "En 988, le prince Vladimir Ier choisit le christianisme orthodoxe de Byzance pour son peuple — un choix fondateur qui lie durablement la Russie à l'Orient chrétien."
+        "options": [
+          "862",
+          "988",
+          "1147",
+          "1240"
+        ],
+        "explanation": "En 988, le prince Vladimir Ier choisit le christianisme orthodoxe de Byzance pour son peuple — un choix fondateur qui lie durablement la Russie à l'Orient chrétien.",
+        "correct_index": 1
       },
       {
         "question": "Qu'est-ce que la Horde d'Or ?",
-        "options": ["La garde personnelle des tsars", "L'empire mongol qui a dominé la Russie pendant deux siècles", "La trésorerie impériale des Romanov", "La garde du Kremlin de Moscou"],
-        "answer": 1,
-        "explanation": "La Horde d'Or est le khanat mongol fondé par Batu Khan qui pilla Kiev en 1240 et domina les principautés russes pendant environ deux siècles."
+        "options": [
+          "La garde personnelle des tsars",
+          "L'empire mongol qui a dominé la Russie pendant deux siècles",
+          "La trésorerie impériale des Romanov",
+          "La garde du Kremlin de Moscou"
+        ],
+        "explanation": "La Horde d'Or est le khanat mongol fondé par Batu Khan qui pilla Kiev en 1240 et domina les principautés russes pendant environ deux siècles.",
+        "correct_index": 1
       },
       {
         "question": "Quelle est la réforme la plus symbolique de Pierre le Grand envers ses nobles ?",
-        "options": ["L'obligation de parler français à la cour", "L'obligation de raser leur barbe", "L'interdiction de porter des fourrures", "L'obligation d'envoyer leurs fils en Europe"],
-        "answer": 1,
-        "explanation": "Pierre le Grand imposa aux nobles russes de raser leur barbe — symbole de la rupture avec la tradition orthodoxe et de l'alignement sur les modes européennes."
+        "options": [
+          "L'obligation de parler français à la cour",
+          "L'obligation de raser leur barbe",
+          "L'interdiction de porter des fourrures",
+          "L'obligation d'envoyer leurs fils en Europe"
+        ],
+        "explanation": "Pierre le Grand imposa aux nobles russes de raser leur barbe — symbole de la rupture avec la tradition orthodoxe et de l'alignement sur les modes européennes.",
+        "correct_index": 1
       },
       {
         "question": "Quand Alexandre II abolit-il le servage en Russie ?",
-        "options": ["1825", "1848", "1861", "1905"],
-        "answer": 2,
-        "explanation": "Le servage fut aboli en 1861, mais de façon incomplète : les paysans durent payer des 'paiements de rachat' pendant des décennies, nourrissant un profond ressentiment."
+        "options": [
+          "1825",
+          "1848",
+          "1861",
+          "1905"
+        ],
+        "explanation": "Le servage fut aboli en 1861, mais de façon incomplète : les paysans durent payer des 'paiements de rachat' pendant des décennies, nourrissant un profond ressentiment.",
+        "correct_index": 2
       },
       {
         "question": "Quel célèbre plat 'russe' a en réalité été créé par un chef français à Moscou ?",
-        "options": ["Le bortsch", "Les pelmeni", "La salade Olivier", "Le koulibiac"],
-        "answer": 2,
-        "explanation": "La salade Olivier (ancêtre de la salade russe) fut inventée par le chef français Lucien Olivier au restaurant l'Hermitage de Moscou dans les années 1860."
+        "options": [
+          "Le bortsch",
+          "Les pelmeni",
+          "La salade Olivier",
+          "Le koulibiac"
+        ],
+        "explanation": "La salade Olivier (ancêtre de la salade russe) fut inventée par le chef français Lucien Olivier au restaurant l'Hermitage de Moscou dans les années 1860.",
+        "correct_index": 2
       }
     ]
   },
@@ -153,45 +214,94 @@
       "content": "**Знать Пушкина — ключ к сердцам.** Для русского человека Пушкин — это Мольер и Виктор Гюго вместе взятые, но ещё более почитаемые. Процитировать строфу из «Евгения Онегина» или показать знакомство с его поэзией вызовет искреннее удивление и радость. Это мгновенный культурный мост.\n\nЕщё совет: если разговор зашёл об истории, избегайте сводить царский период к «деспотизму и нищете». Для многих россиян Романовская империя — эпоха культурного величия и мощи. Ностальгия по империи реальна даже у весьма современных людей.\n\n**Помните**: у русских долгая и болезненная историческая память. Многократные вторжения (монголы, поляки, Наполеон, Гитлер) сформировали глубокое чувство окружённости и стойкости. Никогда не преуменьшайте того, что Россия исторически пережила — это верный способ закрыть разговор."
     },
     "glossary": [
-      {"term": "Варяги", "definition": "Скандинавские викинги, двигавшиеся на восток в IX–X веках и основавшие первые русские княжества."},
-      {"term": "Киевская Русь", "definition": "Первое средневековое славянское государство (IX–XIII вв.), колыбель русского, украинского и белорусского народов."},
-      {"term": "Золотая Орда", "definition": "Монгольское ханство, господствовавшее над русскими княжествами с 1240 по около 1480 года, собиравшее тяжкую дань."},
-      {"term": "Крепостное право", "definition": "Система закрепощения русских крестьян к земле и господину, отменённая в 1861 году Александром II."},
-      {"term": "Третий Рим", "definition": "Богословская концепция, утверждающая, что Москва наследует роль Рима, а затем Константинополя как центра православного христианства."},
-      {"term": "Самовар", "definition": "Традиционный русский прибор для нагрева воды для чая. Символ гостеприимства и домашнего уюта."},
-      {"term": "Славянофилы vs западники", "definition": "Великая интеллектуальная дискуссия XIX века: защитники самобытного русского пути против сторонников западной модели."},
-      {"term": "Романовы", "definition": "Императорская династия России с 1613 по 1917 год. Последний Романов Николай II расстрелян с семьёй в 1918 году."}
+      {
+        "term": "Варяги",
+        "definition": "Скандинавские викинги, двигавшиеся на восток в IX–X веках и основавшие первые русские княжества."
+      },
+      {
+        "term": "Киевская Русь",
+        "definition": "Первое средневековое славянское государство (IX–XIII вв.), колыбель русского, украинского и белорусского народов."
+      },
+      {
+        "term": "Золотая Орда",
+        "definition": "Монгольское ханство, господствовавшее над русскими княжествами с 1240 по около 1480 года, собиравшее тяжкую дань."
+      },
+      {
+        "term": "Крепостное право",
+        "definition": "Система закрепощения русских крестьян к земле и господину, отменённая в 1861 году Александром II."
+      },
+      {
+        "term": "Третий Рим",
+        "definition": "Богословская концепция, утверждающая, что Москва наследует роль Рима, а затем Константинополя как центра православного христианства."
+      },
+      {
+        "term": "Самовар",
+        "definition": "Традиционный русский прибор для нагрева воды для чая. Символ гостеприимства и домашнего уюта."
+      },
+      {
+        "term": "Славянофилы vs западники",
+        "definition": "Великая интеллектуальная дискуссия XIX века: защитники самобытного русского пути против сторонников западной модели."
+      },
+      {
+        "term": "Романовы",
+        "definition": "Императорская династия России с 1613 по 1917 год. Последний Романов Николай II расстрелян с семьёй в 1918 году."
+      }
     ],
     "quiz": [
       {
         "question": "В каком году князь Владимир крестил Русь в православной вере?",
-        "options": ["862", "988", "1147", "1240"],
-        "answer": 1,
-        "explanation": "В 988 году князь Владимир I выбрал православное христианство Византии для своего народа — основополагающий выбор, надолго связавший Россию с христианским Востоком."
+        "options": [
+          "862",
+          "988",
+          "1147",
+          "1240"
+        ],
+        "explanation": "В 988 году князь Владимир I выбрал православное христианство Византии для своего народа — основополагающий выбор, надолго связавший Россию с христианским Востоком.",
+        "correct_index": 1
       },
       {
         "question": "Что такое Золотая Орда?",
-        "options": ["Личная гвардия царей", "Монгольская империя, господствовавшая над Россией два века", "Императорская казна Романовых", "Стража Московского Кремля"],
-        "answer": 1,
-        "explanation": "Золотая Орда — монгольское ханство Батухана, разгромившее Киев в 1240 году и господствовавшее над русскими княжествами около двух веков."
+        "options": [
+          "Личная гвардия царей",
+          "Монгольская империя, господствовавшая над Россией два века",
+          "Императорская казна Романовых",
+          "Стража Московского Кремля"
+        ],
+        "explanation": "Золотая Орда — монгольское ханство Батухана, разгромившее Киев в 1240 году и господствовавшее над русскими княжествами около двух веков.",
+        "correct_index": 1
       },
       {
         "question": "Какая реформа Петра Великого была наиболее символичной для дворян?",
-        "options": ["Обязательное говорить по-французски при дворе", "Обязательное бритьё бороды", "Запрет на ношение мехов", "Обязательная отправка сыновей в Европу"],
-        "answer": 1,
-        "explanation": "Пётр Великий обязал русских дворян брить бороду — символ разрыва с православной традицией и ориентации на европейскую моду."
+        "options": [
+          "Обязательное говорить по-французски при дворе",
+          "Обязательное бритьё бороды",
+          "Запрет на ношение мехов",
+          "Обязательная отправка сыновей в Европу"
+        ],
+        "explanation": "Пётр Великий обязал русских дворян брить бороду — символ разрыва с православной традицией и ориентации на европейскую моду.",
+        "correct_index": 1
       },
       {
         "question": "Когда Александр II отменил крепостное право в России?",
-        "options": ["1825", "1848", "1861", "1905"],
-        "answer": 2,
-        "explanation": "Крепостное право было отменено в 1861 году, но неполностью: крестьяне должны были платить «выкупные платежи» десятилетиями, что питало глубокое недовольство."
+        "options": [
+          "1825",
+          "1848",
+          "1861",
+          "1905"
+        ],
+        "explanation": "Крепостное право было отменено в 1861 году, но неполностью: крестьяне должны были платить «выкупные платежи» десятилетиями, что питало глубокое недовольство.",
+        "correct_index": 2
       },
       {
         "question": "Какое знаменитое «русское» блюдо на самом деле создал французский повар в Москве?",
-        "options": ["Борщ", "Пельмени", "Салат оливье", "Кулебяка"],
-        "answer": 2,
-        "explanation": "Салат оливье (прообраз русского салата) был изобретён французским поваром Люсьеном Оливье в московском ресторане «Эрмитаж» в 1860-х годах."
+        "options": [
+          "Борщ",
+          "Пельмени",
+          "Салат оливье",
+          "Кулебяка"
+        ],
+        "explanation": "Салат оливье (прообраз русского салата) был изобретён французским поваром Люсьеном Оливье в московском ресторане «Эрмитаж» в 1860-х годах.",
+        "correct_index": 2
       }
     ]
   }

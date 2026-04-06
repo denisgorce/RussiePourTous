@@ -108,8 +108,8 @@
           "Critiquer la politique soviétique vs la politique actuelle",
           "Critiquer les oligarques vs critiquer les citoyens ordinaires"
         ],
-        "answer": 1,
-        "explanation": "La confusion entre 'critiquer le gouvernement russe' et 'critiquer la Russie' est une blessure profonde pour beaucoup de Russes, même critiques de leur gouvernement. La distinction est fondamentale."
+        "explanation": "La confusion entre 'critiquer le gouvernement russe' et 'critiquer la Russie' est une blessure profonde pour beaucoup de Russes, même critiques de leur gouvernement. La distinction est fondamentale.",
+        "correct_index": 1
       },
       {
         "question": "Quelle approche est recommandée pour les sujets politiques sensibles en conversation avec les Russes ?",
@@ -119,8 +119,8 @@
           "Écoute active — questions ouvertes, réponses par questions plutôt qu'affirmations",
           "Demander directement l'opinion de votre interlocuteur sur Poutine"
         ],
-        "answer": 1,
-        "explanation": "L'écoute active — questions ouvertes, écoute sans interrompre, réponses par questions — est la meilleure approche pour les sujets sensibles. Elle crée un espace de confiance sans imposer de cadre."
+        "explanation": "L'écoute active — questions ouvertes, écoute sans interrompre, réponses par questions — est la meilleure approche pour les sujets sensibles. Elle crée un espace de confiance sans imposer de cadre.",
+        "correct_index": 1
       },
       {
         "question": "Que signifie un silence de quelques secondes dans une conversation russe ?",
@@ -130,8 +130,8 @@
           "La conversation est terminée",
           "Un malaise à résoudre en changeant de sujet"
         ],
-        "answer": 1,
-        "explanation": "En Russie, le silence n'est pas inconfortable — c'est souvent un signe de réflexion sérieuse et de respect pour la question. Remplir le silence immédiatement peut être perçu comme de la superficialité."
+        "explanation": "En Russie, le silence n'est pas inconfortable — c'est souvent un signe de réflexion sérieuse et de respect pour la question. Remplir le silence immédiatement peut être perçu comme de la superficialité.",
+        "correct_index": 1
       },
       {
         "question": "Quels sujets ouvrent généralement de bonnes conversations avec les Russes ?",
@@ -141,8 +141,8 @@
           "L'invasion de l'Ukraine et ses causes",
           "Les comparaisons entre systèmes politiques russes et français"
         ],
-        "answer": 1,
-        "explanation": "La littérature russe, la famille, les voyages hors de Moscou, les recettes de cuisine — ces sujets ouvrent des conversations riches avec presque tous les Russes, quelle que soit leur position politique."
+        "explanation": "La littérature russe, la famille, les voyages hors de Moscou, les recettes de cuisine — ces sujets ouvrent des conversations riches avec presque tous les Russes, quelle que soit leur position politique.",
+        "correct_index": 1
       },
       {
         "question": "Comment se termine traditionnellement une soirée russe ?",
@@ -152,8 +152,8 @@
           "Par un toast final obligatoire",
           "Par le départ simultané de tous les invités"
         ],
-        "answer": 1,
-        "explanation": "La fin d'une soirée russe est un rituel lent en plusieurs actes — on annonce le départ, la conversation reprend, on est accompagné jusqu'à l'ascenseur puis dans la rue. Ce processus est une marque d'affection."
+        "explanation": "La fin d'une soirée russe est un rituel lent en plusieurs actes — on annonce le départ, la conversation reprend, on est accompagné jusqu'à l'ascenseur puis dans la rue. Ce processus est une marque d'affection.",
+        "correct_index": 1
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Критиковать советскую политику против нынешней",
           "Критиковать олигархов против рядовых граждан"
         ],
-        "answer": 1,
-        "explanation": "Путаница между «критикой российского правительства» и «критикой России» — глубокая рана для многих россиян, даже критически настроенных к своему правительству. Это разграничение фундаментально."
+        "explanation": "Путаница между «критикой российского правительства» и «критикой России» — глубокая рана для многих россиян, даже критически настроенных к своему правительству. Это разграничение фундаментально.",
+        "correct_index": 1
       },
       {
         "question": "Какой подход рекомендуется для болезненных политических тем в разговоре с россиянами?",
@@ -259,8 +259,8 @@
           "Активное слушание: открытые вопросы, ответы вопросами, а не утверждениями",
           "Напрямую спросить мнение собеседника о Путине"
         ],
-        "answer": 1,
-        "explanation": "Активное слушание — открытые вопросы, слушать не перебивая, отвечать вопросами — лучший подход к болезненным темам. Создаёт пространство доверия, не навязывая рамок."
+        "explanation": "Активное слушание — открытые вопросы, слушать не перебивая, отвечать вопросами — лучший подход к болезненным темам. Создаёт пространство доверия, не навязывая рамок.",
+        "correct_index": 1
       },
       {
         "question": "Что означает молчание на несколько секунд в российском разговоре?",
@@ -270,8 +270,8 @@
           "Разговор завершён",
           "Неловкость, которую нужно разрядить сменой темы"
         ],
-        "answer": 1,
-        "explanation": "В России молчание не вызывает дискомфорта: нередко это знак серьёзного размышления и уважения к вопросу. Немедленно заполнять паузу может восприниматься как поверхностность."
+        "explanation": "В России молчание не вызывает дискомфорта: нередко это знак серьёзного размышления и уважения к вопросу. Немедленно заполнять паузу может восприниматься как поверхностность.",
+        "correct_index": 1
       },
       {
         "question": "Какие темы, как правило, открывают хорошие разговоры с россиянами?",
@@ -281,8 +281,8 @@
           "Вторжение в Украину и его причины",
           "Сравнение российской и французской политических систем"
         ],
-        "answer": 1,
-        "explanation": "Русская литература, семья, путешествия за пределы Москвы, рецепты кухни — эти темы открывают богатые беседы практически с любым россиянином вне зависимости от политических взглядов."
+        "explanation": "Русская литература, семья, путешествия за пределы Москвы, рецепты кухни — эти темы открывают богатые беседы практически с любым россиянином вне зависимости от политических взглядов.",
+        "correct_index": 1
       },
       {
         "question": "Как традиционно заканчивается российский вечер?",
@@ -292,8 +292,8 @@
           "Обязательным заключительным тостом",
           "Одновременным уходом всех гостей"
         ],
-        "answer": 1,
-        "explanation": "Конец российского вечера — медленный многоактный ритуал: объявляют об уходе, разговор возобновляется, провожают до лифта, потом до улицы. Этот процесс — знак привязанности."
+        "explanation": "Конец российского вечера — медленный многоактный ритуал: объявляют об уходе, разговор возобновляется, провожают до лифта, потом до улицы. Этот процесс — знак привязанности.",
+        "correct_index": 1
       }
     ]
   }

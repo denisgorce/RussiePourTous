@@ -1,10 +1,28 @@
 {
-  "meta": {"module_id": 4, "lesson_id": 1, "module_icon": "🌙", "lesson_icon": "💭", "estimated_minutes": 14, "difficulty": "intermédiaire",
+  "meta": {
+    "module_id": 4,
+    "lesson_id": 1,
+    "module_icon": "🌙",
+    "lesson_icon": "💭",
+    "estimated_minutes": 14,
+    "difficulty": "intermédiaire",
     "sources": [
-      {"label": "Anna Wierzbicka — The Russian soul", "url": "https://www.semanticscholar.org/"},
-      {"label": "Encyclopædia Universalis — Psychologie russe", "url": "https://www.universalis.fr/encyclopedie/russie/"},
-      {"label": "Larousse — Mentalité russe", "url": "https://www.larousse.fr/"},
-      {"label": "France Culture — L'âme russe", "url": "https://www.franceculture.fr/"}
+      {
+        "label": "Anna Wierzbicka — The Russian soul",
+        "url": "https://www.semanticscholar.org/"
+      },
+      {
+        "label": "Encyclopædia Universalis — Psychologie russe",
+        "url": "https://www.universalis.fr/encyclopedie/russie/"
+      },
+      {
+        "label": "Larousse — Mentalité russe",
+        "url": "https://www.larousse.fr/"
+      },
+      {
+        "label": "France Culture — L'âme russe",
+        "url": "https://www.franceculture.fr/"
+      }
     ]
   },
   "fr": {
@@ -13,22 +31,40 @@
     "lesson_subtitle": "Intériorité, mélancolie et générosité",
     "intro": "Il existe un mot russe que les linguistes du monde entier ont étudié comme une fenêtre unique sur une culture : **душа** (*doushá* — l'âme). Mais ce n'est pas l'âme au sens religieux ou philosophique. En russe, la «doushá» désigne quelque chose de plus concret et de plus quotidien — une capacité à l'émotion profonde, à la générosité impulsive, à la mélancolie douce et à l'intériorité intense. Comprendre ce concept, c'est comprendre pourquoi les Russes semblent si étranges aux Français — et pourquoi ils finissent si souvent par les fasciner.",
     "sections": [
-      {"theme": "Histoire", "icon": "📜", "title": "L'âme dans la pensée russe — une tradition millénaire",
+      {
+        "theme": "Histoire",
+        "icon": "📜",
+        "title": "L'âme dans la pensée russe — une tradition millénaire",
         "body": "Le concept de doushá traverse toute l'histoire intellectuelle et littéraire russe. Les philosophes russes du XIXe siècle — les **slavophiles** Khomiakov et Kireïevski — ont théorisé l'idée d'une «âme du peuple russe» (*narod*, народ) distincte de l'âme individuelle occidentale : collective, liée à la terre, à la communauté (*obshchina*, общяина — la commune paysanne) et à la foi orthodoxe.\n\n**Dostoïevski** a mis cette âme en scène dans ses romans : ses personnages vivent dans des états d'intensité émotionnelle extrême, oscillant entre générosité sublime et cruauté soudaine, entre foi ardente et nihilisme absolu. Pour lui, «l'âme russe» est une capacité à souffrir et à éprouver de façon plus totale que les autres — un «super-souffrir» (*сверхстрадание*) qui est aussi une forme de grandeur.\n\n**Tolstoï** y apporte une dimension plus charnelle et terrestre : l'âme russe est dans le rapport à la nature, au travail de la terre, dans la figure simple du paysan (*mouzhik*, мужик) plus «sain» moralement que l'aristocrate européanisé. Cette idéalisation du paysan russe (*narod*) a nourri le courant politique des «populistes» (*narodniki*) qui, dans les années 1870, tentèrent d'aller vivre au contact du peuple pour le «réveiller»."
       },
-      {"theme": "Géographie", "icon": "🗺️", "title": "Le paysage intérieur — steppe et âme",
+      {
+        "theme": "Géographie",
+        "icon": "🗺️",
+        "title": "Le paysage intérieur — steppe et âme",
         "body": "Il est difficile de comprendre l'âme russe sans comprendre le **paysage** qui l'a façonnée. La Russie centrale n'est pas la Russie des montagnes ou des forêts denses — c'est la **steppe**, la plaine infinie, l'horizon qui recule indéfiniment. Ce paysage d'une monotonie sublime a produit une psychologie particulière : une familiarité avec l'absence de limites, une tolérance à la solitude et au silence, une tendance à l'introspection.\n\nLe mot russe **«prostor»** (простор — les grands espaces, l'immensité) n'a pas d'équivalent français. Il désigne à la fois l'espace physique sans borne et un sentiment intérieur de liberté expansive. Un Russe peut se sentir «à l'étroit» dans un appartement parisien non par manque de mètres carrés, mais parce que l'horizon est bouché — psychologiquement, l'absence de prostory est une forme de claustrophobie culturelle.\n\nLa **beryoza** (берёза — le bouleau) est l'arbre national de la Russie — non par décret, mais par consensus affectif. Ses troncs blancs dans les forêts enneigées, sa silhouette fine et mélancolique, ses feuilles qui tremblent au moindre vent — le bouleau est une métaphore vivante de l'âme russe : fragile et résistante, belle et triste, changeante et enracinée."
       },
-      {"theme": "Politique & Société", "icon": "⚖️", "title": "L'âme collective — le 'nous' russe",
+      {
+        "theme": "Politique & Société",
+        "icon": "⚖️",
+        "title": "L'âme collective — le 'nous' russe",
         "body": "La doushá n'est pas seulement individuelle — elle a une dimension profondément collective. Le concept de **«sobornost'»** (соборность — la conciliarité, l'unité spirituelle du peuple) est central dans la pensée slavophile : l'idée que le peuple russe forme une communauté spirituelle organique, qui transcende les intérêts individuels.\n\nConcrètement, cela se manifeste par un rapport au «**nous**» très différent du rapport français à l'individu. En France, la valeur par excellence est l'autonomie individuelle — le droit de penser, choisir, vivre pour soi. En Russie, l'appartenance au groupe — famille, cercle d'amis, collectif de travail — est une valeur plus fondamentale. L'individu qui se coupe de son groupe social pour vivre selon ses principes personnels peut être perçu comme «froid» ou «arrogant» plutôt qu'admirable.\n\nCette différence est visible dans les langues elles-mêmes. En russe, l'expression de l'état émotionnel utilise souvent des constructions impersonnelles : «**Mne skouchno**» (Мне скучно — il m'est ennuyeux / je m'ennuie) plutôt que «*Ya skouchayu*» (je suis ennuyé) — c'est une expérience qui m'arrive, pas un état que j'occupe activement. Cette structure grammaticale reflète une vision du moi moins «agentif», moins maître de ses états, qu'en français."
       },
-      {"theme": "Économie & Vie quotidienne", "icon": "🏠", "title": "La doushá dans le quotidien — générosité et impulsivité",
+      {
+        "theme": "Économie & Vie quotidienne",
+        "icon": "🏠",
+        "title": "La doushá dans le quotidien — générosité et impulsivité",
         "body": "La doushá a des manifestations très concrètes dans la vie quotidienne. La **générosité impulsive** est peut-être la plus visible pour un Français : un Russe que vous venez de rencontrer peut vous inviter chez lui, vous offrir son dernier billet, consacrer une journée entière à vous aider — sans attendre de retour ni de remerciement explicite. Cette générosité n'est pas du calcul social mais une expression directe de l'âme.\n\nL'expression «**душа нараспашку**» (*doushá naraspaschkou* — l'âme grande ouverte, littéralement «l'âme défaite») désigne cette ouverture totale à l'autre, cette incapacité à rester derrière une façade sociale polie. C'est l'opposé de la retenue française ou britannique — et source de malentendus fréquents : un Français peut interpréter cette intensité comme une intrusion dans son espace personnel.\n\nMais la doushá a aussi un aspect sombre : la même intensité émotionnelle qui produit la générosité peut produire la **mélancolie profonde** (*toska*, тоска — voir leçon 5), l'impulsivité destructrice, les décisions prises «à l'âme» sans calcul rationnel. L'expression «**широкая душа**» (*shirokaya doushá* — l'âme large) peut désigner autant la générosité que l'excès — quelqu'un qui dépense tout en une nuit de fête parce que «l'âme le demande»."
       },
-      {"theme": "Culture & Arts", "icon": "🎨", "title": "L'âme dans la littérature et la musique",
+      {
+        "theme": "Culture & Arts",
+        "icon": "🎨",
+        "title": "L'âme dans la littérature et la musique",
         "body": "La doushá est peut-être la notion la plus présente dans la littérature russe. Les grands romans russes sont fondamentalement des explorations de l'âme humaine — dans sa contradiction, son intensité, sa capacité à la fois à l'amour sublime et à la destruction.\n\nLe personnage de **Prince Mychkine** dans *L'Idiot* de Dostoïevski est l'incarnation littéraire de la doushá pure : épileptique, naïf, incapable de mensonge ou de calcul, il rayonne d'une bonté absolue qui détruit tout ce qu'il touche — parce que le monde réel ne peut pas accueillir une âme aussi ouverte. C'est une tragédie de la pureté.\n\nEn musique, **Rachmaninov** est le compositeur de la doushá par excellence : ses Concertos pour piano (le 2e, le 3e) sont d'une mélancolie d'une beauté presque insupportable, avec des montées d'intensité émotionnelle qui épuisent physiquement l'auditeur. Il disait lui-même que sa musique venait directement de sa «doushá».\n\nLe **chant choral orthodoxe** (*tserkovnoye peniye* — le chant d'église), avec ses basses profondes qui descendent jusqu'aux registres les plus sombres de la voix humaine, est une autre expression directe de cette âme collective — le peuple priant comme un seul corps."
       },
-      {"theme": "Gastronomie & Codes sociaux", "icon": "🍲", "title": "Manger avec l'âme — les repas russes comme rituel de doushá",
+      {
+        "theme": "Gastronomie & Codes sociaux",
+        "icon": "🍲",
+        "title": "Manger avec l'âme — les repas russes comme rituel de doushá",
         "body": "En Russie, les repas partagés ne sont pas des actes de nutrition — ce sont des rituels de **communion des âmes**. Un repas russe «réussi» n'est pas un repas bien cuisiné — c'est un repas où tout le monde a parlé avec franchise, où les larmes ont peut-être coulé, où on a ri aux éclats et porté des toasts sincères jusqu'à l'aube.\n\nLe concept de **«zastolye»** (застолье — la table festive, littéralement «ce qui est sous/autour de la table») désigne ce moment de convivialité intense autour du repas : on mange, on boit, mais surtout on parle — vraiment, profondément, sans faux-semblants. Une soirée de zastolye peut durer 6 ou 8 heures. C'est un espace social qui échappe aux normes habituelles et où l'âme peut s'exprimer librement.\n\nLe **toast russe** est une forme d'art oral lié à la doushá. Contrairement au toast français (bref et élégant), le toast russe est souvent long, narratif, poétique — une petite histoire sur la vie, l'amitié, le sens du bonheur. Un toast raté (trop court, trop formel, sans émotion sincère) est ressenti comme un manque de doushá. La règle non dite : le premier verre se porte à la santé, le deuxième à l'amour, le troisième aux absents."
       }
     ],
@@ -38,40 +74,94 @@
       "content": "**Montrez votre âme.** La plus grande erreur qu'un Français peut faire avec des Russes est de rester derrière sa politesse sociale habituelle — la distance professionnelle, la conversation de surface, le sourire de façade. Les Russes sont extrêmement sensibles à l'authenticité et à la profondeur. Ils préfèrent une conversation difficile et sincère à une conversation agréable et creuse.\n\nUne façon concrète de «montrer votre âme» : partagez quelque chose de vrai sur vous-même — une difficulté, une passion, une peur, une aspiration. Les Russes répondent à l'ouverture par l'ouverture. Vous serez surpris de la rapidité avec laquelle une conversation peut devenir profonde et intime.\n\n**Attention au contresens** : la retenue française peut être perçue par les Russes comme de la froideur ou du mépris — non par manque d'intelligence, mais par différence de code culturel. De même, l'intensité émotionnelle russe peut sembler envahissante à un Français. Ces malentendus se résolvent par la curiosité et l'explication mutuelle — «chez nous, on fait autrement, et voilà pourquoi»."
     },
     "glossary": [
-      {"term": "Doushá (Душа)", "definition": "L'âme en russe — pas au sens religieux, mais comme capacité à l'émotion profonde, à la générosité et à l'intériorité intense. Concept central de la psychologie russe."},
-      {"term": "Prostor (Простор)", "definition": "Les grands espaces, l'immensité — à la fois géographique et intérieure. Sentiment de liberté expansive lié au paysage de la steppe russe."},
-      {"term": "Sobornost' (Соборность)", "definition": "Concept slavophile de l'unité spirituelle collective du peuple russe, transcendant les intérêts individuels. Opposé à l'individualisme occidental."},
-      {"term": "Toska (Тоска)", "definition": "Mélancolie-aspiration russe sans équivalent exact — un vide douloureux, une nostalgie d'on-ne-sait-quoi. Vladimir Nabokov disait qu'aucun mot n'est intraduisible comme toska."},
-      {"term": "Zastolye (Застолье)", "definition": "La table festive — moment de communion intense autour d'un repas, où la conversation profonde et sincère est aussi importante que la nourriture."},
-      {"term": "Narod (Народ)", "definition": "Le peuple — dans un sens à la fois démographique et spirituel. L'idéalisation du 'narod' (le paysan simple et authentique) est centrale dans la pensée russe du XIXe siècle."},
-      {"term": "Douchá naragpachkou (Душа нараспашку)", "definition": "'L'âme grande ouverte' — expression décrivant quelqu'un qui se montre totalement, sans façade, avec une intensité émotionnelle totale."},
-      {"term": "Mouzhik (Мужик)", "definition": "Le paysan russe simple — idéalisé par Tolstoï et les slavophiles comme incarnation de la sagesse populaire et de l'âme russe authentique."}
+      {
+        "term": "Doushá (Душа)",
+        "definition": "L'âme en russe — pas au sens religieux, mais comme capacité à l'émotion profonde, à la générosité et à l'intériorité intense. Concept central de la psychologie russe."
+      },
+      {
+        "term": "Prostor (Простор)",
+        "definition": "Les grands espaces, l'immensité — à la fois géographique et intérieure. Sentiment de liberté expansive lié au paysage de la steppe russe."
+      },
+      {
+        "term": "Sobornost' (Соборность)",
+        "definition": "Concept slavophile de l'unité spirituelle collective du peuple russe, transcendant les intérêts individuels. Opposé à l'individualisme occidental."
+      },
+      {
+        "term": "Toska (Тоска)",
+        "definition": "Mélancolie-aspiration russe sans équivalent exact — un vide douloureux, une nostalgie d'on-ne-sait-quoi. Vladimir Nabokov disait qu'aucun mot n'est intraduisible comme toska."
+      },
+      {
+        "term": "Zastolye (Застолье)",
+        "definition": "La table festive — moment de communion intense autour d'un repas, où la conversation profonde et sincère est aussi importante que la nourriture."
+      },
+      {
+        "term": "Narod (Народ)",
+        "definition": "Le peuple — dans un sens à la fois démographique et spirituel. L'idéalisation du 'narod' (le paysan simple et authentique) est centrale dans la pensée russe du XIXe siècle."
+      },
+      {
+        "term": "Douchá naragpachkou (Душа нараспашку)",
+        "definition": "'L'âme grande ouverte' — expression décrivant quelqu'un qui se montre totalement, sans façade, avec une intensité émotionnelle totale."
+      },
+      {
+        "term": "Mouzhik (Мужик)",
+        "definition": "Le paysan russe simple — idéalisé par Tolstoï et les slavophiles comme incarnation de la sagesse populaire et de l'âme russe authentique."
+      }
     ],
     "quiz": [
-      {"question": "Qu'est-ce que la 'doushá' (душа) en russe, au-delà du sens religieux ?",
-        "options": ["La souffrance physique", "Une capacité à l'émotion profonde, à la générosité et à l'intériorité intense", "Le sens du devoir envers la communauté", "La fierté nationale russe"],
-        "answer": 1,
-        "explanation": "La 'doushá' désigne en russe quotidien une capacité à l'émotion profonde et à la générosité impulsive — quelque chose de concret et de vécu, pas une abstraction religieuse."
+      {
+        "question": "Qu'est-ce que la 'doushá' (душа) en russe, au-delà du sens religieux ?",
+        "options": [
+          "La souffrance physique",
+          "Une capacité à l'émotion profonde, à la générosité et à l'intériorité intense",
+          "Le sens du devoir envers la communauté",
+          "La fierté nationale russe"
+        ],
+        "explanation": "La 'doushá' désigne en russe quotidien une capacité à l'émotion profonde et à la générosité impulsive — quelque chose de concret et de vécu, pas une abstraction religieuse.",
+        "correct_index": 1
       },
-      {"question": "Que signifie le concept de 'prostor' (простор) pour les Russes ?",
-        "options": ["La richesse matérielle", "L'immensité et la liberté expansive — à la fois géographique et intérieure", "La proximité familiale", "L'espace domestique confortable"],
-        "answer": 1,
-        "explanation": "Le 'prostor' désigne les grands espaces sans limite, à la fois physiques (la steppe) et intérieurs. Un sentiment de liberté expansive difficile à traduire dans d'autres langues."
+      {
+        "question": "Que signifie le concept de 'prostor' (простор) pour les Russes ?",
+        "options": [
+          "La richesse matérielle",
+          "L'immensité et la liberté expansive — à la fois géographique et intérieure",
+          "La proximité familiale",
+          "L'espace domestique confortable"
+        ],
+        "explanation": "Le 'prostor' désigne les grands espaces sans limite, à la fois physiques (la steppe) et intérieurs. Un sentiment de liberté expansive difficile à traduire dans d'autres langues.",
+        "correct_index": 1
       },
-      {"question": "Qu'est-ce que le 'zastolye' dans la culture russe ?",
-        "options": ["Un plat traditionnel servi aux mariages", "La table festive — moment de communion intense où la conversation sincère est aussi importante que la nourriture", "Le rituel du toast de bienvenue", "Un type de cuisine régionale"],
-        "answer": 1,
-        "explanation": "Le 'zastolye' désigne ce moment de convivialité intense autour d'un repas russe, qui peut durer 6 à 8 heures — un espace social où l'âme s'exprime librement, entre nourriture, boisson et conversation profonde."
+      {
+        "question": "Qu'est-ce que le 'zastolye' dans la culture russe ?",
+        "options": [
+          "Un plat traditionnel servi aux mariages",
+          "La table festive — moment de communion intense où la conversation sincère est aussi importante que la nourriture",
+          "Le rituel du toast de bienvenue",
+          "Un type de cuisine régionale"
+        ],
+        "explanation": "Le 'zastolye' désigne ce moment de convivialité intense autour d'un repas russe, qui peut durer 6 à 8 heures — un espace social où l'âme s'exprime librement, entre nourriture, boisson et conversation profonde.",
+        "correct_index": 1
       },
-      {"question": "Quel est le sens de l'expression 'douchá naragpachkou' (душа нараспашку) ?",
-        "options": ["Être avare", "L'âme grande ouverte — quelqu'un qui se montre totalement sans façade", "Être silencieux et réservé", "Avoir de l'ambition"],
-        "answer": 1,
-        "explanation": "'Douchá naragpachkou' (l'âme grande ouverte) décrit quelqu'un qui se montre totalement, avec une intensité émotionnelle complète, sans aucune façade sociale. C'est une qualité admirée en Russie."
+      {
+        "question": "Quel est le sens de l'expression 'douchá naragpachkou' (душа нараспашку) ?",
+        "options": [
+          "Être avare",
+          "L'âme grande ouverte — quelqu'un qui se montre totalement sans façade",
+          "Être silencieux et réservé",
+          "Avoir de l'ambition"
+        ],
+        "explanation": "'Douchá naragpachkou' (l'âme grande ouverte) décrit quelqu'un qui se montre totalement, avec une intensité émotionnelle complète, sans aucune façade sociale. C'est une qualité admirée en Russie.",
+        "correct_index": 1
       },
-      {"question": "Quel est le premier principe d'un toast russe bien réussi selon les codes culturels ?",
-        "options": ["Il doit être bref et élégant", "Il doit être sincère, narratif et émotionnellement chargé", "Il doit mentionner le Président", "Il doit être dit debout par le plus âgé"],
-        "answer": 1,
-        "explanation": "Le toast russe est une forme d'art oral — souvent long, narratif, poétique, exprimant une vérité sincère sur la vie ou l'amitié. Un toast trop court ou formel est ressenti comme un manque de doushá."
+      {
+        "question": "Quel est le premier principe d'un toast russe bien réussi selon les codes culturels ?",
+        "options": [
+          "Il doit être bref et élégant",
+          "Il doit être sincère, narratif et émotionnellement chargé",
+          "Il doit mentionner le Président",
+          "Il doit être dit debout par le plus âgé"
+        ],
+        "explanation": "Le toast russe est une forme d'art oral — souvent long, narratif, poétique, exprimant une vérité sincère sur la vie ou l'amitié. Un toast trop court ou formel est ressenti comme un manque de doushá.",
+        "correct_index": 1
       }
     ]
   },
@@ -81,22 +171,40 @@
     "lesson_subtitle": "Душевность, меланхолия и щедрость",
     "intro": "Есть русское слово, которое лингвисты всего мира изучали как уникальное окно в культуру: **душа**. Но это не душа в религиозном или философском смысле. В русском языке «душа» обозначает нечто более конкретное и повседневное — способность к глубокому переживанию, к порывистой щедрости, к тихой меланхолии и к напряжённой внутренней жизни. Понять это понятие — значит понять, почему россияне кажутся французам такими странными и почему они так часто в итоге их завораживают.",
     "sections": [
-      {"theme": "История", "icon": "📜", "title": "Душа в русской мысли — тысячелетняя традиция",
+      {
+        "theme": "История",
+        "icon": "📜",
+        "title": "Душа в русской мысли — тысячелетняя традиция",
         "body": "Понятие «душа» пронизывает всю интеллектуальную и литературную историю России. Русские философы XIX века — **славянофилы** Хомяков и Киреевский — теоретически обосновали идею «народной душы», отличной от западной индивидуальной: коллективной, связанной с землёй, с общиной и православной верой.\n\n**Достоевский** воплотил эту душу в своих романах: его персонажи живут в состояниях крайней эмоциональной напряжённости, колеблясь между возвышенной щедростью и внезапной жестокостью. Для него «русская душа» — это способность страдать и чувствовать тотальнее, чем другие.\n\n**Толстой** придал этому понятию более телесное, земное измерение: душа живёт в отношении к природе, к труду на земле, в образе простого мужика, духовно более здорового, чем европеизированный аристократ. Эта идеализация народа питала политическое движение народников 1870-х."
       },
-      {"theme": "География", "icon": "🗺️", "title": "Внутренний пейзаж — степь и душа",
+      {
+        "theme": "География",
+        "icon": "🗺️",
+        "title": "Внутренний пейзаж — степь и душа",
         "body": "Понять русскую душу невозможно без понимания **пейзажа**, который её сформировал. Центральная Россия — не горы и не дремучие леса, это **степь**, бесконечная равнина, горизонт, который вечно отступает. Этот ландшафт возвышенного однообразия породил особую психологию: привычку к безграничности, терпимость к одиночеству и тишине, склонность к самопогружению.\n\nРусское слово **«простор»** не имеет точного аналога во французском языке. Оно обозначает и физическое безграничное пространство, и внутреннее чувство раскрытой свободы.\n\n**Берёза** — национальное дерево России не по указу, а по всеобщей любви. Белые стволы в снежных лесах, тонкий силуэт, трепещущие листья — берёза это живая метафора русской души: хрупкая и стойкая, красивая и грустная."
       },
-      {"theme": "Политика и общество", "icon": "⚖️", "title": "Коллективная душа — русское «мы»",
+      {
+        "theme": "Политика и общество",
+        "icon": "⚖️",
+        "title": "Коллективная душа — русское «мы»",
         "body": "Душа не только индивидуальна — она глубоко коллективна. Понятие **«соборности»** — духовного единства народа — центрально в славянофильской мысли: русский народ образует органическую духовную общность, превосходящую индивидуальные интересы.\n\nКонкретно это проявляется в совершенно ином отношении к «**мы**» по сравнению с французским отношением к индивиду. Во Франции высшая ценность — индивидуальная автономия. В России принадлежность к группе — семье, кругу друзей, рабочему коллективу — ценность более фундаментальная.\n\nЭто различие видно в самом языке. По-русски эмоциональное состояние нередко выражается через безличные конструкции: «Мне скучно» (скука со мной происходит) вместо «Я скучаю» — это нечто, случающееся со мной, а не состояние, которым я активно владею."
       },
-      {"theme": "Экономика и повседневная жизнь", "icon": "🏠", "title": "Душа в повседневности — щедрость и порывистость",
+      {
+        "theme": "Экономика и повседневная жизнь",
+        "icon": "🏠",
+        "title": "Душа в повседневности — щедрость и порывистость",
         "body": "Душа имеет очень конкретные проявления в повседневной жизни. **Порывистая щедрость** — пожалуй, самая заметная для француза: только что познакомившийся с вами россиянин может пригласить вас домой, отдать последнюю купюру, потратить целый день, помогая вам — не ожидая ни отдачи, ни явной благодарности.\n\nВыражение **«душа нараспашку»** обозначает эту полную открытость другому, эту неспособность оставаться за фасадом социальной вежливости. Это противоположность французской или британской сдержанности.\n\nНо у души есть и тёмная сторона: та же эмоциональная интенсивность, что рождает щедрость, порождает **глубокую меланхолию** (тоску), разрушительную порывистость, решения, принятые «по душе» без рационального расчёта."
       },
-      {"theme": "Культура и искусство", "icon": "🎨", "title": "Душа в литературе и музыке",
+      {
+        "theme": "Культура и искусство",
+        "icon": "🎨",
+        "title": "Душа в литературе и музыке",
         "body": "Душа — пожалуй, самое частотное понятие русской литературы. Великие русские романы — это фундаментально исследования человеческой души в её противоречиях, интенсивности, способности как к возвышенной любви, так и к разрушению.\n\nКнязь **Мышкин** в «Идиоте» Достоевского — литературное воплощение чистой души: эпилептик, наивный, неспособный ни на ложь, ни на расчёт, он излучает абсолютную доброту, разрушающую всё, к чему прикасается.\n\n**Рахманинов** — композитор «душы» по преимуществу: его фортепианные концерты (2-й, 3-й) — меланхолия невыносимой красоты, с нарастаниями эмоциональной интенсивности, физически изнуряющими слушателя. **Православное хоровое пение** с его глубокими басами, уходящими в самые тёмные регистры человеческого голоса, — прямое выражение этой коллективной души."
       },
-      {"theme": "Гастрономия и социальные коды", "icon": "🍲", "title": "Есть с душой — русский стол как ритуал",
+      {
+        "theme": "Гастрономия и социальные коды",
+        "icon": "🍲",
+        "title": "Есть с душой — русский стол как ритуал",
         "body": "В России совместные трапезы — не акт питания, а ритуал **слияния душ**. «Удавшееся» русское застолье — не вкусно приготовленный ужин, а тот, где все говорили искренне, где, может быть, лились слёзы, где смеялись до упаду и произносили тосты от сердца до рассвета.\n\n**«Застолье»** — это момент насыщенного общения вокруг стола: едят, пьют, но прежде всего говорят — по-настоящему, глубоко, без притворства. Застолье может длиться 6–8 часов — пространство, где душа говорит свободно.\n\nРусский **тост** — форма устного искусства, связанная с душой. В отличие от краткого и изящного французского тоста, русский нередко длинен, нарративен, поэтичен — маленькая история о жизни, дружбе, смысле счастья. Неписаное правило: первый тост — за здоровье, второй — за любовь, третий — за отсутствующих."
       }
     ],
@@ -106,40 +214,94 @@
       "content": "**Покажите свою душу.** Главная ошибка, которую может совершить француз с россиянами, — оставаться за привычной социальной вежливостью: профессиональной дистанцией, светским разговором, дежурной улыбкой. Россияне исключительно чувствительны к подлинности и глубине. Трудный, но искренний разговор они предпочтут приятному, но пустому.\n\nКонкретный способ «показать душу»: поделитесь чем-то настоящим о себе — трудностью, страстью, страхом, мечтой. Россияне отвечают открытостью на открытость — вы удивитесь, как быстро разговор может стать глубоким и близким.\n\n**Внимание к разночтению**: французская сдержанность может восприниматься россиянами как холодность или пренебрежение. Аналогично, русская эмоциональная интенсивность может казаться французу навязчивой. Эти недоразумения разрешаются любопытством и взаимным объяснением: «у нас принято иначе, и вот почему»."
     },
     "glossary": [
-      {"term": "Душа", "definition": "В русском обиходе — не религиозная абстракция, а способность к глубокому переживанию, порывистой щедрости и напряжённой внутренней жизни. Центральное понятие русской психологии."},
-      {"term": "Простор", "definition": "Бескрайние просторы, необъятность — одновременно географическая и внутренняя. Ощущение раскрытой свободы, связанное с пейзажем русской степи."},
-      {"term": "Соборность", "definition": "Славянофильское понятие духовного единства русского народа, превосходящего индивидуальные интересы. Противоположность западному индивидуализму."},
-      {"term": "Тоска", "definition": "Русская меланхолия-томление без точного аналога — мучительная пустота, ностальгия по непонятно чему. Набоков говорил, что это слово непереводимее любого другого."},
-      {"term": "Застолье", "definition": "Праздничный стол — момент насыщенного общения, где искренний разговор столь же важен, как еда и питьё."},
-      {"term": "Народ", "definition": "Народ — в демографическом и духовном смысле. Идеализация «народа» (простого крестьянина) занимает центральное место в русской мысли XIX века."},
-      {"term": "Душа нараспашку", "definition": "«Душа нараспашку» — выражение, описывающее человека, полностью открытого, без фасада, с тотальной эмоциональной интенсивностью."},
-      {"term": "Мужик", "definition": "Простой русский крестьянин — идеализированный Толстым и славянофилами как воплощение народной мудрости и подлинной русской души."}
+      {
+        "term": "Душа",
+        "definition": "В русском обиходе — не религиозная абстракция, а способность к глубокому переживанию, порывистой щедрости и напряжённой внутренней жизни. Центральное понятие русской психологии."
+      },
+      {
+        "term": "Простор",
+        "definition": "Бескрайние просторы, необъятность — одновременно географическая и внутренняя. Ощущение раскрытой свободы, связанное с пейзажем русской степи."
+      },
+      {
+        "term": "Соборность",
+        "definition": "Славянофильское понятие духовного единства русского народа, превосходящего индивидуальные интересы. Противоположность западному индивидуализму."
+      },
+      {
+        "term": "Тоска",
+        "definition": "Русская меланхолия-томление без точного аналога — мучительная пустота, ностальгия по непонятно чему. Набоков говорил, что это слово непереводимее любого другого."
+      },
+      {
+        "term": "Застолье",
+        "definition": "Праздничный стол — момент насыщенного общения, где искренний разговор столь же важен, как еда и питьё."
+      },
+      {
+        "term": "Народ",
+        "definition": "Народ — в демографическом и духовном смысле. Идеализация «народа» (простого крестьянина) занимает центральное место в русской мысли XIX века."
+      },
+      {
+        "term": "Душа нараспашку",
+        "definition": "«Душа нараспашку» — выражение, описывающее человека, полностью открытого, без фасада, с тотальной эмоциональной интенсивностью."
+      },
+      {
+        "term": "Мужик",
+        "definition": "Простой русский крестьянин — идеализированный Толстым и славянофилами как воплощение народной мудрости и подлинной русской души."
+      }
     ],
     "quiz": [
-      {"question": "Что такое «душа» в русском языке, помимо религиозного смысла?",
-        "options": ["Физическое страдание", "Способность к глубокому переживанию, щедрости и напряжённой внутренней жизни", "Чувство долга перед общиной", "Русская национальная гордость"],
-        "answer": 1,
-        "explanation": "«Душа» в русском обиходе обозначает способность к глубокому переживанию и порывистой щедрости — нечто конкретное и проживаемое, а не религиозную абстракцию."
+      {
+        "question": "Что такое «душа» в русском языке, помимо религиозного смысла?",
+        "options": [
+          "Физическое страдание",
+          "Способность к глубокому переживанию, щедрости и напряжённой внутренней жизни",
+          "Чувство долга перед общиной",
+          "Русская национальная гордость"
+        ],
+        "explanation": "«Душа» в русском обиходе обозначает способность к глубокому переживанию и порывистой щедрости — нечто конкретное и проживаемое, а не религиозную абстракцию.",
+        "correct_index": 1
       },
-      {"question": "Что такое «простор» для россиян?",
-        "options": ["Материальное богатство", "Бескрайние пространства и раскрытая свобода — и географическая, и внутренняя", "Семейная близость", "Уютное домашнее пространство"],
-        "answer": 1,
-        "explanation": "«Простор» обозначает безграничные пространства, как физические (степь), так и внутренние. Ощущение раскрытой свободы, трудно переводимое на другие языки."
+      {
+        "question": "Что такое «простор» для россиян?",
+        "options": [
+          "Материальное богатство",
+          "Бескрайние пространства и раскрытая свобода — и географическая, и внутренняя",
+          "Семейная близость",
+          "Уютное домашнее пространство"
+        ],
+        "explanation": "«Простор» обозначает безграничные пространства, как физические (степь), так и внутренние. Ощущение раскрытой свободы, трудно переводимое на другие языки.",
+        "correct_index": 1
       },
-      {"question": "Что такое «застолье» в русской культуре?",
-        "options": ["Традиционное свадебное блюдо", "Праздничный стол — момент насыщенного общения, где искренний разговор так же важен, как еда", "Ритуал приветственного тоста", "Вид региональной кухни"],
-        "answer": 1,
-        "explanation": "«Застолье» — это момент напряжённого общения вокруг русского стола, способного длиться 6–8 часов: социальное пространство, где душа говорит свободно — между едой, питьём и глубоким разговором."
+      {
+        "question": "Что такое «застолье» в русской культуре?",
+        "options": [
+          "Традиционное свадебное блюдо",
+          "Праздничный стол — момент насыщенного общения, где искренний разговор так же важен, как еда",
+          "Ритуал приветственного тоста",
+          "Вид региональной кухни"
+        ],
+        "explanation": "«Застолье» — это момент напряжённого общения вокруг русского стола, способного длиться 6–8 часов: социальное пространство, где душа говорит свободно — между едой, питьём и глубоким разговором.",
+        "correct_index": 1
       },
-      {"question": "Что значит выражение «душа нараспашку»?",
-        "options": ["Быть скупым", "Полная открытость — человек, показывающий себя целиком, без фасада", "Молчаливость и замкнутость", "Честолюбие"],
-        "answer": 1,
-        "explanation": "«Душа нараспашку» описывает человека полностью открытого, с тотальной эмоциональной интенсивностью, без какого-либо социального фасада. В России это ценимое качество."
+      {
+        "question": "Что значит выражение «душа нараспашку»?",
+        "options": [
+          "Быть скупым",
+          "Полная открытость — человек, показывающий себя целиком, без фасада",
+          "Молчаливость и замкнутость",
+          "Честолюбие"
+        ],
+        "explanation": "«Душа нараспашку» описывает человека полностью открытого, с тотальной эмоциональной интенсивностью, без какого-либо социального фасада. В России это ценимое качество.",
+        "correct_index": 1
       },
-      {"question": "Каков первый принцип хорошо произнесённого русского тоста?",
-        "options": ["Он должен быть кратким и изящным", "Он должен быть искренним, нарративным и эмоционально насыщенным", "В нём нужно упомянуть Президента", "Его должен произносить стоя старший по возрасту"],
-        "answer": 1,
-        "explanation": "Русский тост — форма устного искусства: нередко длинный, нарративный, поэтичный, выражающий искреннюю истину о жизни или дружбе. Слишком краткий или формальный тост воспринимается как отсутствие души."
+      {
+        "question": "Каков первый принцип хорошо произнесённого русского тоста?",
+        "options": [
+          "Он должен быть кратким и изящным",
+          "Он должен быть искренним, нарративным и эмоционально насыщенным",
+          "В нём нужно упомянуть Президента",
+          "Его должен произносить стоя старший по возрасту"
+        ],
+        "explanation": "Русский тост — форма устного искусства: нередко длинный, нарративный, поэтичный, выражающий искреннюю истину о жизни или дружбе. Слишком краткий или формальный тост воспринимается как отсутствие души.",
+        "correct_index": 1
       }
     ]
   }

@@ -108,8 +108,8 @@
           "Sergueï Diaghilev",
           "Agrippina Vaganova"
         ],
-        "answer": 1,
-        "explanation": "Marius Petipa (1818-1910), maître de ballet français qui a passé toute sa carrière à Saint-Pétersbourg, est le chorégraphe des versions définitives des trois grands ballets de Tchaïkovski. Sa collaboration avec Tchaïkovski a défini le ballet classique académique tel qu'on le conçoit mondialement."
+        "explanation": "Marius Petipa (1818-1910), maître de ballet français qui a passé toute sa carrière à Saint-Pétersbourg, est le chorégraphe des versions définitives des trois grands ballets de Tchaïkovski. Sa collaboration avec Tchaïkovski a défini le ballet classique académique tel qu'on le conçoit mondialement.",
+        "correct_index": 1
       },
       {
         "question": "Quel événement politique russe a été illustré par la diffusion en boucle du Lac des Cygnes à la télévision ?",
@@ -119,8 +119,8 @@
           "La dissolution de l'URSS en décembre 1991",
           "L'élection de Boris Eltsine en 1991"
         ],
-        "answer": 1,
-        "explanation": "Lors du coup d'État manqué d'août 1991 contre Gorbatchev, les chaînes soviétiques ont diffusé en boucle le Lac des Cygnes — signal immédiatement compris comme signe d'une crise grave. Cette association est entrée dans la mémoire collective russe : «le Lac des Cygnes passe à la télé» est devenu une expression signifiant que quelque chose de grave se passe."
+        "explanation": "Lors du coup d'État manqué d'août 1991 contre Gorbatchev, les chaînes soviétiques ont diffusé en boucle le Lac des Cygnes — signal immédiatement compris comme signe d'une crise grave. Cette association est entrée dans la mémoire collective russe : «le Lac des Cygnes passe à la télé» est devenu une expression signifiant que quelque chose de grave se passe.",
+        "correct_index": 1
       },
       {
         "question": "Quel scandale artistique le Sacre du printemps a-t-il provoqué à Paris en 1913 ?",
@@ -130,8 +130,8 @@
           "Il a été boycotté par la critique musicale qui refusait de le reconnaître comme ballet",
           "Stravinsky a été expulsé de France suite aux protestations du public"
         ],
-        "answer": 1,
-        "explanation": "La première du Sacre du printemps le 29 mai 1913 au Théâtre des Champs-Élysées à Paris a déclenché une émeute dans la salle : les spectateurs sifflaient, criaient et se battaient entre partisans et opposants. Cet événement est considéré comme un moment fondateur de la rupture avec les traditions artistiques du XIXe siècle."
+        "explanation": "La première du Sacre du printemps le 29 mai 1913 au Théâtre des Champs-Élysées à Paris a déclenché une émeute dans la salle : les spectateurs sifflaient, criaient et se battaient entre partisans et opposants. Cet événement est considéré comme un moment fondateur de la rupture avec les traditions artistiques du XIXe siècle.",
+        "correct_index": 1
       },
       {
         "question": "Quelle est la différence généralement reconnue entre les styles de l'école de Saint-Pétersbourg et de l'école de Moscou ?",
@@ -141,8 +141,8 @@
           "Saint-Pétersbourg produit surtout des danseuses, Moscou surtout des danseurs masculins",
           "Les deux écoles sont identiques depuis la standardisation soviétique des années 1930"
         ],
-        "answer": 1,
-        "explanation": "L'école de Saint-Pétersbourg (Vaganova) est réputée pour sa pureté technique, sa verticalité et son élégance classique. L'école de Moscou est connue pour sa puissance physique, sa virtuosité acrobatique et son expressivité dramatique plus marquée. Cette distinction reste reconnue dans le monde du ballet."
+        "explanation": "L'école de Saint-Pétersbourg (Vaganova) est réputée pour sa pureté technique, sa verticalité et son élégance classique. L'école de Moscou est connue pour sa puissance physique, sa virtuosité acrobatique et son expressivité dramatique plus marquée. Cette distinction reste reconnue dans le monde du ballet.",
+        "correct_index": 1
       },
       {
         "question": "Quelle est la signification sociale du double rôle d'Odette-Odile dans Le Lac des Cygnes ?",
@@ -152,8 +152,8 @@
           "Il représente symboliquement la dualité de la nature russe entre Orient et Occident",
           "Il a été créé pour permettre aux directeurs de compagnie de former deux ballerines simultanément"
         ],
-        "answer": 1,
-        "explanation": "Le double rôle d'Odette (cygne blanc, pur et tragique) et Odile (cygne noir, maléfique et séducteur) — dansés par la même ballerine dans le même spectacle — est considéré comme le test suprême d'une grande ballerine classique. Il requiert une maîtrise technique et dramatique que peu d'interprètes réalisent pleinement."
+        "explanation": "Le double rôle d'Odette (cygne blanc, pur et tragique) et Odile (cygne noir, maléfique et séducteur) — dansés par la même ballerine dans le même spectacle — est considéré comme le test suprême d'une grande ballerine classique. Il requiert une maîtrise technique et dramatique que peu d'interprètes réalisent pleinement.",
+        "correct_index": 1
       }
     ]
   },
@@ -248,8 +248,8 @@
           "Сергей Дягилев",
           "Агриппина Ваганова"
         ],
-        "answer": 1,
-        "explanation": "Мариус Петипа (1818–1910), французский балетмейстер, проведший всю карьеру в Санкт-Петербурге, поставил окончательные редакции трёх великих балетов Чайковского. Его сотрудничество с Чайковским определило академический классический балет в том виде, каким его понимают во всём мире."
+        "explanation": "Мариус Петипа (1818–1910), французский балетмейстер, проведший всю карьеру в Санкт-Петербурге, поставил окончательные редакции трёх великих балетов Чайковского. Его сотрудничество с Чайковским определило академический классический балет в том виде, каким его понимают во всём мире.",
+        "correct_index": 1
       },
       {
         "question": "Какое политическое событие в России сопровождалось непрерывным показом Лебединого озера по телевидению?",
@@ -259,8 +259,8 @@
           "Распад СССР в декабре 1991 года",
           "Выборы Бориса Ельцина в 1991 году"
         ],
-        "answer": 1,
-        "explanation": "Во время провалившегося путча в августе 1991 года, когда Горбачёв был задержан в Крыму, советские телеканалы непрерывно показывали Лебединое озеро — сигнал, немедленно понятый как знак серьёзного кризиса. Эта связь вошла в коллективную память: «Лебединое озеро по телевизору» стало означать, что происходит что-то важное."
+        "explanation": "Во время провалившегося путча в августе 1991 года, когда Горбачёв был задержан в Крыму, советские телеканалы непрерывно показывали Лебединое озеро — сигнал, немедленно понятый как знак серьёзного кризиса. Эта связь вошла в коллективную память: «Лебединое озеро по телевизору» стало означать, что происходит что-то важное.",
+        "correct_index": 1
       },
       {
         "question": "Какой художественный скандал вызвала Весна священная в Париже в 1913 году?",
@@ -270,8 +270,8 @@
           "Музыкальная критика отказалась признать её балетом",
           "Стравинский был выслан из Франции из-за протестов публики"
         ],
-        "answer": 1,
-        "explanation": "Премьера Весны священной 29 мая 1913 года в Театре Елисейских полей в Париже вызвала беспорядки: зрители освистывали, кричали и дрались, разделившись на сторонников и противников. Это событие считается основополагающим в разрыве с художественными традициями XIX века."
+        "explanation": "Премьера Весны священной 29 мая 1913 года в Театре Елисейских полей в Париже вызвала беспорядки: зрители освистывали, кричали и дрались, разделившись на сторонников и противников. Это событие считается основополагающим в разрыве с художественными традициями XIX века.",
+        "correct_index": 1
       },
       {
         "question": "Какое общепризнанное различие существует между стилями петербургской и московской балетных школ?",
@@ -281,8 +281,8 @@
           "Петербург готовит преимущественно балерин, Москва — танцовщиков",
           "Обе школы одинаковы после советской стандартизации 1930-х годов"
         ],
-        "answer": 1,
-        "explanation": "Петербургская школа (Вагановой) славится технической чистотой, вертикальностью и классической элегантностью. Московская известна физической мощью, акробатической виртуозностью и более выраженной драматической экспрессией. Это различие по-прежнему признаётся в балетном мире."
+        "explanation": "Петербургская школа (Вагановой) славится технической чистотой, вертикальностью и классической элегантностью. Московская известна физической мощью, акробатической виртуозностью и более выраженной драматической экспрессией. Это различие по-прежнему признаётся в балетном мире.",
+        "correct_index": 1
       },
       {
         "question": "Каково значение двойной роли Одетты-Одиллии в Лебедином озере?",
@@ -292,8 +292,8 @@
           "Она символически воплощает двойственность русской природы между Востоком и Западом",
           "Она была создана, чтобы дирекция могла одновременно готовить двух балерин"
         ],
-        "answer": 1,
-        "explanation": "Двойная роль Одетты (белый лебедь, чистый и трагический) и Одиллии (чёрный лебедь, злой и соблазнительный) — исполняемых одной балериной в одном спектакле — считается высшим испытанием великой классической балерины. Она требует технического и драматического мастерства, которого достигают немногие."
+        "explanation": "Двойная роль Одетты (белый лебедь, чистый и трагический) и Одиллии (чёрный лебедь, злой и соблазнительный) — исполняемых одной балериной в одном спектакле — считается высшим испытанием великой классической балерины. Она требует технического и драматического мастерства, которого достигают немногие.",
+        "correct_index": 1
       }
     ]
   }
